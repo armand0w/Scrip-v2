@@ -9,6 +9,7 @@ import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
 
 /**
+ * Clase para el metodo WS que busca nuevos museos
  * Created by ACsatillo on 15/03/2016.
  */
 

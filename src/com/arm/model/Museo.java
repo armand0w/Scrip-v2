@@ -3,6 +3,7 @@ package com.arm.model;
 import java.math.BigDecimal;
 
 /**
+ * Clase para obtener un solo objeto
  * Created by ACsatillo on 15/03/2016.
  */
 public class Museo {

@@ -15,6 +15,9 @@ import javax.ws.rs.core.MediaType;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * Lista todos los museos en BD
+ */
 @Path("/museos")
 public class MuseosInfo {
     @GET
