@@ -1,0 +1,289 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06050",
+            "short_name" : "06050",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. Juárez, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06050\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Juárez, Centro Histórico, 06050 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5512 2593",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4352,
+            "lng" : -99.1412
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8aa7fc0ee17072277e2b7467f6c8a5dda1a3c4d6",
+      "international_phone_number" : "+52 55 5512 2593",
+      "name" : "Palacio de Bellas Artes",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1348,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112429511509568214573/photos\"\u003eVictor Manuel Urias Ramirez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFX4WXKikjk3MaDBuvuRHfaPETu0TougiSpYgJ5qQoYFRCyKaG6IAXasds4kq--_w9utHwgBAnHJmOZ2_YrK76ZZtYlQRR2354coHzVLZilhBhQoKa8irjHcE4PPo48o0EhDTVPnQKIJHPArzIR1xVzk5GhTceUKXl4GNPBYIkyQY2nq7jtPGGQ",
+            "width" : 3264
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109251288738918787766/photos\"\u003eAlejandro Balderas García\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdK4N4ZX1H2xxR-9hml28sJg_txsf-uHvDMCnH55yiZJ0gRpcTYdBStUbMvQ7bCd7XolWqlDS8QG6wcmT62_qoKi0Vq143iTTeYKj_ZxhNgWZUQnvpklbatlLoG1CFvlKEhBrTn4af9XtrIQ23wouoXThGhQqQWDqJTFxnzcx3ABuNCWOTbiRWQ",
+            "width" : 1600
+         },
+         {
+            "height" : 1569,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117751870806039155602/photos\"\u003eAgelos Zias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAojkjP8ZOsJSua15E2pQmrl6Kvp9RiAlmAZrtIQh6fyfhbvmDgdXNw0s8HoPOFkJbyFbC0y2l481FGWEU81y0DXd_uwYN0wApxqHtL577aSNAQPI45r1FFDGAWX_YHJwMEhDDCMhp7NqiQDYAAOSYg86sGhRPTLfzS_kBtQHvNPjwKLondUOMlQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114157942720888945299/photos\"\u003eJaime Pilloni\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA58tVLwGlHRr1tU-Cft24P2GHeRTl_Bn2YIyJkvqVFESRcc4GmpeWS_nfTEUvnc-sa9f8Rby4mTmQ5K-yYfKWxrKeveVX7e34t9DPnmHCIzQg8vxsQRBjKdds6YmVe_KeEhCocAHTY6rM91ac8fh0iz1MGhRHy3lUvTMm7F07J8OlJ4cfo0P1bQ",
+            "width" : 2048
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109300179660064454276/photos\"\u003eSagiv Malihi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAakXQevlOh4icvET78nHRREV7Yi7Za72-T6Cpm5ClXX8RQF5K53Qql-XxtL_gEYroJzhlR32YfA-tDaTihtcI9Ojp6wn0tqel7WkHvQyqq1_G-XAfLgbWlM6cf10kFu0oEhBOuS5orgLC1EHRwd3DR7RWGhT11L598jCpwD3HNqdhLeywFc4lbQ",
+            "width" : 5184
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108200815278326913244/photos\"\u003eLaura Merino\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5YyU9FHvqEXyQXxMHSaWJfYGUQgT2rbZNlozGPU7h9JmhXwFzY8r13AwV3RFkzZInyr_PM2z0wX6l2sIa1QU31FUyBXxImYcTO_SsGEgE6YcGcOExGdJkb0UOQ-LLdRNEhCnrKO1DYhoMD-m3WiekZ_QGhSxIG6gt0DBtRaRsL4FMUscLoJHYQ",
+            "width" : 1024
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117468508736510323311/photos\"\u003eAlexander Ble\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAA1a9EwXpdIiRkImVf1mMJmuStIiK0n0csScjrUNADKPpE84grkki9BLqrP6Y59UWq_4IjQXaRutMpp95hIOrDhp0Skfh2UsVvzfqIhpTWFFC0ptYgX6uu_kyTT2RAOTIEhBzwGDqfxViRy_CANT8L_s5GhR_J9t3lJNoKLnhofOmRuqY6LwLNw",
+            "width" : 1024
+         },
+         {
+            "height" : 976,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105172874625522419180/photos\"\u003ezezinho de jesus hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtVlYOX-93mIEA4agbojueUeDUhk48mXkaswa_zf0FTBZZk2zEefUwEYcAZvUnvBdJFgk9VLLWpTcjAQmXylM5YgBjikmcf1xJC-GgnGkHiSLKtYCcPvAXhF9hHDTdUygEhDyGZyv4mvNsG7L0j55tO9hGhTLBFtWNbxV3-5nWCO5rQBaKM-_eA",
+            "width" : 1632
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110682383114470861304/photos\"\u003eStéphane Sagon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAR4myC55N-pUwVAbTLZ2-X44yvPWvczm8iZQWjjLgt3TazE3lWpflJIEuyRioeprsWJeWWzgE8AeStxnwjyY5CwbkcZcBfGQOvCY94k0Fg6GWqlccWHBMAUuEJK7A7s-0EhAPQ_HSLbMVXqhSZ-MtLl30GhRAXdfT79fTHfOa_lTwhmiTjwafdg",
+            "width" : 1272
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116762150750134639817/photos\"\u003eIván Chirinos Montiel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzSprdfMJXZ60aZg0e38yCWDakYzvVDHuqM5gnW34YZrK6a7J3dOpImB6W6xjdDd5MYKmPz48F0PFkOl3rEQZ4w2JEHjQSNKeXuWbqySa8m9i3QhiE5wT8uNiklerhDnoEhCxvq-v9JZfVc1dm5mItkZLGhQbuJWRvbZYOg2y7UVzZPSN3BkHoQ",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJTQGqdSv50YURz-imDdIQ2Bc",
+      "rating" : 4.8,
+      "reference" : "CnRqAAAAkA4MgNtoKo56Z6KPFDgJmsERQRhvO1WLSefVzJ9srupYq0qWa92sVeOcF6n5PmUvwJ8AKYFRvB46VlOzZoVVri82xK3XUEK3qescROCMUoil2oshGFY04-K3Pg22s3rw2QyZByq1b2AJN9uiIE2O9hIQsm47pHpu3CGtfHjfmmftLxoUOZnqb_nZ60-wob-3XEsXnPXRFKE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "leonel sanchez",
+            "author_url" : "https://plus.google.com/115544014591998327216",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-8T53FsV2o8c/AAAAAAAAAAI/AAAAAAAAAx4/KGrEoxKJZHU/photo.jpg",
+            "rating" : 5,
+            "text" : "Un lugar que hace honor a su nombre, preciosas construcciones y monumentos.",
+            "time" : 1454656347
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivan Aguilar",
+            "author_url" : "https://plus.google.com/115444012951106337775",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-l2v8xWB4Bno/AAAAAAAAAAI/AAAAAAAAR9s/r65DyOlYyoU/photo.jpg",
+            "rating" : 5,
+            "text" : "Sin duda, uno de mis lugares favoritos. Su arquitectura envidiable es definitivamente única, un lugar majestuoso e icono de la CDMX que en sus entrañas tiene detalles espectaculares. \n\nEl lugar alberga grandes exposiciones, conciertos y demás eventos culturales, a precios muy accesibles.\n\nAl estar en el centro histórico, sobrarán opciones para llegar ahí. En trolebús, metro o automóvil. \n\nA sus alrededores, hay un sinfín de cosas por hacer, muchos lugares que visitar, comida para todos los bolsillos, muchos caminos por recorrer. ",
+            "time" : 1454777880
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Emma Rodriguez",
+            "author_url" : "https://plus.google.com/100032502404105717332",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Ox-iyd9RWZ4/AAAAAAAAAAI/AAAAAAAAAME/tVf83w2B7S0/photo.jpg",
+            "rating" : 1,
+            "text" : "It needs a better staff and gentler personnel, the guards are extremely grouchy and disrespectful toward young people. YOUNG PEOPLE ARE NOT YOUR STUDENTS AND YOU ARE NOT THEIR TEACHERS, these kind of sad people with frustrated/dictatorship-like ambitions are the ones who make culture unreachable for teenagers and early adults. \n\nNecesita un mejor personal, los guardias y asistentes son demasiado ''jetones'' e irrespetuosos hacia los jóvenes. La cultura no significa cara larga y apenas, contestar, entiendan eso.\nSe sienten dictadores o maestros, NO LO SON, SEÑORES, son guardias en un museo,punto. Gente como esa, afea recintos tan lindos de arte y algeria como lo deben ser las artes. \nEl palacio de Bellas artes merece algo mejor. ",
+            "time" : 1453507857
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Le Souriant",
+            "author_url" : "https://plus.google.com/106409288323630736564",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-JbK7b1Df3jU/AAAAAAAAAAI/AAAAAAAABT4/f2ARFB2BLuI/photo.jpg",
+            "rating" : 5,
+            "text" : "Visita obligada si vienes al DF.",
+            "time" : 1453321455
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pascual Gudini",
+            "author_url" : "https://plus.google.com/101298376228776634869",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/--Gc_gCrbXmA/AAAAAAAAAAI/AAAAAAAAeVo/601EnC_sxBU/photo.jpg",
+            "rating" : 4,
+            "text" : "Si vienes al df y no pasas por lo menos a verlo... Mejor no vengas ",
+            "time" : 1452561799
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1718141752200063183",
+      "user_ratings_total" : 709,
+      "utc_offset" : -360,
+      "vicinity" : "Av. Juárez, Centro Histórico, Ciudad de México",
+      "website" : "http://www.palacio.bellasartes.gob.mx/"
+   },
+   "status" : "OK"
+}

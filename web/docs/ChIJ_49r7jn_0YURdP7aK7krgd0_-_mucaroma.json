@@ -1,0 +1,206 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Roma Norte",
+            "short_name" : "Roma Nte.",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06700",
+            "short_name" : "06700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Tonalá 51, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRoma Nte.\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06700\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Tonalá 51, Cuauhtémoc, Roma Nte., 06700 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5511 8867",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4190453,
+            "lng" : -99.1630804
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "cceec4e145319c2be8ad8fb044b1abc10f7dfbfe",
+      "international_phone_number" : "+52 55 5511 8867",
+      "name" : "muca Roma",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–20:00",
+            "miércoles: 10:00–20:00",
+            "jueves: 10:00–20:00",
+            "viernes: 10:00–20:00",
+            "sábado: 10:00–20:00",
+            "domingo: 10:00–20:00"
+         ]
+      },
+      "place_id" : "ChIJ_49r7jn_0YURdP7aK7krgd0",
+      "rating" : 4.1,
+      "reference" : "CmRdAAAAHBh_RwMHCciy8zan89xHSqgLTy4-Ek9Xan0cZXt869clRh2kvCbtmQhjW7Pjd71CYssk-riFR4SNCyGyP9GdTXtHkePhkYL9ey2nFPynJpaxm37sFQwGZT8hmUZUGBfBEhCQCDvk3JZTGtjQkixBtm6tGhTUXWox0fxw1dnte7N7Lel5eQcyHw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "leidy diaz nava",
+            "author_url" : "https://plus.google.com/107829960335957405041",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-iEpbgK5cpk0/AAAAAAAAAAI/AAAAAAAAAvk/WTWTkDEzokk/photo.jpg",
+            "rating" : 5,
+            "text" : "las exposiciones que ahi se exiben son muy originales y el lugar esta muy padre, les recomiendo que lo visiten, ademas de todo es gratis!!!",
+            "time" : 1369519314
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivan Sierra",
+            "author_url" : "https://plus.google.com/117690519866018151230",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-xpkH7CKbQQU/AAAAAAAAAAI/AAAAAAAAdqo/UL95I18XLUU/photo.jpg",
+            "rating" : 5,
+            "text" : "A pesar de su tamaño es un gran lugar, las exposiciones son interesantes, creativas y experimentales, rompe con los cánones de lo tradicional y el gift shop esta bien padre.",
+            "time" : 1378583250
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iván Luna Luna",
+            "author_url" : "https://plus.google.com/100693904265584373642",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-qN3fuGsmXfM/AAAAAAAAAAI/AAAAAAAAEow/Tt1alD8rw68/photo.jpg",
+            "rating" : 4,
+            "text" : "Debería ser más grande este lugar. La Roma tiene mejor vida cultural, eso es estupendo para los que por trabajo o por gusto no la pasamos por ahí.",
+            "time" : 1379906713
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "lucho aguilar",
+            "author_url" : "https://plus.google.com/102286920290062684383",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rLDv0aRRaeY/AAAAAAAAAAI/AAAAAAAAE00/9BP659tuevA/photo.jpg",
+            "rating" : 4,
+            "text" : "Visita obligada en el df visitenlo \n",
+            "time" : 1370105001
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alberto Lopez",
+            "author_url" : "https://plus.google.com/103485957359236759995",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "buenas exhibiciones. gracias amigos.",
+            "time" : 1369519300
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15961086628682464884",
+      "user_ratings_total" : 14,
+      "utc_offset" : -360,
+      "vicinity" : "Tonalá 51, Cuauhtémoc, Roma Norte, Ciudad de México",
+      "website" : "http://www.mucaroma.unam.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,216 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Polanco",
+            "short_name" : "Polanco",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11560",
+            "short_name" : "11560",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Tres Picos #29, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePolanco\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11560\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Tres Picos #29, Miguel Hidalgo, Polanco, 11560 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5203 5888",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4288746,
+            "lng" : -99.1873729
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "22807767a19d34a4c2e25af6cbb618a621095d9b",
+      "international_phone_number" : "+52 55 5203 5888",
+      "name" : "Sala De Arte Siqueiros",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 254,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109769723418853301646/photos\"\u003eSala De Arte Siqueiros\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApquC52vnFKRU69s01y2m0rVdav8HDLeLoSAma56rZjB9TLdFwYG3QAW7djkV_JGPcV7VKNJP6xxCpuUXdbnq0J2GgGU--xOYDGzqbbc9E0RHiugs544vrOnfW_SAoi8xEhCmnB7MdOY3jbqnWkDg6-RsGhQX0IABj_p58xV2iRDuCEBXP4qRXA",
+            "width" : 400
+         }
+      ],
+      "place_id" : "ChIJj1MJHVX_0YURor06_ZVMflI",
+      "rating" : 4.3,
+      "reference" : "CnRpAAAAlYMyx2nj-0dQ1-9829L7wp4psc3dOV1mi4Zfgsx60hY8eGkIlWcuuPodFQDznjhGO1pOjkwRnlLfNLT6IqavAmDLSEY-h063Hq3zzmkgEEQp_FgalpvPdK4bBbSRA2GNojht-nzyiorZCBbShOmDuhIQP6yBrlqvSrtREVOCArgNchoUQiSTU2F52FwUHJDp1Zc-WQTvrHU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iván Luna Luna",
+            "author_url" : "https://plus.google.com/100693904265584373642",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-qN3fuGsmXfM/AAAAAAAAAAI/AAAAAAAAEow/Tt1alD8rw68/photo.jpg",
+            "rating" : 4,
+            "text" : "Pues sí, como había escuchado, el acervo documental del maestro Siqueiros tiene una grandiosa colección de la obra del artista. Imperdible si se pasea por el Sur del DF. ",
+            "time" : 1379905129
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "Sí, la verdad está increíble el lugar. ",
+            "time" : 1378495398
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ana Ximena Corral Navarro",
+            "author_url" : "https://plus.google.com/106021922325822765652",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-suxBfrbG1RU/AAAAAAAAAAI/AAAAAAAAADg/74UyPAGv1UE/photo.jpg",
+            "rating" : 4,
+            "text" : "Increíble colección de arte",
+            "time" : 1378414129
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erik Nye",
+            "author_url" : "https://plus.google.com/118313514935636243406",
+            "language" : "en",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Q4QxzOIGT9E/AAAAAAAAAAI/AAAAAAAAEYA/2l9DUjZAqxA/photo.jpg",
+            "rating" : 5,
+            "text" : "A total gem. The temporary exhibit didn't do much for me, but who cares when the murals are this compelling.",
+            "time" : 1452877888
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cheryl K",
+            "author_url" : "https://plus.google.com/109310630010525520697",
+            "language" : "en",
+            "rating" : 2,
+            "text" : "I must have missed what was so incredible about this place.  Not worth the trip.  Half a dozen security guys to protect \"art\" from one visitor.",
+            "time" : 1426448422
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5944272765257956770",
+      "user_ratings_total" : 9,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Tres Picos #29, Miguel Hidalgo, Polanco, Ciudad de México",
+      "website" : "http://www.saps-latallera.org/"
+   },
+   "status" : "OK"
+}

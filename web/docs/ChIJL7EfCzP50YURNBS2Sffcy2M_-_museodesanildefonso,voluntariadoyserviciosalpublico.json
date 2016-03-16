@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16",
+            "short_name" : "16",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Justo Sierra",
+            "short_name" : "Justo Sierra",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJusto Sierra 16\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Justo Sierra 16, Centro Histórico, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5702 2991",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4357174,
+            "lng" : -99.13095749999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6af12b641331a2041bea97c83047fd7f41a47540",
+      "international_phone_number" : "+52 55 5702 2991",
+      "name" : "Museo de San Ildefonso, Voluntariado y Servicios al Público",
+      "place_id" : "ChIJL7EfCzP50YURNBS2Sffcy2M",
+      "rating" : 4.3,
+      "reference" : "CpQBkAAAAL_52LQVS2O2JBgSBgrzAS2PWoTdQvY3aLd4j7x6_BNUY_Wb74k6pbrVj9wsfwcFhr1b6ghP3V-K3bodLSbdTQj82ha73dBR7071VEDobzpDwVITEUQME1AzO0XD2uk73KHQDwl20TEyCTZnyvWb1v0Lceu3kVQL0uj9ow5K4E8Vr1CVCsumpaCy2raWy5bnDhIQicm1A_fcoKGM9xZFcVx2rBoUrZER8lGFum9eIQPqvgLjF9J6cjY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aury Rubio",
+            "author_url" : "https://plus.google.com/108753311502584819772",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-f9O6JLVn9MQ/AAAAAAAAAAI/AAAAAAAABXs/sm83QMSRItc/photo.jpg",
+            "rating" : 5,
+            "text" : "El lugar es bonito y con mucha historia. ",
+            "time" : 1451929250
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erika Martinez",
+            "author_url" : "https://plus.google.com/109979271372277730867",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-u3h0o06tals/AAAAAAAAAAI/AAAAAAAAACQ/pXsuWoDR9go/photo.jpg",
+            "rating" : 5,
+            "text" : "Hermoso. ",
+            "time" : 1437675438
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abel Lemus Iñiguez",
+            "author_url" : "https://plus.google.com/109238785539777235243",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-PSI4yrlvDgw/AAAAAAAAAAI/AAAAAAAAAAw/t5ZdK56DT6c/photo.jpg",
+            "rating" : 5,
+            "text" : "exelente ",
+            "time" : 1422083862
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carolina Flores",
+            "author_url" : "https://plus.google.com/107655801509981632794",
+            "language" : "es",
+            "rating" : 2,
+            "text" : "Me encanto\n",
+            "time" : 1410029984
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Font",
+            "author_url" : "https://plus.google.com/102712146517146060752",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-abqso-yNq_M/AAAAAAAAAAI/AAAAAAAAAHg/SKGRdL0Dnq4/photo.jpg",
+            "rating" : 5,
+            "text" : "Darwin ",
+            "time" : 1409499334
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7191084184678831156",
+      "user_ratings_total" : 5,
+      "utc_offset" : -360,
+      "vicinity" : "Justo Sierra 16, Centro Histórico, Ciudad de México",
+      "website" : "http://www.sanildefonso.org.mx/"
+   },
+   "status" : "OK"
+}

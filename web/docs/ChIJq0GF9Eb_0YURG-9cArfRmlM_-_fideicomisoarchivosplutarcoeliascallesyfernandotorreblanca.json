@@ -1,0 +1,159 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Condesa",
+            "short_name" : "Condesa",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06140",
+            "short_name" : "06140",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle de Guadalajara No. 104, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCondesa\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06140\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle de Guadalajara No. 104, Cuauhtémoc, Condesa, 06140 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5286 8339",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.41629129999999,
+            "lng" : -99.17162159999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "162b0f508009fa630236b82117f404e55a23e05f",
+      "international_phone_number" : "+52 55 5286 8339",
+      "name" : "Fideicomiso Archivos Plutarco Elías Calles y Fernando Torreblanca",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–14:00",
+            "martes: 9:00–14:00",
+            "miércoles: 9:00–14:00",
+            "jueves: 9:00–14:00",
+            "viernes: 9:00–14:00",
+            "sábado: Cerrado",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113179928667002263586/photos\"\u003ealejandro lopez beltran\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAt9JPLLwO0ICV1DF-kOI-awqi-HobKyaeOboECb9D571ASy1QjugROK_KDNF3TS3N2j9EQHWZRTDvKk3iIOgRDuCoX1_NsiqI58M_v7xkUGbxgTWNeNDh_Z1JFyrG61VrEhD1Bohshqz7WBhWfDOjLfL0GhTJp7KYpk0wMO6TwvtZ5pvFIuCRhQ",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJq0GF9Eb_0YURG-9cArfRmlM",
+      "reference" : "CqQBlgAAAFYMGGihM7RHDLrJeSUrPcXMYUWMhUfgmCWTPTwKGgDPUXHh--iNS00BuQtcyTQXnNzoODsMUugJm1g5ErIttWTopiiiTYXqEzV8maUPamO1PzuGbOtUBFISFqDOBGAPKp-8gy_3osrBoVrHVLLP-S7BVZwoxe0TrUWTl5SJ0G5Ji7uQ_faMokY1vTxvGxSN7GN8vxJPrO5UYVMupwtPHsESEFOCkFSDJVJCn4pdLqgUHPcaFOVXRQ7piXRHh8vT9MQOLZS_09uF",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Paulina Muniz",
+            "author_url" : "https://plus.google.com/102577204456253372846",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "Esta casa es muy famosa se grabó las novelas de Televisa, Tv azteca, telemundo y Cadenatres ",
+            "time" : 1419459988
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Ruedaquijano",
+            "author_url" : "https://plus.google.com/112504045922752982498",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1454476559
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6024358035510325019",
+      "user_ratings_total" : 2,
+      "utc_offset" : -360,
+      "vicinity" : "Calle de Guadalajara No. 104, Cuauhtémoc, Condesa, Ciudad de México",
+      "website" : "http://www.fapecft.org.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,233 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06060",
+            "short_name" : "06060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "José María Pino Suárez 30, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06060\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "José María Pino Suárez 30, Centro, 06060 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5522 9936",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4292369,
+            "lng" : -99.1321387
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "222d053dedadec4e6c773e92a5a3c86fc590119a",
+      "international_phone_number" : "+52 55 5522 9936",
+      "name" : "Museo de la Ciudad de México",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113909305406448260912/photos\"\u003ealexis emmanuel castillo perez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASZJytqWRCdRb8ZiqwaQjrNMgZ8ivVtuYnAeN0thb1ehWMAiD2pqQIA9WtByOsqYvvZky8LNw8Cbov0nszuMOH7wQ_Z5ahUpAZ9kHHzKUz3IFu5eK-5Uo91XGdTEbqsEsEhC33gZhwUi92K6Bn5W-CPBqGhSbJIpG7RESgKAOwrGTR1tEjav3VA",
+            "width" : 800
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107965385432629025700/photos\"\u003ebernardo tiro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAivHcEjleyGyhdCYbIlv8vE4OP1E9Xnw7U66yRpY2q1lrtjToMp54A34VBXcsPCdjJgccTtxx9NIUZSdFyfdYYpJPTUx0X5BmUljXzL5HJkO_FcSyEcWwfM4kgAAw9k7GEhB-18GiCNJAATdOqlBUD9XnGhQoSlvIRHJmoSqR1TLHyZIC9dSOwA",
+            "width" : 1024
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113909305406448260912/photos\"\u003ealexis emmanuel castillo perez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7OTjGnnNMO0Sft7mhUrr-j6e2VcBuNkr3_Fu_OueTFGU9dOtQd9nAApUWbJpCaS3eBqQrQl-OgJ3TTTtW1V81ebsj0QbRBTLeKs2oStLdS6e2oJ3f5AWHvrh4zHrpXsrEhDj9qXUIjpk2YdExLSW6NlrGhTlcgsHpYBnsTfxQwjD3tUlY6AmDw",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJy2TvI83-0YUR3g8_H4M519E",
+      "rating" : 4.1,
+      "reference" : "CoQBcQAAANnLWexH_nfvf_7-az4dZPBYTU34nVam_t6uDzZ3-VoMuhO8edGXanRj7FxbE1pXVn5iXRZEDJQvrw8li2Y0g9ICzs4Z86pOE61CLmMhXYS9uZnV2s3_ZpEZDuL8mCTHNP8lBlayiNbP4UstknaFOZCdv-YeiIcMyhxwqGQNTYsrEhCCjGhT2CfbBnuQtjbY34j-GhTlSBd7RNxit6E4g2eJACXZfU4n3Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "valentin. marquez.710",
+            "author_url" : "https://plus.google.com/109149395768533058815",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-i9SufU7OYlE/AAAAAAAAAAI/AAAAAAAAAkw/UWDLUNxeOgg/photo.jpg",
+            "rating" : 5,
+            "text" : "muy bueno y con muchos atractivos varias temporadas al semestre\n",
+            "time" : 1456781104
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Raúl Solorio",
+            "author_url" : "https://plus.google.com/105208764938204345548",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rKekI4RH3p0/AAAAAAAAAAI/AAAAAAAAA9Y/S-almwqFcMM/photo.jpg",
+            "rating" : 5,
+            "text" : "La exposición sobre el sismo del '85 es genial. Recomendable al 100% sólo que las salas son muy calurosas. ",
+            "time" : 1444854538
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Xone quiroz rodriguez",
+            "author_url" : "https://plus.google.com/102211960085343576494",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CkPlbZzS3JQ/AAAAAAAAAAI/AAAAAAAAA3Y/xGUkIprky3c/photo.jpg",
+            "rating" : 4,
+            "text" : "Un recinto de estilo barroco del siglo XVIII, con mucha historia que contar a través de su arquitectura, recomiendo tomar la visita guiada, de la historia del  recinto, ya que las exposiciones son muy pobres (en su mayoría) y su curaduría deja mucho que desear .",
+            "time" : 1439412461
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rodolfo Medrano",
+            "author_url" : "https://plus.google.com/117565823373466429678",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-1N-fan_ygLc/AAAAAAAAAAI/AAAAAAAAAeo/ldXVZ5loY7A/photo.jpg",
+            "rating" : 2,
+            "text" : "Este museo tenia una colección de maquetas de los edificios mas importantes de la ciudad, así como un espectáculo de luz y sonido pero lo han descuidado muy mucho que lástima.\n",
+            "time" : 1450363260
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Acupuntura y Nutricion",
+            "author_url" : "https://plus.google.com/107400087818355890159",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-NYzyM7Dtz0w/AAAAAAAAAAI/AAAAAAAAABI/K5cOJKXbkbs/photo.jpg",
+            "rating" : 5,
+            "text" : "esta hermoso!!",
+            "time" : 1441816578
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15120617509247455198",
+      "user_ratings_total" : 52,
+      "utc_offset" : -360,
+      "vicinity" : "José María Pino Suárez 30, Centro, Ciudad de México",
+      "website" : "http://www.cultura.df.gob.mx/index.php/cartelera/venueevents/17-mcm"
+   },
+   "status" : "OK"
+}

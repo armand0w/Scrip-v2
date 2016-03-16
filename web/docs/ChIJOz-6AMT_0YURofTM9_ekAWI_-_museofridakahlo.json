@@ -1,0 +1,223 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Londres 247",
+            "short_name" : "Londres 247",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Del Carmen",
+            "short_name" : "Del Carmen",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Coyoacán",
+            "short_name" : "Coyoacán",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04100",
+            "short_name" : "04100",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLondres 247\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDel Carmen, Coyoacán\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04100\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Londres 247, Del Carmen, Coyoacán, 04100 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5554 5999",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.355143,
+            "lng" : -99.16252490000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "9be76081789bf311affc59d4d2872d6923db7046",
+      "international_phone_number" : "+52 55 5554 5999",
+      "name" : "Museo Frida Kahlo",
+      "photos" : [
+         {
+            "height" : 1367,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5SyZEtuNYIixaUb_qKRnKMr5D0Jvic9g4QIP6Q2qdTxJFmu6Kbajd3qaQP7Z4e2n3SEwxkPQ7ighkjWWyHMkVoGu710VBG0ao1NL2Mt9Z_vyRO10INw4JlKCp016syePEhAMzTlRZIovY0fE3NVT1LVVGhRZUAtB2-v92qrWu4qUYlGHHwlIDA",
+            "width" : 2048
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100143968922493527447/photos\"\u003eElizabeth Lara\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAaRHb3SD5gdx5qQe0miILPZMVkMaStERV5XZ0Z7BIO79-lEj5ixkbhvgIQIzgiU18B1UrabvLnpcuk0fZfP5ThZjRFC-4cW23G2d9-nINp-3bTpwAmH1eE0l1CW-8bdFxEhCcOFfmnd-nRkqZPl-ZumljGhSnVMQhSFVTYHSgBaVsBbMN5uR4tg",
+            "width" : 3264
+         },
+         {
+            "height" : 1367,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVTwJ1lSDZaWsGf0qw6wtualbeZTI_9_CtIc4V3O59U7qMpCxUDJtcxRbCDPom8mb-M_oBOkWYkdeVowU-Gx2gJz0KZkeuZN3PXedgWHpswZZodJMxD37QoUgBwdQBvwmEhAsS6BPYbE4VPpV5OzMBZAOGhStSozzizw8Dl12KJ6EYnMlkZKpDA",
+            "width" : 2048
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102570645330857682690/photos\"\u003eJavier Gibaja Esteban\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAFvwUBzcmk3HviNuhUlPD13TWtSaDWGlTm9hopZksOiLeqaONHFYF3uDyHviZXw0u0aVLoUz2DTTex9SrqxiXmsMzx4O4pE7MOBT532bScQG6G6AP6KvwLiLd2ar31Lbywmr_F-KsJ1OkeISAR6deP_Xq4Ub-wMeCzjCYUJmCh-rEhDuW0tJaYMfkxQVBZ1h3lIdGhT6En4-Gthba3QDF1OjTbAcQgeQ6Q",
+            "width" : 4160
+         },
+         {
+            "height" : 3734,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101672722458276497084/photos\"\u003eelartespa4\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArI0UnzSbfxzUgdK4YX_9zwYhlGixOfckk9BfQddytVa6zzNRawJ9YWYE8XJSUGBuZrrCOKPKHUd2uGHM3wIOTs6QdQWqW49jt-tSDxeDdxzE78IpOaPfdiXekXKEY0j0EhCj5ZNz2xNDDljMHloUK89ZGhTupz_v_Uuu2t8vxZQsKuj04KJQOQ",
+            "width" : 2490
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109078332387708890824/photos\"\u003eBryn Harrington\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACrxvW6pie5PxXjt2dtxbQFMiBMCOpZDLm3SJtUHePVMv_rnv2h-WN21mCVKrC_UA9Lwfuaj_y9WcylACIXDVSfxNPamK92O6pReZtpMh083j7DwlrLk_73ziQrUU83JBEhBIxoAZeb7V_r1-6JOapiKEGhRvo2FicHW3qU7tIBLrgP_puDVQIA",
+            "width" : 2340
+         },
+         {
+            "height" : 2555,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101672722458276497084/photos\"\u003eelartespa4\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_Impi3Xd0o8psQ3Gg6gXvcf3LqZWIsZjuZFQYr5n2TK02jYWesAwB7igFaI2F92ESDO6q2jUrH3v4bIHQL_nUQlZKpevZ6a23Erj9kl1wqTDdqtB57j_P8T7eINRFDsMEhBt-JOBWYHsIJmYcEV55FePGhRK5ghCAdBiaq02_HElYjtdX3g8ww",
+            "width" : 3832
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109300179660064454276/photos\"\u003eSagiv Malihi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAB5eONhdCsWpuct7lM027P-u-EULoquXQvG2l_ZN4dcdDNc84R3XvliwBFUQk71ceobXIeJTB3oHEGDF6n_NidmnO7S74q2j47eqfyPyt1wgPSWw_JLIu41jyRpztaL4SEhAKIp6jLthfHSmjQ1b65MqwGhQYrJvsZqlt5zNVPlYW3CWrjB0G9A",
+            "width" : 5184
+         },
+         {
+            "height" : 2233,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101672722458276497084/photos\"\u003eelartespa4\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJt0BoUNuvH6m_wXJXQwGDqOxhguYBDnAqZ1Ntd3g5kw4uBTn0A-ttAuZaKOCbg8D6dWc6rKP-U8eA3A4cSw0zOfyjZ0M3jG827v3kKTQqHyb44yluyOoofG8m1LoQVPXEhCBDTGjN81ppwr3zd5rdVTsGhSxFi0b8E394wSf8e-NFfEC_ROEpA",
+            "width" : 3350
+         },
+         {
+            "height" : 3760,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101672722458276497084/photos\"\u003eelartespa4\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbkhNTzac-PCOibnKLtiegYlqDujlGq606T8KRnx1W-YMMIC9AHpT5WQS2Nvt_-v-m2uQqYRNV3ZRnabkn_BrHMgfLhLa2eDst-qKmXpdt-kFRpKRqrkuThb7tNnUhfNxEhDm46jJzn6MP4dEWcKY65K7GhT3EQZmj6NLVYAkWILhCvTxHVHMBA",
+            "width" : 2507
+         }
+      ],
+      "place_id" : "ChIJOz-6AMT_0YURofTM9_ekAWI",
+      "rating" : 4.5,
+      "reference" : "CnRkAAAAUCxqyD1eFtbcjouG-cK35Vcxe9vXBkOzTTKJvC2haOA2S7e34U5cv7nILZXJf1s-Q5V4eWkjVoDzFJ6FF_PvzcFeReihlWRM8d3G04G6cRE9ypLci6gvqYjIEnPlOmmGwaQKoX11SuPRITRtV46arxIQg0rIr18KXVFbvO5GEKLuuxoUArizS7lnOsdPH7p7cnZpngi9LNo",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lupita Garcia",
+            "author_url" : "https://plus.google.com/115263365167807796153",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Lugar mágico de Frida!...Te trasportas a su mundo! ",
+            "time" : 1456707456
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Meza",
+            "author_url" : "https://plus.google.com/118436502254460464750",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-SPwIU6Pyvv4/AAAAAAAAAAI/AAAAAAAAZ54/yija35IrC8s/photo.jpg",
+            "rating" : 4,
+            "text" : "Un lugar lleno de cultura que ha nadie dejará insatisfecho. Ya en la zona puedes ir al parque Coyoacán a ver algún truco de magia.\n\nFalta alguna tienda de souvenires y recuerdos.\n\n-----\nA place full of culture that has no leave you unsatisfied. And in the area you can go to Coyoacán park to see some magic tricks.\n\nI dont saw a souvenir shop or souvenirs.",
+            "time" : 1455073119
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrea Garcia Ramirez",
+            "author_url" : "https://plus.google.com/117956109720519227671",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "See frida kalho y Diego rivera ,frida suarez y manny rivera miren que disidencia",
+            "time" : 1455147381
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yazmin GD",
+            "author_url" : "https://plus.google.com/114867579402337069882",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-KKYMVGaTiXA/AAAAAAAAAAI/AAAAAAAAABE/5d2tbcQC--k/photo.jpg",
+            "rating" : 5,
+            "text" : "Un museo que vale la Pena ir",
+            "time" : 1456252207
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Silvia R R",
+            "author_url" : "https://plus.google.com/116749363026633866118",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-MAT2kZHJimg/AAAAAAAAAAI/AAAAAAAABvk/2SCxr8qhavo/photo.jpg",
+            "rating" : 5,
+            "text" : "El acervo artístico que resguarda es inconmensurable",
+            "time" : 1453426299
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7062107075614930081",
+      "user_ratings_total" : 374,
+      "utc_offset" : -360,
+      "vicinity" : "Londres 247, Del Carmen, Coyoacán, Ciudad de México",
+      "website" : "http://www.museofridakahlo.org.mx/"
+   },
+   "status" : "OK"
+}

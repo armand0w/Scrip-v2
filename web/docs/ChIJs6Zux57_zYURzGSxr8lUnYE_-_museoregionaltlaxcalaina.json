@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2",
+            "short_name" : "2",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ex Convento San Francisco",
+            "short_name" : "Ex Convento San Francisco",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tlaxcala",
+            "short_name" : "Tlaxcala",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tlaxcala",
+            "short_name" : "Tlax.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "90000",
+            "short_name" : "90000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEx Convento San Francisco 2\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e90000\u003c/span\u003e \u003cspan class=\"locality\"\u003eTlaxcala\u003c/span\u003e, \u003cspan class=\"region\"\u003eTlax.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Ex Convento San Francisco 2, Centro, 90000 Tlaxcala, Tlax., México",
+      "formatted_phone_number" : "01 246 462 0262",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3150308,
+            "lng" : -99.22946929999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "894e8557deacc8184b968196f34039e79e27e850",
+      "international_phone_number" : "+52 246 462 0262",
+      "name" : "Museo Regional Tlaxcala INA",
+      "place_id" : "ChIJs6Zux57_zYURzGSxr8lUnYE",
+      "reference" : "CnRvAAAAp5iyl1b2d8iXjNP2II3epPc59hThAOP6I5KZ71CHJUSUoBOkM71odB3UmheMykWDsAzTi_2J3hLO7nS-fHiVRFmKbRXtsWxDerh-9KuFcmv5j1DzhhDTdECnUjqgRtKcCdTCWk8e4L7aaa9pTsEGmBIQZnoea66-Z96ckeLsn2stlRoU9HbgKxsfdjpQZcWKPyJLDgX_weA",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9339714427449074892",
+      "utc_offset" : -360,
+      "vicinity" : "Ex Convento San Francisco 2, Centro, Tlaxcala",
+      "website" : "http://www.inah.gob.mx/red-de-museos/227-museo-regional-de-tlaxcala"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "36",
+            "short_name" : "36",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Doctor Arce",
+            "short_name" : "Dr. Arce",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Doctores",
+            "short_name" : "Doctores",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDr. Arce 36\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDoctores\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Dr. Arce 36, Doctores, Ciudad de México, D.F., México",
+      "formatted_phone_number" : "301 3061268",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4131636,
+            "lng" : -99.14600910000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6f3928869085d95bae9899f4094a5f2ccb8b3d88",
+      "international_phone_number" : "+57 301 3061268",
+      "name" : "TN Music",
+      "place_id" : "ChIJHUvtmyD_0YURMGySKdCvPGo",
+      "reference" : "CmRbAAAAs9sWQbhfXWfvJZXGNo7bco6Hv6LnTLf1qa2GHLNymbAl0ejZooKSejEPdx9tPjSGhYu89XtCtZ3XGVM1oWpNZRkiQlZqnoIlPIMClY4byRdq4_RwHMpgNZASBaeNnks2EhAPGBr6jtFtQ78xEfn6gVpdGhS5lPrPeqImzVScL7T5ICgAl69ozQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7655186775208520752",
+      "utc_offset" : -360,
+      "vicinity" : "Doctor Arce 36, Doctores, Ciudad de México",
+      "website" : "http://www.tnmusic.co/"
+   },
+   "status" : "OK"
+}

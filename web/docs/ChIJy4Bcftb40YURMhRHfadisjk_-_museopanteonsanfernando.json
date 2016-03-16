@@ -1,0 +1,183 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Guerrero",
+            "short_name" : "Guerrero",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06300",
+            "short_name" : "06300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plaza de San Fernando 17, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGuerrero\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06300\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza de San Fernando 17, Cuauhtémoc, Guerrero, 06300 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5518 4736",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4390306,
+            "lng" : -99.14795029999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "42e0e5cfc6a1d9ae13d628dbd0f0715416d7dbad",
+      "international_phone_number" : "+52 55 5518 4736",
+      "name" : "Museo Panteon San Fernando",
+      "photos" : [
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102327131515101955364/photos\"\u003eLiz Albarrán\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALw6jqhorGxUqAjCWygEid0mZ-1JErg8hvm2JYRy6R881qM-XMu4g-YDz6E2TwyjU3gS3PoRXPT6Ilj55y6_A9R3XbxusC2LHVDhnmI40axb89JyxkrQIdu6u0-1FXWJVEhDxBQaYVryiDz_WSkQw1KkNGhQr5bidV9UzZZ57i7DbIO5JIJG40Q",
+            "width" : 2560
+         },
+         {
+            "height" : 1344,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117474799049725032822/photos\"\u003eUnholy Necromancer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJlQDPsdclnSybAnb5a6G6tbfdSfJA4PRMuY-mHLddZCRz4A87w8OXhUVyTygT_Q52BGZFEnkiIOhydxmztvQ7hjAMXD4jA_3cJ70Y0cpIi_ypA6gj2sjbxFatPYZnxYrEhCJHichVHDe0kriQRMmT3BIGhSTUZ-KqYg3eCsb37inCnbVJLvDEA",
+            "width" : 760
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102327131515101955364/photos\"\u003eLiz Albarrán\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHF_G7Rzs03SZSF6uu723FLsI-NXivinovTPeaRzXHONlEeC5fSY3M2oEGX9NkfiV0BHSRLKbzVV_heX0lJkh0nWIfHIorBJWQOpI7hpozcRmdfZlz4ONiXeaBqwXMMjCEhD3BKDOSaFWulqBKnAx3G9yGhTkitDqTgYXxNxi90XGQIx8S6Ys6A",
+            "width" : 1920
+         },
+         {
+            "height" : 461,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105110344410432273671/photos\"\u003eAbraham Jacob Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALQXlDqsRbbZS0JFDyMs0vLiYsBES2FDrvx_55o3i3ri_I-Dg4ZraYvuMvXNHcymsC7kk9vWd8acGUUeSnUITDLtMVmBNiLwJmGlZvNxDnzwrl2RF45Ldn008gnNCPDtUEhCO4dsOcD60bZGuy0ScZyfQGhRUSiwtvj0-qajavNtT6j07YjUeBA",
+            "width" : 2048
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111180738890671078779/photos\"\u003eDavid Arellano Gault\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAfxW1LFLjkURL7J7cOnw8SiI360r0OIp2EyvGb1TWVbEZmqfQQCIBXkvxJnU87AZD5b0P_ZSnxAnWnfR5fyG6gOC4JWgrnDTPeDDOMr_kqSbXRFzpJbXKGJk6knOarYbaEhCa3ISEjEdG1lxkgAHm-g0oGhTsDLo5sSJhjvdAXoIBJpqJtBWEPQ",
+            "width" : 949
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111180738890671078779/photos\"\u003eDavid Arellano Gault\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPjDzfWy3xKGCnSpK8kFTi0kSvA0K3HeHPTP6ia-q47P8pPDZepY6xCvEN2QiDIazY8O_O9MsGXbXTJ2nLSDIrhKuEh8mJZvW5tbPT2WQ2woCZCyIqqEfVZIdTrf9IGBwEhDFHdAJzv4NFwMCck8AJP0LGhSBpEyKbEYopmOB0OOp66Fng9vQ8A",
+            "width" : 949
+         }
+      ],
+      "place_id" : "ChIJy4Bcftb40YURMhRHfadisjk",
+      "rating" : 4.3,
+      "reference" : "CnRtAAAA2BEwXOl7sHt4eayNGHU_ta_3PD5LUhAWRIOMC_ErkIyQtxIfpO5ELHvO_gewGN-cLJ9f7dLPreYOnN_RXN2n9-qMpCOmoB0rY7OTyc5MBI6XxRHiDJMSNGJ0eQsGQTAFDinhqLvEksRN4mM2shd50hIQMxMzME8j2E_i_MGER07_4RoUwUl-iNOEfaY6NHssDAGiX6a-C-U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Daniel Rodas Grapaín",
+            "author_url" : "https://plus.google.com/105785649683526778976",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/--9zzQDxFDF4/AAAAAAAAAAI/AAAAAAABCIY/WIi94JIprxA/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente,  vi una representación monóloga de uno de los ahí sepultados,  muy buena... Lo recomiendo ampliamente ",
+            "time" : 1446525638
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Xone quiroz rodriguez",
+            "author_url" : "https://plus.google.com/102211960085343576494",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CkPlbZzS3JQ/AAAAAAAAAAI/AAAAAAAAA3Y/xGUkIprky3c/photo.jpg",
+            "rating" : 3,
+            "text" : "El Museo Panteón San Fernando, ubicado en una zona de la ciudad un tanto descuidada por el gobiernos, se encuentra este famoso panteón con restos de gente muy importante dentro de la historia de México, uno de ellos Benito Juárez. \n\nUn museo de acceso gratuito de martes a domingo y que cuenta con el servicio de visitas guiadas sin costo. La noche de museo de lleva acabo una visita guiada caracterizada que es sumamente interesante.",
+            "time" : 1440387587
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "abigail garcia narez",
+            "author_url" : "https://plus.google.com/101025441611984636700",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-xfkRJiDayaQ/AAAAAAAAAAI/AAAAAAAAAB8/2OiR5SFkmTw/photo.jpg",
+            "rating" : 3,
+            "text" : "Maravilloso y emblematico lugar varios personajes importantes en la historia del pais se encuentran aqui, ademas organizan varios eventos , lo que no me gusta es que se encuentra fuera de la estacion hidalgo del metro y hay muchos borrachos que me da miedo.",
+            "time" : 1379747021
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Arellano Gault",
+            "author_url" : "https://plus.google.com/111180738890671078779",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-6HJKEeyHW2g/AAAAAAAAAAI/AAAAAAAAAFE/Ow7TarqN6tU/photo.jpg",
+            "rating" : 3,
+            "text" : "Un excelente panteón con las tumbas de Benito Juárez y Zaragoza. Está muy descuidado sin embargo, nada de mantenimiento, poca información. Afuera el olor es terrible. Es un museo mantenido por el GDF, se ve que no le interesa mucho definitivamente. ",
+            "time" : 1388702769
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ana Ximena Corral Navarro",
+            "author_url" : "https://plus.google.com/106021922325822765652",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-suxBfrbG1RU/AAAAAAAAAAI/AAAAAAAAADg/74UyPAGv1UE/photo.jpg",
+            "rating" : 4,
+            "text" : "Recomendadosobre todo si vas con un guía para que vaya narrando historias de los diferentes personajes enterrados.\nFuí de noche y fue una muy buena experiencia",
+            "time" : 1378395640
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4157493877517259826",
+      "user_ratings_total" : 27,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza de San Fernando 17, Cuauhtémoc, Guerrero, Ciudad de México",
+      "website" : "http://www.cultura.df.gob.mx/"
+   },
+   "status" : "OK"
+}

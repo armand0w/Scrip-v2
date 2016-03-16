@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/lib/json-path-0.9.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/json-smart-1.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/slf4j-nop-1.7.16.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/validation-api-1.1.0.Final.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/controller/DirecControl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/controller/IController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/model/Location.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/model/Museum.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/model/Picture.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/model/Reference.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/util/HSession.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/util/Utilities.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/util/WSConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/arm/webservice/MuseosCDMX.java" charset="UTF-8" />
+  </component>
+</project>

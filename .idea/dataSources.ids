@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - museums@localhost" uuid="e1eae976-2bae-4e0a-9792-723f688d561a">
+    <database-info product="MySQL" version="5.6.17" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="museums"/>
+    <table name="location" schema="" catalog="museums" type="TABLE">
+      <column name="Ubn_Mus_Place_Id" sqlType="VARCHAR" precision="40" scale="0" nullable="false" jdbcType="12" remarks="SWQgbXVzZXVt"/>
+      <column name="Ubn_Lat" sqlType="DECIMAL" precision="11" scale="7" nullable="false" jdbcType="3" remarks="TGF0aXR1ZA=="/>
+      <column name="Ubn_Lng" sqlType="DECIMAL" precision="11" scale="7" nullable="false" jdbcType="3" remarks="TG9uZ2l0dWQ="/>
+      <column name="Ubn_Street" sqlType="TEXT" precision="65535" scale="0" nullable="false" jdbcType="-1"/>
+      <column name="Ubn_Colonia" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Ubn_Delegacion" sqlType="VARCHAR" precision="70" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Ubn_ciudad" sqlType="VARCHAR" precision="120" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Ubn_Estado" sqlType="VARCHAR" precision="120" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Ubn_Pais" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12"/>
+      <column name="Ubn_Vicinity" sqlType="VARCHAR" precision="500" scale="0" nullable="false" jdbcType="12" remarks="TXVzZXVtIFZpY2luaXR5"/>
+      <column name="Ubn_Postal_Code" sqlType="VARCHAR" precision="15" scale="0" nullable="false" jdbcType="12" remarks="TXVzZXVtIFBvc3RhbCBDb2Rl"/>
+      <column name="Ubn_Adress" sqlType="VARCHAR" precision="500" scale="0" nullable="false" jdbcType="12" remarks="TXVzZXVtIEFkcmVzcw=="/>
+      <column name="Ubn_Maps_Url" sqlType="VARCHAR" precision="300" scale="0" nullable="false" jdbcType="12" remarks="TXVzZXVtIFZpY2luaXR5"/>
+      <foreign-key name="location_ibfk_1" columns="Ubn_Mus_Place_Id" ref-table="museum" ref-schema="" ref-catalog="museums" ref-columns="Mus_Place_Id" update-rule="3" delete-rule="0" deferrability="2"/>
+    </table>
+    <table name="museum" schema="" catalog="museums" type="TABLE">
+      <column name="Mus_Id" sqlType="VARCHAR" precision="50" scale="0" nullable="false" jdbcType="12" remarks="aWQgZ29vZ2xlIGFwaQ=="/>
+      <column name="Mus_Place_Id" sqlType="VARCHAR" precision="40" scale="0" nullable="false" jdbcType="12" remarks="cGxhY2UgaWQgZ29vZ2xlIGFwaQ=="/>
+      <column name="Mus_Name" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12" remarks="bmFtZQ=="/>
+      <column name="Mus_Rating" sqlType="VARCHAR" precision="5" scale="0" nullable="true" jdbcType="12" remarks="cmF0aW5n"/>
+      <column name="Mus_Scope" sqlType="VARCHAR" precision="30" scale="0" nullable="true" jdbcType="12" remarks="c2NvcGUgZ29vZ2xlIGFwaQ=="/>
+      <column name="Mus_Phone_Number" sqlType="VARCHAR" precision="20" scale="0" nullable="true" jdbcType="12" remarks="cGhvbmUgbnVtYmVy"/>
+      <column name="Mus_Icon" sqlType="VARCHAR" precision="100" scale="0" nullable="true" jdbcType="12" remarks="aWNvbiBnb29nbGUgYXBp"/>
+      <column name="Mus_Weekday_Text" sqlType="VARCHAR" precision="400" scale="0" nullable="true" jdbcType="12" remarks="d2Vla2RheSB0ZXh0IGdvb2dsZSBhcGk="/>
+      <column name="Mus_Website" sqlType="VARCHAR" precision="300" scale="0" nullable="true" jdbcType="12" remarks="dXJs"/>
+      <primary-key name="PRIMARY" columns="Mus_Place_Id"/>
+      <exported-key name="location_ibfk_1" table="location" schema="" catalog="museums" columns="Ubn_Mus_Place_Id"/>
+      <exported-key name="picture_ibfk_1" table="picture" schema="" catalog="museums" columns="Pic_Mus_Place_Id"/>
+      <exported-key name="reference_ibfk_1" table="reference" schema="" catalog="museums" columns="Rfn_Mus_Place_Id"/>
+    </table>
+    <table name="picture" schema="" catalog="museums" type="TABLE">
+      <column name="Pic_Mus_Place_Id" sqlType="VARCHAR" precision="40" scale="0" nullable="false" jdbcType="12" remarks="SWQgbXVzZXVt"/>
+      <column name="Pic_Url" sqlType="VARCHAR" precision="300" scale="0" nullable="false" jdbcType="12" remarks="dXJs"/>
+      <column name="Pic_Reference" sqlType="VARCHAR" precision="200" scale="0" nullable="false" jdbcType="12" remarks="cmVmZXJlbmNpYSBkZSBsYSBmb3Rv"/>
+      <primary-key name="PRIMARY" columns="Pic_Mus_Place_Id"/>
+      <foreign-key name="picture_ibfk_1" columns="Pic_Mus_Place_Id" ref-table="museum" ref-schema="" ref-catalog="museums" ref-columns="Mus_Place_Id" update-rule="3" delete-rule="0" deferrability="2"/>
+    </table>
+    <table name="reference" schema="" catalog="museums" type="TABLE">
+      <column name="Rfn_Mus_Place_Id" sqlType="VARCHAR" precision="40" scale="0" nullable="false" jdbcType="12" remarks="SWQgbXVzZXVt"/>
+      <column name="Rfn_Name" sqlType="TEXT" precision="65535" scale="0" nullable="false" jdbcType="-1" remarks="UmVmZXJlbmNlIE5hbWU="/>
+      <column name="Rfn_Description" sqlType="TEXT" precision="65535" scale="0" nullable="true" jdbcType="-1" remarks="UmVmZXJlbmNlIERlc2NyaXB0aW9u"/>
+      <foreign-key name="reference_ibfk_1" columns="Rfn_Mus_Place_Id" ref-table="museum" ref-schema="" ref-catalog="museums" ref-columns="Mus_Place_Id" update-rule="3" delete-rule="0" deferrability="2"/>
+    </table>
+  </data-source>
+</component>

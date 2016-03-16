@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "6010",
+            "short_name" : "6010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Moneda Nº 13, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e6010\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Moneda Nº 13, Cuauhtémoc, Centro Histórico, 6010 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5542 0484",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4324673,
+            "lng" : -99.13112769999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8eaac8bf3710f9be5fd38d064e4e4572ad1f5943",
+      "international_phone_number" : "+52 55 5542 0484",
+      "name" : "Museo Nacional de las Culturas",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100819643558413920107/photos\"\u003eJosselyn Galilea Hernández Pacheco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqLTj4n9i91iXEvuGn41KqLZmJbtBzVcFYwaoH9UFGrEesXssu3H-EcSunf_KDMtu5qrGk-_E-3zicB24mNIHkte_jiHJb3e3Ly5AYPwscPEhfUpfXPYoiF0-8py5A1VHEhCU3ysBGBooniSjXepxW81iGhT3HTEAI3JGUpMcjxr9hq0bWCcNFw",
+            "width" : 2560
+         },
+         {
+            "height" : 1658,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107134110309513426209/photos\"\u003eAlma Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwgkV7RsAaM7yar1NCyRs1-AUPM60fFmQH-WLKB-BVQlO22Iy_hdpqzlbct-xst-jqsXqS9SwxomxFZAGcQvVB6926BI-QQNdNVUcoAUYdLwwKnFdz3qsVMGLCw-7TYcLEhClGtagPANnOegBfcD4uK7VGhSp2fjqem_TbC2jFF9HK6kPMS7SWQ",
+            "width" : 2324
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101915557582795690441/photos\"\u003eJaime Olivarez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAcD9K-OQrYWjQa3YoqCvsZEBCrSXSlnayI5UIV23JemKY6MncAAYVoWkVBOMbYsh6_Vkrwtww41PcgzkpV8zJxrUWS25Fa00ubW3LBr982pANSv49zDcbTshGUypvFCfqEhDj5n6qRPAfgv4kam1cmi2AGhTMENd2ldcz0Ae5k3aP3CYvXNewXw",
+            "width" : 1920
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107134110309513426209/photos\"\u003eAlma Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAWdE_4JyNPLvwV0KBqMLQAofMrinM-JxCpsmvRR62K-sPNHfRzQDQ2ZfgzOOvIjsifvMR_m4oErs3EYrVOv-ZhdHNKIvyIVrjAiFQ9j9niiCL-WpxdtrrEDVaV6cJ1XgqEhDDs2PsNE3bKNN9ZfABW6m8GhTPrgsS0SBPW8Ua3B2Z-xEYl_bTdQ",
+            "width" : 640
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100819643558413920107/photos\"\u003eJosselyn Galilea Hernández Pacheco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwus7-sqmhSo4G9ilL1-Go7MyyphK-mpJfONOddgTAMSe09vdc4IaEc1Q1dgFizmv3KwUsoy8AGxbIi1-OpyEgQ8W5u4WJYOfoRStkW08R92WqutjOwkpz15NGM8GRdqEEhAarieN5doa2AWvF_yNyGnHGhSE2j_vZJ3-TFwkaAUYIB-7t4TKog",
+            "width" : 2560
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113229736647738740738/photos\"\u003eRocio Quispe\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAgUNA8ZBfPiHlh1j4d52pP5ApmN7sgfj1lEXMUhTmDouwOcb-6A6CJePaBM0-TJPF65IVsJqAJf91WYatytCJsfftbywVyQPEMLdiXFx2wYe3K3G6d-KTu9KBYlVLDpAXEhAOTjar7pO_m58TI-ff3NGrGhSn6Eqj1YZ7haaaspXva7ZL4I7y5g",
+            "width" : 2448
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAomVmq1RUs5fxwepk0wd2fTo0J0u_zaJ9ySOa8G7ntWEgLTaTEWB0k29W18BqzN2RyyCUiS9YkM1Ld40w7HfsHR_HlLYdYC8KWX3I8GsTmhC_QUV4mYWjpX-CCFRHy5DSEhCjHHAiTvTMO8QNHP4eJ7RLGhT1rjC2OoK3RpiQ9Ke1qlhBqRouVg",
+            "width" : 450
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100819643558413920107/photos\"\u003eJosselyn Galilea Hernández Pacheco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdjxzxtSM8PEzJDtj53AG92HGz3xECZ7KFTIFRX8YTIEW94JJx3iTqwX7CoEFUkC2kjTlUEZ-VN4N_SXQUT_J2YlhzZiXVhE45oi9PAVe9RzjNEVqwwR0_Q4XrvLodRxOEhC-a1MHC6Ho7SM8RtoxQsKwGhTWdEeJC7IUfh73nOo_2WCuVQMShA",
+            "width" : 1920
+         },
+         {
+            "height" : 350,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0npnj6fHtd6TFgSs1MC4IsVX2S1hNA_z5prcnM7flYCmR00FPXZp1l12L7Srm5BgkBRa1orK9eAAX7V_NHWabiHurQq6Z5it2EMqFZUF9MRpscSpqMeHAbLre6eOq78KEhD_qB2KiM0lWK3QRgsdS3LPGhT06B0lD1UQwnzk0VmFRZSS8h-Kjg",
+            "width" : 466
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100819643558413920107/photos\"\u003eJosselyn Galilea Hernández Pacheco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAib8y-SvLfbidEk0WwuiyXTF9lmV2OjCfULZKqTFRkcj-8y2H6xD1xDr4BV2JqLKV9uM8z7uHYMN48iiaDnv0EgeF0pbO4-YHDzvuC6vP-vDjFguy2HldErpgxK5kAtYuEhDIEE1xu5bRKFt2QARhNK3bGhSzq9H0rcZynvYv3JYbWm0axSzNbw",
+            "width" : 1920
+         }
+      ],
+      "place_id" : "ChIJSXaFysz-0YUR_TmRjmzfMN0",
+      "rating" : 4.5,
+      "reference" : "CoQBcgAAAGvDPW7iMqWmwKBZ8j5vNlNpVMYURuv6cHeZa4d4uaPZrBkrZkmfo1wwrya9VqvzBzeyLLGEvCXH_8aK56BPpvOtcapf8bCXQjjmG8ApGisx5BabAciNuoaoBHz6lVU3ZQ4ktIAgPyV154zfVrTHnEYzFDLxHGXJVhCiGVnN3-baEhD5ZU79_-ix-rtPLOtqvMgzGhSZHbECzo9hwDoAfBZ2fdMh0m_DuA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Esther Cirio Ramirez",
+            "author_url" : "https://plus.google.com/107803646055267437843",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-yCKAiA1DAWg/AAAAAAAAAAI/AAAAAAAAA9M/QMThQnYccys/photo.jpg",
+            "rating" : 5,
+            "text" : "Se ve muy bien ..",
+            "time" : 1444447433
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bere Salazar",
+            "author_url" : "https://plus.google.com/104679294981077227826",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "es fobulaso me en cando y lo conosi por un trabago de la secu?",
+            "time" : 1423279814
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Time Out México",
+            "author_url" : "https://plus.google.com/114677661662679992732",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-hLNqyTF3KuU/AAAAAAAAAAI/AAAAAAAAcYY/2vew6GLkYuU/photo.jpg",
+            "rating" : 3,
+            "text" : "El museo contiene obras de países como Perú, Panamá, Canadá, China y Tailandia, entre otros, por lo que representa un collage visual que difícilmente podría apreciarse en un mismo recinto.\n\nEn el muro derecho del lobby del edificio colonial se aprecia el mural La revolución, de Rufino Tamayo. Entre música, esculturas, objetos de la vida cotidiana y atuendos hay suficientes historias para que satisfagas tu curiosidad durante horas.\n\n",
+            "time" : 1409761714
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Emiliano Vidal Granados",
+            "author_url" : "https://plus.google.com/112456897418484106932",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/--yl9HGE3VaU/AAAAAAAAAAI/AAAAAAAADl0/RAjq8lYBLPo/photo.jpg",
+            "rating" : 5,
+            "text" : "Es muy bonito",
+            "time" : 1446862648
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Enrique Dominguez Gonzalez",
+            "author_url" : "https://plus.google.com/107928532522876760914",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-jZ28d8kJ_jc/AAAAAAAAAAI/AAAAAAAAAWg/30aoUgDTAUA/photo.jpg",
+            "rating" : 5,
+            "text" : "Esta muy bonito y muy interesante me gusto mucho esta muuuuy grande lo bueno es que no cobran los domingos y dejan tomar fotos ami me sirvio mucho ir a conocerlo",
+            "time" : 1398287265
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15938484738605529597",
+      "user_ratings_total" : 52,
+      "utc_offset" : -360,
+      "vicinity" : "Moneda Nº 13, Cuauhtémoc, Centro Histórico, Ciudad de México",
+      "website" : "http://www.museodelasculturas.mx/"
+   },
+   "status" : "OK"
+}

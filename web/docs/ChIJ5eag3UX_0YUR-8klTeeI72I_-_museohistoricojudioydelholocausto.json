@@ -1,0 +1,223 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Condesa",
+            "short_name" : "Condesa",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06140",
+            "short_name" : "06140",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Acapulco 70, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCondesa\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06140\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Acapulco 70, Cuauhtémoc, Condesa, 06140 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5211 6908",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4174456,
+            "lng" : -99.1732832
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6792ff9a582ac9c55f2056aa23bfca233e91754b",
+      "international_phone_number" : "+52 55 5211 6908",
+      "name" : "Museo Histórico Judío y del Holocausto",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1315"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1715"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1715"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1715"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1715"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1315"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–17:15",
+            "martes: 10:00–17:15",
+            "miércoles: 10:00–17:15",
+            "jueves: 10:00–17:15",
+            "viernes: 10:00–13:15",
+            "sábado: Cerrado",
+            "domingo: 10:00–13:15"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2880,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115745273533424612260/photos\"\u003eAldo Ruiz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3m0ycp-8UlaH8KfqkoLfEiBNuu9alz1Cqof_1sLBUvw9RAoTqb_mvIaIstjTXmz6yU-beWWTsBc_99GuPFYEweeOJOvSzBDZ7_zwtIZ1F5KUKAbP0p-wUlvqkwe9oy6zEhB0FkVMRAjLIC49oDbDUUhyGhSzAFVBUBMWZ1oDK3flVNBGAzFXlQ",
+            "width" : 1728
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105424488956265985248/photos\"\u003eMuseo Histórico Judío y del Holocausto\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7g58Vj5Z30eGSQwlQD4MKO3VxIEmPrvEdwMUwF2KSeaVuDn8LyAYbXgBfkwHrsM9S78oM1W54ESoG5g4ETcv5CLczoGokVy1DvW992LEg9_w-bAl7M6enX3iof3Wc0sFEhARPapd49NaxYq4Qz1igRO-GhSrtl4p_OogyUgriVhZK19QrDstvg",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJ5eag3UX_0YUR-8klTeeI72I",
+      "rating" : 3.2,
+      "reference" : "CoQBewAAADGjM6ZDEp-uPaxk0zdLMINPxSs1V9CDGPuCwUYokLtcUATtHKRufL22rDKlytNJW69VBbH5K4v5vSCYX_1X-GTBsHBCtmE4CUe17DoC5su5n2hbJW-g1lcPQNjKX3FHOYXK2n7yn450Tvi1unHT0RngIQ55IXfu2AVJDVcP3qNREhAgtjfYPDKqQ7IcbELPoh5GGhSe_kyTEOpT8kSxCq2HtXIf7SszFA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "lee hyun hee",
+            "author_url" : "https://plus.google.com/102296314091661978759",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Nj2bqtju6lo/AAAAAAAAAAI/AAAAAAAAAB4/WsZdjBgteL4/photo.jpg",
+            "rating" : 1,
+            "text" : "experiencia horrible... son muy mamones con respecto a la identificacion que presentas... piden que dejes tus pertenencias y mientras estas visitando el piso de museo (porque solo es un piso) revizan tus pertenencias y se roban las cosas... tomaron dinero de mi mochila y bueno... menos importante dulces( no peleo por ellos, peleo con la accion de robar), cuando mi novia y yo pudimos entrar nos apresuraron escudandose en que ya era hora de cerrar (cabe mencionar que faltaba una hora y 10 minutos para \"cerrar\", el museo no tiene ningun letrero y es facil perderse, dentro del museo bese a mi novia y un tipo llego y nos dijo que respetaramos \"que estabamos en un museo\" (somos una pareja de lesbianas ... que fue lo que paso... ¿discriminacion?... puede ser, salimos del lugar y hay una antesala donde hay pinturas, las estabamos viendo y como ya no \"habia personal\" un tipo muy grosero nos hablo por la bocina y dijo que ya nos salieramos.... cuando salimos de ahi fuimos a comer... revize mis pertenencias y descubri que me faltaba dinero y bueno los dulces.... no se los recomiendo ademas de que faltan muchas cosas... la informacion esta incompleta",
+            "time" : 1439596771
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "jordan aureoles loredo",
+            "author_url" : "https://plus.google.com/112520750034009451236",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-No5gTVURaAA/AAAAAAAAAAI/AAAAAAAAABk/KQmdyC7kHM4/photo.jpg",
+            "rating" : 5,
+            "text" : "Vale la pena. Conoces la historia judia desde la segunda guerra mundial y su historia en mexico ",
+            "time" : 1447792364
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erik Sandoval 2",
+            "author_url" : "https://plus.google.com/111353960486629730827",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "Un museo muy malo una experiencia horrible lleve a mi hijo y como no llevaba identificacion no lo dejaron entrar y lo dejaron ahi afuera de la calle y yo los pregunte que porque no lo pueden dejar entrar es solo un niño y me respondieron de manera grosera y nisiquiera te dejan tomar una foto afuera del museo. El peor museo del mundo",
+            "time" : 1434822452
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maria Miranda",
+            "author_url" : "https://plus.google.com/100184325892725832428",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-Fn41iCAMLZg/AAAAAAAAAAI/AAAAAAAAI1Y/fd3UsmN4Oxk/photo.jpg",
+            "rating" : 1,
+            "text" : "Definitivamente yo no lo recomiendo tuve una experiencia muy mala porq el policia de la entrada y la gente de seguridad son prepotentes y muy despotas desde q llega uno l dicen esperece a q vengan x usted y se tardan mucho y ya cuando entras t piden identificacion si no no entras yo lleve a mi hijo de secundaria y ni siquiera en la acera ya en la calle me dejaron tomar una foto y se dirigen a uno groseros prepotentes y despotas ",
+            "time" : 1432862410
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cheryl K",
+            "author_url" : "https://plus.google.com/109310630010525520697",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "Es la verdad lo que dicen sobre los judios de DF - es una gente cerrada y privada.  Tan cerrada que no hay contacto para quejar de la manera en cual el \"hombre\" a la recepcion me trato cuando intente de visitar.  Primero, me gritaba, entonces pido la identificacion y despues me ordeno esperar afuera.  Pero no me informo para que estaba esperando.  Despues de demasiado minutos, demande mi pasaporte devuelto y me fui.  ",
+            "time" : 1425849317
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7129067262163929595",
+      "user_ratings_total" : 25,
+      "utc_offset" : -360,
+      "vicinity" : "Acapulco 70, Cuauhtémoc, Condesa, Ciudad de México",
+      "website" : "http://www.museojudiomexico.com.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,255 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Col. Tlalpan Centro",
+            "short_name" : "Col. Tlalpan Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "14000",
+            "short_name" : "14000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Congreso 22, \u003cspan class=\"street-address\"\u003eDelegación Tlalpan\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCol. Tlalpan Centro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e14000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Congreso 22, Delegación Tlalpan, Col. Tlalpan Centro, 14000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5513 3310",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.2858658,
+            "lng" : -99.16744989999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3c74ee17dac01db97b3cdc39d2e9eeb274dbae0d",
+      "international_phone_number" : "+52 55 5513 3310",
+      "name" : "Museo del Tiempo",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1600"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–14:00, 16:00–20:00",
+            "martes: 10:00–14:00, 16:00–20:00",
+            "miércoles: 10:00–14:00, 16:00–20:00",
+            "jueves: 10:00–14:00, 16:00–20:00",
+            "viernes: 10:00–14:00, 16:00–20:00",
+            "sábado: 10:00–14:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "place_id" : "ChIJ6SVzyvQAzoUR5ZgcjlTdWtA",
+      "rating" : 4.4,
+      "reference" : "CnRkAAAA80iatK-X9WDfvxFkngkUEkChDFg8kKd46Ul-PEQ2ayg2mLXkPgpTG4pu4tsI_48LOh0otY8lU_Ft51ofxIYLZjK363RpM7HW0FkyR_jMZhAFBRp19T_PmP6ia6e61We6g8twXAVNBaskdJG8K_JFgxIQO840AExScP-ueB2yNv8SphoU27Bb6HNO7tteAMuJvvaA0Mee-b0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Leslie Aceves",
+            "author_url" : "https://plus.google.com/114432408768131638650",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-AWH77yT5JJo/AAAAAAAAAAI/AAAAAAAAADc/6z8WJHXZCwA/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente experiencia, no se la pueden perder. el museo cuenta con la mejor colección de piezas antiguas en México y todo funciona desde un reloj de S. XVIII, fonografos... la visita es guiada con previa cita, es interactiva, viendo las piezas y escuchando los aparatos sonoros te hace viajar en el tiempo a vivir lo que hemos leído o visto en películas, se hace una concientización de la memoria histórica.\nNo pueden dejar de visitarlo y apoyar el proyecto para la construcción del museo.",
+            "time" : 1436982941
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Arturo Moreno",
+            "author_url" : "https://plus.google.com/110104888048870042322",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "fabuloso",
+            "time" : 1426283771
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "juan grillermo rivera arenas",
+            "author_url" : "https://plus.google.com/111556298990599299582",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-A7L6w3u510A/AAAAAAAAAAI/AAAAAAAABBE/Qr_b1sm9bbQ/photo.jpg",
+            "rating" : 4,
+            "text" : "Buena conocí al dueño y al relojero principal como cuarenta mil relojes de todos los tiempos fonógrafos del siglo pasado discos de pasta para los fonógrafos valió la pena la visita gracias",
+            "time" : 1399940054
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "francisco adame",
+            "author_url" : "https://plus.google.com/117620323628491723907",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-OC9RfxL5Tuo/AAAAAAAAAAI/AAAAAAAAAA4/KDG3bRI9E0o/photo.jpg",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1454371297
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "JoseManuel Ortiz",
+            "author_url" : "https://plus.google.com/114099789287496749574",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1449993646
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15013555663024199909",
+      "user_ratings_total" : 7,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Congreso 22, Delegación Tlalpan, Col. Tlalpan Centro, Ciudad de México",
+      "website" : "http://museodeltiempo.com.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "568",
+            "short_name" : "568",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Calzada de Tlalpan",
+            "short_name" : "Calz. de Tlalpan",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Moderna",
+            "short_name" : "Moderna",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Benito Juárez",
+            "short_name" : "Benito Juárez",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "03510",
+            "short_name" : "03510",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCalz. de Tlalpan 568\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eModerna\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e03510\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calz. de Tlalpan 568, Moderna, 03510 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 3601 1000",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.39770339999999,
+            "lng" : -99.13718230000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id" : "ae39d13b1794009f37891817b8f8e9eee6ffc23f",
+      "international_phone_number" : "+52 55 3601 1000",
+      "name" : "CIDEP Centro de Investigación y Difusión de Educación Preescolar",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–16:00",
+            "martes: 9:00–16:00",
+            "miércoles: 9:00–16:00",
+            "jueves: 9:00–16:00",
+            "viernes: 9:00–16:00",
+            "sábado: Cerrado",
+            "domingo: Cerrado"
+         ]
+      },
+      "place_id" : "ChIJez0I1fr-0YURSCpwVtiTSGE",
+      "reference" : "CqQBlwAAADaZp4mE-Cpru7BWzX7ylI82AsCFM73T554caxgsXKy3h5wMWi1scFXqM6avHV-k23zIEZX7Z_OIX0h3mv1FkQlQ1PLscqsrzX2m2s91HWSHuEZ0mgSH3D26skxlFwXl4zaXPTT8Cg0OMb43Wka6XSy1d3-bTp2msnz14rub22ocRBTZA0Cwd24sfY_jLuc29GtFLlrs6MKvz2UvcNyYYxoSEMVxSxeGdug7_Dn98B-VAiIaFG3O5do-CySW6PbHMhJKIcnrrmbE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "SARAI ALFARO",
+            "author_url" : "https://plus.google.com/107900778232828789067",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-8nuzKM8j7-0/AAAAAAAAAAI/AAAAAAAAAHE/3oQS0dKS55E/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un centro de investigación de gran calidad para la investigación y la formación docente ",
+            "time" : 1440037280
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "school", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7010015377374587464",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Calzada de Tlalpan 568, Moderna, Ciudad de México",
+      "website" : "http://sep.gob.mx"
+   },
+   "status" : "OK"
+}

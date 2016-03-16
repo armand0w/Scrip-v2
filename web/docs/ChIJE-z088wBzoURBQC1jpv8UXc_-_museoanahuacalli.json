@@ -1,0 +1,279 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Pablo Tepetlapa",
+            "short_name" : "San Pablo Tepetlapa",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04620",
+            "short_name" : "04620",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Museo 150, \u003cspan class=\"street-address\"\u003eCoyoacán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Pablo Tepetlapa\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04620\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Museo 150, Coyoacán, San Pablo Tepetlapa, 04620 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5617 3797",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3225689,
+            "lng" : -99.14408820000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a75d6e626b6a3d73a3156f8351c4c7bc2ba9fb4b",
+      "international_phone_number" : "+52 55 5617 3797",
+      "name" : "Museo Anahuacalli",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: Cerrado",
+            "miércoles: 11:00–17:30",
+            "jueves: 11:00–17:30",
+            "viernes: 11:00–17:30",
+            "sábado: 11:00–17:30",
+            "domingo: 11:00–17:30"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104696822609858302682/photos\"\u003eEdgar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAACziudzyBBnSIEDKAbc7fi2FJRHQBlrMCc_BAzJNugeR9zFPMR2K5eZKf5xAl1yKw28TGOa12HsY1WtyoEon9J04R82AyylZBnYJLZ9GIN9Ta5Z4l0ICfWmwi813vQufEhAzybWoh_m5m98EUR_AsXBPGhTXzwsU68vbcbBLxHpiewHV2dxRsg",
+            "width" : 5184
+         },
+         {
+            "height" : 3267,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104696822609858302682/photos\"\u003eEdgar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0nlNrD6gAmHSgqcB41BGecO2CH8zNe8E9X14If6s5oeKwABkssMds826bydzZLJA_vULfSXu9Pi1lV8JJOVMFJJxuNDDf65HdfCsDduK_pZ8LC5DggCUKgpzU6Txah8nEhAGYmE5BPKHyEfW3mNc1_7-GhSuCDKTqAotob5GmdTIIWeDupHT2g",
+            "width" : 4901
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113893185624843101352/photos\"\u003eMuseo Anahuacalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANEuugJ5uU2Sj97TqeWPO_pbvjTYrX7ZamZZ4gz-15JK1t720BqVvgkmMka0pAA417CWleVOPQn7HMptFZmKnJnB9N98OstxjTvHTfuiiAo683sEjgkAvVPkW-CZIkPRNEhAKsyoSeOGxaRxm8Ajixjx7GhT3epSMI8UU1Dl_AY13D2kiTmpX9Q",
+            "width" : 2048
+         },
+         {
+            "height" : 7288,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAs9brbEmuVLTyO8psIwjtk7964evpGDLKpnQZG_vUwncUtcDopk1_jY8geKUBYFOsBIRn9vtnmi2nFO3a9TZfgzr2kiQTS1TgGegWchQka_fcpuKGQwpgjViNadwT-3qxEhBUwxpI4yJxI3gUfpJSpt5IGhTmj2golGtHLPiwL6OfzR6INEAmbA",
+            "width" : 4864
+         },
+         {
+            "height" : 4724,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhl3FTUhUjvjceSuHRD6s6b3jiepby-5NxKFVrT-OxI9CCwXfHoFsrEweU91_ER41s8Yp53R8y7EVGkayTCCSCy27QVHIwZ2ZPrrGTfJtqcqMwlw6n2GpbqkBO9drJgb-EhAN1HTfNMceJVsoaT4TFh3MGhTu7dMVN4e23wu72uue0Pfe47f62w",
+            "width" : 7078
+         },
+         {
+            "height" : 827,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113893185624843101352/photos\"\u003eMuseo Anahuacalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAifTL7bviaIcHh26Wr7R1uTEnGcIosvL9ANqYf9bSt-hAouH1AD5-ohBZ2PCyV5RZvW7OFlo4sqeWNK1A_8Cmxg34hsvhvUl96zgBufbjHNpPfw2x5_PEWvTdHO7cl-gpEhCO-yo97wxylOz_LFj29Qp9GhQpP_ktZx9hM5OtKv4HYRDfSyXPww",
+            "width" : 1181
+         },
+         {
+            "height" : 1157,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113893185624843101352/photos\"\u003eMuseo Anahuacalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA95g6MgDzwIEFMJr071qo6H9wnynVUL5Wj7PWciuPxQp3CpBH_5g1eAQseSqkau1dHxSpfFk_zJ30oI8_7hvow2gyLsyop-UwiVkeFZWDvk1SY-VVKpqn-BVLYrxgWoLmEhBjy9LLvkx4198__vSo7y7YGhQiFx_RSSX9V-VpHQai8XVXE84mdQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113893185624843101352/photos\"\u003eMuseo Anahuacalli\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACX2ITJoyNiOsiB_4hk6gDNF0j_kqhOJAMjoraN6ElJO1krKLDJjBFqOVKvHV8AG4BzF59ARn53Y_Mu9zexx5xqU9N0MYJV5BCrKxiXq5MtQg_UORDKrXgetFPESmJInTEhBKRXUlZyrnUg4TFEQwV3liGhRdNExt0S71hzPGzY2VvWeWGAAqVA",
+            "width" : 2048
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104377471637355552186/photos\"\u003eHernan Villarreal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkgRnd_8eOXWnvV8EfwuwT9PSw8cE8BzPCqcgUkwpZ2AL3lpTjaQbeVISqz-I4j2ZNucW5Qm_GydhMl2XltIGA6mCihm3WD8GQ46IdMGQ3D7uJlabkOrKXiKQYcV_IQn1EhC4xM1fun4LdWXh5PTk6__gGhQ97sZK_NgAe8JV0HYY8ORfYtrszQ",
+            "width" : 1456
+         },
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104696822609858302682/photos\"\u003eEdgar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAckebHgFYs0P8fjPPzMHDJg9ynslnniU9s8B_IQg-PT083bFybVi1i1QVGmWtFF70viwP7dpm7RJLh6S3eDC2Qod5r1UWfUJNW0rTH4nqoR_9XYUHxHPO6r2RiCrPtribEhDPVCbQMLwB3VWMNfqENbVSGhTE7ZvCSazsKYKuBwAP8feisWgzEA",
+            "width" : 5184
+         }
+      ],
+      "place_id" : "ChIJE-z088wBzoURBQC1jpv8UXc",
+      "rating" : 4.4,
+      "reference" : "CnRkAAAA2Gpyg2xb8ZMdWyoGKi0raR1iGqiShRMwSiHb2MmrQlkRzxz5EOCWYtU3ackoCLgTQTt4RuaXJQWObf37Dk3M0_DAdVsIN-v_t7ahq3fItM6-G5kUsgyI4jmgeI2xJHBt3dA5snLuWo3CYDEMKJ0AmxIQWY6qvKWcwDQtW9QR0bgKvhoULiyhCi_H-6ikx701cSlPUAS8FL0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erica Unger",
+            "author_url" : "https://plus.google.com/110203021665327385858",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-K1D0Yixgupo/AAAAAAAAAAI/AAAAAAAAHR4/z3-tzd8JT60/photo.jpg",
+            "rating" : 3,
+            "text" : "El lugar es hermoso, genial, divino, la arquitectura, preciosa, el concepto increíble, ahora los guías, mamita, no sabían donde estaban paradas y te obligan a ir con guía!!!! Pésimo.",
+            "time" : 1456937445
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Melí Meló Cultura",
+            "author_url" : "https://plus.google.com/116340652691475201097",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-FOI756Qe1M4/AAAAAAAAAAI/AAAAAAAAAVw/udBW-kvFpZ4/photo.jpg",
+            "rating" : 5,
+            "text" : "«Devuelvo al pueblo lo que de la herencia artística de sus ancestros pude rescatar» Diego Rivera .El Museo Anahuacalli es un lugar en el cual se podrá conocer uno de los proyectos del pintor mexicano Diego Rivera, la creación de una ciudad de las Artes. \nEste lugar no es únicamente un museo de sitio sobre culturas prehispánicas, tiene salas de exposiciones temporales, talleres, presentaciones de teatro y danza.",
+            "time" : 1447965529
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cody Delgado Peralta",
+            "author_url" : "https://plus.google.com/105888277538559514110",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-VEO1Hphh7qU/AAAAAAAAAAI/AAAAAAAACVY/NhcbfvpxAas/photo.jpg",
+            "rating" : 5,
+            "text" : "Un gran museo,distinto a todos los demas, de verdad unico, ademas nos ofrece una gran vista panoramica al final del recorrido y ahora cuenta con un recorrido por el jardin compuesto de 4 hectáreas\n",
+            "time" : 1441082496
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Acupuntura y Nutricion",
+            "author_url" : "https://plus.google.com/107400087818355890159",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-NYzyM7Dtz0w/AAAAAAAAAAI/AAAAAAAAABI/K5cOJKXbkbs/photo.jpg",
+            "rating" : 5,
+            "text" : "me encantaria poder vivir ahi,lugar super magico lleno de tradición y cultura,simplente maravilloso!!",
+            "time" : 1441814733
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hernan Villarreal",
+            "author_url" : "https://plus.google.com/104377471637355552186",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-NrBMBECz-pM/AAAAAAAAAAI/AAAAAAAAAFE/wFn1G9vUBhA/photo.jpg",
+            "rating" : 5,
+            "text" : "el museo muestra la otra parte de la moneda de la vida de Diego y Frida, es complemento de la Casa Azul en Coyoacan",
+            "time" : 1456328431
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "art_gallery", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8597930908671344645",
+      "user_ratings_total" : 100,
+      "utc_offset" : -360,
+      "vicinity" : "Museo 150, Coyoacán, San Pablo Tepetlapa, Ciudad de México",
+      "website" : "http://www.museoanahuacalli.org.mx/"
+   },
+   "status" : "OK"
+}

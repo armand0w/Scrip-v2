@@ -1,0 +1,240 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06060",
+            "short_name" : "06060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Licenciado Verdad No.8, \u003cspan class=\"street-address\"\u003eCuauhtemoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06060\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Licenciado Verdad No.8, Cuauhtemoc, Centro Histórico, 06060 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4122 8020",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4339833,
+            "lng" : -99.13064419999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4a96f4824139c461157b6dc653c3a2debabf51ad",
+      "international_phone_number" : "+52 55 4122 8020",
+      "name" : "Ex Teresa Arte Actual",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–18:00",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1359,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105666396483772347559/photos\"\u003eOctavio Alonso Maya Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-lG2BFtcMe3koTYqA8CJB4GDgVT2Duib_VW7rilXYegYv8n7hVNio2hl4MjHQSySAqi7M8IVyRtRffH5MZ5Woq--ejsMdYTMQ5u7Xa_5CfBEv_i8hXsxiIrKkXX7IB-vEhBjwHlzd2wmViFkBjQs7xo1GhS7CFOcLzjK0xHIkoF5fvI5AR1GLw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108880008251727705193/photos\"\u003eVictor Jorge\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAh_rxJxkDD2-CWtxlpPNGj3b0rVw2elvX462dWSryqcSLBICmCS10lbedlqjyoAaa0Xh5FB83jloh69iNccM9kN4V_GmuFpRBeIj_PM3Jr0qjU_Jisrfcp1NPyBZcNtPtEhAGorEaRy50rDnH5mLWU13TGhRbOXZnbsUYvftMlmd9f6N_AASaBw",
+            "width" : 1536
+         },
+         {
+            "height" : 728,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102118827774439151461/photos\"\u003eHero Ramirez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAsCKwLUE26xi1Foy6pzPaRg6grUEnljXwszE_9nzmL3nYfyp69oKFZcyepXfsatChvQgkhUun1lb_38KPE-hCjA29BJmMdjV36CUMhGF68U00PU_lKxCaZ02BnLoEdLRjEhAgy2Nt5DZNrsF6AHGlKq3OGhT5G5lftovVfRxgkw_Uhf4EApilZg",
+            "width" : 1296
+         }
+      ],
+      "place_id" : "ChIJqY5HNzP50YURxcqDF58XtuE",
+      "rating" : 4.3,
+      "reference" : "CnRpAAAAkWjUG8VBxzczWdGWuuJWHqbwKl7DKWAWO80ZVED6LM-aITUyJ2rUFYTm7-LfJ4tonw3VSGtYfHf4P0nDuFpC3LvLbCtVHVuKy_a0qbmx9kJ1PqcBXLK83IwC6DtcAf0YIuaik1veEJWlDQW4FU-pURIQWVKw3_hN7ZoQERDb5LuCBxoUYee5CupwYPi08kk3tdJLG7Gta3I",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "He Humbery",
+            "author_url" : "https://plus.google.com/100516064301516415394",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Iglesia playa del carmen más ermoso del mundo ojala  si dios kiere estaremos vivos en otros años más  abraso  a todos los de más  que visite. Que aman a dios o en la que cren dios ",
+            "time" : 1450776753
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jhonny Rafael Gamez Zamora",
+            "author_url" : "https://plus.google.com/109729056662538448944",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy bonito",
+            "time" : 1440362482
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Octavio Alonso Maya Castro",
+            "author_url" : "https://plus.google.com/105666396483772347559",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-G30gitb-3xQ/AAAAAAAAAAI/AAAAAAAAYQM/WbWKCYihIUo/photo.jpg",
+            "rating" : 5,
+            "text" : "El ex-templo de Santa Teresa la Antigua no es solo bello en su exterior barroco con una cupula de un encantador estilo neoclasico, sino que su interior alberga exposiciones temporales de arte moderno (obviamente conserva en su interior ciertos elementos de pinturas con motivos divinos, pero sus altares ya no estan) aparte que posee una seccion moderna construida con hierro y cristal. Simplemente toda esta mescla de elementos le dan al museo Ex-Teresa un aire unico entre otros en la maravillosa Ciudad de Mexico",
+            "time" : 1355111328
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hortensia Martínez",
+            "author_url" : "https://plus.google.com/107664321351095187257",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-gT2NBm7uM80/AAAAAAAAAAI/AAAAAAAACLE/hfQH2zJvLZc/photo.jpg",
+            "rating" : 5,
+            "text" : "Lo más novedoso del arte lo encuentras en Ex Teresa",
+            "time" : 1355524161
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ese pinche slack",
+            "author_url" : "https://plus.google.com/106911394938174670485",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "ijpnn..bjp",
+            "time" : 1414083569
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16264213076356876997",
+      "user_ratings_total" : 24,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Licenciado Verdad No.8, Cuauhtemoc, Centro Histórico, Ciudad de México",
+      "website" : "http://www.exteresa.bellasartes.gob.mx/"
+   },
+   "status" : "OK"
+}

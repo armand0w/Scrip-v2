@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "113",
+            "short_name" : "113",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Ingeniero Eduardo Molina",
+            "short_name" : "Av. Ing. Eduardo Molina",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Venustiano Carranza",
+            "short_name" : "Venustiano Carranza",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "15280",
+            "short_name" : "15280",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Esquina Heroe de Nazari, \u003cspan class=\"street-address\"\u003eAv. Ing. Eduardo Molina 113\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e15280\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Esquina Heroe de Nazari, Av. Ing. Eduardo Molina 113, 15280 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5133 9900",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4354163,
+            "lng" : -99.1142256
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4e3fd0213ba3732e6b1c35c62745a1c9be9d9542",
+      "international_phone_number" : "+52 55 5133 9900",
+      "name" : "Archivo General de la Nacion",
+      "place_id" : "ChIJ76TsO0350YUR709JWgzW-lU",
+      "reference" : "CnRvAAAAYYzOc4ltQytGTg0-oeFnUojDUaG3OtQUTaNkmPtL8aTcv1lY1uHa-Xt5A_wPpTQoggcw0gJv58GwQ6ojvcMyn5cXp-ichPzIsfapP3PBrsIy_AeL7gsH_f1ZYuET_XLJusljPZJ-pjasyzEDxhauHRIQBPhM_ZXduSBE4_mVc7SSEhoUewR28oL-Gt9vMmqqhf4Bp2HThVs",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "HELENA CRAVIOTO",
+            "author_url" : "https://plus.google.com/110856716379550341287",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-UKDQKJst-SM/AAAAAAAAAAI/AAAAAAAAABM/GCc1BnfAkEM/photo.jpg",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1447801481
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6195499585944244207",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Esquina Heroe de Nazari, Avenida Ingeniero Eduardo Molina 113, Ciudad de México",
+      "website" : "http://www.agn.gob.mx"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06600",
+            "short_name" : "06600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Milán 45, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuárez\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06600\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Milán 45, Cuauhtémoc, Juárez, 06600 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5514 1737",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4294469,
+            "lng" : -99.15725519999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "f983289ea6d406a4a85d846744e36d9c4ba70db9",
+      "international_phone_number" : "+52 55 5514 1737",
+      "name" : "MUCHO mundo chocolate",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0500"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 11:00–5:00",
+            "martes: 11:00–5:00",
+            "miércoles: 11:00–5:00",
+            "jueves: 11:00–5:00",
+            "viernes: 11:00–5:00",
+            "sábado: 11:00–5:00",
+            "domingo: 11:00–5:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 900,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101385803902702668594/photos\"\u003eMUCHO mundo chocolate\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtlz1uNdl0JsKC2GpUYRN5NpiA75iLaf7EN34ld37cqon7H9Ir7SOELSsh26vHYqnexO6G_evEny0YxRA_R2-wMvnlUyMv_BsyInz-Sarp-yc5arNxn2rKEWKDfkcNqyoEhA4xoBzTF9l_qfasNBATinmGhRTnKruhn-7l0lGx0CvXt0nJc95Sg",
+            "width" : 1200
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118106377700275655314/photos\"\u003eMaría Mosnelu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGao572VypjqIkL1_qO-EMCP1cADu6-5vL5RwGpYGPaf3CGfgaxhqsoSyt375VP7fyD9k1r241dV9OP2nQ8QaXhmGhh5LatRB4C1qnaOHvNEUDL8_WOrHEen-tXw4wcoDEhAujDzA3WIELxlM8yekKwllGhTYjuUbsGjt9qJQNG_5Y4upyXYpgw",
+            "width" : 3264
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115279495396742675203/photos\"\u003eErnesto J. Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbUBBteCkbvAp2XTOkgnM5eb7UGts5qq67sVHMSF9X9_SnwCApThy5ErQEF99s5ytxH4oRUxjRhjmUCtALuiUXcdgXeK-b4KKCIzPB2Eje7h-9e8ZntwUdOi3hiC5aQ12EhBzhFrzM0nFQLuh9nSXGnnvGhRWNOUq1Mk4xpbnWcBJx7faS5PA9Q",
+            "width" : 5312
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115279495396742675203/photos\"\u003eErnesto J. Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAvsbFxfb2i7-2QP7Nxzs3_xi0D64gl9pv5HKTkej37bCw_3A7FZ6VS8M5RvbBjSmUXulKdeYLO-N5QChVcL7CFb8rtWdskYUu7JlLBtZbtxfr-xPrOAMbn1wJiXNmyyE_EhCfkJ9gwS3rHAfua47CDLdYGhTEC4-JJ1IHzzFmMZ3ASjgWG1WCiw",
+            "width" : 2988
+         },
+         {
+            "height" : 4320,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108864943766293024274/photos\"\u003eRaul Castillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAeuYOTVJHqyGmugDfjLcYnDtTy-2HhWAlgx77fM_ojwE2y2Ke6VMD6u7d5LBspOP4_bJmgHTfM0kcUVlqNG_uWo6yH7w3o31vfc_xJIXt1iF_fbI0POTlCAm-TRBYx_DoEhDG01fe8Y-wyR_KLK8zL2GyGhRHbzCY4hU_GKjFWTmqALjrT_uIIg",
+            "width" : 2432
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115279495396742675203/photos\"\u003eErnesto J. Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0-QNt5yJMpTzt2A5SY9AROyz_J1uuGUtHbTWaeIMaCUl6aVW3Qb387OepJ0ZjItOOAqEsW2c06UAfkwh6KsofohogifKmr1oBnP4sz_JBw1n5TJxTOtPNFsKHZGqxsjJEhDZpdkvuNNUz_2mSqRdtBtUGhTsN6R1ndbvxEH4Dw3N0orKUhCJRQ",
+            "width" : 2988
+         },
+         {
+            "height" : 1840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115680655769344685536/photos\"\u003eFrancisco López Rodríguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVrPKjSAKfGq4BzCNGwrp69_hujLhyEU2c0ZQUxBIKWvBAlhtZXcB0VbYYdcKmagvNqz2aUKulDN8YRqKeDN7uQBa89I8r1Jh22H8uFvllXTkakyDaZX2sMHS7sL1gGcTEhAYtVv5KUdt3fPe3pwppLDcGhTOWmnBEfgAy9TdUaC9d3V1XDhPIg",
+            "width" : 3264
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101959689454801561407/photos\"\u003eLuis Velázquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAKxWpSnK8N7ULWQcc2IEAlQLX6GydTGi4Q7kpdQts0AVg5_Ozv-NwHLAias6mfziOpEFUVv-vcdOanWRhetQAQohjb8Hg9h3gCqamH0i8es2_grcq1pO41DfaKfq3U4ZoHmodUt-SvKbQtVPMk7AJK8HBHDhmiJEwZj4MnhbXdxfEhBQ1iNCwFfPduDYEPdpRuteGhQmxGIJ6aLKLrfPpFE0FVEQtjPDuQ",
+            "width" : 4160
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115279495396742675203/photos\"\u003eErnesto J. Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8t2CgJarF_YYYbmbCZe3i4Ua78pRPz_W2ZCSnSl_oVbuUavtqxt-wgcc16JczbheZWxT-cSN0jl3s0ufFYZEM3rVfF5uwRM03zyHrpHCYNSuUdbOdn9il0CTks5NEnZcEhD7753iQsUb18-WszyyopEMGhSyjzhtzxNZ-fQjz5_XYtu6eMWaIw",
+            "width" : 5312
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115279495396742675203/photos\"\u003eErnesto J. Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJBLQ206N1otjdwi3OttKW9wNrDADhOH8KSkKBsnZPKglgj6jPtIu1U0kq13r4Y9jNO8C3qGvdeSE1SBxC92jGo3Y5OTRZ0fbVs9UoN-FkNnzy-yYHjsydq9xhIxuaphfEhD-bFAHZLUH17OZFN4hcl0yGhRr6y5H3x9xvuyobPRZ-c99QOH_0Q",
+            "width" : 2988
+         }
+      ],
+      "place_id" : "ChIJfbxVhjL_0YURCiDlh4xnSpM",
+      "rating" : 4.4,
+      "reference" : "CnRpAAAAvgbtk-mHXJ4haLgym-xaHF07lLxOywhmh-58-XXVgieHLSpu_pR1P18ZGYJgfv5X3Rb4Z6fW8QX2Afc_Q1nc7IBLxxVh1coaLjSgQFf_RQ_-fW4hEajczkrkFGIlfXR8iCp5f-WJ-V3CverRR4c-whIQv2hAi4Oegu1WJMq8LweRIBoUoDsr4Z7NnZlWt5rC43FTcymuScA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Suz Alo",
+            "author_url" : "https://plus.google.com/107218785492224458779",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-ItD6KFNQzd0/AAAAAAAAAAI/AAAAAAAABCQ/CAgPmswVYKg/photo.jpg",
+            "rating" : 5,
+            "text" : "Para amantes del choco, prueben los \"tambores\" d maracuya, brownie d chocolate wooow. Pueden llegar en ecobici hay una estación a 1 calle del Museo o en metrobus de insurgentes un poco más caminando.",
+            "time" : 1450449331
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Elizabeth Sosa Rodriguez",
+            "author_url" : "https://plus.google.com/112703054103188618371",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-S8BED7foO-s/AAAAAAAAAAI/AAAAAAAAH2U/jqoIyS9-XmI/photo.jpg",
+            "rating" : 2,
+            "text" : "La vdd es que soy amante del chocolate y el museo no fue totalmente de mi agrado, le falta mucho más inversión. Salvo la compañía , la tienda y el pequeño restautantito valieron la pena. ",
+            "time" : 1456370756
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Mendoza",
+            "author_url" : "https://plus.google.com/110512431577201731947",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Muy buen museo aunque pequeño, personal muy amable y la visita guiada estuvo muy bien, los bombones de fresa kiwi muy ricos y las tablillas con chile muy buenas con sabor fuerte ",
+            "time" : 1456294521
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Velázquez",
+            "author_url" : "https://plus.google.com/101959689454801561407",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-bRC_8-bCP4Q/AAAAAAAAAAI/AAAAAAAAjsw/1xqqOIGyHhs/photo.jpg",
+            "rating" : 5,
+            "text" : "El Museo es chiquito pero divertido, vas en grupos y te explican cada sala a detalle, conocer la historia del chocolate es increíble y los olores que encierra en algunas salas son de lo mejor. Recomendado a los fans del chocolate y también a los que no.",
+            "time" : 1457908297
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Xoé L.V",
+            "author_url" : "https://plus.google.com/105181793065120279146",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-DQGk74zDVrc/AAAAAAAAAAI/AAAAAAAAAFE/8psPvr90IDU/photo.jpg",
+            "rating" : 5,
+            "text" : "Increíble lugar. Personal muy atento y paciente. \nSi tienen la oportunidad de una visita guiada disfrutarán mucho más, y no olviden pasar por la tienda y cafetería. \nEl paraíso para los amantes del chocolate. ",
+            "time" : 1455916974
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10613409325125017610",
+      "user_ratings_total" : 73,
+      "utc_offset" : -360,
+      "vicinity" : "Milán 45, Cuauhtémoc, Juárez, Ciudad de México",
+      "website" : "http://www.mucho.org.mx/"
+   },
+   "status" : "OK"
+}

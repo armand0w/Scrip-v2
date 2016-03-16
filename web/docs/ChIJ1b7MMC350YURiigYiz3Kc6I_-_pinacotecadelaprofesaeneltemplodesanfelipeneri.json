@@ -1,0 +1,177 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21",
+            "short_name" : "21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Isabel la Católica",
+            "short_name" : "Isabel la Católica",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eIsabel la Católica 21\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Isabel la Católica 21, Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5521 8362",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4338851,
+            "lng" : -99.13629519999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4c4d2ac56726a96022fcbfc969ed3b5b0ec2be07",
+      "international_phone_number" : "+52 55 5521 8362",
+      "name" : "Pinacoteca de la Profesa en el Templo de San Felipe Neri",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1200"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: Cerrado",
+            "miércoles: Cerrado",
+            "jueves: Cerrado",
+            "viernes: Cerrado",
+            "sábado: 12:00–14:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4IvIMKnKb0fkWB7j9EwC4zT0whUKeoaFcUDz1rXojb8fVsRRXCm4WJuvsZ47KTWgFAW8RKjctJoJYLrqhGJrNWWJEiDQtNZHviMOOASeovz5kY_O1lMdUHX559aU2KL5EhC5gAynU2ZjxH0O9006A99lGhRyYepeme4_PQEJZIFIIoahs2vtaw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMpoC5EYrKYloZ_oZQHE0kUrv-sqLX0CIInLkgXDbolYvj9a7q2T9tVKcsW6oG2Pua8tq9l4uLWNz0GTlnLx8JqcVlrWkZzA3jhGQm6P4uQBJsPXHON9jKtblLjakjVPqEhDjpqL7wHF9BC6sUi51OodTGhQvu2oKWorNYXB4tc789lmRB134bA",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9N5FmkhqzbKIMv3x8aNcKjF-6RNKzaEe7zbLFjbch1eFCYs8wtsWIStCZ6Jnpr12N44gatOoLpNuz6DHf6G5T2ywpVMSnGHueK7vrpHtoIPzCJn1S1HW5qzNpTl79gdeEhC1zj2bcsaQZkZij2lByEVXGhRa9Ssc4c2HR3G5PO-YdRnUZVhJbw",
+            "width" : 2048
+         },
+         {
+            "height" : 515,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAmTkcAcoUJQMY-ueI7LWjCkika9hnpAHHVab33Eka3rqIBf0AoHbQuE6bq1AXwOIbTeouvZL-Vh4WDMDORoESgWcDHjFZTAIREVMAkQFA7nFi7iRDtIQ62Yb4Sw0nNQTWEhB_UfL0WXNFeKC4j8BItWGMGhQczw0zZa83XqUmH_Tc4FQMUWLN3A",
+            "width" : 743
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFtvoqRJ2epMipxiFt-YkXDJNGu3SXwuHPWUVBwZOi_o16mjaxRdgG1NOKtDnojRQSpCKdRGDpWGi8RhMn6GU8GPoe9DUCV_T4Vh5so1_EywJpqoMQEaJa7Oy72_gZz7rEhBftWN4tF4328mEbYgH8kYIGhSiK1XCrNDBpFepN0enxxbggP2-Zg",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYhC3HSylfDs_VWXzaj3ZdAFxkU5Qs-f_OKzMg22X0mzXOp5PIKPcahTLDpaOgH8pRXoYL58JmxSVeIETanh83D_DVrzP-VK8aG3gZtDgF2oHefaWq62TjA13xW2BYXaSEhC3w-DSQuga-lnMwyccpFpAGhSKh2UD3wGW4hhkq6qBTuiuYv2ZiA",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMCpyrr_w3HxE7k5WTZbQ7cz7gevVGHkI-ddje4_ClxxupXWtzYglQSzNL1sDbep76-xtZKO3MFOm0CIFyNUOHW2UL8wYDa2FwO-6IsjmPuTVmARev3KTA94l5tPZGwk-EhD8YqsEoP8kGCShcSVdnt1RGhSmt1CU6B2REmseoAP7G3y1gIz__A",
+            "width" : 2048
+         },
+         {
+            "height" : 563,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103113741879802110918/photos\"\u003epinacoteca de la profesa\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQ89h7Hqv6vs-9bHpxm4pm2DXgEcr4qvWWdUunjyoQwBjCQcnwWpbmmqwMF4goYu9OnGHDzZC--Gf5SsMfMkzEqc6aPXrqE-cykk4WCizVBiuvRoTbT6Qf7IYubBDVYbYEhD7TNIvQLzeT8hlrpu6oR6wGhQwumLffKey_g5XyyDEgplo-8kYBA",
+            "width" : 750
+         },
+         {
+            "height" : 1153,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzpKUU4DeXDQ0NSkVb1y7d0PpBPTniYMGkp0bqjTW2-m9erJAyW9DuzicyC-ZXXfLN3AlPWcU0-34N0Y2I0RxmXCJK1TrbQpFfUhriBtdm7-DEqpwyxS7Nq8HQsekZZZdEhComXOQmcM0xYhyUKpD_ZViGhQVVaXr0IZErLG788Xs-uqhmgryzw",
+            "width" : 1153
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114859201955715784580/photos\"\u003ePinacoteca de la Profesa en el Templo de San Felipe Neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdzvq-zLXuMyxgbphlYZhwjYp-jeRnhpSAL1elo8DFHgCFWWrHFEuXifzwd48UpVOjPt-WIrQqjKf-z13znFT8ZmZMLYxVtir_6TqvGJqazgrxw3tjENugmu4sDOM_JNoEhDpsljVPNgkdPq_vhDNEmb8GhSFALKbvOStyyp4jX64kkBfW0mbnA",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJ1b7MMC350YURiigYiz3Kc6I",
+      "reference" : "CpQBjQAAAPLFFrTzoCziZBqcP1_fJ9DTbaaD-k6Jombo_8uDQLIZDKY1RakFnzUs3v-OVRA3HsFfD4DZrjBwO0LEJyHuk8qk-8I5Nv75FNlAQgTRLwPVMbrHZwp7ykapLS8g4CzNQiVGuvvK-X9utSlF8snz9a91BnnCOSzThSWdlMSuCWqWEAryxWouV2hU0Xc-3rYyNxIQuFJLLa5e0SBQwWTm7FqkVBoU8QYgK_gBl4nNDO4F9gnpUHi7H8o",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "pinacoteca de la profesa",
+            "author_url" : "https://plus.google.com/103113741879802110918",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-w5nBAGAqEqc/AAAAAAAAAAI/AAAAAAAAAF0/qIPvlKFSAII/photo.jpg",
+            "rating" : 5,
+            "text" : "la primera vez que fui a este lugar esperaba ver una decena de óleos guardados en este espacio. en vez de eso me encontré con 4 salas, muy bien ordenadas, con pinturas perfectamente bien conservadas y con la atención del propio director de la pinacoteca que es un enamorado del arte sacro.  un lugar muy recomendable pero de difícil acceso ya que abre solamente los sábados al medio día. pero vale la pena organizarse para lograr estar ahí a esa hra. ",
+            "time" : 1402942557
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11705922222141483146",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Isabel la Católica 21, Ciudad de México"
+   },
+   "status" : "OK"
+}

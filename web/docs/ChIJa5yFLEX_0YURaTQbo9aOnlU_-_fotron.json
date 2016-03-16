@@ -1,0 +1,169 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "131",
+            "short_name" : "131",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Av 1",
+            "short_name" : "Av 1",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Pedro de los Pinos",
+            "short_name" : "San Pedro de los Pinos",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Benito Juárez",
+            "short_name" : "Benito Juárez",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "03800",
+            "short_name" : "03800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv 1 131\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Pedro de los Pinos\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e03800\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av 1 131, San Pedro de los Pinos, 03800 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5211 8123",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3892383,
+            "lng" : -99.18501569999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "0b19a79318c39a97a42e3643bfafbd27b8a6bcfd",
+      "international_phone_number" : "+52 55 5211 8123",
+      "name" : "Fotron",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0830"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0830"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 8:30–18:00",
+            "martes: 8:30–18:00",
+            "miércoles: 8:30–18:00",
+            "jueves: 8:30–18:00",
+            "viernes: 8:30–18:00",
+            "sábado: Cerrado",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108469036776083692941/photos\"\u003eVeronica Veraza\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAY-h2OfwrG5PfPsPsjzBcfAQKrwBsR8XmAJotLaPUr7V0j5dYY2QMKA0LzC9EcSVr0veSJ6Rgzr0ojyJIHhOorkxZY3tdZ6KWEwIJlGjl7ahV-wIOtAMKTH3TdjirUOCeEhCwWnYXAZQd_Tw653F_zuU6GhRyWVdeqP-CiKpjCt7D4vbBPHnBuA",
+            "width" : 800
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116265180175012307550/photos\"\u003eRicardo Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3nkZRibg0zdXnMa30QmQWvDTDGYSz-r4eS5G2Y3RfKHphgVzoe5lrismr7Pkh7dWipPTZamFin5CtbFgQz4NLO7dUIs_WsgIwdWvc-X5C1TO_dlh2naIPrHtZ1HMKkuxEhCaHq-KM82oU5_ZBtwxj1LZGhRCxMumL8qHG5mtnFmvEKodS89NkQ",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJa5yFLEX_0YURaTQbo9aOnlU",
+      "reference" : "CmRZAAAAlLGVr6MuCptaarIpOVXGmb2thBR3GLVTvumPn9OhuwgTAHmJYOi9hrhO59idbC9jGWAIIVo0iC9Np0YDU_O1SU9P8GWYjjPjS_7lGERkr68wJc4Nz2lev4eIrBhK82PxEhDhKeEyil4rf0um-qKxXz1rGhRIu9RJvdOXExkApl8WgF6fncgsmg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sergio Hayashi",
+            "author_url" : "https://plus.google.com/108744746057480661968",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-zW4YqHXWKlo/AAAAAAAAAAI/AAAAAAAAACc/Y_4So905Hcc/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1404454470
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6169525592054772841",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Av 1 131, San Pedro de los Pinos, Ciudad de México",
+      "website" : "http://fotron.com.mx/"
+   },
+   "status" : "OK"
+}

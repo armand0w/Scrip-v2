@@ -1,0 +1,257 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Diego Churubusco",
+            "short_name" : "San Diego Churubusco",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04120",
+            "short_name" : "04120",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "20 de Agosto s/n, \u003cspan class=\"extended-address\"\u003eSan Diego Churubusco\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04120\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "20 de Agosto s/n, San Diego Churubusco, 04120 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5604 0699",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3550024,
+            "lng" : -99.14879499999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0e0da509f4c81f535ea0bca87551b2b01e7d927a",
+      "international_phone_number" : "+52 55 5604 0699",
+      "name" : "Museo Nacional de las Intervenciones",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 9:00–18:00",
+            "domingo: 9:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1530,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110725721644035174470/photos\"\u003eIvan Cervantes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATJvvOTXXW0XB5MzqcLDff1LwtYKxX3c5Yq_I8FUYNjLrpA4jXi_wkmCYLiVvFzJ0p-tpaUXKfVYHg2xR0roOLjHhxgJ8R4HzfRRZPYYT5G1sJlpN8CrKmHpEiV6OyFRYEhDxWcr0luQFD6XK6cGTc5A6GhQWaUmgCd0fk_-Bysqw-mE_rOqzMA",
+            "width" : 2048
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103246078298809713571/photos\"\u003eMoises De San Pedro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAChJtNWbpB9LuMyg89TVv5T_8NQTHtym1_KKr72P3HZ0Ec6Ogqvgu7olKUhzKDVLL8kKKVvDUh1LGshY1-52PltpUF_0qp1iJBp85rpzBQlVxMi7VxVtyXJ9x5OL7okGAEhCfT1bbrbaCynFtJ62uazQgGhTSI0LKc812wOS2AXccn_Y_CXSDtg",
+            "width" : 612
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110725721644035174470/photos\"\u003eIvan Cervantes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABMB3dVfx0wig0LWsdYmBiYZWncAhVcm9pnHlpUQ-WEc6kqXf7d2tNDBxu0SsQ42K3ugRlSwS_UMcX_U82HElPecc3R9s9bUT_m3zdLkWpNQhmkvcPGMGoDjsIoFQXGPyEhAcyloqFRqxNUz3U8JMkfD-GhRCTYtKewYHxlIcnKBtbAuWa7Widw",
+            "width" : 1530
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMbRkkydJYIBfB2pYNoSuIFZ8FMLaKWL75GwJgklBjHd-hI8sH4xmPHhelAr2dQvU_xaGh-slJ9aZ5FOOgtLJAp6rV8rgvwDTeiMz-IfizsToPy6mKJ29FyOmaUpkSURcEhC3eKlM89n465TEctX5d7FLGhQbovJK7Dlg5dhwznawq7FEeQa1mQ",
+            "width" : 2448
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115798346794860226756/photos\"\u003eFrancisco Jesus Sarmiento Dinorin\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAA70xHoEkWBkPyVZUFWq2ZW_mdMqbh-OWiyYQ1hRPkP2afnOAPUgjR7bWuwUi33SVr7XxyFlH-y7qfOCPX-O8cVmieWlB_ThEXUF7qZC56gKgY9Jk_YB1Y16Y_tVHLUGkEhAqaXzcU25IB01XmyNxdg1gGhQ73snmWqDVHO3c4xeVYPDqX-FvOQ",
+            "width" : 816
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-pfJUr7RtMXpJ62yLtavrZl9l-tQUn6yJ1wIRAYBm9yldHhzheWdp_e82ajs7FyWNZgyVMAuA2E5yPdbL4A5pu7lq0DcsHyLnsnGXWmmmHxXI802Lv6brZbWI2WZTrZUEhCqOsPqMZeKhxiLTf7TFI5uGhStCz06hV1e8QlEFZbq2ar7F6ESlA",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJMUgTY8z_0YURQVR0mAgAZYo",
+      "rating" : 4.5,
+      "reference" : "CoQBeAAAAG0uU1zuyjRMUA5sYnqyxhMRzPjQztokK9QheQ4tE5TKbb614a2CfWZJ4mLdG7YUegXrVB-kQ0CjNnBq5aG_Hqa9FEJsWqlBjJMb8-MeV6Irm8LrgFOV8cCZvqAOa3kdzGsws7H8Jzh7yegbDOS2VD1VUEfW3cyj7qBvPmu_BGaEEhBoCXfIn8P7Jgf1sUodR4_sGhTBl2GBBnAspzPpIQj33xcp3zM1ug",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eduardo Rivera",
+            "author_url" : "https://plus.google.com/105874319548616584763",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-BhQ4zSt05H8/AAAAAAAAAAI/AAAAAAAACF0/SRIQe8BxETI/photo.jpg",
+            "rating" : 3,
+            "text" : "Excelente museo para conocer la historia de las intervenciones que debió soportar México durante el siglo XIX e inicios del XX. \nLas salas contienen suficiente información y está muy bien organizada.\nComo aspecto a mejorar: \nLa interactividad de los contenidos, para que se atraiga a un público más joven y los contenidos históricos resulten más atractivos.",
+            "time" : 1457561973
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alan Lopez Garcia",
+            "author_url" : "https://plus.google.com/100677980357991617304",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-VSiq7iq2LN4/AAAAAAAAAAI/AAAAAAAAABM/P3kCgxTOXZc/photo.jpg",
+            "rating" : 5,
+            "text" : "Todo muy padre muy ameno nada aburrido ",
+            "time" : 1454377072
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Saúl Buentello",
+            "author_url" : "https://plus.google.com/109282341786220910342",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CGljoLz3S4A/AAAAAAAAAAI/AAAAAAAAB94/1so7vUeuvZ0/photo.jpg",
+            "rating" : 5,
+            "text" : "Un excelente sitio dónde refrescar un poco de la memoria de las intervenciones que ha tenido nuestra nación. Cultura y romance dado que se halla dentro del exconvento de churubusco convergen perfectamente. Les recomiendo el lugar para una cita romántica y cultural. ",
+            "time" : 1456219910
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jazive Hernández",
+            "author_url" : "https://plus.google.com/112355342165760846597",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-qB9tOFOZj84/AAAAAAAAAAI/AAAAAAAAABI/wQl_5yJnyYo/photo.jpg",
+            "rating" : 5,
+            "text" : "Súper bonito, tranquilo y ameno.\n",
+            "time" : 1452126819
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Francisco Castillo Muñoz",
+            "author_url" : "https://plus.google.com/117388765526354113171",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-zAY4_Pm-hTA/AAAAAAAAAAI/AAAAAAAAHmk/Cz9L-7y4BH8/photo.jpg",
+            "rating" : 4,
+            "text" : "Muy buen museo. Cuenta con guarda paquetes. No se permite tomar fotografías a la exposición. Se recomienda unirse a los recorridos guiados. Los Domingos la entrada es sin costo.",
+            "time" : 1454558847
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9972376986799330369",
+      "user_ratings_total" : 94,
+      "utc_offset" : -360,
+      "vicinity" : "20 de Agosto s/n, San Diego Churubusco, Ciudad de México",
+      "website" : "http://www.inah.gob.mx/"
+   },
+   "status" : "OK"
+}

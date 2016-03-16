@@ -1,0 +1,119 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "20-Bis",
+            "short_name" : "20-Bis",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Plaza San Jacinto",
+            "short_name" : "Plaza San Jacinto",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Ángel",
+            "short_name" : "San Ángel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Álvaro Obregón",
+            "short_name" : "Álvaro Obregón",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "01000",
+            "short_name" : "01000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePlaza San Jacinto 20-Bis\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Ángel\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza San Jacinto 20-Bis, San Ángel, 01000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5550 5504",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.343976,
+            "lng" : -99.19219299999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "5671e22abcd0af1f12ca776362ff471b54c4222c",
+      "international_phone_number" : "+52 55 5550 5504",
+      "name" : "El Carmen Galería de Arte",
+      "photos" : [
+         {
+            "height" : 1253,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109452197441333333619/photos\"\u003eBenjamín Salcedo López\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANo_CgrXXEQApHQpwG1UOxMxMueTveWkJBlyZa_oGU6LYPPLB3rVWnqSEDN3hIqDaoM3nvUmzmFiMWknhBep4_4oA555A7uTFg31wx7cCJcLc3vkY5pfGcHB6xaVmgayhEhBOEdqpc8k7vOk_3BbMme5EGhT3ZXyY9ayEp3KetoS-Znqkoq3_rg",
+            "width" : 2048
+         },
+         {
+            "height" : 321,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110013416428427322901/photos\"\u003eEl Carmen Galería de Arte\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMADxg8FDXdnp1Ny5PCZ3xpDKjIXI-GldxGhsXz33m74tkfpHh8f8oCo_MlsyE6bV9HPvBIGOq8f__Tr0zzZAm6FYErkZ0i0QUiflqeJK3O14wZTcZQyZ9To_HFc6qnJGEhA70764rW7i_Yis9TkoGuhrGhQ8n56BNPfAkAQ-chRNYzfCe7uczg",
+            "width" : 369
+         }
+      ],
+      "place_id" : "ChIJmc54TwIA0oURA2vcSI2pO7A",
+      "reference" : "CnRuAAAAAsUR0ZeM_vmMYMKDFXXQYsmIUuXFLL-o4iwSAV-xXeZ817Nff4zGU3CLWq3H1rkgh1fPGuvkm24R0qRezkHlYs_path0wDwUOKg807fmxq3CvQEQEOI0gCrzmbOlFz2hIboHcSh4xjSmTB_Oxgsz-hIQ3RY3Aj98iRwte_qOeEMs8BoUx1ozoeWusKtIFWuXxw5l7Yl2TJE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ricardo Navarrete",
+            "author_url" : "https://plus.google.com/116362675110646669229",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Jesús Jiménez Argueta\n21/07/0012\nExcelente Galería, me gusto bastante muy buen proyecto. Felicidades a todo el equipo que colabora en esta etapa. Éxito!!!!",
+            "time" : 1350429970
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fer M. S.",
+            "author_url" : "https://plus.google.com/105204134062541440092",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-ZKTDgWrzILU/AAAAAAAAAAI/AAAAAAAAIPw/tiJXLZLWkLU/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1391629132
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12698929998579133187",
+      "user_ratings_total" : 2,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza San Jacinto 20-Bis, San Ángel, Ciudad de México",
+      "website" : "http://www.galeriaelcarmen.com.mx/"
+   },
+   "status" : "OK"
+}

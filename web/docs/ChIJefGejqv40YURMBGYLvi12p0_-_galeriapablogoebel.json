@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "212",
+            "short_name" : "212",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Calle Hipólito Taine",
+            "short_name" : "Calle Hipólito Taine",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Polanco",
+            "short_name" : "Polanco",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "212, \u003cspan class=\"street-address\"\u003eCalle Hipólito Taine 212\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePolanco\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "212, Calle Hipólito Taine 212, Polanco, Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5250 4957",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4348484,
+            "lng" : -99.184815
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "882f56a3935fb36bb265e2dd3accbbc0e56b7499",
+      "international_phone_number" : "+52 55 5250 4957",
+      "name" : "Galería Pablo Goebel",
+      "photos" : [
+         {
+            "height" : 1454,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115457593837593191293/photos\"\u003eDanielle Goebel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhavgfBpxA1RSSgc3aDC0GGiIJvNZsV8SMBUOt8-jOAUEoz2Aaphy2ujc-T8PgaRrqx4jyaVvtWRdMwg_PYy_qO5U_xgTKnaaB8ArK_pLT5AC5ntRpaFlWsZoxan2WU3yEhD6zHF-k2glMrIaqDsTSAK3GhQLI4yvg8gJXfEDX436itBvnAjGeA",
+            "width" : 966
+         }
+      ],
+      "place_id" : "ChIJefGejqv40YURMBGYLvi12p0",
+      "reference" : "CnRpAAAAmuNhcbl2BUZYKu4ddH7um_GL4SoDE-Xf7nStip75m67sVKfH4VSVMAERHZO0LBx_YHpB_oNkQXLY6OBR1SgBDDlVEaoN4-Vrn5PU9_OAcLimNfsELGeUt4Svlqobw-wMUgPaGzTf_iJ0fbkF9TcC3hIQC0KWPrsQOT0fd5HAN79QQRoUX_0tWyzGn27NtWeGS1Pn_heGmBY",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11374603886415843632",
+      "utc_offset" : -360,
+      "vicinity" : "212, Calle Hipólito Taine 212, Polanco, Ciudad de México",
+      "website" : "http://www.pgfinearts.net/"
+   },
+   "status" : "OK"
+}

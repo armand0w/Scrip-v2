@@ -1,0 +1,248 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "San Ildefonso 43, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "San Ildefonso 43, Cuauhtémoc, Centro Histórico, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5702 4129",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4360961,
+            "lng" : -99.1301429
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8ebdbf56b05332c4f19bc8e0a1337a68ab133278",
+      "international_phone_number" : "+52 55 5702 4129",
+      "name" : "Museo de la Luz",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117793297359531216427/photos\"\u003eJosé Luis García Ramírez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGTynIBc9P2zr8SLPa1Hkd_ZZ_8tyLsxwLofBvHRlduHUneqwJEpyZLQd4QvpEwlJmyS_2USmtaF_KnHxrsUNyCM3Zi3_oEaFX3U2gLMF_Fyso2gg8FuyrXs7o2McpwxeEhAXMi73WzVS1NRTsdhF0WWLGhS4jybBY7WTv3gsys4ibdgjH4RwEg",
+            "width" : 1224
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102445511439048210758/photos\"\u003eJeaneth Alva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2RvwjHbuq_vBRhF-AH88nUbmCRiFpQLREjuilQA5oWK5gaYaKWK3nP-ere_0jDTIzNcee-Y_n5suT54j9KqPglqZg58oMgn9R5Iuv96cDW2-YJx1nK7iM2vqT0RbwfgBEhDaJPdnID9eryLDtfP32auXGhSK5fS0dpOJcydU5BiA6bhupeR5_Q",
+            "width" : 2560
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102445511439048210758/photos\"\u003eJeaneth Alva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhjl7cTR_G2kyk3_isGRHIWx4BD8bkchqqq1aGj7yXQTUmS7NhyWH8zDS7bwohLSCsytibKxLt2PRdV3aiycbtvQgSsleHUYFx6Fob6hvJBmZVdjYh6aq4jnq8KKk01TdEhDLSL0_Err13g1H3y8ewElqGhSbJ-XLprk4CXGi0nr8GoEjQPWlWg",
+            "width" : 1920
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107317859209867794448/photos\"\u003eSilvia Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAX07_sRtqrMtXJ0vGAwoF42dEHk6uO2FD1cd2m_UWE-6cy21rEAp78d4eG3Y71t-JxXSEjecbdbBBXdLTfo7-59xymgD-7wvLATETpnUoavc1rsAN3-U1Fc20V7l5-q7iEhBOMzNrVl0LhmYHL_7OCyefGhSWkZOXlaALMY1MWMqiqfBekn6a-w",
+            "width" : 640
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102445511439048210758/photos\"\u003eJeaneth Alva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUux56JdZ0d8RIGP00MnOxVVMqM4RaSNBqQrsaPS8kKsktQL_4lxE1XPySt-iufbJbHGEHPxL9B6LrlvrYx17nDc1SQqyQr7b3tNwy4bdpaIowcyP21vrP1BeRvSDJDdeEhCNYeYG5Fpzop17ReEyUacyGhR0fUpz6XLPGi1hQf0mIQz42PTXZg",
+            "width" : 1920
+         }
+      ],
+      "place_id" : "ChIJZ2On-3IAzoURHaRAraGdprE",
+      "rating" : 4.2,
+      "reference" : "CnRjAAAA6ddlAJYQnYAokJfIUlPXfAnBTOxnRNrbxSuot0Q5LYcV1JCju9fG4C1Od0G2mgIcq8o6YG5lYieSGyACLWrkDk6DhiGHD95Boc7foGu5nZPMBmqDgKjJeK1VpHX7sChPt6lzj1qTco8tDaoxnyAGMBIQ9Te1EZrhpmljKA8ApjT1MBoUSSNac3GlA9ZeC_XX8vl6_Gf47aM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "helen eycele",
+            "author_url" : "https://plus.google.com/102315166423561304974",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Esta cool bonito y exelente\nEsta del10 ademas les enseña alos niños aprenden y    enseña lo de la luz gracias pro su atenciom atentmente susana",
+            "time" : 1435344354
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "alejandra mondragon",
+            "author_url" : "https://plus.google.com/112577086696556343344",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-U2gmvWOiLIA/AAAAAAAAAAI/AAAAAAAAAEA/cg6xaBsR8FM/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen muceo",
+            "time" : 1432301987
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Gonzalez",
+            "author_url" : "https://plus.google.com/104495124508807909005",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-5BWIHpeS6E0/AAAAAAAAAAI/AAAAAAAAJpI/Quj-_DQp6vM/photo.jpg",
+            "rating" : 5,
+            "text" : "Cuenta con visitas guiadas y actividades ilustrativas sobre la luz y efectos ópticos. Excelente para hacer una tarea relacionada o entender mejor el tema. ",
+            "time" : 1456727819
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Velázquez",
+            "author_url" : "https://plus.google.com/115900584730471801782",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-j3_9wJYkhiA/AAAAAAAAAAI/AAAAAAAAAF0/VUQFBHZKIrM/photo.jpg",
+            "rating" : 4,
+            "text" : "Museo interactivo aunque no completamente, las exposiciones son excelentes y bien explicadas, mejoraría mucho si tuviera mas color y mas luz (iluminado, por momentos parece sombrío). Al final se queda uno con ganas de mas. Tiene mucho potencial podría competir con el papalote museo del niño si quisiera, fácilmente. ",
+            "time" : 1439404605
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rodrigo Miramontes Balbuena",
+            "author_url" : "https://plus.google.com/114094014620634542272",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-mAlKhBd17A8/AAAAAAAAAAI/AAAAAAAAAA0/Uk7bfNUO2Fo/photo.jpg",
+            "rating" : 5,
+            "text" : "Bien",
+            "time" : 1448494321
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12801092308569203741",
+      "user_ratings_total" : 57,
+      "utc_offset" : -360,
+      "vicinity" : "San Ildefonso 43, Cuauhtémoc, Centro Histórico, Ciudad de México",
+      "website" : "http://www.museodelaluz.unam.mx/"
+   },
+   "status" : "OK"
+}

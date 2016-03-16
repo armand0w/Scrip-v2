@@ -1,0 +1,151 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "47",
+            "short_name" : "47",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida República de el Salvador",
+            "short_name" : "Av República de el Salvador",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv República de el Salvador 47\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av República de el Salvador 47, Centro, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 3686 5100",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4297827,
+            "lng" : -99.13828079999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "15900fb7b90c98a74ed47c5f69a23954c119653d",
+      "international_phone_number" : "+52 55 3686 5100",
+      "name" : "MUSEO DE LA CANCILLERIA",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–17:00",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: Cerrado",
+            "domingo: Cerrado"
+         ]
+      },
+      "place_id" : "ChIJYW8DpNP-0YURiUmMwnN1i8Q",
+      "reference" : "CnRrAAAAKYA9GT6PRzQh8N8i9J62K9dMMNhQzVxq0ybof0k-D5oPi9i84Aiytc5cdvmRGHMhKSVR-hhUCgBwFtzScH_6idoxBOppL1oAwhdkPKDH3hmi-CMw0DjFEHxOCUADaKHNn07D9Sow7Co_A9Z3rF85iBIQ5ehsZPP1PewI98R33c9PnxoUpNaUjPZQP2X3HOTJOBQKaFzi4nk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Guillermo Coll",
+            "author_url" : "https://plus.google.com/102799599651976369245",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-3WBB4VYEGEg/AAAAAAAAAAI/AAAAAAAABtc/R-JbKVyOcrU/photo.jpg",
+            "rating" : 5,
+            "text" : "Fantástica museografia e iluminacion ,con artistas plasticos de gran altura",
+            "time" : 1455820029
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14162542593242319241",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida República de el Salvador 47, Centro, Ciudad de México",
+      "website" : "http://imr.sre.gob.mx/index.php?option=com_content&view=article&id=577&Itemid=259"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,297 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06600",
+            "short_name" : "06600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Londres 6, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuárez\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06600\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Londres 6, Cuauhtémoc, Juárez, 06600 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5546 7670",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4285205,
+            "lng" : -99.15704409999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "549791ed3a361c17b47c5a5a8650942518de036b",
+      "international_phone_number" : "+52 55 5546 7670",
+      "name" : "Museo de Cera",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 11:00–19:00",
+            "martes: 11:00–19:00",
+            "miércoles: 11:00–19:00",
+            "jueves: 11:00–19:00",
+            "viernes: 11:00–19:00",
+            "sábado: 11:00–19:00",
+            "domingo: 11:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109588464932054619378/photos\"\u003eAlejandro Bautista Ramirez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArq1kxUkVOATCUeO6_kDUuR2BxWRRIyTYeVV0aug9CVd1YIwH4Sg9pveLmXVU7oRvdyxvEJtSHXC8dwQjitx_tPNxiWXfl9Hrqv9UqrCwgv2t_2QHODrmqfa1FPG1bIJ6EhA7lXVp7D0XocXSOLd_Bb2SGhQaA6-Sdp9ipgjHGYIj_m0nefkfZg",
+            "width" : 4160
+         },
+         {
+            "height" : 4613,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5fiuOYoLVQgywEgQjCGnWABgTlGQfQ7T1eJMNzkqY57S1yzSqOkTWfSNzywKk4dV-1XiJ4xc0AUrSaM4GP23rhRS_gHXq0oBGhREIzUD_4G5SSdGgHweI-gY-lAHVDpFEhCsFDs7MpVj-C29_SNl0L_qGhR-RXF1by-5Rx4J5ElMx0UPCfoKzA",
+            "width" : 6912
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110099122912761099630/photos\"\u003eMarcelo Mora\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAy6qhYV8blBEHeNfQTfDGKuMhYWcwZNS7qVTlLrJgFe1cx1nb_d2shA77u3UdZ2YlF_FcPITSeYMg9MMWQJ5E16CwhU1zVsr1f4c6cGIl-y8gCK3wR_T7pQBlFKMXwntvEhCysz4VSt8o2blZxAkED25VGhSxUIy6RzDhdVvw98c-YdU0rCLtIw",
+            "width" : 720
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOxytCrWyF-wEWZqrdX17VL458ovcc9MNqA8RTnc9-yJKmfaStg_I610qAA2Ay6m-9yq2vOsFoI0sjk4Tr9kZSLxV_ovVTDjElMaeusaGZW3eWUSqqBAVp4AgwgobOvh8EhAwnpNBmSeKHfpCcgBjxtMoGhT3zY2MSDMCpWKStoywA7DZDSuNBQ",
+            "width" : 450
+         },
+         {
+            "height" : 394,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104836300825850661083/photos\"\u003eAnali Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALyAjMHGTKtS1sziMD-hIdZmdpnlIJOP8K4SoAhydXRUVfQXv4jjqC_c8PIAoABs2T9MdhmDatFvAv2Ds7svZ3Utb1OGEGKmFluq3e5a9ZwF4VMZNmIa-X61-cCvu0hOvEhDdH12d2bFocz5vJ1GrNqcSGhRr2zi98SJEAUt3AxY2yKBWs11HfQ",
+            "width" : 526
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAORISAsQkcvcJ_5qdrRYZBD1_17nZ7O_stvkuu_gOvW0Qw5h5nsESotwpeaqSOtaTFdP5ASVuoHLfr5n1R8qIFjCotbiwaxmhZ6xq3R5UPZhSIXfXQAUF28rpo72RyOeREhBZJlCReqR6L1GB5RkKdp95GhTisMRoaSMs8aOPMrdixRXXExsTYQ",
+            "width" : 450
+         },
+         {
+            "height" : 750,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105112981269420487788/photos\"\u003ejose antonio martinez manzo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzMIM9IiEvwHx-4N2hatGJN0ruu2ffQ0BPKJYtfGvaAMAfFZ47YcCrOa1DhcDFC3WX3WAdRtc7FAUC8h8G1qismX2VnG-PjgzeslvJcFTKVUJJO9u8GxytEm76nZN0Q-SEhCpjEinGwpB03MjcD2DFfswGhQo6tEyom1Dg6Pe5xxDh1rAAvCkUw",
+            "width" : 1000
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100121800893274269442/photos\"\u003eCarlos Velazquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAms-3Yrp6YD9o6KGkJMlDWISZKvL2He5Dp-Y-koj9QOZEl0pXkeQAroVBQIY84Adz0wmlDV-9L9JN7-PCp6_Oxf0ne5-ZPNIApqDnw_tpNnoU4TatbKNnevJ2HPH2jyu6EhCUr9ltu66cB1bSvbn9bXuIGhTAXKtSwgTmLXug_ceEtlHk_-qTWg",
+            "width" : 600
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110153251216820670213/photos\"\u003eMariana Silva Moronatti\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAActeE9iO3oGFsIz_YW3cBebHdafbzgQFRRWqr7Pm9E26zSEuxNu62VzRpIVhX_-z0FRmR6Yev-F1M1oJWYCdJb4Aa7y_AsC8k1ARfcp2Be8tzzZhrAdKFDhk8us_XH5IQEhDOdXqX6pyiyGus5_lP4HKkGhTTVpEdx8SbJvPGynapEEI5lrsnEQ",
+            "width" : 1024
+         },
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103422977526818794613/photos\"\u003eAlberto Alva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdEdPYg_sVJ8igYLN8dRvsmHN4dIrFwu9ZX4u38dZjnL6H7qXmC3LIjLs4RbvFsYkrqACJzUjO8BCE8o7KtP3XDsbYkMiISnOuvz3xEJuTFkHtQyDC4UrknYkp54mHpg9EhCBGucabHD5v02Lam4c4F6hGhTiBgHC7CNhWQXC_Oh3_zQD8zao9g",
+            "width" : 1296
+         }
+      ],
+      "place_id" : "ChIJHUMfYOcc0oURQnCEd9UDaNY",
+      "rating" : 4.4,
+      "reference" : "CnRhAAAAwcJE6-rIWHAl-PLnTDCUaDEwvPZv8iwssjttyD3zBkjeoO24LXlM_ICezELxICuB4dZ1Il3ppWJZqTGsS6GkcYUD0FuYJJovmufJ054-MDolu94p5GUXG6tMiGIxY_EwU25Tju0-ac-Papo3cVLCGRIQaBXE3aj6CsrLza0BNMSj_RoUOmuKK1B_Ua9xKeeMcGiIKZquD9w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Orduna",
+            "author_url" : "https://plus.google.com/101299232966666883704",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es un lugar muy agradable espero volver algún día",
+            "time" : 1455930698
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fabiola de Goríbar",
+            "author_url" : "https://plus.google.com/109348519254041556880",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-OcKyvtSzV38/AAAAAAAAAAI/AAAAAAAAqV0/wVzUvLv0TDI/photo.jpg",
+            "rating" : 5,
+            "text" : "No venía aquí desde niña. La colección está muy padre, y el edificio bastante bien conservado. Muy recomendable para un paseo en familia. Puedes complementarlo con el museo de Ripley's. Aunque este último se quedó un poco atrás, con tanta información sorprendente que compartimos diario en internet, ya casi nada nos sorprende!",
+            "time" : 1456183239
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Jeffrey Torres Chong",
+            "author_url" : "https://plus.google.com/117372003570051262354",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-44_ekVOig48/AAAAAAAAAAI/AAAAAAAAABI/zFAK4Xt68Xg/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen lugar para selfies, la ambientación te transportará a un mundo de diversión.\nLos souvenirs son muy bonitos y curiosos.",
+            "time" : 1454565847
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Guillermo Saad",
+            "author_url" : "https://plus.google.com/111737067704370724993",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "La arquitectura típica del porfiriato anticipa una visita interesante. Aquí nos sumimos en el pasado más remoto o en la actualidad, en mundos del arte, la política, la guerra, los deportes y la fantasía, siempre acompañados de los personajes, bueno, al menos de sus efigies, mismas que cobran vida gracias al trabajo profesional de los artistas que modelan las figuras, rostros y vestimentas con rigor y siempre basados en fotografías y datos reales.\nDigno para toda la familia y para estudiantes de todas las edades.",
+            "time" : 1454552682
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joshy Sanchez",
+            "author_url" : "https://plus.google.com/111993683898657034880",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-PNG58kLDYBU/AAAAAAAAAAI/AAAAAAAAA08/nE0ZkGfLimg/photo.jpg",
+            "rating" : 5,
+            "text" : "El lugar me precio Super divertido, y por paquete puedes también visitar el museo de ripley que se encuentra a un ladito. ",
+            "time" : 1451746272
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15449602737062572098",
+      "user_ratings_total" : 542,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Londres 6, Cuauhtémoc, Juárez, Ciudad de México",
+      "website" : "http://www.museodecera.com.mx/"
+   },
+   "status" : "OK"
+}

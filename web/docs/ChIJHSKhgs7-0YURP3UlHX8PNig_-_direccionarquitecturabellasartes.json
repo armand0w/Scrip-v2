@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "4",
+            "short_name" : "4",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "El Mesón",
+            "short_name" : "El Mesón",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de Mexico",
+            "short_name" : "Ciudad de Mexico",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06050",
+            "short_name" : "06050",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJuárez 4\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eEl Mesón\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06050\u003c/span\u003e \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Juárez 4, El Mesón, 06050 D.F., México",
+      "formatted_phone_number" : "01 55 5518 6082",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4276385,
+            "lng" : -99.13116319999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "33195b1d29730b5faa959d34de09ca1fca1ff70e",
+      "international_phone_number" : "+52 55 5518 6082",
+      "name" : "Dirección Arquitectura Bellas Artes",
+      "place_id" : "ChIJHSKhgs7-0YURP3UlHX8PNig",
+      "reference" : "CoQBdwAAAB0-1evDLjNA6gcTkdmOsqNPKIhHtdpEJM60SMBHlCpqw7xPXytOFsg0Tpw3xLd3JcS50UkVE3_Yj8xrX9gHI-xoSpdUgpvfn1xCNqTuInoRExoCzKsjApznZtohEQ6U186b0d68Pj6KcDwrTZ4PlH-qI7u5pDAWehJcxL0566oyEhArzSYsRR0AyldT1detweHzGhSoBMv4RgOtG2HhNmQTTeZqfDlATw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Govani Blanco",
+            "author_url" : "https://plus.google.com/117432415598153235233",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-ogaraQPo64M/AAAAAAAAAAI/AAAAAAAAALk/J5tqcm5dwGI/photo.jpg",
+            "rating" : 5,
+            "text" : "LA mejor línea de auto transporte foráneo AU",
+            "time" : 1454786029
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2897520448883750207",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Juárez 4, El Mesón"
+   },
+   "status" : "OK"
+}

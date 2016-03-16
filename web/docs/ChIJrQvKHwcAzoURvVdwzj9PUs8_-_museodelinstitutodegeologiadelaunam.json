@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Santa Maria la Rivera",
+            "short_name" : "Santa Maria la Rivera",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad De Mexico",
+            "short_name" : "Ciudad De Mexico",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06400",
+            "short_name" : "06400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Jaime Torres Bodet 176, \u003cspan class=\"extended-address\"\u003eSanta Maria la Rivera\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06400\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad De Mexico\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Jaime Torres Bodet 176, Santa Maria la Rivera, 06400 Ciudad De Mexico, D.F., México",
+      "formatted_phone_number" : "01 55 5547 3948",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4502357,
+            "lng" : -99.1576999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "7533d23d95d55c5236b60ae893aaf57d5693aba7",
+      "international_phone_number" : "+52 55 5547 3948",
+      "name" : "Museo Del Instituto De Geologia De La Unam",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1880,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110456629380277190738/photos\"\u003eoscar irazaba avila\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZbTBFrQ21opXmBrPh3x9nhHYf6s51PzofnURMrcm1h4-XIrPhjpe20jzqOTBIFXd-eBlPG4vkyK3tuLPZDrkILGCSHB62iDWVcaN14meOFwohzyOGJkysjX2PNtEIs67EhD_Tzr5cbrZaOzIWEnWPXqbGhRZOFlXW1BEtWyEWkn_osQYv50yGQ",
+            "width" : 2816
+         },
+         {
+            "height" : 1127,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110456629380277190738/photos\"\u003eoscar irazaba avila\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASgw1Wrl8Sd8CKi5DyizP1WBFD6P7GzliVAxz9viAK-sBjs32BHUtS9FtVMKv2tWtV8ZwkvRE-od_i4JfyeEsJOGOV-VdnWBVbDWYh_qu-zPrfgXmYJ0J_KxvU5OEPes5EhDRNUpm223NyWW0ZkogxaXMGhTWDtPhiqNtyw9en4yF3UcOEhlpJA",
+            "width" : 1502
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110082072453008251196/photos\"\u003eRené Márquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAf9ahgvXvrSX2-94oToRtyz7c5HUCnBAIrpMl7B5EzIpk_HGa8eFCiJYSxGJEuNpRUSiGvjcPLux87O3WgiDyWfzXFj2lbUo48Dnt7LSSK5v9wXP__Przp3ts4ldnYCv6EhBh_vn1IE0O6_rkM69Sg-ffGhSGMGehSpwIAnSMNHGv1z0KGw8ZWw",
+            "width" : 1456
+         },
+         {
+            "height" : 3142,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111202530028292245181/photos\"\u003eRicardo martínez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_W-hhhyZkHeGbGH-Tji4w81f0UIfmiyIQ1MF0OaNEcyHtD9ddz-gm6QUjgKnLGvB8mc4ICjpa5BtV-mCD2c5H4BnJza9TBCuo2bY8bPw0mRYAiDGSomXGGoRzknV5pxDEhDZ8hF9_fVCAIH_ByCNtV6jGhTbttSNXFkznz_NS0GqRg9nggvlmw",
+            "width" : 4190
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108649806492628401844/photos\"\u003eAngel Jose Quiroz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA6GvRsoDQTXvOkIZLAquCs9AFRx0ipLjqsILbUy9O6XbQTQ5oq16PuLO7D0MHH_zkFN9Dn-Lh5UOQXX-1DlnFw7b-m4cvlq6r1Wb0CMoIfez20IWeN6DftoI0Pe7XNDpjEhDpJKNxSgOxNkzvkTb9wpWHGhTOPB4v1qadJDd1pxfZM-u2jl7a0w",
+            "width" : 1920
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101599834268268214761/photos\"\u003eArthur Rojas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQqMfgK5ylciEinzK2mW0sokpIgtM2vgqddmAaxCjg6tNoAuYLs1xpCP6qpfR1QBKcTaXcS25siuSisgAT593Qwdo-JdNLYx9NvUNxV6MuU0ZrS4LinMD-pL_8o5PicFuEhADc5VizTnQBk8muAX0teFVGhS5QCHM-BYKhftpVyfWRDfmFhAKOg",
+            "width" : 3264
+         },
+         {
+            "height" : 417,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115511692806411528238/photos\"\u003eChicho Ramírez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAOchOYGw-AHQBAKdQ4yapxJEvv7nFDTVyAKIPaqL80Uczx2SnXG6GczSHV0Q-4SVxYflI2LFcL-4Am4Zr7rx4vO-xs9955xf9EfGFbN5eG5ugQetyIesg_-RpXGirwa0nFb40Rbd0b5F79G-BCKMufDCsJIQpkMwxt2fe7fGUdngEhApo36P8lWtv9ZCOLQvwqeKGhR3ss6P1hT5_Iw04EESkTQ5TWAJFA",
+            "width" : 425
+         },
+         {
+            "height" : 3142,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111202530028292245181/photos\"\u003eRicardo martínez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5cS1LTAPwd1_bvdjTu3wUKyvvqHrHS_miLUS631SzpjbpnuHgknNLMTXnpbPTfX5zY0cYX5XltA3k5ZBbTLLgAUX7VqN03da9PABmjpTtLgxAJTU6VaWP6iPPbzXw-aKEhC7SHnKyjP9uDkAFRBakQm8GhRnzrszXKS56NX8dTSVSlKsi6ZSXg",
+            "width" : 4190
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102913148243336664203/photos\"\u003eCasandra Mejía Leal\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACBCnUg8241CDwkpB9WgyS0wKq2uJPEQmAbQ_mnI3C9HggNkWnCaDe7BIKB_EnbhKtB-PvXEkZ2OPVN-09j_Nz4MWPcKqW8zA2T7dHXjeD0EPydqPUL9delnCW5NLxbWFEhA8lRBLgJ3OcwWLplmPnD-PGhSFV9XsPQQch57wvKzNGB_PYaPAIg",
+            "width" : 2048
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117317671644995438563/photos\"\u003eDaphne Vazquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA44UaJ5hOvo7C_uQPnhaVhcgxU1HHbPTGkvoJ4te9-mT4cK93TbPLB9IRAd8SkDf_sb4469_YyqD4Dw3rQCzCbRxhcmcvhl5s49Ud-yIoB2eTfkmUS5LR7F7r_wSmwfUSEhDOpUi2RPZXIBDNd6G2T0IdGhRehqWBRX1Em0iSoTkYkT4oC16vXQ",
+            "width" : 768
+         }
+      ],
+      "place_id" : "ChIJrQvKHwcAzoURvVdwzj9PUs8",
+      "rating" : 4.3,
+      "reference" : "CoQBfgAAAMFYfBbGwIAimkg4b_C8j6uvs0fkIKY_hh7YmprNu-hMU3eQuoGszpLCYtd-sCkTGFwJeslN-rdEoqIqrmYAIzkg5qk8PGT6DCWEUDq5NGx1NRaN1UWrerq5PRVxCPdKZeunJ8yFqgRoMPCAqpDZuR5ZOrUTi6n5YG62YNNehB_uEhAwWJP9KJ-I9VZPNWf4Oc3WGhS3LxsgVveWC3LbsWRgcFcj7uTQ-Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Daniel Reyes Ortega",
+            "author_url" : "https://plus.google.com/107420312196041282161",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-jvDzVhnR5sE/AAAAAAAAAAI/AAAAAAAAaPI/gMVlB4nGXdE/photo.jpg",
+            "rating" : 5,
+            "text" : "Para todo hay gustos y aquí los amantes de las piedras y de los dinosaurios encontraran su lugar favorito en la ciudad, para empezar el edificio es impresionante, no se mucho de arquitectura pero se que es una obra de arte la estructura, cuando entras al museo puedes apreciar la belleza del lobby que tiene unas escaleras muy bonitas al segundo piso (Este piso esta cerrado al publico).\n\nLa entrada es muy barata ya que cuesta $20.00 al público general y vale la pena por todo lo que puedes disfrutar, tienen una gran colección de minerales, muchos de estos donados por los mismos profesores de la UNAM y además una muy buena cantidad de fósiles. Siempre hay personal atento a los visitantes, explican muy bien las diferentes piezas del museo.\n\nEn la planta baja podrás encontrar muchas piezas interactivas donadas por el Universum que si bien no tienen valor histórico sirven para que los visitantes más pequeños aprendan un poco más.",
+            "time" : 1443800869
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maestro del Disfraz",
+            "author_url" : "https://plus.google.com/109213876108122805154",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-nTjyK5XLnOk/AAAAAAAAAAI/AAAAAAAALr0/9wLsL9Z3_XA/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente conservación de un lugar histórico \nY la preservación de los fósiles que alberga es excelente ",
+            "time" : 1451452223
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Guillermo Barranco Castañeda",
+            "author_url" : "https://plus.google.com/107378622757812355806",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-nb-AUcHWDi0/AAAAAAAAAAI/AAAAAAAASbc/DaCJARZ0qAQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Súper interesante, los cubos de sal y las barras de yeso simplemente impresionante!!! Y es de la UNAM",
+            "time" : 1449875858
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Paco Mendoza",
+            "author_url" : "https://plus.google.com/116525018282111419470",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-Xgh5WTHKdZQ/AAAAAAAAAAI/AAAAAAAAAvg/5AtPgItw-nM/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen museo limpio y excelente estado\n",
+            "time" : 1433520957
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Hernandez",
+            "author_url" : "https://plus.google.com/105915543792929593440",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy buen museo, con una increíble arquitectura, puedes comparar también minerales. ",
+            "time" : 1458004459
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14939090049406359485",
+      "user_ratings_total" : 64,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Jaime Torres Bodet 176, Santa Maria la Rivera, Ciudad De Mexico",
+      "website" : "http://www.geologia.unam.mx/"
+   },
+   "status" : "OK"
+}

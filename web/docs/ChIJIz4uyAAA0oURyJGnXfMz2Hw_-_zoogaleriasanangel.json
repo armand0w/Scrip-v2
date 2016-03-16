@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "330",
+            "short_name" : "330",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rio Magdalena",
+            "short_name" : "Rio Magdalena",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "La Otra Banda",
+            "short_name" : "La Otra Banda",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Juan Rodríguez Clara",
+            "short_name" : "Juan Rodríguez Clara",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de Mexico",
+            "short_name" : "Ciudad de Mexico",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "01090",
+            "short_name" : "01090",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRio Magdalena 330\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLa Otra Banda\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01090\u003c/span\u003e \u003cspan class=\"locality\"\u003eJuan Rodríguez Clara\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Rio Magdalena 330, La Otra Banda, 01090 Juan Rodríguez Clara, D.F., México",
+      "formatted_phone_number" : "01 55 5550 3996",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3376147,
+            "lng" : -99.19487799999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0ef4706b82a7360170be04abd3704d625986577a",
+      "international_phone_number" : "+52 55 5550 3996",
+      "name" : "Zoo Galería San Angel",
+      "place_id" : "ChIJIz4uyAAA0oURyJGnXfMz2Hw",
+      "reference" : "CnRpAAAAlApAwxB8MmWNpt9cm30rzWQtSsbhesrbHk6yMBhO76zyyjHS_6eSQVEEJwuPgcBPqse-cYTAXrcmM4PAvLGzb9vhzuJwT9Z4GuWgVvFWhBT2lG0Bq-U7eQF-VvngOdDOXxss0vdryi5JwqzORYminhIQbQGtAwMkA15Iay5MivSM3hoUPYaW4cvAh1gc4zay2PUGjIrIVxo",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8995997376013898184",
+      "utc_offset" : -360,
+      "vicinity" : "Rio Magdalena 330, La Otra Banda, Juan Rodríguez Clara"
+   },
+   "status" : "OK"
+}

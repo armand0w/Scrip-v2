@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "República de Guatemala",
+            "short_name" : "Tacuba",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTacuba\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Tacuba, Centro, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4358042,
+            "lng" : -99.14028739999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "77dec4d873e36e232fed3f7ae91b3706102a994d",
+      "name" : "Museo de Marina",
+      "place_id" : "ChIJgYH8fiv50YURsc1_u7FJEtA",
+      "reference" : "CnRjAAAAYLEj8IhIPFdj_FZtNDrkmZcHqg7lc0OAcBwIb_Kisjw3K_P1JumWvLayRvPFL2cvCUo8ITCsrMrBCtKGBT53Yyt2pUCxn19KE2X6Ov_rcJhfHHhxuN6ZpMvqEItycEYe1s2wOSWcwUjCRbj6dNJR1hIQ9yMxgFsovBkT-uHCbApjlRoUfIibQ__g8BrGXGqyLk_DePS6-qA",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14993127137173556657",
+      "utc_offset" : -360,
+      "vicinity" : "República de Guatemala, Centro"
+   },
+   "status" : "OK"
+}

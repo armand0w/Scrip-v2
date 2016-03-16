@@ -1,0 +1,165 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Avenida de Los Compositores",
+            "short_name" : "Av de Los Compositores",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bosque de Chapultepec II Sección",
+            "short_name" : "Bosque de Chapultepec II Secc",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11100",
+            "short_name" : "11100",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv de Los Compositores\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBosque de Chapultepec II Secc\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11100\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av de Los Compositores, Bosque de Chapultepec II Secc, 11100 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 222 235 5075",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4104292,
+            "lng" : -99.19743749999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "c4cd21714e9cb064f4d9487bd53cdc12a7f17c92",
+      "international_phone_number" : "+52 222 235 5075",
+      "name" : "México en Miniatura Mexico MÁGICO",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–17:00",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "place_id" : "ChIJAzzI7-YB0oUR_GU44P_m9sI",
+      "reference" : "CoQBdwAAAJbc0XJE1Kq8vgH8-g6Pl_uMPr7_yWe2NSd1y3Ccnq0S5Aj9Ll8JVDgpMv9s5NNbEcId51ALQAFjOjLaQt2SLshJCJ3hUIFy4ifoBbN_RuP6vn9RReRYLKGGY8vhWahgidGZP01pdJm0rmNxsgc-z9hR9FoLkW9xQn_tNeV-_IdhEhDOOl_jseghl5C1osiuY-GBGhQV_Q1AdWTy7FmEQJWEdg78uxXB8g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ocda Varela",
+            "author_url" : "https://plus.google.com/110319226786853392468",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1453064501
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14048670074281682428",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida de Los Compositores, Bosque de Chapultepec II Sección, Ciudad de México",
+      "website" : "http://www.museodeminiaturas.com"
+   },
+   "status" : "OK"
+}

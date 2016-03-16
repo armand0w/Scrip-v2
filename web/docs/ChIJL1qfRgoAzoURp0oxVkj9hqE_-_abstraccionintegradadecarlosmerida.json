@@ -1,0 +1,51 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Avenida de los Insurgentes Sur",
+            "short_name" : "Av. de los Insurgentes Sur",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Coyoacán",
+            "short_name" : "Coyoacán",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv. de los Insurgentes Sur\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. de los Insurgentes Sur, Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3168945,
+            "lng" : -99.1879666
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6a0b9b508cfc4d3e6085f8d05db3724959e1ff1d",
+      "name" : "\"Abstracción Integrada\" de Carlos Mérida",
+      "place_id" : "ChIJL1qfRgoAzoURp0oxVkj9hqE",
+      "reference" : "CoQBfgAAAGSUS4UIxB6uA-c6n1N8qGbJI3Pro6siKR3wEOVQ56ZeDnN3qUFDRwRoV1XmOjFeH5pMLjjWA2XUqPFXC0oh1G5Sa1DyTeSY4xBoDflU5YkNoPoqXugoEo8jc_tNgWzb023cTvBddE6ifIZq5D_4rrr9JLybAglWvOTlHmqFEcZXEhBYtZWdAkEuTU091HB2EJckGhSIzsuqd_FQOWsRYxLQuxu2ZyVvdQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11639268774111169191",
+      "utc_offset" : -360,
+      "vicinity" : "Avenida de los Insurgentes Sur, Ciudad de México"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Zaragoza",
+            "short_name" : "Zaragoza",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Barrio de Santiago Centro",
+            "short_name" : "Barrio de Santiago Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Zumpango",
+            "short_name" : "Zumpango",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "55600",
+            "short_name" : "55600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eZaragoza 1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBarrio de Santiago Centro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e55600\u003c/span\u003e \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Zaragoza 1, Barrio de Santiago Centro, 55600 Méx., México",
+      "formatted_phone_number" : "01 591 100 1337",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.5438026,
+            "lng" : -99.18952949999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b09a4aad42ae0311a3987cb8fb18c2cc4e1ff2f9",
+      "international_phone_number" : "+52 591 100 1337",
+      "name" : "Casa de Cultura Wenceslao Labra",
+      "place_id" : "ChIJTS0Q05L10YUR6yq2YyG3qPo",
+      "reference" : "CoQBcwAAAI9tKWNx_8iU9G9y4WZldoOYzR7wvg-vVMtnxyFSlfkiubCE7S0PaD8UTGmzW2tBAvi5tizUvoZK5cmuxhDZ5e7Z77VedpEpwxinX4nj9v3wUOL1l57AoZIriMaUlXduR-1nSaXdn_2H_rcZ-gf90x93yMgMMk9t-7HE7eNQqx5AEhDpEw1LB3DS1IBY6tRrHOKWGhRkmxrymrZ80sPW8zc4jswfvzYDxw",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=18061887659604060907",
+      "utc_offset" : -360,
+      "vicinity" : "Zaragoza 1, Barrio de Santiago Centro"
+   },
+   "status" : "OK"
+}

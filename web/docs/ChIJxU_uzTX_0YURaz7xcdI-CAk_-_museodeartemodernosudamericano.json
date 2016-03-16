@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "30",
+            "short_name" : "30",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Estrasburgo",
+            "short_name" : "Estrasburgo",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06600",
+            "short_name" : "06600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eEstrasburgo 30\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuárez\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06600\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Estrasburgo 30, Juárez, 06600 Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4266293,
+            "lng" : -99.1653213
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b6ec36e78f750e7f97d3819bbef72e92e5851fff",
+      "name" : "Museo de Arte Moderno Sudamericano",
+      "place_id" : "ChIJxU_uzTX_0YURaz7xcdI-CAk",
+      "reference" : "CoQBdQAAAMZ_udjl1nRDaZ6HJc9nZE9NGLX7nqCJ09vGImC1tX125N3t-713GRZ81wTo1EFCknt5u4dfA_PNaZnkQ03JMucWMamICkjl7zAgYLWzA-9Xm2Gqu06_nokxRQ1Zcv_UugPjJVJepzB1PbXD_2z1I-CVtc5xQU1olhN_g3oEWiRbEhCipLGQ4j_jSvN9Vt6Yw5SxGhRmEBIT7GCyuWHrFQYnH-8razDqPQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "El museo está bastante cuidado y conservado, ya que a simple vista lo puedes detectar. ",
+            "time" : 1378506143
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=650839219730726507",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Estrasburgo 30, Juárez, Ciudad de México"
+   },
+   "status" : "OK"
+}

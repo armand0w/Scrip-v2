@@ -1,0 +1,289 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tabacalera",
+            "short_name" : "Tabacalera",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06030",
+            "short_name" : "06030",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plaza de la Republica S/N, \u003cspan class=\"street-address\"\u003eCuauhtemoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTabacalera\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06030\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza de la Republica S/N, Cuauhtemoc, Tabacalera, 06030 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5546 2115",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4362401,
+            "lng" : -99.1545575
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "cd4b1e39cc40e03caba4f5bba2f5a59a2c1c928f",
+      "international_phone_number" : "+52 55 5546 2115",
+      "name" : "Museo Nacional De La Revolucion",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 9:00–18:30",
+            "domingo: 9:00–18:30"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3328,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100583646545123340620/photos\"\u003eJuan Carlos Lara\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAr_M4KtSCF_BfHcroMiZjcO2E1TCmJQKRpZzP9mhsBJg0VQEIDIoPTTsWP3kaIHgWXDeYMQW8P0_IEhesCTU-asNJB0G8FURHRngJAyxVfPUuLCPgoulEHlgE2BCLOpw5EhBmF1YS1j2pRNy0Q1aYDSJxGhR3TXSNUfBUpJqTCiJAratEwFQ6rQ",
+            "width" : 1872
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110695431386977030717/photos\"\u003eJacobo Landeros\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4MOs87ADuRquzG1u3dvPKGmlZKsdbeDy9ZJYzoBg9FSvf73o1OZ5bmQ_wDnPzqpX9X0H0ygmoa23TyhI5S0e4NCabtBzLymD82XM7Ickb9oFxieY5OSa7YMQiUNKH9LeEhCnqvoOo6EFgLySIBZVNRQ4GhRBgbMYmqbL27Bp3w4Our2UgGpECA",
+            "width" : 1536
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108116953351263492890/photos\"\u003eIsaías Piña\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANsXjgyTdOPe2SW8Y8OwhwxNS1-E02hmUcsBWC9CivocwRR9NZGA86Gj0EVlXxplbeLrhKTlm-wtNEesXeQT6RjQ4k1xspnRu0KHt2H7T_g6URNHylDTtUt92blUsq3HjEhBxaWA5VudsrcHaCHHzqIdvGhT2YvOkfP3uArEz1xDyHdSrRwnV2A",
+            "width" : 1944
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104307847380401851404/photos\"\u003eLaura Islas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjl2tfhzOgfjB1Ztu9irp_l3kPDCPY-zcXPADY_J78m4mzaSIPwVc9Lax71choKThlH-GtoG7nTd3DiURETagjA3ix97Dd8rVophPQZC-9BpcplHNiK5WHVu1h0vAgSY3EhDxnlHzRYP4rkNOpUKfea_nGhQ8SkLOrvRIUCx5-C_DqxsvHIeAeg",
+            "width" : 2448
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105903461543396873900/photos\"\u003eKaRiNe DaemoN\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUlCDc52yfURux3HfBEJIaByt_YCqLstzuxnGyJuI_Y8UYDgm_wAVqZWUudUtnEP1G9IOkBLmnaxDWAZyQSWO8vCBT9IPIHaHZ_ob33SsFmd-x6vC5DRP8oyCdiVUn88NEhBsckpAZ_ZQSOeX6gbQK3rnGhQ5xWZVd4zUQTFQEUId6QKQCIgFgg",
+            "width" : 1200
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108704993032246012115/photos\"\u003eTomás Rojas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAW16zkdk08j9wmwjiuO3G7EcCv2pssR5tludZwjqmv42pNMVFJ0NmxNfyDdjD1Z4gu6IE3wLy5BFrozyuE9qtR4chsdTW1KmDyH0H-hlyKnncy3zZawEzHpEKd5Oprp8NEhA5tywbLBMy48RJ4BfKw-niGhS_mQz6V607CH6sQkzVnlvkTHwb6w",
+            "width" : 3264
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108414984300683943206/photos\"\u003eAlejandro Portillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkpsD8YJrZrOZ_BBqWPEe-0SvTALXyet6RUbIjsEAfHYt5XiTiM_mAVXsQacnlRo-k46WxSrlGoCMfP8yZJJmbcySMrs47AMoKtUjQImFHgk5GOxUAT8ynjrHm1j_uxDGEhBRpSqiFM82Q370bgIytgA6GhTXBeYbVdcyNH_UcB0ZFwr1R2ckAQ",
+            "width" : 432
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107588858836221257863/photos\"\u003eArturo García\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwFcb8AaF01fSHtyujIhR8fAciXC-ekVcc--qCC8S6SONxgedN9T3rk78yNC2nEydHfv-QymrHmMGJs5V2YikC39sT6clJ49rKssjvKqSj3OEhTgJ2PxIaLA2Rlo4JeQ9EhBTSK7Rto4ZtNVgq-ghkxanGhTuyAeAsynIZbfWn-kq1c4DixZPDw",
+            "width" : 4128
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118181939737451362422/photos\"\u003eAbraham Furlong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAAMZNOH7d1ookVHIMkcbWqA8uu-WFeNspxY7Uk2It-PWyLeWn_AhiJX4XNg_xZpDYJ14hS2_9rOyU-xjl5t5JDuW7WEIOisSuQ_9lRhAcidr-9jD7fztevRhp8ZbKjjUuZ11hVKqIXFvTOe3l16xUk3Wd2l5K4pQEawcXSGeljrFEhBlV3_fzLMsaQvJZi3LW8dbGhS4rypTGfiMi2c4XNWrZ5P6mCY0EQ",
+            "width" : 2592
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105903461543396873900/photos\"\u003eKaRiNe DaemoN\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAyv3ZPG7Dt4b_s-MWLnP62AxCEcctj9VUP1K1xUWumpFi96QpMR4EB93_HB2qzbr7wU34wu8vOzHVfTTGIac2-9I5SKoEE49zFdgolqdio9LD5LbtUyKw1pRZg7SeEfqXEhAYrKt7hgVc0EOYSwM_ZeHaGhSV32I-jp5Z-C9_7AC9DLMc5Qn5RA",
+            "width" : 1200
+         }
+      ],
+      "place_id" : "ChIJp3fITNL40YUR8jLpctRbE94",
+      "rating" : 4.4,
+      "reference" : "CoQBcwAAAKobOTAMUa2uC9v_mwZD6M-P6ilE34_Xcx77MzopXyhrQ0YbsI05IyZ7d9u0Y6x6kJ3AXHTLlgchm1zU1aQseKTkLh5YEzHtmhS7PMjZNoOjuAnszJrcXmAoU3s-UIthjkqvPjxvS2Zd3YVMm0ikuSlPWd4ewGVHRwSFFScJH5DyEhCxzH3kG1QgMWYCsYrC16eeGhQ6w7-phuNPr5QEzM0Th__74kedNg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joshy Sanchez",
+            "author_url" : "https://plus.google.com/111993683898657034880",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-PNG58kLDYBU/AAAAAAAAAAI/AAAAAAAAA08/nE0ZkGfLimg/photo.jpg",
+            "rating" : 5,
+            "text" : "El museo está pequeño, pero esta muy interesante puedes apreciar la historia del monumento, hay recorrido por las entrañas dónde te explican el proceso de construcción y materiales utilizados, por último el mirador 360 te proporciona una buena vista de la ciudad, buena para una foto del recuerdo, y la bajada en el elevador panorámico cierra todo tu paseo. 100% recomendable. ",
+            "time" : 1451834549
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Islas",
+            "author_url" : "https://plus.google.com/104307847380401851404",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-u1T8OnHsQJs/AAAAAAAAAAI/AAAAAAAAAPI/l43y3qH0fqo/photo.jpg",
+            "rating" : 4,
+            "text" : "El Museo de la Revolución se encuentra debajo del Monumento. Por lo general lo más visitado es el mirador 360º que ofrece una vista muy bella de la ciudad; pero vale la pena darse una vuelta por el museo.\nCompletamente renovado, el Museo Nacional de La Revolución cuenta la historia de este sitio que inicialmente iba a ser la sede del Congreso. Estaba pensado para ser más grande, incluso, que el Capitolio.\nHay documentos interesantes como una copia del telegrama que el general Ignacio Zaragoza envió a Benito Juárez después de derrotar a las tropas francesas el 5 de mayo. También hay una edición original de la Constitución de 1917, la cual por cierto se imprimió con la primera rotativa del periódico El Universal, la cual se encuentra en el Palacio Legislativo de San Lázaro.\nLos domingos la entrada al museo es gratuita.\n",
+            "time" : 1443553180
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Mario palma",
+            "author_url" : "https://plus.google.com/103260224036803254021",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-LFJnXlujeLk/AAAAAAAAAAI/AAAAAAAAA6U/i-GdVCj9Tbk/photo.jpg",
+            "rating" : 5,
+            "text" : "Bello monumento \n",
+            "time" : 1453693262
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "osito eliza",
+            "author_url" : "https://plus.google.com/100256271896545776374",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-PE94Ck0Y3KY/AAAAAAAAAAI/AAAAAAAAAYU/a3sVhM1e-s4/photo.jpg",
+            "rating" : 4,
+            "text" : "Esta muy bonito el lugar y es muy facial llegar ",
+            "time" : 1433189594
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "francisco supervisor vial",
+            "author_url" : "https://plus.google.com/100461853689096071048",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-4mNo9QTLDZY/AAAAAAAAAAI/AAAAAAAAAGI/FIs7fuJlxEk/photo.jpg",
+            "rating" : 5,
+            "text" : "Es maravilloso la forma de su arquitectura,  francamente fabuloso. \n",
+            "time" : 1455160284
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16002234868996584178",
+      "user_ratings_total" : 56,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza de la Republica S/N, Cuauhtemoc, Tabacalera, Ciudad de México",
+      "website" : "http://www.cultura.df.gob.mx/"
+   },
+   "status" : "OK"
+}

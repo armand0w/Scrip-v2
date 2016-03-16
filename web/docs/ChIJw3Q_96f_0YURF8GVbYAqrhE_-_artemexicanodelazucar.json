@@ -1,0 +1,142 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "950",
+            "short_name" : "950",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Cuauhtémoc",
+            "short_name" : "Av. Cuauhtémoc",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Narvarte Poniente",
+            "short_name" : "Narvarte Poniente",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Benito Juárez",
+            "short_name" : "Benito Juárez",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "03020",
+            "short_name" : "03020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv. Cuauhtémoc 950\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNarvarte Poniente\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e03020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Cuauhtémoc 950, Narvarte Poniente, 03020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5523 7493",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3843221,
+            "lng" : -99.1575675
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "20ca9a8b8e39fd1b857636a8e9273dc5f856be60",
+      "international_phone_number" : "+52 55 5523 7493",
+      "name" : "Arte mexicano del azúcar",
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102895656933047774651/photos\"\u003eGabriel M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANeCoiE_lvL-Mr2YmHEWRLxlk571_8gx0LRkNtY2a5CsHUBclYvAGS7nLne_aOpIowmdbH9eUrXlDXE0ocmNwOyPH_s-maPBCZ0YdaVoAlHy2LIyRy44fGHO9ixFx9iuwEhDfNC00y2FoiQv0ffkyF34vGhRdKLxRaFk8Ql4unaaV95Y8ER8zPg",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102895656933047774651/photos\"\u003eGabriel M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAK2NkxBCl09vRo4TdZob4-gD0gxzZ__M4a_qa7S7a9YxnBKRr0auoFRIj8B72Aoaxh8P9l7-KJnkHuA1H5BIKYhtVWvbSG73GXOsQ7AAxS2LIEFS5Y9fyRxkxYRmdU1kkEhBgq0whF0Tb4-kDDrqReTR6GhTajPPVE1qPilDRF1ENIWO2t-RHbA",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114982505112570608169/photos\"\u003eArte mexicano del azúcar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9ErkVvnviBfNCEEpf5YEyDQHAqIDOuX40bBlEe6vJblcOJ6-2q6hVaOyw6lzh4MvcDSBOa5NLpljTT56hhkAaooQtiaRSgrNfUsURNciIqOkdqDQ6wxP4Dok2XIEg2V2EhA6wDMuewn8u7wosn71T2O9GhTuv38Hm5BgYg229Lcs3x3yXM1BWw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102895656933047774651/photos\"\u003eGabriel M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwjcgh6NT-325AKDTs-bTzkJNLoMkthJC8JkQc_VU7jSh5cUYwm2gtldf-AZs3sl-HxsAW1WArZQS2WMYLxt5eUQ7ZkiX7DCM_-iRBzUml1wWq0lUKSnSUYcN8_P_xLYREhDz5iMOgbnEiQ2gPoSC-2ePGhSo0ncZZYqa4Kbk8bbxr4Jz3DQtmQ",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114982505112570608169/photos\"\u003eArte mexicano del azúcar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8RfUxNKA4t2_Yk2RIxVjPXUiJOfmLqfX_XDSqCqosamEtQDMOSoT1RPfI9JyYRZvXuX4Rg2QN32VwRkoVgXD_m_x6diCUKb_2CedaEekuFKSayuym91HZjK3XQKy1jSJEhDAEK7l2FCd42r6q0BxsZ9IGhRyu0cOCzgw4sJ0JWEXFk1ihOI7iQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114982505112570608169/photos\"\u003eArte mexicano del azúcar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAt6_Abrh6yffJ2LWveVoRskn6apZntIu1sZ6Hr162Ogd5qeAVgisH0XidOO0lYdnx0IJMTrdvTpq19MPN5-SS9Wm8but-vWBC1s2bY5d5Yajvqez3xsIjMAVTODF85mClEhCV4ivUp5iZgBkv_--jhyTjGhTNDIQA9FS1pt1Lf4xOktPOc5ASgw",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114982505112570608169/photos\"\u003eArte mexicano del azúcar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFIiSskzjmXz9aseLvf_kOMP4RNGHD0blXeDtVe3H7cfsFcq-F8UJR_gbeU9eyc1RKSBd07vqdtLAB4syULpLD63EwNXGR_1CL_bZBGKmNnKNCIq7dDeHi8UFUSRUP0VOEhBywFhgzNs-B9ApbpOcAMttGhQ30gNnBCl0LpMnAwVVaTQBDXD9Iw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114982505112570608169/photos\"\u003eArte mexicano del azúcar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdplPWc-sWKyTKsvUXp-WVFX4KumPfGvOKwZtuSrR4qqhAkcEnQUhh85MOdP9NOWS2hTldGQI5zYZRuf0mkIyeHjDlOiP95ci3HYbKVrpifmlhiqDzJBnYxY2RCb1XtgBEhA4mgPmTDRiCExcm5vWav77GhRqvzNF3zv0E9EqBFKYp22afA2xLQ",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114982505112570608169/photos\"\u003eArte mexicano del azúcar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA1_CE1IEgX68yiq2UYPJj_NcJ3xPZxg3om5_Db_FvYLXOOs83UUlDOheQ9GMv2yu3hBDsJGehBkilAwyshZYhei2WdV6IMbj9Lxvym3eCAz1rGGlrsMlOduQpRGvh3J0rEhCrVBSRPrVNnC7z7IING7QzGhSDsFI2CrJqt7MgMoJ5aggLsn2Xwg",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJw3Q_96f_0YURF8GVbYAqrhE",
+      "reference" : "CnRsAAAADIGcbeKVDwVUxkn2Q8gciAz-Y_Z8E-aD7diT5IhZFm8E_RyizYRVTM19w1WOF5jWonRDlyTwZwXEJ5iF_0J6rX7WB8el8SMQzDEjTMmo_AI2yfEXyR6b1vGNCG5l9Rt8rqcCnzHDDc_QgljBHP5ZnxIQjh84ZorAB4daXKQ19dcs9RoUpYaYGIOzbp4_eUkwvEsgrJR2RKU",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1274002475675140375",
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Cuauhtémoc 950, Narvarte Poniente, Ciudad de México"
+   },
+   "status" : "OK"
+}

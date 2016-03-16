@@ -1,0 +1,241 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "Ciudad de México",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "D.F.",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06010",
+            "short_name" : "06010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Tacuba 8, \u003cspan class=\"street-address\"\u003eCuauhtemoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06010\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Tacuba 8, Cuauhtemoc, Centro Histórico, 06010 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 8647 5430",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4363724,
+            "lng" : -99.1394165
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "58b43397a7f896e93ea45d6c804a1c278b473759",
+      "international_phone_number" : "+52 55 8647 5430",
+      "name" : "Museo Nacional De Arte",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109747793098916934740/photos\"\u003eRicardo Blanco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqJtIoS28jc-VUoqcqBhh2Tpj412OSuRg6Jbu2X-ySfFgdotTDJgHOZdR8S_W3JiuR6gzCX0Tkkl-eNx1gs-7w5IM9DsYQHZVt3F4L5HyLsGz_j2Zwbx5JgLyROhK3RA5EhCNx4k05VWZeqjuXJ5zbW-TGhSfPzs5BoPBh1W2L3aBU6yzuc6iKw",
+            "width" : 1296
+         },
+         {
+            "height" : 1352,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105666396483772347559/photos\"\u003eOctavio Alonso Maya Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4JTGlMhmVYiBbhzO50gEpiVqrJ9W8cZfkr3aq4fI7Gtq_cnPALWOd3zCYb7fZyf9odtKBc2_GhCERf-zXlNpsSTAsBdpuLZbA5x0UwQqUMIiHL30WSQYgsvYMOmthrGaEhA3ha-5IGvd9WcoBQF7cijBGhQvP3NHPDLMQvoz3arwtTH0kM8PbQ",
+            "width" : 2048
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104712270120705069535/photos\"\u003eMuseo Nacional De Arte\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhrueYbq0KsR1utFtt6oVdCFGvJZwiyWM9I0BLpO-e-1Sr1FH9ALshei5xl0cfVCeHlkqumc6P0EOGploxJH6R4_pFFSu2X4-i94rU-FykwMlVSDm1volUMjFzh2452ptEhATGbY0vk8jFIbgHd366pV_GhT6w0pXHRROaZ0CQlHHSCuL8I6HZw",
+            "width" : 800
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105666396483772347559/photos\"\u003eOctavio Alonso Maya Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkxIJ-r1j4jdA9zFJ-sn3KLLr9MNWVqsgssxivoHdlqmxLucWBrCsE8qAobgn43-I98LILaMTiNSJAzoeiudBotiin6mMpfPpXn_dj42FogE3rNdjZ4a73aODLcDLCee1EhCXSGl7J7j5ymA2auNbxuCLGhQ3oC5onAjZyd_Tl-w3l2Vs2CJhVQ",
+            "width" : 1364
+         }
+      ],
+      "place_id" : "ChIJ0fhThCQA0oURALaHxBtFZ14",
+      "rating" : 4.6,
+      "reference" : "CnRpAAAAInE1Grm43jzpzfg5U5XzwcXtPhnsxu9kLABTpQ2YC52_mBTsYmisnTGWwRAMwRnz0IvpzNFEhT6pzXXnSuXOGZKxuszsn7-hkYwl9te0-TCTLKzBXZuzPhWtfPfuWw34-zPFMfaOM_B9ZEt71erGvxIQh2S4eYNwlv4wCJIm6BwLERoUtKhlMPdcXlBI-resi2pm2-rrvP8",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Islas",
+            "author_url" : "https://plus.google.com/104307847380401851404",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-u1T8OnHsQJs/AAAAAAAAAAI/AAAAAAAAAPI/l43y3qH0fqo/photo.jpg",
+            "rating" : 5,
+            "text" : "El edificio que alberga el MuNal es uno de los más bellos que hay en el Centro Histórico. Este lugar fue se llamaba en un principio Palacio de Comunicaciones y Obras Públicas; fue uno de los edificios que Porfirio Díaz hizo construir en la Ciudad de México. Su construcción terminó en 1911.\n",
+            "time" : 1454811986
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gala Menendez",
+            "author_url" : "https://plus.google.com/105209473950689379603",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-INvC4ddhMNU/AAAAAAAAAAI/AAAAAAAAJt0/u8bnYy3azEo/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente museo, no solo el recinto es bello en su arquitecrura, sino que las exposiciones son maravillosas; \"Yo, el Rey\" fue premiada como de las mejores exposiciones en el mundo el 2015. La curaduria es exquisita en sus exposiciones.",
+            "time" : 1453491473
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Escobar Rafita",
+            "author_url" : "https://plus.google.com/118261561732891656313",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-O5Ix4e29RfM/AAAAAAAAAAI/AAAAAAAAAGM/hNz9IsEY-P8/photo.jpg",
+            "rating" : 5,
+            "text" : "Exposiciones muy interesante y una de las mejores representaciones de la arquitectura de la época de Porfirio Díaz. ",
+            "time" : 1454713773
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andresqm16",
+            "author_url" : "https://plus.google.com/100891892288730242414",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-5CEuch5N14c/AAAAAAAAAAI/AAAAAAAABL4/F_TqX_exHTg/photo.jpg",
+            "rating" : 4,
+            "text" : "Este lugar si que es interesante en verdad pero sobre todo impresionante. El lugar aparece en la mas reciente pelicula de James Bond, spectrum. Adentro del lugar  hay muchas pinturas de diferentes siglos y arte. El lugar es un palacio, tiene muchos detalles en cada parte. Desde las ventanas, las puertas,las escaleras y el techo. Parece de pelicula literalmente. Tiene mucha historia, hay un salon especial con toda la historia del avance de las telecumunicaciones en Mexico. Hay algo que ver para todas las edades.  El lugar esta super cerca y es facil de llegar desde el Zocalo. Esta sobre la calle de Tacuba. La entrada es GRATIS los domingos, tanto para nacionales como extranjeros.",
+            "time" : 1447713885
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jorge Pedrero",
+            "author_url" : "https://plus.google.com/107746583722011294656",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-KrH8n8Xl3y0/AAAAAAAAAAI/AAAAAAACNtE/Br7mZbRc2dQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Hermosísimo museo. La arquitectura del lugar es impresionante y las exposiciones de la más alta calidad. Si quieres visitar museos en la Ciudad de México definitivamente éste debe de estar entre tus primeras 5 opciones.",
+            "time" : 1447960215
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6802481747730085376",
+      "user_ratings_total" : 169,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Tacuba 8, Cuauhtemoc, Centro Histórico, Ciudad de México",
+      "website" : "http://www.munal.com.mx/"
+   },
+   "status" : "OK"
+}

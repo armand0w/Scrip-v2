@@ -1,0 +1,262 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Angel",
+            "short_name" : "San Angel",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Angel",
+            "short_name" : "San Angel",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Reserva Ecologica 8",
+            "short_name" : "Reserva Ecologica 8",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "01000",
+            "short_name" : "01000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Madero A, \u003cspan class=\"street-address\"\u003eSan Angel\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Angel, Reserva Ecologica 8\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Madero A, San Angel, San Angel, Reserva Ecologica 8, 01000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5616 6121",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.345173,
+            "lng" : -99.19085799999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6ca474fb6fd1caf8f20cec89c5dfdcdc432fc34b",
+      "international_phone_number" : "+52 55 5616 6121",
+      "name" : "Kawsay Artesanias",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–19:00",
+            "martes: 10:00–19:00",
+            "miércoles: 10:00–19:00",
+            "jueves: 10:00–19:00",
+            "viernes: 10:00–19:00",
+            "sábado: 10:00–19:00",
+            "domingo: 10:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-qz_t9vifXr0c9SDQa-UvJHRHC9PrFDgoRqARvq83O8S3hAOkWGibUTa_iaf4y3LRH0y-ox9DP_s4lmGOpECsEAnn_ydcHtWlmp5stqjGkNFwGO8vuebeXtuJHI66eU3EhDHwjEJ0XvfDwQWwLBuri65GhRNL5u7M4cyF7ah94AZPZlWPBqR2w",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAg6TT5-ftLSGf0TO5_jTJuyHuxK3z8l-YVfrGrdSNEXSGl2IrqYV3FYBKq_7Tn0xWborBhqhdHKNkr-JnPQZS2np4pa76NRxiJSbFUHx2J8k8k2O2Jq-mh5ZhtbKlI2EEhCLJx0NNYfbsZs25-oUpJi5GhTngWilBx_pNSzgqBxIoVwB-h3WOA",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAoCTTmpX_iIP7RX8yP4tsNF-zMOlFrNfRcnj948NMPMc1NdA5hlR7adIJSEoG-ZyKN_ISsK5ZsLXbq2vhzWEfZZD843ETG4yhvwpWD6_zwbOLxTgAIz6aOziutLC1Q3XwEhBDHC3Aq9zTaoGsRTqlfk49GhQCsinyTwVkaLxRcqBEZcYIANl2Ew",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAoGXavaYJxihOq4kaVoKcWAN_Je5WCpXp7UA82QdCvtnDVKdamICpVWzxVceS2bqZ4QIARoS-vyBZqixk-dRujY4KYKQSVz8UT9g4hX5FjT-rTwA0fstxJR7UksvFPnpzEhC5pinRhtdlVLqdhzBMiaDpGhQ4tHwu2WXTsdcxwFXmKjEu58V8Sg",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARPYhUJ2z7iwyTbxwCoXS1tSBbdO63R9z0Hp0U54wGDxGj29wiGepOKBWWB3DwnIT-1yHyM9OYMQSuMLZzLs6-8YUt12Ryl01JrlH5K4GJZB9OXrzvsJV86HXi6Pw7k8aEhA_91itNbD7wFxfPJN7LfZdGhQSJIzJEsuKBYVjkokvdp3QCVAueg",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA6mII0gYGLIP87pXrDFZ__-Ukv37TPCRJ-hx7vCrJGZBhABIPnjAPML8qaB86ypN0baoXZJ8qYr3nQP81AnirrQo86_zsuMNixFti_O706sUj2fIeTFANNPaOInYCLbmUEhC08FoR4CZq-9y3xsgNn11mGhSR8uDAkHj-bJx6u2W51IaLJyqtAA",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApBb2c2_ffdR1ZK7SEBoZlCucWmM3mVZKEErmndoy897YVB17lSetM236PxeMiPAHrPOd2yh3de_j_5C0eOw64Sa775bFqz8CNZU6k9_wTVtsm8k4TEYRIyL1N2ugxawAEhCKxkCd3rfSeVoGXrHIhPiKGhTlapZ3KAKfUSWBm8tpeGbkDjgaWQ",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqy_kTA43yxOBItQNgU1Lu6S42vmPl5AwFsBsNE1Ok-4IvS6lKkoP6siHmKfraD1RIhl1E8x6QgEvMVhSVnMpcFZXZpH6v1bi9Wt9LpzL_dF66kVoEKuneHdiCRVWX_0yEhD5xKNNHEiTIOifeJBG7XnzGhSjF8SFGQgkgQbp4SA3jorM1okV9w",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhdBdSsii-IAZIWmn5Z3t-mysQW6kKzKrmGqBHnyLRwfubOjAwNiBdToCbvYCjYh2JUmO6IhttKBI3KU-6HAqTcxwW1SAam6NikCkeHmaV7SnDbtpQO6gvjHFAGM5Zv8qEhC2FrgUASy2qhY2B6CSCKFNGhT8zLBv4-lL70gfXOiYfCiU2ZjrSw",
+            "width" : 3456
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115305596275469005911/photos\"\u003eKawsay Artesanias\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA6OvXpQfJ1cYuLN7Q87xZ6apbW84hEGzRpMWxms7piX2vALiMjDzc6-khXDi4cSuJyQAzKIO517r8_3QkUo-tgDioxwjohiA663nT91OcOE7YvQxzp_vlk08ckQVq-onbEhCG4-HjSn-lb4-blMbWeag3GhTcqhykwn98aO6TQ3wmb0jVRGOU_A",
+            "width" : 3456
+         }
+      ],
+      "place_id" : "ChIJw-zyiQIA0oUR_HSwxQF6GS8",
+      "reference" : "CnRkAAAAACeeFVhShfMB2nsa9H5WU5hkAqK7Vt0HZpZNo1lDeCZ4Pr7lAK1ZjBZXwcgOztNyPO48zJF2C0HfvZn9UuixFVbC_UlEch1RGlDj80PtMl4vglIadkTL08YOXBanoG9mH2MwbTt35A6w4b3AK6qQYxIQ9xyXSEBJClfnMv2INZnqLRoUUtE9gH8ZU1at7Zzm0JPzFa_B-5U",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aldrins de la Cruz",
+            "author_url" : "https://plus.google.com/111479600319513429216",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Excelente opcion para visitar y comprar artesanias. Me encanto la tienda y el surtido y sobre todo, la excelencia en el servicio. Muchas felicidades.",
+            "time" : 1445975128
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "J&G Pics",
+            "author_url" : "https://plus.google.com/108977041362042103562",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-f8H41-qPzGM/AAAAAAAAAAI/AAAAAAAAABE/TSw00A6JiUQ/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1445970028
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3393877942230611196",
+      "user_ratings_total" : 2,
+      "utc_offset" : -360,
+      "vicinity" : "Madero A, San Angel, San Angel, Reserva Ecologica 8, Ciudad de México",
+      "website" : "http://www.kawsay.mx/"
+   },
+   "status" : "OK"
+}

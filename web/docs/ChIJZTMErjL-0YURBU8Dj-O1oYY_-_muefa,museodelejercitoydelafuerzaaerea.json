@@ -1,0 +1,300 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1836",
+            "short_name" : "1836",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Tlalpan",
+            "short_name" : "Tlalpan",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Country Club Churubusco",
+            "short_name" : "Country Club Churubusco",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Coyoacán",
+            "short_name" : "Coyoacán",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04220",
+            "short_name" : "04220",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTlalpan 1836\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCountry Club Churubusco\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04220\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Tlalpan 1836, Country Club Churubusco, 04220 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5336 5727",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3510301,
+            "lng" : -99.14532079999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "80ac6f7c90b877bc9d5942d27fc0c4a85dc114d0",
+      "international_phone_number" : "+52 55 5336 5727",
+      "name" : "MUEFA, Museo del Ejército y de la Fuerza Aérea",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAR_K1TMyq6OLKSt_PM9_cOcgyJww6CUaNQt-bc7n3gx8dzUPIVH1InUIaSpMxvJTR26a9nPGJKPHpxanrZQvhCgXHWNXN2nEoAa_y3MNmX2JttiaI3ZiTAiEP-sRgnrzcEhCjIYkKm0g_VZy1wrf2o44oGhQwVJ_MzsTKEs5KJCy9I8TDKawXhA",
+            "width" : 3264
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAC4YpDK-G_7MAIDSw_wlnXBQ5l6EOTLuwu5KMOkMNEZPSR142bBPQY-EISIMXew28Pp8UQINpLF_DqaSe40yEtPjRHWCV76Eqoyk-YTwGg7sJFn__9tJUNMqsNAHErgcPEhAtQW2UzaPiN0z1yus8JM8fGhTEzay-JT1d1ZKOIngB_PlNKFEEeA",
+            "width" : 3264
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9fk8PBEOVKj-FbRDafQNzsYTEG-C8w2PfMPD1nLadV6thSm7R3uCAT09W_6b-fgKpmVV5qKkbwz-lnxQ7zar4iB9kiIYBn9R1ZLq1nlQ_JjsFFtkQ1Zv1FUPBA9X0CrGEhAFf5dIFofqH0VMwKHkpQUMGhSFVhpBGZ75XzopYlI74VsgSTh8kQ",
+            "width" : 1836
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATESYmQfVuEqvPawCovy7v6sLeQHFY-5DlMaIB-oUAzkv5oM4o3t_rX-RcCs2G1AYFj7oyYDJCGG0-olLRyBTExbXhKzgzDvolIMfMgqhpxuI3XQHBvABtEHE-g85dSCMEhDHKCUSJTESSAAz-cKzyszpGhSuHe4ozykfhktcSwH-qs0btpa6_g",
+            "width" : 3264
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAW6beF8ZjcjEX7ea_p_YzwB32POY0889ALQk9n7LdELq0aGLOyjj3ov3KKvNdf-G_VR9fTRZUsJHfJMkFREueEvPYUpyEVC8U7YTHWBdMmnZYwn3RASmqofMoR5k26874EhDp352Q9TTi_9kIa4LmesnkGhQ8NaUyhCC5GIMva97hkMhvKD5PMg",
+            "width" : 3264
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADGZGfstlc-Ze8SwSa3z7ygoX1woSETx4aXCTYTcris80JLEpx93bprSriQfUOCOEFBuScDsTbrkpRmfI3TjuKkAKcxy4vQI4KVewitMpvkMCxSxfe90ON0bTI4LjdpqkEhDS0ub4_T04pbDEH8ewGiLeGhT4ZZEavg2YxoJiXgVM3fMqIpd8aw",
+            "width" : 1836
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5QJrFP8w4j-WI_NZ1T-1C7YF3peMV6suSjrzGkxE2t3VDt0F6xNvp_9PzVMqzIZTC9eeL0yZTC1OtzB41SZCHe2Y7pGBHY8nrD_tD8TpvY9zs_jjeWJYAUpbLO_IpveuEhAbhu4ZyhPO9nSIwh0BJvThGhSuM4XrmygbQgUGoMsNYZcHCOXoBQ",
+            "width" : 1836
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAMlbT-mlbUWIvWBdl02WD-fHSdGG_BR9gHmhBs2Y1-hM0zyCm1YMhvr9ybLR_MofW-vsd8aW5SHsiSrimJU26jtGjcYCnHAO1rOP_lnlyK-x_BAOpcxkZtoa9im5k9qwEhCiA7HqnPip0epRxF9dNgOoGhTQ2aBiW2Lrj0NuTVfoBPb-rAyl9Q",
+            "width" : 3264
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101661792842027575406/photos\"\u003eMiguel Escobar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0vgneM1uWEoA58WXWY54-SKC5PjTQxSCQMoueb96KI7hGFSUwPvumfwXo-xmFCEh9nAlP42KCy55iIB6Ih2nPQfQdUSGUYkRZdBEy66QEF9G6LjDdRMBbIrD1EF3HIZdEhAAnvm2oLIj5_3lA38O_0VMGhShKRd8X2dsCy5l0cbw_fi2qXxxgQ",
+            "width" : 3264
+         },
+         {
+            "height" : 1728,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109181781624034931624/photos\"\u003eArturo Herrerarmz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZ_I53eIxTd0NC5xWBWzHDyN4tUGCJGNwZB6rPljFidCvc5Qdxm8_EUrfddXsTtqLvMH8uK1dJIJpjynWlV5pLxnkOQI6G7ppF8RUsJ5RzvylqlKdRh27BGvZUiytMu6PEhASTC5LVLe-13nxpWaliauCGhSi2xPsYjfaoohqQLakjrVxmikJhw",
+            "width" : 3072
+         }
+      ],
+      "place_id" : "ChIJZTMErjL-0YURBU8Dj-O1oYY",
+      "rating" : 4.3,
+      "reference" : "CpQBhQAAALKCo4MMvXfq37HejQib2YKryu-rhaU-QtwHG6Hw42et_wQddf3HVzwZN_nvC8LYzuqXphRrYj_fP4NhqV21VxvTMHtun1BvRl-PPNFqhb4cH-SwXqWgmmQMNSel0_ORAU9DvhbmZiROb3m1OPSoyxwCH854fwfL4eo26ROwlAA6SwqK4HSapWub0LiuF7lw4BIQKU9ramcxiGmxlNOo2T6fBBoUwFAnWomIk2qY7C2Ms1PaNg50OsI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Escobar",
+            "author_url" : "https://plus.google.com/101661792842027575406",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-BaNh0we_gfI/AAAAAAAAAAI/AAAAAAAAAHg/4eRbwS89Sag/photo.jpg",
+            "rating" : 5,
+            "text" : "Para ser uno de los museos más pequeños en la Ciudad de México, cuenya con una atractiva colección de artículos con valor histórico.\n\nSu colección cuenta con banderas, armamento, ilistraciones y pinturas de héroes nacionales, monedas y equipo militar. Además el piso de arriba tiene una exposición multimedia bastante llamativa. Y personalmente, el final del recorrido me pareció lo mejor. Les invito a descubrir por qué.\n\nP.D. El edificio es simple pero hermoso.",
+            "time" : 1447901595
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martin Castillo",
+            "author_url" : "https://plus.google.com/114095006673476704580",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "Muy buena exposicion. Las fotografias y las armas son impresionantes.",
+            "time" : 1451696458
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Leticia MARTINEZ TORRES",
+            "author_url" : "https://plus.google.com/106638418428470584363",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-2azS9rbTtMk/AAAAAAAAAAI/AAAAAAAAF4o/QScdLUqBv1Q/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy interesante e ilustrativa",
+            "time" : 1437784987
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jakker poet",
+            "author_url" : "https://plus.google.com/104598143774014894277",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "Es interesante pasear en el museo y ver las diferentes salas y al final encontrarte con 2 sorpresas.",
+            "time" : 1390402725
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Valdo Bar",
+            "author_url" : "https://plus.google.com/117581850050057418864",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1454710027
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9701235061294321413",
+      "user_ratings_total" : 8,
+      "utc_offset" : -360,
+      "vicinity" : "Tlalpan 1836, Country Club Churubusco, Ciudad de México"
+   },
+   "status" : "OK"
+}

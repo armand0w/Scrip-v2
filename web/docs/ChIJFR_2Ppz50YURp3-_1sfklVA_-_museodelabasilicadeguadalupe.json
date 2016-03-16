@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Villa Gustavo A. Madero",
+            "short_name" : "Villa Gustavo A. Madero",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "07050",
+            "short_name" : "07050",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plaza de las Américas No. 1, \u003cspan class=\"street-address\"\u003eGustavo A. Madero\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eVilla Gustavo A. Madero\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e07050\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza de las Américas No. 1, Gustavo A. Madero, Villa Gustavo A. Madero, 07050 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5118 0500",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4851732,
+            "lng" : -99.1165276
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "698fa5c81caf724cf8edf57cfda624b5f8601c2e",
+      "international_phone_number" : "+52 55 5118 0500",
+      "name" : "Museo de la Basílica de Guadalupe",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:30",
+            "miércoles: 10:00–17:30",
+            "jueves: 10:00–17:30",
+            "viernes: 10:00–17:30",
+            "sábado: 10:00–17:30",
+            "domingo: 10:00–17:30"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101998301613338126600/photos\"\u003eJuan Carlos Solis Ortiz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAK2jA9HA_rzA035K0ZzQuQCpothwHXy0LBfoQaqEY3cHfMcNGTybIut42bmEgCaw0beEuQ40ZLDvQrBZFSyqHvX3GiNWaLMfwH1AJ_5bjJNG8iQCZrNGCQe_s0oQ3gUmyEhCHobuMt1mv-f75cfJfn-vtGhQ7daVR7haTbovN5sLiVWdxNNpwHA",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARiYHYmc4Z7QB-FmPqhXdInSJM9I4QXF2uF71kD7mONT2dIzY-_-32DNhOpUrprL3xjt1MtCpf8dGrVG322gJXcot7sTINCaNcxudfeQfhxL4Vvk8nUvMPFm5O9YsxXkQEhDEVqF0bkW3CrrLtPGRiKGlGhSAsC9c5rJtufS7YofcTOv_vCkewg",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7jktpaZteqhmtXIf7E06x2HlddeiJR0pmh_GTmOQzVKhhtmAkCRLAPX8x2LtrXdySJ6ihE-JdExN0FCrUD-j8OF6CxxTVnHDUdEylJxBi7CV5I4VxHv0Jigvr0xETXu1EhDhfxio2ETVmcNlV-DoVF9BGhTKbzx_VmSH9ohved07a7DuiDjr3g",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAW28b7n_GSAt8u5LyvFqoQhVMiqnGaF69iLXHa8Yu8tOSTxRt6QiV97T5_I2zybo2GKbPSDb9SObHp4iC7smWebyKzs09n3pep4uDz84ByQK80WdR_MKGI7_6w_4hI7dOEhCGbhJwbdGcOn6JBkACCvmNGhSMkiNDCzMIhJRvpDWz8eT2zlE9ag",
+            "width" : 2048
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112099374172057073995/photos\"\u003eAbel Castañeda\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqoXDUsNZXmpwyD1t_Wo7uB8bWiF4BZh9YNywRrtT-E5AYTB1R2i42APMSUeQMgRSdKasG5f_rMCF2CpVd0k0FzUva_JdnBB89xWRZjH_o6uqTHf4H6XuI7jBY_pFyP8eEhAxx6_mIogMp7oTppmwRxxxGhRSX8T2JO5GmtBJQm6nX6DkUM8SaA",
+            "width" : 816
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQQIat9fqA9_GVfCpwcVCymds_U4vKXFml8A2xIqm9v1Kh243kW6QBcOMjGhMxPn10Kp3h0GAlVyF0m5_El-soeAhW2nR2F173BL5RIN0J36okWO_jex6DPlhEDAvPkkdEhBpUz7xNjdsNCEqtBxD2yVPGhRxrpqTKlmUoVhoeqEhzLsGo6h2pA",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAG04sWfZK8ek96Y8BPjx5XtwL3TA1saFw1-T4qZoUId4zJEXbXSZg_nomWvVNDBUrOCnEjBem1vh1TzgvYXp_ZlWr4JPFdOgDaDG0Jll2M5AJQVrOY2XvBzZLUbYgR7sJEhC9ojM0oxEQemwNvyMbjsoxGhSTBKyG7qSMI5lal6usub24HkoZZw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFhaYoGOHgHXnx1jksLxEA-GTchz4sf00maNawOV6xtoYvkzltLlz9uYPga1BIKYsda_ytt8k4Uny7Relgwl54ZBcgyeeB_TF4rtOPhBiHMgNFOZO42YONhOsi8MUGiD7EhDz9G9zs0kOvDUZwNA4ijIyGhRooyFjDn0U-REagwoQ6ir3z5S-lg",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApi75ncZxUqCAPUJwaJf7czVeSnPXlk4mkqnHwqwqU4ReqwRWhkzcOjdYDnm4_uqS-UaHAmUl5CZuVX94FyKwb2-fT4nQbkcKb_BuuXsVU8kVpSfrvNAGLhXyTKk5GmZqEhAE0b2Da8DQffLQhuvfkVoXGhRh57GQGugiiyyRzMISSSSdJnPUWg",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACnJcEofKD1JBKQTuRhtB3C4jV7PgtI3hfpnecHvpDc5nSrge2eKD4dMyNYeFWzGeqmdc4959v6OswKkMlAGeJgfqfV0PrvgrwwWKe6d6EUHuEjGxz8hIrYCe7nZ_53mqEhBTicxH3Bp-WPnurIekzu3GGhRRhhAXw6sceZ2GCJyglrBSOnuAaA",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJFR_2Ppz50YURp3-_1sfklVA",
+      "rating" : 4.3,
+      "reference" : "CoQBdQAAALh9_P5cFQ1jyxuwwIClnWhsb8wa0biEAoMt8DTinkFgilENgel-yudZjSR48c6Uik7rQK35pLx_X1Am_yCnEoDxXdxmWFBaGRNi-kKHI_Bkc7WMrXaQYlQibjm4KH0pC4b4H792kwZZPmT8-B2IfXBFlVJc6NR2wuBnd-pc7yNLEhDxa4bIHM1-VAKjhFluZqlTGhSKK9YJRvvbXg2c2SA5MRN9IEFxng",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aury Rubio",
+            "author_url" : "https://plus.google.com/108753311502584819772",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-f9O6JLVn9MQ/AAAAAAAAAAI/AAAAAAAABXs/sm83QMSRItc/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un museo muy bonito. Cuenta con muchísimas obras de arte con temática religiosa y cada una de estas con su respectiva información en la que dice sobre su historia o elaboración. Tiene muchas salas y una tienda que es muy interesante si lo que buscas es algún objeto religioso. La entrada es muy económica. Es muy bueno para pasar una tarde entera. ",
+            "time" : 1452028073
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Consepsion Medina",
+            "author_url" : "https://plus.google.com/116979981061304147213",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "Me encanta ir ala basílica xq ai  se bautizaron mis dos nenas...",
+            "time" : 1449930774
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marranatium Triponeitor",
+            "author_url" : "https://plus.google.com/108607280468101517263",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Cvg12mcTWn4/AAAAAAAAAAI/AAAAAAAAA8U/B59N1aVtPbA/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar y muy atractivo, demasiadas cosas que desconocemos. ",
+            "time" : 1455584379
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Alfonso Parra",
+            "author_url" : "https://plus.google.com/113371522468132497403",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-1FhjYss8WVs/AAAAAAAAAAI/AAAAAAAEHYg/lre0w0wW1ak/photo.jpg",
+            "rating" : 5,
+            "text" : "La Basílica original, ahora convertida en museo. La arquitectura colonial del edificio es muy hermosa y tiene la peculiaridad de estar inclinada por el reblandecimiento del suelo bajo ella",
+            "time" : 1427354356
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maria Geovany Monreal Basto",
+            "author_url" : "https://plus.google.com/112724476991144647737",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-hdAMh7rFkYk/AAAAAAAAAAI/AAAAAAAAAzE/YizXq03nwgQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy hermoso",
+            "time" : 1402509462
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5806798841516621735",
+      "user_ratings_total" : 21,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza de las Américas No. 1, Gustavo A. Madero, Villa Gustavo A. Madero, Ciudad de México",
+      "website" : "http://www.virgendeguadalupe.mx/"
+   },
+   "status" : "OK"
+}

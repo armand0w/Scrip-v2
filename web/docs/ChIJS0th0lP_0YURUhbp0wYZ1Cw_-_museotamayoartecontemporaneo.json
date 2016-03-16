@@ -1,0 +1,222 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "51",
+            "short_name" : "51",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Paseo de la Reforma",
+            "short_name" : "Paseo de la Reforma",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bosque de Chapultepec",
+            "short_name" : "Bosque de Chapultepec",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11580",
+            "short_name" : "11580",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePaseo de la Reforma 51\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBosque de Chapultepec\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11580\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Paseo de la Reforma 51, Bosque de Chapultepec, 11580 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4122 8200",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.42572,
+            "lng" : -99.18171599999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "f3ba2e38d1f55f72a65eb94e23cbfae5a1f578b7",
+      "international_phone_number" : "+52 55 4122 8200",
+      "name" : "Museo Tamayo Arte Contemporáneo",
+      "photos" : [
+         {
+            "height" : 667,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103493306663002314878/photos\"\u003eMuseo Tamayo Arte Contemporáneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMotddtCgUtVw6xGnZqAYW8nQZrZk9iz2-6JHLIe-ZRlFGFUc-CoMgH1kGbby3MdKxlNnCSNSEfOFF4XK4YbHSozAcZSnYHR2GjE4c0cPoMMWhruW0MKhNb5oAqsdGeKyEhB4z8U-GfN2izh_2P6qYQJaGhQK2FTbxwTShLbI8WqVli6anD0SHA",
+            "width" : 1000
+         },
+         {
+            "height" : 780,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0AleSJRRC_Q-c3fMpzK6XiTl7eOeWtNz2WoJfyaeWUWjewumE8cFmhTlcNAK-7uCYmjYMBkifx2-GN_QpAPowZaqT3U6LqUxNbA-sMbs1t7sqYMGglLbtmwF2mRRTqciEhAZ3jk13BntWl-jpzKzVPP2GhS-RpAp4J-Unm3v433z1zX5jEr4zw",
+            "width" : 1040
+         },
+         {
+            "height" : 1296,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115200028091640340776/photos\"\u003eMISAEL B CRUZ\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAiOnX8JBtI9DPp0owVb7QTHGiXsXXyg_Wd7o70pVp0ghfoZwe6T8eoB70t4FR-UkSeFpIgxJphMeSA_HMw_JFlIVBvfdvER_WJvOCG41AYGqtui2MEtK7rJiL6Vv0EQ1PEhDloyHThRS0hL2WBqHeSnxuGhRaCRBhwrycFbCTBB2iler7Wrailg",
+            "width" : 728
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109747793098916934740/photos\"\u003eRicardo Blanco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALjqDZ2dVwjIQ7AZbdzyH-oEteU37lgwwVp4yDDk71bnqRmicW5hoSD2rMaHzFEv-tRBBjOOWOYNNcsYswzRaiSoX6tNZ4QBHbdUcyG4Uc_mdbci9l7Lhqnj9_nO9WCvJEhAP5OypYL15-sGdbMdib3hDGhRzmW2s6eLXJ-s0YOYSxsiMxjEtUw",
+            "width" : 816
+         },
+         {
+            "height" : 801,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103493306663002314878/photos\"\u003eMuseo Tamayo Arte Contemporáneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7z6I2RZKLhOlF6np1I6J2icPgJ76REGhQUllQvc24Qv8q1l5EXX2_HU6vg2UOvtZmJhXZ-5eGE8xqWb12xCx3MfZ0xerC87JmmzmhGp_JT1mF2ZxSdqA87q9LHWSLFi_EhBvaZ3ZCE1AdYAdRotG44ZXGhQ6OdENjQC113IOIEEwxzNA9qE5ZA",
+            "width" : 1200
+         },
+         {
+            "height" : 780,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGy8Znm7RPVoQLtO795_WRBOP6cZg3lb2kqDRNc6uzop3b6PscV3x3raEft-tckSeEhf14PzPmjCANL0d5Gb9ITd7hMiRb0lgnadYDG59GS9p3MYx1-0u5jLVyt8xIfJxEhCdlAgcen4Kl3LLihBCEMwqGhS0AoVESV058BM-tt7x0vh4X0Jn2Q",
+            "width" : 1040
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111279195874208391169/photos\"\u003eDaniel Quiroz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASnAX5Hxdg6cZ5UUNypX0F74C4EvSkNWcfa9OXcNbwfMmFJVXe_iQ1VjGUV41O4jwJnLJdTVVbXAwnWp_zhv6sd8Er9bkvJb30EYwhbNLIZKhG3vs2Z_UIhksG8NChKt6EhDwgY63nKpeDFIokkjVbJU4GhSz6VH5rjNxiK8L04W7ipEFgPv90w",
+            "width" : 768
+         },
+         {
+            "height" : 882,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105137673091210565792/photos\"\u003eHéctor Romero\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdTMtifA29hoJ4jTF4UnHM-wtLthS_TL_GOdZDnkNlSKWKRmTAl7Fwt7HgoxDJCPeYMwKI81AopDWauChnfHfuYoE_Oyx-2gAw5CBcvmWSzxQicGFF3qWzxTlJFcMKBaYEhB2AyVoWd207u4Ua8Ab1cdTGhRMAejbOs2td_7cS2Nc6CkD7a2DAg",
+            "width" : 2255
+         },
+         {
+            "height" : 1348,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103493306663002314878/photos\"\u003eMuseo Tamayo Arte Contemporáneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUSiK4g_FMvOVDxmyVnrJFyHpU3e-gslIPq9uy_ztppahuFcbP72yBXGY2jBEc7y91xX0-WT0cxMlt9_C1KaByzNyAtQli2gS1GkZuMWnEy7hSOgA1zapzi9GHJJPO5QVEhAZMil-PQsF5lNIU65XKI1nGhQSvp7YGVRPBD28lzNAFe6a_jfa8Q",
+            "width" : 2048
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109747793098916934740/photos\"\u003eRicardo Blanco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAfbIUwrFJ8mI0AP4FqW-x3OsSk71MP7XWpx6jq9U6JLQ4-E0EURDn8NKm7oz9YxXqnvmY_tIEN0gWKH3Uq1Uflz9Z9CNh8_4BR_bVZWz9F6o0EPaTBgTkrnNDf78NJQsgEhCl3VUSYl2wkTCbN8C_QJ88GhRt0wYxpGqj9KG2uGq3vlB8ldkm6Q",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJS0th0lP_0YURUhbp0wYZ1Cw",
+      "rating" : 4.3,
+      "reference" : "CoQBcwAAAN2yzEIkPZsSgtLDvzfbjtfmXztiybd3RRvpn_nnHYAi9q_KGi33WKB7Vs-YrsFioLyQ-kkZdv0m0r2yppXNbPpNME4DGEmYTGSGQqgrMYxOn7OljhFj5RgF_buTLm5GxNai46O7-fvUQpcCG5psFUFHJ5sGDfFYnbgfe_1cmqcqEhBO51LigNuA6vjGtb7wiqNwGhTH8c0-LnEil9aZ4c8h8zkQ67laFg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Henry Peña",
+            "author_url" : "https://plus.google.com/110765791325056450925",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "El restaurant es excelente para un esepcial y rico desayuno de fin de semana. El ambiente con sus mesas y sillas estilo rustico con decoración acorde. Delicioso el \"café del artista\" y el omelette. Los chilaquiles de pollo unauy buena opción. \"Jugo saludable\" y una cesta de panes del día muy frescos!. Definitivamente uno de mis sitios favoritos para desayunar y luego un paseíto por el museo",
+            "time" : 1447983947
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Felipe Ruvalcaba",
+            "author_url" : "https://plus.google.com/111216888214810356514",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-wtXjkaHno3E/AAAAAAAAAAI/AAAAAAAAC50/CVn28n6HQQ0/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelentes exposiciones todo el tiempo, además de la ubicación. La arquitectura utulizada es muy llamativa. El personal es servicial. ",
+            "time" : 1457012181
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "pedro alejandro mena manriquez",
+            "author_url" : "https://plus.google.com/106640917231845301632",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-SrNtSrAuNnk/AAAAAAAAAAI/AAAAAAAAEW8/XVdEsWImY_Y/photo.jpg",
+            "rating" : 4,
+            "text" : "Aparte del museo, quiero hablarles del restaurante que esta a un costado del museo. Lugar agradable buena iluminacion mesas de madera y area oara personas que llevan mascotas. Los capuchinos pequeños pero deliciosos, que me gustaría que fueran más grandes. La comida muy rica y buenos precios, recomiendo los hot cakes cuadrados y las enchiladas verdes con flor de Jamaica.  Te va encantar la decoración del lugar. El personal excelente y atento.",
+            "time" : 1441368819
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Control Privada",
+            "author_url" : "https://plus.google.com/111128673637617032335",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "La comida es carisima",
+            "time" : 1456260082
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Ángel González",
+            "author_url" : "https://plus.google.com/100848330143465676024",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "muy interesante.",
+            "time" : 1445731194
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3230234349847254610",
+      "user_ratings_total" : 129,
+      "utc_offset" : -360,
+      "vicinity" : "Paseo de la Reforma 51, Bosque de Chapultepec, Ciudad de México",
+      "website" : "http://www.museotamayo.org/"
+   },
+   "status" : "OK"
+}

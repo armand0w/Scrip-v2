@@ -1,0 +1,271 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06060",
+            "short_name" : "06060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plaza de la Constitucion S/N, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06060\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza de la Constitucion S/N, Cuauhtémoc, Centro, 06060 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 3688 1371",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4325611,
+            "lng" : -99.13193009999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "5871e72fa7d2ba251d063df750bf0b168f3529b2",
+      "international_phone_number" : "+52 55 3688 1371",
+      "name" : "Recinto de Homenaje a Don Benito Juárez",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 9:00–17:00",
+            "domingo: 9:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101989841240490731748/photos\"\u003eGustavo Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAITrC7gqmYb0KL_TNbjAqkhWcLb3iLeoXWZWSmfcvXZBp7B7y-Vlz7u_FdPJJNN_9rmvl964YwZeVo86_d2c5Bc_lHuMiD1RFxq5welkjeuOwtLCwpAhBKwBZecE2U6bGEhCfUdp38jQZ3RL0l6Wxz6Z3GhQAgsgkmf-zCK-a1Vay817VhrTEYQ",
+            "width" : 1920
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109400472359143849946/photos\"\u003eDaniël de Wit\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtB5XPJn1H4c2oUEwgpACOVOEfNzhMquosa-IbM2dCtewz7TxoMUA5j8RX8HlFNCQQNAJxM1ymGf_7fDnqpsuwaOPPrnwFdcAS8Op3CdXP0iVfERVAsWsWB3p5eGELHXcEhAAG2OrtIQhnhdNkqtXhLTUGhSc63VXDFOuNccrBtIq4qhuhsZIpg",
+            "width" : 2048
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101989841240490731748/photos\"\u003eGustavo Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAlCfXOO_ELEIZ4RwNpc31C-qhT3NXNvR2XjuqacmZqyDBJBJpf9NzQ6_CqlLw-HJQwVRbrBR9ferItw-kJqZoRHgKGxId5U2TU98be4vQlD7Pk2X0Xb2VpqQLa_IvnP9fEhBwNtjWE0encWOAg_d2aS23GhRLub9eTqiI2M0b7Y_l2d-opmmuKw",
+            "width" : 1920
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101989841240490731748/photos\"\u003eGustavo Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALeaOqn9_0_7GgQpPWHKprm91Zqz7MQQKyt853smfw6lp8l3O-x1--8B3f_JNqeZP6bM-s8Vuf2t-q5cvTmvxxjQTvMatrsugSkz7FLVJVRMJmafWh2PJeLOEmAdtmicgEhDr1wpcoOvngsN5S7z38uI0GhRyN4Qz766FFcEgPJogHcVT8JOx-Q",
+            "width" : 2560
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101989841240490731748/photos\"\u003eGustavo Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQVHTSoKiIcNIEu8n4aeAEZU9j7nYLfKaRGp8ZGGGef-3c-leoSYHyG7TDMMk4qNNTdnyfZRoIUDv4MdO5Qf8jvBBfs_IAASsskreur89MSLTT21b1sNSD9FNAEoR7J3HEhD79g0MpaAL6S8v0R1lPk7_GhQ0-bbupcbmKFnJzq2934LiAtSGvA",
+            "width" : 1920
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101989841240490731748/photos\"\u003eGustavo Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVTS6bUvP4r1v9ze5fj4DncYZYvSIaJmVwkawoQ3iKKpJBbvbEsdOLB6MdRZYhJ1LxwH-skmuXnfhCLVBUkpciZnlPDRvO28Fvb0-Gf135P6nucDO1f0fi_DpX2vZua5PEhBXvNCG3ceVwRbzzPcdRmaXGhTITARFyvJLUvQ4MVxO-NpKq6AiPg",
+            "width" : 2560
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118327794279996912796/photos\"\u003eAndrés Lovalen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVzAfCKVX-XPMHmClNAOAwx5reOt7gfOBjQh9GTHtPu2k1ncKbmvnU7xFOo7q637pAFdctx2R9sF632bmckkLUJDCrsHgr1jT-YT_s4vjCI0I8NDclZ0d9RBVpPN3AdN6EhBdPOJXbGN7uPWrMXKjrMw5GhRbbmDDsR-TNiRDFGwCO2Ss2BokRw",
+            "width" : 2448
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118327794279996912796/photos\"\u003eAndrés Lovalen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzPrD7Hv7Gji6HQlByrxdor30G1jgFD1KofhR6brquCh96IZTmsd9NPw-QPi7yBOi4gmcRUkusPGV_lwdk_i8YRFZFRItrTXQ_G2IwAtTYSBqXnLbOATclfccO9McnFEwEhB2OI-hLehYYfaoGIeERiWdGhSGKd2ENA_IIXEQC_i_tyRHERRD4A",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJpUfl2Mz-0YUR0pYQ2SxQLwQ",
+      "rating" : 4.3,
+      "reference" : "CoQBewAAAFVZLgLLbo8QJqbr8We3omVfscroUHmpHo8vD_HvYHQ5VKHiGfOA4J__w6hjdQBPlxIH3g7npPw8arZIBrkxrZP7-FPnoCtFIg9RUxWmodE7eA0g56hp5ZUt8hPcV9St58Gs71h2odaGB7_nSgMhGIEwF0pQOxfqgHvp4f89OfHuEhAQDDMtUq2aFQKvPO-0cpvJGhT8Ug81ttWOXT6J4nWJBFC8TZBjLQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Clovis Silveira",
+            "author_url" : "https://plus.google.com/109651222978949287181",
+            "language" : "pt-BR",
+            "rating" : 4,
+            "text" : "México",
+            "time" : 1443056229
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alix Paola Vargas Díaz",
+            "author_url" : "https://plus.google.com/115722991429527911026",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-hlCnQqXcSFk/AAAAAAAAAAI/AAAAAAAAAjo/mpb8s4fp2yU/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1456974178
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Hernandez",
+            "author_url" : "https://plus.google.com/102100580684247206190",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1455827432
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrés Lovalen",
+            "author_url" : "https://plus.google.com/118327794279996912796",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-xucw9mTTFTM/AAAAAAAAAAI/AAAAAAAAOFM/dcA7GqPp5i8/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1454340441
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jose Eduardo",
+            "author_url" : "https://plus.google.com/102694061877486731195",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-ageXPuLn9JU/AAAAAAAAAAI/AAAAAAAAAIE/8lqqA5rMDAE/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1448127678
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=301547853607638738",
+      "user_ratings_total" : 6,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza de la Constitucion S/N, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.shcp.gob.mx/difusion_cultural/recinto_benito_juarez/Paginas/presentacion.aspx"
+   },
+   "status" : "OK"
+}

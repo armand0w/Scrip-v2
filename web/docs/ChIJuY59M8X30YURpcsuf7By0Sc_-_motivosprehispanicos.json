@@ -1,0 +1,64 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "154",
+            "short_name" : "154",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Cumbres de acultzingo",
+            "short_name" : "Cumbres de acultzingo",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Fraccionamiento Rincón del Valle",
+            "short_name" : "Fraccionamiento Rincón del Valle",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tlalnepantla",
+            "short_name" : "Tlalnepantla",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "54040",
+            "short_name" : "54040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCumbres de acultzingo 154\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eFraccionamiento Rincón del Valle\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e54040\u003c/span\u003e \u003cspan class=\"locality\"\u003eTlalnepantla\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Cumbres de acultzingo 154, Fraccionamiento Rincón del Valle, 54040 Tlalnepantla, Méx., México",
+      "formatted_phone_number" : "01 55 3058 3025",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.5588801,
+            "lng" : -99.17870549999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "2a05a7a8c80df2cb49408a4dd2cc5d034964a0e1",
+      "international_phone_number" : "+52 55 3058 3025",
+      "name" : "Motivos Prehispánicos",
+      "place_id" : "ChIJuY59M8X30YURpcsuf7By0Sc",
+      "reference" : "CnRpAAAA-G8i4doHe31mXvl1e2wE18DyTYBn5myEtK6A6OaBcK63t-VoFTyM27V8FUPe-fsLcwCDyyKDC_asI0qqN44aLKOlu3dqje4TSURKq5Zn5ZE6Tc7uBUOg63pCLrABFGw_XHCQMe5TyeBd01AgmEzPtxIQ-iXTxBDXxMdO08hR5x_z0xoUX1b01Y7KZC8GUy31I8VQ0RBHyiU",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2869200539985300389",
+      "utc_offset" : -360,
+      "vicinity" : "Cumbres de acultzingo 154, Fraccionamiento Rincón del Valle, Tlalnepantla",
+      "website" : "http://www.prehispanicos.com.mx/"
+   },
+   "status" : "OK"
+}

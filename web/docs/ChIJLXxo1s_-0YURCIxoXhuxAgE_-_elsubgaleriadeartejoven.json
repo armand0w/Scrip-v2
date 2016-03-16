@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Centro, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4240711,
+            "lng" : -99.1344184
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "e88defd4e6762f7901790517273108a98c703312",
+      "name" : "El Sub Galería De Arte Joven",
+      "place_id" : "ChIJLXxo1s_-0YURCIxoXhuxAgE",
+      "reference" : "CnRwAAAAsEfaImGzt2iJR_DMi2g4FcEVKjUkkOugGwfLugvbi06RhTMyYIAFm6zNrPj9IEq4r34qIAvR1AZWq43DmQLbejU0s9uravjRByvbU7rhjAav2rPxjp7U2HUKvHFTmcIipGhQLHNcW8qA5Ok4X7Lz5BIQlbuOlaUiLhF5PIyJbz3FqhoUchBb2USD2xRvrY7TZPa9Tixz5eI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "linda tp",
+            "author_url" : "https://plus.google.com/109142044333115675104",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-sG4GrxYKF9Q/AAAAAAAAAAI/AAAAAAAAAs0/twWd9fUV_mk/photo.jpg",
+            "rating" : 5,
+            "text" : "Galería de arte joven,  Instituto de la Juventud",
+            "time" : 1415639870
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Israel Guzman",
+            "author_url" : "https://plus.google.com/115799333724084983110",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-zvDm2VgvDqM/AAAAAAAAAAI/AAAAAAAAAvk/o_v8NvkDBe8/photo.jpg",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1451960767
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dessiree Xiqui",
+            "author_url" : "https://plus.google.com/117336399767853214130",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-PTUQw_s6Uh0/AAAAAAAAAAI/AAAAAAAA6Kg/6U3NG7OiL78/photo.jpg",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1439315623
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=72815275097492488",
+      "user_ratings_total" : 3,
+      "utc_offset" : -360,
+      "vicinity" : "Centro"
+   },
+   "status" : "OK"
+}

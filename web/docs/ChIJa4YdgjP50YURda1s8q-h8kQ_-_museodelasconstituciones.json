@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle del Carmen 31, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle del Carmen 31, Cuauhtémoc, Centro Histórico, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5702 6956",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.43665859999999,
+            "lng" : -99.1292722
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6e0f9ad6dc630aa15d642b860429e5aaffad4233",
+      "international_phone_number" : "+52 55 5702 6956",
+      "name" : "Museo de las Constituciones",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:30",
+            "miércoles: 10:00–17:30",
+            "jueves: 10:00–17:30",
+            "viernes: 10:00–17:30",
+            "sábado: 10:00–17:30",
+            "domingo: 10:00–17:30"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAb9YzMW7pFE_HRGcm7fIJi97-KG87hGOGGuHgkpQA_5VQh2_jzuMTdb0E5dNEK8-yb-lFVcfKG8Fufxa3LAM1PbRJeFQH1g65wLP-yJTXPEWtBZv5Q2ehdquRYxe5YT2aEhAyJk2ONkTunGlzD_8WfX4aGhSr5a3_CFNLaKKJg7IcRbcVzXpkkw",
+            "width" : 4160
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3PCet64P8jibnBm8VVL74KI0dUEbX310WLC8Nb3-K32OxkEudWdsDN3CFPCfvOWrOsDagd1ruX-VvM0Ev9Vz2NbyOorx4bxc3jyQvcOizowo4JH_QqLmkOv2WGtcwaQsEhBn1VTiKq70hdB6NSAprJJtGhRAYqM33u0NfmeVAk9mgfqP-2L-Xw",
+            "width" : 3120
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAz1DZnCnOP3QdlZxL6GHkaPsHDtld2_cZ31NObSRflJ_vTxDYClxs07PZAFkNioyZoK4k7MobB-6RfOUwNveO9PCb0umH2c-4v4asf1_DuT1PhKlS7jOdLr1pSHYUxpuEEhB16TWVy2u3KbRLh8odxS2PGhREI_Nr0Zo5YWCZHV7xGKS4BfJ1ZQ",
+            "width" : 3120
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdS3QPkpnJJ6T1kc89ZqzN70-xZOb3AzAEarUfijMbrhnRFC5idVeEdVaTuKhNwH-2LjudAO5MWkb5CCGVtABNcFXMJfhIuHsC6om_lk-xWs6nnqCRU_g3Gdnhb6v1rWWEhC18TNahpRJ0L089N4AtLYKGhQnMAfGBI3f-HLRuK4JyOs5Yo6yqQ",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-34BgfNQPCUXcqrvQ9HS50OrAsQKF-wkoMj4nyPXeK8CFVcLsVl6skSgRa_mLhUX_oKmdnKCwF27KAie-KoBi97EPj_sM5n9Jfg2nBgEpSH3gid4WbnqXChEzaNMoOv6EhD_1BSs4QLeqFJ3n94Esu78GhQ3xk6oDjt7v8wUQklTUOCZCubwmg",
+            "width" : 4160
+         },
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAg59_z6WhqBmNQvOMAAeJJB83jN3WQqPiXTR2RUeQdDmd9ZLU3ogf9RegpXNr85GsaZpEADRprC0-xsOXNzv3BGyOROiOUjLqMLOOADbAF3UP8ozZZ_bXQcSdJ9JIk91NEhA_DULzYsh-3RL_--Ddu77JGhRAeUg4yhyRJ44axSuRyFjw8410OA",
+            "width" : 3120
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAj6V-5OaWVrpjyJwLZgRDhtqsAtwFrNHz1qeNqEF9iSCqw2vMXv6C0j6NrUrbcIzNNu-0CiGKqPP-qHmjCYGcbeO_cse6R3a_lhZ-9QJm09kzsxM_GtK-mpsovpzsEPHhEhBYZ2S2eTqO5zYu31oRWI4KGhR4_vh7pTCo5UNRkdkIZmiJlr55Gw",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAR4_Swc_u702nBrC4CCxImGDtU27c0NCY8aDgT71oHoBQnkqCxWyoYYioSvu-7Rdm3U7PDiOOgO2R2h2oJrhiGdfXPmf5yVzuFXFi3wUdNWMMuzVBEU40sZaSw0yIctofEhDi8K1KLncQDO-LL7vqDuWzGhTViVASRkeuAuanr6sZsRZDKSvNrg",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtBDBQZzFYC00HGtDnivZvDOrn-Ii1hcGIc-ZLmuak94N67kntVjpUfr57dBAcA9RC9fS7rclIMMsTYICqxZKKC1-HzUFPCdPge51hoiT6GOo6_eXdqGksQd9uF9b139SEhB_TCvu0kFd_COZl9aaL_HNGhRqtZSPhDBJa-g_p_N60CSAeaptMQ",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5x0GOdnNSCpOee-XMNKMTyRyATDEGMV0At1-NP-KXU8_JtaSuNAZT-PRxAkrMrQ3tvs6oTZTq56oM3m26yjIraGy0rHNCwiHp8WNpqPaT_SYc6ZiIbffsXivvU2sjAubEhDuLwuRmEIDDJVMj5gA-ugKGhTfpo0e8TkaS0WnK8pGUF_fIbkeGw",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJa4YdgjP50YURda1s8q-h8kQ",
+      "rating" : 4.3,
+      "reference" : "CnRuAAAAoy_CVjhD8_X2gbJTx-HwMqVLY3WEuxTGe6QmNUEMPk0bBdzkyum1SQcETqZkNJjrA5f1FpsgWPEVtTN9YpPldTCCPHL-zvXHYcqKtzcwur6V7cnnDAh0Kp46BXMLiupq1VuLDL-rXH3e-t-t3dMKHBIQR8IFa2xEhgXkaDMBzzT0jBoUlEkheeyzVbSwUG3HqktT4T6Twc4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marisela Higareda Preciado",
+            "author_url" : "https://plus.google.com/103276923495045756176",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Indudablemente este lugar no podia estar como esta hoy gracias a la honorable direccion del Dr Jose Gamas Torruco, y su gran equipo de colaboradores. En este lugar se materializa su pasion por el Constitucionalismo, mismo que lo ha llevado mas alla de las fronteras de este bello Mexico. Gracias Maestro y merecido ese honorable encargo por esta nacion.",
+            "time" : 1448552841
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lupe Ramires",
+            "author_url" : "https://plus.google.com/106801247956258984772",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-oRiY-ImLRN8/AAAAAAAAAAI/AAAAAAAADWo/s2wpr3Xfwws/photo.jpg",
+            "rating" : 1,
+            "text" : "Eso es fasinante",
+            "time" : 1452214103
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tania Martinez Aparicio",
+            "author_url" : "https://plus.google.com/111665302756343735086",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-MGcUiLeeWUk/AAAAAAAAAAI/AAAAAAAADlE/GuSC_lCG81g/photo.jpg",
+            "rating" : 5,
+            "text" : "me encanto un buen y explore U.u",
+            "time" : 1419964492
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ojeda Hats Ojeda",
+            "author_url" : "https://plus.google.com/114883396122840223164",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-QpZeTEr-zx0/AAAAAAAAAAI/AAAAAAAAAaI/s_FitPCppXk/photo.jpg",
+            "rating" : 5,
+            "text" : "Ok...muy bién saludos; ",
+            "time" : 1436139107
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alan AH",
+            "author_url" : "https://plus.google.com/104312349486847685878",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-ctIFoFLbY0Q/AAAAAAAAAAI/AAAAAAAAAAw/842J8JP21Bg/photo.jpg",
+            "rating" : 4,
+            "text" : "Buen museo\n",
+            "time" : 1425012544
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4968211116001635701",
+      "user_ratings_total" : 16,
+      "utc_offset" : -360,
+      "vicinity" : "Calle del Carmen 31, Cuauhtémoc, Centro Histórico, Ciudad de México",
+      "website" : "http://museodelasconstituciones.unam.mx/"
+   },
+   "status" : "OK"
+}

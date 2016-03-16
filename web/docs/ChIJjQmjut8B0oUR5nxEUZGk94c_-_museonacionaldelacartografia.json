@@ -1,0 +1,242 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tacubaya",
+            "short_name" : "Tacubaya",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11870",
+            "short_name" : "11870",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Avenida Observatorio 94, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTacubaya\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11870\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Avenida Observatorio 94, Miguel Hidalgo, Tacubaya, 11870 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5272 6686",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4044652,
+            "lng" : -99.19123069999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "426d7d04c45293b6f83de443dc26db3413a9af21",
+      "international_phone_number" : "+52 55 5272 6686",
+      "name" : "Museo Nacional de la Cartografía",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–17:00",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–16:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106740293843972454165/photos\"\u003eJavier Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkQOm_gudPqNv8f3HSGOC1BFkJHi3d5mIV66ZufXSRBucFp4ibhmrKgs7_agLCIq4joaT59p-cgE6IC8A6vPn9yhmraxLQavDcAneXA3BhIpgFKLy2BmYhP9dBapgICscEhCT7LfDl9f-v-CCNSW3SbI9GhTaPKuPIyA6djQK0xGchIsHD8KeZQ",
+            "width" : 1600
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114460728553002547461/photos\"\u003eEduardo Hernández Sama\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAZQ7u3MTacQSZs77mGbn2nXUL-aXZhGlFJtIhVouhIzXEl4nt9QJw1RptjdOKdy-tJkeTy-gr3WuN1IdxRERuUTVZwOvhKYv5wZdrauta2FdttYq_HRb_W37VRsuewHrEhCrYsiuVm1jP2frRdHAWh0wGhQkqv2gxmm-w71Q1Zm3eOGAJ0lUYQ",
+            "width" : 2448
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114460728553002547461/photos\"\u003eEduardo Hernández Sama\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtnRbmPETrGpxbv44FHtqNZW4g1u-jI8PiZNBpaBsTlnOpYLZLpkapDpFlScQkrS9lOnzVyd3GOIZPF60F2xpXyHJegOtaf6MwtRHFZE2IxyP67_06UHWRn_eraTx4ImuEhB3VHy8jwAQesm4BckPMfIcGhRyDralKzBklRhGmXADOGu7bE4EWQ",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJjQmjut8B0oUR5nxEUZGk94c",
+      "rating" : 3.4,
+      "reference" : "CoQBdQAAABlUa3nKM60Pytyyx9i18OuG2k_o0SM7Fe2JPFDJSNXNBGG7xFNsRzrC0gc5FTFftgyUuDoAfuZKT7JGrLrBSMK2Y2FZGqQBG6jW4W16-dfwDaCB8F_g9z-jtb8JaPp0fdi0dU___YHPs_glcpmcynOn7YA58e1kE8dDTDuaj7-BEhBW1GPBStox3BfS1f5Bbm5DGhTN2FKj0dPTbIoXnwXmq_W4DlKAdQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fernando Godinez",
+            "author_url" : "https://plus.google.com/109618269541968469131",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-I4myhQ8849c/AAAAAAAAAAI/AAAAAAAAAGY/wgYKAKZ4OBE/photo.jpg",
+            "rating" : 4,
+            "text" : "Yo vivía enfrente. Nunca imaginé que ahora sea ese museo.",
+            "time" : 1456818756
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alfredo Acosta",
+            "author_url" : "https://plus.google.com/111231844979507215323",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/--zA9l6VmoJM/AAAAAAAAAAI/AAAAAAAAPIU/bE3xyEzU_Jw/photo.jpg",
+            "rating" : 4,
+            "text" : "muy buen museo",
+            "time" : 1368881339
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rodrigo Rodríguez",
+            "author_url" : "https://plus.google.com/104051118511416102352",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-v4P8FzktZs8/AAAAAAAAAAI/AAAAAAAAABg/4uOCEKnSqmw/photo.jpg",
+            "rating" : 2,
+            "text" : "No es interesante ",
+            "time" : 1443278985
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "t sterling",
+            "author_url" : "https://plus.google.com/117513698534112866612",
+            "language" : "es",
+            "rating" : 2,
+            "text" : "No tan interesante. Las mapas son nuevas o son copias. Hay muchos mejores museos en el DF.",
+            "time" : 1409582189
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Mora",
+            "author_url" : "https://plus.google.com/113808393363757148848",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-ebFzDc1PZ2w/AAAAAAAAAAI/AAAAAAAACr4/0kl3nlIoLwk/photo.jpg",
+            "rating" : 3,
+            "text" : "Es muy pequeño el museo y francamente no es tan bueno",
+            "time" : 1431611251
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9797480458408459494",
+      "user_ratings_total" : 15,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Observatorio 94, Miguel Hidalgo, Tacubaya, Ciudad de México",
+      "website" : "http://sic.gob.mx/ficha.php?table=museo&table_id=977"
+   },
+   "status" : "OK"
+}

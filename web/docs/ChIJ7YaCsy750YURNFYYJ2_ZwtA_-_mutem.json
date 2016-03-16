@@ -1,0 +1,258 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06010",
+            "short_name" : "06010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plaza Garibaldi s/n, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06010\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza Garibaldi s/n, Cuauhtémoc, Centro, 06010 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5526 6540",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4406928,
+            "lng" : -99.1395869
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d94b22dbb7b91ed4d995a7ad024ddfdfcbc247d7",
+      "international_phone_number" : "+52 55 5526 6540",
+      "name" : "MUTEM",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "0230"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "0230"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "0230"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 11:00–20:00",
+            "martes: 11:00–20:00",
+            "miércoles: 11:00–20:00",
+            "jueves: 11:00–2:30",
+            "viernes: 11:00–2:30",
+            "sábado: 11:00–2:30",
+            "domingo: 11:00–20:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113835929307033341415/photos\"\u003eMUTEM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3EWSJMtgXTlHCTkf2G8b3lP_NafmTAro6oFu3Z88hNZ8QsQ9B1HQE2JubOiPtMv7tJaDTcS4ImfHAGTgiFJcQcR-ecV-LxYiu3NoWev65EhPiBm2-juln3jUDQbks0HGEhDM8ZlBrtB3AOlzeOJEeUu7GhQESJgGRMqSbTlyPwpjVjzB8sQhXw",
+            "width" : 1575
+         },
+         {
+            "height" : 1181,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113835929307033341415/photos\"\u003eMUTEM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADYyo09Vh4jMlvfUe2cf8I4UrY7pxTKD_tNDOWUOKdU19qQJrZxyL2yrDlsxEYpPrNWWGGeqK4wVwe9LEVzNhpIupDooH7QGDG-dxSazsYGJQJOLzHLlLa_SoLcU6DscFEhAqDvGwtZiffOoT5TAbrFMSGhTV-iBYjASJKgoU7QVrAprFtP_GXw",
+            "width" : 1764
+         },
+         {
+            "height" : 1371,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113835929307033341415/photos\"\u003eMUTEM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqVedp2WGhrfpP9lOkS5fdT9Z7bbBjBorxyCcPUz4cLD_3A5Wd__JmiJkrWg6HtnxrqYPeuXyViK-sxTphMQYgCiASigidTXF1bVIWLXzVZ7MW8voqFjVpzfJPSPPiVW5EhBEu5WaFDrb5N8GJAziv7EcGhRxHNK3eY6gmJ8wu5MNh2WAUxaqCA",
+            "width" : 2048
+         },
+         {
+            "height" : 1411,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113835929307033341415/photos\"\u003eMUTEM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAs4-8SEo_TTqW3PkQkO7kybH0BA-B4ar9wHx0ZjXrcIOmxmhqpyM-T72FAHVAK9eBa9LHOBq3aCFu1kJmhpPCYtyHzoK-PiC5Xixp6HlExqSCCYdwzbWXCCx4LcXdl9oGEhA0IjKzZU4mz25JrpEt1Q8-GhRKAj9aLGEHZYndOUtolGhFHoViwg",
+            "width" : 2048
+         },
+         {
+            "height" : 478,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113835929307033341415/photos\"\u003eMUTEM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkoITzzUqkHkmp-FJ13SocnDUbZj5x0p82wZyok4XRp94hf7o9YuGFUSQZolW_4Ps4M-jauG3NZuPOMrKv6LTKQbxQ_NH18rKOQ4n-1iG1MuTc39QEpe9QGEnAQT94BUfEhDz0sb-CpsrpbXhXM0Gne5XGhT4GqWJWFhnhmcoxF1OfmS4sL2HWQ",
+            "width" : 650
+         }
+      ],
+      "place_id" : "ChIJ7YaCsy750YURNFYYJ2_ZwtA",
+      "rating" : 4.1,
+      "reference" : "CmRZAAAAPAapnTEPDhHuj4XF0hwZe986SJLKoqADGSlv8tXTPcrDs1P3bABWHVYVTNBtoikuKtKJFgP4hh2MVsP_ie5A2ucCySPVO8jV6VKXXcDE1BQUXDEbgIwjkdJosmu5le9cEhCyZmSe8CoXeBb8H_CrOdF5GhRPoGR_5MlduuMTglMS3acrh9v3pg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Axel Cárdenas",
+            "author_url" : "https://plus.google.com/109702667082282269596",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-1DktaSw_UXo/AAAAAAAAAAI/AAAAAAAAAC8/QLzjQbEN1pU/photo.jpg",
+            "rating" : 5,
+            "text" : "Está muy bien el museo. Algo corto pero lo pasas bien aprendiendo cosas del tequila y al final tienes tu prueba gratis",
+            "time" : 1450034498
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "SQALO Sqarto",
+            "author_url" : "https://plus.google.com/104091347973087305550",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Buen lugar agradable para rostizarte un rato en el sol mientras escuchas un buen mariachi x la tarde y echarte unos chupes... ",
+            "time" : 1434323637
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Jair rocha",
+            "author_url" : "https://plus.google.com/107255953544106620914",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-Jg_Yo3sVoCA/AAAAAAAAAAI/AAAAAAAAP-I/C_7lPaiz5C8/photo.jpg",
+            "rating" : 5,
+            "text" : "Me encanta esa mezcla entre lo contemporáneo y la historia mexicana, sorprendente ",
+            "time" : 1457065291
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yair Gittler",
+            "author_url" : "https://plus.google.com/101602082467839521460",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-TqWIxcpzjus/AAAAAAAAAAI/AAAAAAAAABs/byHixue19hA/photo.jpg",
+            "rating" : 4,
+            "text" : "Me impresionó la historia del Tequila. Es impresionante la cantidad y variedad de tequilas que existen. Sin duda algo de lo que los mexicanos podemos estar muy orgullosos. No soy amante del Mezcal pero también fue muy interesante aprender cosas sobre este!!!\n\n#GameChangers #adictosalaciudad",
+            "time" : 1380517053
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Lopez",
+            "author_url" : "https://plus.google.com/105033042304244712505",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-xIvx-VpKQ8c/AAAAAAAAAAI/AAAAAAAADWQ/q4unVN2smCw/photo.jpg",
+            "rating" : 4,
+            "text" : "Me encanto este lugar, aquí te das cuenta que tu conocimiento del tequila es muy limitado ja ja ja ja",
+            "time" : 1378451280
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15042824776791381556",
+      "user_ratings_total" : 32,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza Garibaldi s/n, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.mutemgaribaldi.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,226 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Doctores",
+            "short_name" : "Doctores",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "060720",
+            "short_name" : "060720",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Dr. Claudio Bernard 111, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDoctores\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e060720\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Dr. Claudio Bernard 111, Cuauhtémoc, Doctores, 060720 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5761 8923",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4228272,
+            "lng" : -99.15053089999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d92fbbffd6a6ce63c24e203ccb1c076822e06010",
+      "international_phone_number" : "+52 55 5761 8923",
+      "name" : "Estación Indianilla",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0930"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:30–18:00",
+            "martes: 9:30–18:00",
+            "miércoles: 9:30–18:00",
+            "jueves: 9:30–18:00",
+            "viernes: 9:30–18:00",
+            "sábado: 9:30–18:00",
+            "domingo: 9:30–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 452,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105561482393226550002/photos\"\u003eEstación Indianilla\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMX-zJynMmQnzcBqCdoJf4rw15NtZhCKuG3N7dAWZTKJM-tI-dZFARQszvpYx0EY3WhNhoaHnkXy3tBe80Qp8XnOZ7K3EalgKXaYG2hsbLjmBo49GgDJiLyHt7SfsQmjkEhBPmZHFPX6jKOACrFoReuUZGhRITllX1i1K5YcIp1WFcGDn4aocSg",
+            "width" : 450
+         }
+      ],
+      "place_id" : "ChIJGSj6zij_0YURSNMoHOLYQgE",
+      "rating" : 4.2,
+      "reference" : "CnRnAAAAZGDuQHSQmb0xqf433uR8OK04GkWg6NsogqA3cxUyCus3gEjEKyPLKmMInCo4N_s4i8LoB0XdDEkVn0Aqw_Cj4sXi9ZgnrSOT42qOEIjgoNxx5KKMWsemzsxqp-BO-UD484dP24ft-vD88yTmZ87T4RIQlqZHiaGvH24GQrPhaPNpExoUUMqbNpo0x9Y197ayxBXBO7xRKeI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Candia",
+            "author_url" : "https://plus.google.com/106602993117550806605",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-r_rvVy-LohA/AAAAAAAAAAI/AAAAAAAAFA4/o8_FAN3Tmeg/photo.jpg",
+            "rating" : 5,
+            "text" : "Un espacio muy agradable para eventos, exposiciones y conferencias. Muy recomendable, un oasis en medio de la colonia doctores.",
+            "time" : 1455384912
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "MIGUEL JUÁREZ",
+            "author_url" : "https://plus.google.com/112141311340370662889",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-Pq0siccIN94/AAAAAAAAAAI/AAAAAAAABkE/TUY3PXo8ZLI/photo.jpg",
+            "rating" : 4,
+            "text" : "Es un lugar muy agradable para exposición, conciertos, me gustó. Puntos extra su ubicación.",
+            "time" : 1442235507
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christian Castillo",
+            "author_url" : "https://plus.google.com/102126401378737799117",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Excelente lugar y un gran ejemplo de recuperación de espacios.",
+            "time" : 1449264414
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "brenda toriz",
+            "author_url" : "https://plus.google.com/111274647566016460194",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-XruZ9hH56aU/AAAAAAAAAAI/AAAAAAAAAFY/q4o9pLi9dCA/photo.jpg",
+            "rating" : 3,
+            "text" : "Me encanta su arquitectura y la iluminación de su fachada  por las noches. Se llama así por haber sido tierra de tres mujeres mexicanas que les decían \"Indianillas\" posteriormente se convirtió en una estación de trenes, ahora es un museo donde muestran exposiciones nacionales e internacionales. ",
+            "time" : 1379566223
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joshy Sanchez",
+            "author_url" : "https://plus.google.com/111993683898657034880",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-PNG58kLDYBU/AAAAAAAAAAI/AAAAAAAAA08/nE0ZkGfLimg/photo.jpg",
+            "rating" : 3,
+            "text" : "Me gusto ",
+            "time" : 1451541217
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=90873408147477320",
+      "user_ratings_total" : 17,
+      "utc_offset" : -360,
+      "vicinity" : "Dr. Claudio Bernard 111, Cuauhtémoc, Doctores, Ciudad de México",
+      "website" : "http://estacionindianilla.com.mx/"
+   },
+   "status" : "OK"
+}

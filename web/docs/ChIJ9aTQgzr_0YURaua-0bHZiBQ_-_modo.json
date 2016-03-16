@@ -1,0 +1,256 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Roma Norte",
+            "short_name" : "Roma Nte.",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06700",
+            "short_name" : "06700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Colima 145, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRoma Nte.\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06700\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Colima 145, Cuauhtémoc, Roma Nte., 06700 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5533 9637",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4202567,
+            "lng" : -99.1591437
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b9b5dab2388be305d8904a88818836aaab0c4e53",
+      "international_phone_number" : "+52 55 5533 9637",
+      "name" : "MODO",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106847871595101526081/photos\"\u003eAntonio Soto\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGdyA4wywDIf8vhbzTCS90GesBPFa_1kt4BLBOFUfINdzhqakPR6ppBK0TSK9Gf0-v73woNvUgjw_KoFoo1EsAQ-3COOiUDiC8PjanWzUVrhW_gGDo-n6HHUfa8zb-bqXEhD1VZhfr9kQbCoLyxs70rmcGhTlCGo9ApAMCjtZxPORK8ycvV2JKw",
+            "width" : 1265
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102748125203101412524/photos\"\u003eJesus Emmanuel Malago Pacheco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAH-Cp1zLSXEO82cujQpJAJNy7jcW_HhAFgPxZuoSYjnrYZzHx8sNOMl_i3E6qzhRABCDYCpbKTr-b-jmIiNsoMehsuLwXda0XhwifIO43SaxgUcqaJtsGMvjBU2wExC0dEhBAeRk_h2A-4GWanJQs4H_eGhRvdAXKhWi8l8lklLhcHjED5QG60w",
+            "width" : 960
+         },
+         {
+            "height" : 3328,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104710848154117405426/photos\"\u003eLuis Reyes Ramirez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAEmF6fblQ8u7cLSgEeEI_4o_eY2wO_zo80neGd_7YJrLrfV7OTC4h8GOjiDUkxmwbHnF1AidFg5fbasGnydshcR0sURpDElKBUE38ViokXvAiDfz3T8mxcvrV5nmEEpjBEhDOfF4-PFXnSlGypOcGlTecGhQVNhixRE2jdxtK0bleG0ryJSTnOw",
+            "width" : 1872
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102748125203101412524/photos\"\u003eJesus Emmanuel Malago Pacheco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArmFuBcOaL-VlsD5ElM4CpLMAwf9m8fpW4bNA7QFfl8aAZF7oD1ZMC1SMpU2zhVBlLORLSN2gq8zG11btvEMGtE7xFzzfSrSkhAS99R-bJlOqBSl6yLo9arfNqpcRcVpMEhDOsZaX5wwUCklj3bM_3A68GhQXPbhymz8fdlYTfdls42Vc66CHXQ",
+            "width" : 720
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100706619813012630232/photos\"\u003e???????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8NkkEHJvOmod6ZfxXUFPU3ihPzxf6jUsokC7EKvkaEuz6asZiRKOZwWX_Av6jcExKdd2lymuvVysJhl-QnrsDmvSQ81MuLe5sBgxGRrxuePVoMkMLrPSnHgN-jHdMpqGEhBcDUls8ThCwcxiNTXK8w7yGhQEIwxdhwxJZHoLn1lRPBYC2VlM7w",
+            "width" : 720
+         },
+         {
+            "height" : 1296,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118172976997385366022/photos\"\u003eEduardo Villar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPGa0ty4phb4FfChTaoKwFH0q317yrZooxyLwBXLj6rzC7H5Igj6oFMzWn5UlmOAuOVCwDerZskcHVFWSsTD7iFFXKR5FkgeodM5CjRH7YBr-Kog22bZXYeKGLHVi_5t9EhBLezgb22WpHGEaFuktm_6nGhRHRdPi6bQgw8E-Qr3JzM85VvyPRw",
+            "width" : 728
+         }
+      ],
+      "place_id" : "ChIJ9aTQgzr_0YURaua-0bHZiBQ",
+      "rating" : 4.7,
+      "reference" : "CmRXAAAArnBXxcaYE1kMXWOCn6BVOE8jMY93BZqVfPnUNVvYlEyNI1Z7PmeTrEsMi0nxaMSDujy6su-0xJL-8-8K9hDf-v2OtnrYbBQQI2XsdsDYZpGL2_Slqebw_n-yvk_3noivEhCLxw-08_-AOekbOkdLdq3dGhT6PbmIq2hCNOPyIuwStmxOt7aZjQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alix Gallardo",
+            "author_url" : "https://plus.google.com/104451250482810582900",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-SCPRnXUkc6o/AAAAAAAAAAI/AAAAAAAAC-U/RfV0pfirM2o/photo.jpg",
+            "rating" : 5,
+            "text" : "Un museo muy completo, cambia la dinámica y exposicíon cada 3 meses aproximadamente. Ideal para coleccionistas.",
+            "time" : 1438964538
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sesiluna lunaticos",
+            "author_url" : "https://plus.google.com/101623344133141386808",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Fascinante la Expotemporal los niños del siglo XIX. \nMuy agradable la gente que atiende y los de seguridad.\nRecomendable al 100",
+            "time" : 1438482304
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Edgar Flores",
+            "author_url" : "https://plus.google.com/104696822609858302682",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-4cnsaPclApw/AAAAAAAAAAI/AAAAAAAAoKw/2aHEIOSlXmI/photo.jpg",
+            "rating" : 5,
+            "text" : "He asistido en varias ocaciones a este museo y sus exposiciones siempre son de lo más interesantes, la curaduría de los objetos en sus exposiciones siempre es muy buena y te dejan pensando lo que cada objeto significó para sus dueños y siempre termino relacionando dichos objetos con los propios y recordando las historias que cada objeto nos ha ayudado a construir.",
+            "time" : 1439485633
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "José Mauricio Canchola Vargas",
+            "author_url" : "https://plus.google.com/110296150723647998667",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-VdEw_X2ZJ8I/AAAAAAAAAAI/AAAAAAAAHHQ/3orvNDvRDec/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente espacio para exposiciones de arte contemporáneo y arte moderno. Indispensable visitarlo",
+            "time" : 1450145611
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pataforista Explotando",
+            "author_url" : "https://plus.google.com/107551791708208355966",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-fmObnv87vzI/AAAAAAAAAAI/AAAAAAAADg4/hNwtNPenYHQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Un museo interesante, con una tienda interesante. Aunque el primer piso se parece un poco a \"la casa del tío chueco\"",
+            "time" : 1443334659
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1479671835342595690",
+      "user_ratings_total" : 40,
+      "utc_offset" : -360,
+      "vicinity" : "Colima 145, Cuauhtémoc, Roma Norte, Ciudad de México",
+      "website" : "http://www.elmodo.mx/"
+   },
+   "status" : "OK"
+}

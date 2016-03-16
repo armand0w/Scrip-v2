@@ -1,0 +1,165 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "43",
+            "short_name" : "43",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Calle James Sullivan",
+            "short_name" : "Calle James Sullivan",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Rafael",
+            "short_name" : "San Rafael",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06470",
+            "short_name" : "06470",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCalle James Sullivan 43\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Rafael\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06470\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle James Sullivan 43, San Rafael, 06470 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5535 5186",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4334331,
+            "lng" : -99.16122639999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "69a1cc24f3a4239305f8d2e447104f843cf84a66",
+      "international_phone_number" : "+52 55 5535 5186",
+      "name" : "El Eco",
+      "photos" : [
+         {
+            "height" : 3984,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109614711889668636847/photos\"\u003eCésar Vázquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA56NcN9f3M64oNF7APIJFAxT6jqbHboHaeSlnQhnFUkNcQ7O759Zs-hG-HaNHXutzmi33Ngsyh5DiZjuGUNSu1mL2MJc5NXnjQcK7WvkaGuCCuWQIlpbxxPjPQoA-TodTEhB5dCfSE9SL3RAYl4OU6LToGhRJuSW6-eC4wUEljDzmfBgSOLyMHQ",
+            "width" : 5312
+         },
+         {
+            "height" : 253,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116583961577128151115/photos\"\u003eOctavio Cisneros\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPPrU6JT5hDmEyTwUME2p_ABlufCN0FvYW5ZmKmopeUjkC3j70bkL7NjsRDvNngiX-ouXrJEF4Pd8VwRLYPZ3Y880-83nBoeZ3Z8zm_Eb68_fKot36_Jl7USis_K8kZxnEhA0csSYYQGc7O8ZCtbimxCxGhRZVE6MXJ7DWZG0YQwwjDCugmGMoA",
+            "width" : 332
+         }
+      ],
+      "place_id" : "ChIJq9Xzvcz40YURfmP3sO7YJMU",
+      "rating" : 3.9,
+      "reference" : "CmRaAAAAZt2zrYK1Q9gPg7yZJAiYWjwKCQ7eZDOgx6g7aZu5FXVRgl8IctJZHGd9n9BUoRW-LDaQubYIqOPrZtscrTleVa83rSgN06XLxOw0FPMmgKPNEIUJQo1DH5vUerHA_jVfEhBFI8cq3KerSTaz1aLNXI34GhRwB28B8KjNsYUenKO8FREtt66KdA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "César Vázquez",
+            "author_url" : "https://plus.google.com/109614711889668636847",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-9xkSS_K3j9I/AAAAAAAAAAI/AAAAAAAADYI/KN1YEUL3xIk/photo.jpg",
+            "rating" : 4,
+            "text" : "Un museo dedicado al espacio y sonido. Diferente, con un personal amable, y con exposiciones conceptuales. \n\nTip: Gratis de martes a domingo. ",
+            "time" : 1454882124
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aldo Marini",
+            "author_url" : "https://plus.google.com/113166635019918895061",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "El museo está cerrado por tiempo indefinido. Ahorrense la molestia\n",
+            "time" : 1441829965
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Wendy Luna",
+            "author_url" : "https://plus.google.com/105811223995384728057",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-OhZxuFkTIKw/AAAAAAAAAAI/AAAAAAAAAFg/F3JZePM9aTM/photo.jpg",
+            "rating" : 3,
+            "text" : "Exposiciones de artistas independientes pero hace falta incrementar la difusión de los eventos",
+            "time" : 1454458192
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "War'z PlasHino",
+            "author_url" : "https://plus.google.com/112344982484216541505",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-KSsZChJ6qk0/AAAAAAAAAAI/AAAAAAAAAKA/Ydxdsfln5Zs/photo.jpg",
+            "rating" : 5,
+            "text" : "Hola, hoy me entere en el periódico sobre este museo y la verdad me intereso mucho, tengo curiosidad de que forma puede ser el edificio para llamar la atención de los que ya lo han visitado \n\nlo más seguro es visitarlo y comprobarlo por mi mismo",
+            "time" : 1398350545
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ross Aguiñaga",
+            "author_url" : "https://plus.google.com/105779583360744184243",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-g9YkZQn5TPk/AAAAAAAAAAI/AAAAAAAAAhA/NMW_k2DjJ3M/photo.jpg",
+            "rating" : 4,
+            "text" : "Es un espacio dedicado a la experimentación de los espacios, siempre encuentras una exposición que te impresione, además de albergar eventos y presentaciones sobre arquitectura moderna. Los domingos la entrada es gratuita ;) ",
+            "time" : 1378258776
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14205717644316205950",
+      "user_ratings_total" : 15,
+      "utc_offset" : -360,
+      "vicinity" : "Calle James Sullivan 43, San Rafael, Ciudad de México",
+      "website" : "http://www.eleco.unam.mx"
+   },
+   "status" : "OK"
+}

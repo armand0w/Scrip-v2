@@ -1,0 +1,273 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Del Carmen",
+            "short_name" : "Del Carmen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04100",
+            "short_name" : "04100",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Rio Churubusco 410, \u003cspan class=\"street-address\"\u003eCoyoacán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDel Carmen\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04100\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Rio Churubusco 410, Coyoacán, Del Carmen, 04100 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5658 8732",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.357619,
+            "lng" : -99.15957739999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4644a3446ad11efb5ced5b3c31820c0261982ac4",
+      "international_phone_number" : "+52 55 5658 8732",
+      "name" : "Museo Casa de Leon Trotsky",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109547070669950953615/photos\"\u003eMario Donati\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAgXR5KhpLNmQRlF4VZXf8AdEuqtE44dTdS_b-jA8saMzAnd6LcRcV2zW_rMijuWPD-lht-W7Hoo7KkvXphmrqM_hfTKblpO9pk61oiVZ3k9IZxuOxPmdDNOQ31IvJzpUMEhAWS5EXnRPyZuqwu-ms93utGhTvmWScv6HtwmROBndG41HKO56e8g",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109400472359143849946/photos\"\u003eDaniël de Wit\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArIpLrRlolkRe0XjWqn7zEoXNiNc-2xXBCEj7i_cnpyrNbsYGiv8_5j_jP163Nh2lCuhXvWJF53kKBwZsiKFDcsfRlm_4wS4Iv5LIe4N_cDZZxlc_0XiySzEbhpUs29wHEhDrqf-nUKu-7hi_L97i8djfGhTF1V9Rt31BShPOrhyV9x1G3Iun5A",
+            "width" : 2048
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109547070669950953615/photos\"\u003eMario Donati\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAv7DgIK4aRaCm0izhbtKSzpFldSkwIs-NcW40BHUOkqAR0FePm2lNJ4Pdf_BWp5DJzU6YAbENletYwylcoMfCSPg2fCnrrwoig_IP9zYmeiPWUhLaY3FhJ6qfKnVqGiLREhBsZ1dIa5NJQbJBncUp5Ad-GhRPmVYtvdO7BR_2qvy9IZIronQz-Q",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109547070669950953615/photos\"\u003eMario Donati\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA36PzI48LkID5P-_WMLcaP6NeDsExUpINf7kFvhFDfxAI3LctoP5bQmamW3zUmmrnUmwzKhWQYurfGDl1_U1lZJrivN_fIHlrshqKK-ryV8P4VKiai0FGfbh-HV1jnn5uEhDjI_0R2tvzzRYaOcI4OgKEGhQl96IV7pyWr-zq5ap_4r44e-S_sQ",
+            "width" : 1365
+         },
+         {
+            "height" : 626,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104565066872633221199/photos\"\u003eMuseo Casa de Leon Trotsky\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYs5ECYq99UzgMbb7XMDGN4fSxQ0mqwMMHE2xQLCyZIq-yKUbSBi3a4qRFLoOQgzUuT9a-mcjaz4Zkfez8UqzRrTeHgge54fCdj40d6FZEwRMI0coJ_vSL8R2lJ4QcyzXEhDCcmzP9inQ91KOn9bFJx6cGhSRxFX4yik6WKKjfRrRWC8XjoyKVQ",
+            "width" : 500
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115607712950099370939/photos\"\u003eWalberto Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAWNTHFALP6ub225T5M24HLAGUieIPigSgEl7ZJBGy_mBgp1FA0ynjzsWQdRzH3JcHf9KC4jDCoiqvrcrw9VPGSY4nEWgJPMcTqIaOSeX9fUAVYa245r5Zd2kRBcyjrMzhEhADNUF0-oFd4MTR5_NsqljeGhQUzeu8ZWWEmv7ouEHLLBHlHHfXvg",
+            "width" : 2560
+         },
+         {
+            "height" : 225,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104565066872633221199/photos\"\u003eMuseo Casa de Leon Trotsky\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjUrhVmYIR7vsjpckXb_u466SvcUTfq-x7zEfcH43ibyXUruWeA1fsMCjJ7CyLpbDWIDzWMQEewwqVq9mQclDYeTl486WKFNMKrHYdotdbWqve9LYOr_Itp72APTT2EumEhBEZRnSMfqwA1acOrh0uk8AGhQ3TlsmSKEBfCGrIxKT8ztZMwssvA",
+            "width" : 207
+         },
+         {
+            "height" : 124,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104565066872633221199/photos\"\u003eMuseo Casa de Leon Trotsky\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRcAAAAQuswuvsiEDuhpmGWHtDvNelKsE7YF7alzQpYnmFol-iVkeahOAkz1VxOJRsdRlLqRezqJhZ-y8U59ZkviWXBsazOZjST_MtLlGpbywRV_Ftinm__EB2lAl65xPWU8EkpEhCOiwh8DJzkfH2YNH6_fDSeGhQDm9QvQE9lP6jfkzSacFs3OHPNew",
+            "width" : 195
+         }
+      ],
+      "place_id" : "ChIJGejuV8b_0YUR8n8674zMxRA",
+      "rating" : 4.5,
+      "reference" : "CnRtAAAACn47-Burx5gRlvtCMytJEJMPutVh5ZT8qEjQQS1jia6IlrX978vA6hy85zFbv4i8qNM4QK4oAIYPuVDZTez_DP8QEvA3rkGSI2flYrI-pG7BfddAK6Fk1xcOrH1cG7mMQq1dajCXsStMtRp9m3rByxIQffe1z6Kfn1MNADe5olx1UhoUJME-8az00MetcswDUTWwtWqrgfM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ada Luz Soto Olivas",
+            "author_url" : "https://plus.google.com/108219191115336364556",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-MNLmvIRhhEc/AAAAAAAAAAI/AAAAAAAAA_g/5R-VC7B7uCI/photo.jpg",
+            "rating" : 3,
+            "text" : "Esperaba mas de este museo, esta descuidado y la exposición no es particularmente interesante, tiene un muy bonito jardín en donde se encuentra el mausoleo de los Trosky que puede ser lo único que realmente vale la pena.\nEl lugar no cuenta con cafetería por lo que so buscas comer algo es mejor salir. También las exposiciones temporales se encuentran en espacios muy reducidos por lo que realmente no lucen como podrían, la verdad me decepcionó un poco. Si nos es parte fundamental de su visita a Coyoacán pueden saltarse este museo no se pierden de mucho. Le doy 3 estrellas por el valor histórico del lugar y por contar con algunos objetos interesantes de la vida de Trosky.",
+            "time" : 1454210764
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erick Jonathan Roblero Roblero",
+            "author_url" : "https://plus.google.com/102774883818712364095",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-LLIaR8mZbW0/AAAAAAAAAAI/AAAAAAAALBc/Zkc1TdAT6eM/photo.jpg",
+            "rating" : 5,
+            "text" : "De lo más interesante de Coyo, tienen que venir",
+            "time" : 1453873630
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos René Rangel Salazar",
+            "author_url" : "https://plus.google.com/102043609283166989205",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Wsk2bUx5CFs/AAAAAAAAAAI/AAAAAAAAyoY/LO0dFeDj9QE/photo.jpg",
+            "rating" : 4,
+            "text" : "Histórico y precioso por donde lo veas, la verdad que que bonito! ",
+            "time" : 1448567292
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joaquin Arias",
+            "author_url" : "https://plus.google.com/109903786117734667794",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-PFj_1um0Iq4/AAAAAAAAAAI/AAAAAAAA-oQ/_7lv51YEsk0/photo.jpg",
+            "rating" : 5,
+            "text" : "Lugar histórico imprescindible ",
+            "time" : 1447545598
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Romulo Escudero",
+            "author_url" : "https://plus.google.com/108414299147816711631",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-BaPCIeVr3hs/AAAAAAAAAAI/AAAAAAAAKx8/d5caT3LyjcE/photo.jpg",
+            "rating" : 5,
+            "text" : "Yo he sido testigo desde los sesenta de los cambios en su infraestructura organizacional. Es un lugar con una historia paralela fundamental. ",
+            "time" : 1453991311
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1208596980699922418",
+      "user_ratings_total" : 56,
+      "utc_offset" : -360,
+      "vicinity" : "Rio Churubusco 410, Coyoacán, Del Carmen, Ciudad de México",
+      "website" : "http://museocasadeleontrotsky.blogspot.com/"
+   },
+   "status" : "OK"
+}

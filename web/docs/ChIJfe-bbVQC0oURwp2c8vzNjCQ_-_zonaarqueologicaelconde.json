@@ -1,0 +1,204 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ozumba",
+            "short_name" : "Ozumba",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "El Conde",
+            "short_name" : "El Conde",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Naucalpan de Juárez",
+            "short_name" : "Naucalpan de Juárez",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "53500",
+            "short_name" : "53500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eOzumba\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eEl Conde\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e53500\u003c/span\u003e \u003cspan class=\"locality\"\u003eNaucalpan de Juárez\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Ozumba, El Conde, 53500 Naucalpan de Juárez, Méx., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4705449,
+            "lng" : -99.2304932
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "8f78be94ddd43eb9495453727806beea10b9a342",
+      "name" : "Zona Arqueologica El Conde",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–22:00",
+            "martes: 10:00–22:00",
+            "miércoles: 10:00–22:00",
+            "jueves: 10:00–22:00",
+            "viernes: 10:00–22:00",
+            "sábado: 10:00–22:00",
+            "domingo: 10:00–22:00"
+         ]
+      },
+      "place_id" : "ChIJfe-bbVQC0oURwp2c8vzNjCQ",
+      "reference" : "CnRtAAAAYHQICwzhM9OZXusr4nZjEfnPnUfDX2YvIeT5yGbEJ-WD0S1GpKw22MNPRBwykEuk8Nz2fjsnZRGIsZA08Kmc0iaEG7jUrR3pF5L79KYMsoajLlEIN3ge1nt-yjdY_7y4HTcV5aiFKanr93ZlRJLFSBIQB8CxT_mtklV5wuIp_2SzTxoULOwPy8H0Qu22Wc5ZYr4JGFJxCo4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jorge Ramirez",
+            "author_url" : "https://plus.google.com/114986205365845220499",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Qqhf5yjOHHA/AAAAAAAAAAI/AAAAAAAA49c/6K7_8IJdbCI/photo.jpg",
+            "rating" : 5,
+            "text" : "De herencia Tlatilca, este templo supone haber sido un palacio noble en los años 1200 dC, ubicado a metros del centro de Naucalpan en el corazon de una colonia habitacional/industrial",
+            "time" : 1457450442
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Raymundo Peña",
+            "author_url" : "https://plus.google.com/114557087230429926275",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-QIedGhr-BEM/AAAAAAAAAAI/AAAAAAAAPjI/nRMkXVseWvs/photo.jpg",
+            "rating" : 4,
+            "text" : "Buen",
+            "time" : 1456381469
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juan Gr",
+            "author_url" : "https://plus.google.com/106675223292414568935",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Obk-6oZUHhg/AAAAAAAAAAI/AAAAAAAAHnE/9Q9jVJ_xMng/photo.jpg",
+            "rating" : 4,
+            "text" : "Exelente Lugar. \nSolo que no esta abierto siempre al público. ",
+            "time" : 1447522529
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Edith Cruz",
+            "author_url" : "https://plus.google.com/103334985307978172431",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-LGhfdsBCAM0/AAAAAAAAAAI/AAAAAAAAAE4/PDduvw8IBCw/photo.jpg",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1443250755
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2633706368390700482",
+      "user_ratings_total" : 4,
+      "utc_offset" : -360,
+      "vicinity" : "Ozumba, El Conde, Naucalpan de Juárez",
+      "website" : "http://www.zonaarqueologica.com.mx/zona-arqueologica-de-el-conde/"
+   },
+   "status" : "OK"
+}

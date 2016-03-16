@@ -1,0 +1,258 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Donceles No.99, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Donceles No.99, Cuauhtémoc, Centro Histórico, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5704 0459",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.435792,
+            "lng" : -99.132656
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "15a28801af78b900fa279f7efa8cba21709854b0",
+      "international_phone_number" : "+52 55 5704 0459",
+      "name" : "Museo de la Caricatura",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–18:00",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 744,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107462146198480272154/photos\"\u003eMuseo de la Caricatura\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_mzIquFYpAVTuwJYvmibHhbYC5z5oofBXGrk9Yy1BNSEcAo5wNEFzI_x0uQqAlpoeBWXoluWR8dLZboyslBtxALlPSZ5VeKWNT0qv2sSHdcqIgHj6n7mUlvCbkoBmOd4EhCYPuu7__QQtCMk1TOHGaNwGhRvpfaSU5iR18yaojbd6F3yJQi2gw",
+            "width" : 1181
+         },
+         {
+            "height" : 350,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOaOYjfp3M5SR0iOktI77Mw16gD3G62gKewEhoKqzONUpqVRxQbov_yXPokn31fxfHN0BJmwa-YyA5GcfcmQ9Hm8gexOIs___5vyeAsQqJipQZ1SYYJXk7vS9vaEktNXGEhB8htOnCNfYAl_SDb_-ZA88GhTMu-iQTi3tzCEkbiFp3YCFzRzQFQ",
+            "width" : 466
+         },
+         {
+            "height" : 365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107462146198480272154/photos\"\u003eMuseo de la Caricatura\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAO2UMgkMKH_x6AW_Sr5uL9fZN3RTE3XIEoeKpJRDcy_JOFgBhMQniuxnNZRcQuEnWW2zfZR1r2lTqEAW1cMVaYfU131sAqGxHpX3-U2WmPkJxjxVXy9HShjuA9v3AeWcKEhAjKHSDi5o4qANA0mYQAmR-GhRXSSBHv9o2Lrf0_CIvAL4TFsM7gg",
+            "width" : 365
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAyWfSFoUqbdcXAiPOYwz-WLPmnz_sc2PkRIwZojVe-QvIvaorWL4x3BfUry5Yt8EcoLEJZFzNVhL2L80-dX7_UFbVAx5HL7pyL0NUvhLGuPwkh83xvUx81KvbMk-WkdgBEhD82GZOScdEmd0ST7yr4EmWGhSqnke-Avr-oG9kbPjw9EJpvokrgg",
+            "width" : 450
+         },
+         {
+            "height" : 350,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASoqVvFnFasN5uoWKNDt3t2jvScdCynIS2GF5si1o1OA714PUQNuCyOAXF44I60rt-xAd0iwb0VqNZmC2ToqzTcjnOw24coLTEMl8qmX_Cv_AeQDyp9gXf9AZpC2a7E2qEhBwctDQghPJ7NRdrEuNruUWGhQMc5ymucM-P2ZcbCYZOLRon-y-IA",
+            "width" : 466
+         }
+      ],
+      "place_id" : "ChIJ7WCy8TL50YURs8r52Z_Lm3k",
+      "rating" : 4.2,
+      "reference" : "CnRpAAAAJXcqr5bg4u3FU4PI2gbHp_9a1z0R42AIx2uSLeV7DO2BoVeR69K_rfjJ9hLG1qmOyIoD6rD8BCTkb9IAGETcOJcrKXpmBv6_XSHMlHSd5pc7VQsuOtnAI7RtBWdzoXRIMfL8uIEXPH-eEdSNNfTW0hIQbnjZNf3j6UM0vvXq-obMfhoUsLutzCmT7qpEVgxxoIz8nJwT57w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Armando Rivera Castillo",
+            "author_url" : "https://plus.google.com/103366629992073715543",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-VMIqJehOESs/AAAAAAAAAAI/AAAAAAAAMZ8/lVHU7rpwIl4/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy bonito el museo",
+            "time" : 1454385445
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giovanni Nateras Mercado",
+            "author_url" : "https://plus.google.com/109868288176552968247",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-aDHrD-dvv1k/AAAAAAAAAAI/AAAAAAAAHCU/5Dp_1PG1muk/photo.jpg",
+            "rating" : 5,
+            "text" : "Altamente recomendable para recordar tu infancia y como detalle, siéntate a que un artista te haga una caricatura de ti mismo y al mismo tiempo ten una agradable conversación ",
+            "time" : 1453184839
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bellanira Coronado",
+            "author_url" : "https://plus.google.com/103474976191901508407",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Este museo lo conoci casi cuando recien comenzaba como a mediados de los ochentas, hace algunas semanas volvia entrar y esta bellisimo... En ese edificio se realizo la pelicula mexicana el castillo de la pureza",
+            "time" : 1440097769
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "abi R¡vera",
+            "author_url" : "https://plus.google.com/105544437713351611926",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-gyszifViKlU/AAAAAAAAAAI/AAAAAAAADdw/DZ6MfmaUPMU/photo.jpg",
+            "rating" : 4,
+            "text" : "Alguien sabe si abren los dias feriados como el 12 de diciembre por ga alguien que me diga \n",
+            "time" : 1449940317
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vane Martinez",
+            "author_url" : "https://plus.google.com/108555993141618133146",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-k4lCoUY7yjM/AAAAAAAAAAI/AAAAAAAAAMI/4ZcCyvlLbac/photo.jpg",
+            "rating" : 5,
+            "text" : "Mi favorito sin duda, si buscas un poco de sátira social y conocer la evolución de la caricatura en México, necesitas visitar este museo te reirás bastante , la entrada es barata y si llevas tu credencial de estudiante te hacen descuento. ",
+            "time" : 1456438511
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8762821387396696755",
+      "user_ratings_total" : 50,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Donceles No.99, Cuauhtémoc, Centro Histórico, Ciudad de México",
+      "website" : "http://museodelacaricatura.org/"
+   },
+   "status" : "OK"
+}

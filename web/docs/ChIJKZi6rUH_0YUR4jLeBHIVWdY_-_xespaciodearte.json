@@ -1,0 +1,114 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "99",
+            "short_name" : "99",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida México",
+            "short_name" : "Av México",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hipódromo",
+            "short_name" : "Hipódromo",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06100",
+            "short_name" : "06100",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv México 99\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHipódromo\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06100\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av México 99, Hipódromo, 06100 Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4102988,
+            "lng" : -99.1707476
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "24ed79a453b7f65162fa1055cb6c0b1efed9e660",
+      "name" : "X Espacio De Arte",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114890309562635186945/photos\"\u003eOctavio Aguilar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYZILKAfY5uzYLPnBhY6wzKXEtB-8T2oG4VWa2GP30kdPmgkNSk24boLqvORWRZR62YZr59Gg1VaaAZVANp9LWLHehDLzwj1NJBw84EX3DdgDHtzxGWfwr8nYeUekbJ-IEhDjYa4Qe6uKYcCelpC313oYGhTL4wkd8PCU7P9Fg-2RN2Syfx3umw",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114890309562635186945/photos\"\u003eOctavio Aguilar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQDtGxS7JAbTOlZk4z3VdfdbNupHczwPr4HgdcTZ-8hb1EtgVIij1e7ejGZbE0ltuaBXfQtEVAbsgTTIapd1xJ7dnKV00OB_c4S7HdgNBgiMqtbwh-tRs_l-sIjM_v8KFEhByAEDrSH0Fxd1gHYRpdyYUGhRMO_VfiWjmCYOARoWAReGVtmN0eQ",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114890309562635186945/photos\"\u003eOctavio Aguilar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARvuBVgBahaYTgoNUpvR2_mUOH-59NamaSMtAKhcSW2HnKu3aRZ_vrBktYtcuq5SCfbdpN-WXK_AE-1qgLCr9XGnrDrgIjy3FQoy0k-YoWnk4sr-J5Bk-tnVrJnQZDAuZEhCx3QOudBi4MvgMoz71o7IHGhShzXL5jsx31DUuJY_oPhC25e8f1Q",
+            "width" : 3024
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114890309562635186945/photos\"\u003eOctavio Aguilar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFKdIT3JnT6XOt_-R-ZfJSEC8MRwEJG1Hp2qzKiL8bWh6bSXNGUngYVaucjylt0R9ey2XTY-qvqyQqFuNU0BvCe3wS70ednuJGxRzdLnDczMOlFzsfvI16ZtPnP4xv-JIEhBrLNDxPe3YAZguA1qSvMscGhQwc0boxDsrNz5kPyT-op5_FXgsBw",
+            "width" : 3024
+         }
+      ],
+      "place_id" : "ChIJKZi6rUH_0YUR4jLeBHIVWdY",
+      "reference" : "CnRlAAAADv5Kswn4wCev577fIcwbRVpFwdsaDBS3YFir3_MIm8ZQgA3ZSKuPdGyYjUwDd6NAAwdmeJu8Zf8rRZEeKm_whUh8dLKUAce8o3GUjuivCNX4nI2qZaYrTGORj6RSCabfNiZYk5hsOPlp6H3glO16GBIQhSKAn--j6sRPHDmMDLIB6BoUa7lpr-LpE0W39xNe1eXSj-1BWDY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Octavio Aguilar",
+            "author_url" : "https://plus.google.com/114890309562635186945",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-wLLoHOtF5xk/AAAAAAAAAAI/AAAAAAAAez4/6XslLFsV5N0/photo.jpg",
+            "rating" : 5,
+            "text" : "X Espacio es una galería con mucho movimiento, ha tenido en estos primeros 5 aXos mas de 50 exposiciones y ha pasado mas de 200 artistas por sus instalaciones, tanto nacionales como extranjeros.\n\nUbicada en el PH (sexto piso) de este conocido edificio del Parque México. \n\nSus horarios son de lunes a viernes de 10 a 18 horas.\n\nBien vale la pena darse una vuelta, tiene una terraza espectacular.",
+            "time" : 1454489610
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15445399976495952610",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida México 99, Hipódromo, Ciudad de México",
+      "website" : "http://xespaciodearte.com/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,239 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Atizapan Centro",
+            "short_name" : "Atizapan Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad López Mateos",
+            "short_name" : "Cd López Mateos",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "52900",
+            "short_name" : "52900",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Plaza Adolfo Lopez Mateos S/N, \u003cspan class=\"extended-address\"\u003eAtizapan Centro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e52900\u003c/span\u003e \u003cspan class=\"locality\"\u003eCd López Mateos\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Plaza Adolfo Lopez Mateos S/N, Atizapan Centro, 52900 Cd López Mateos, Méx., México",
+      "formatted_phone_number" : "01 55 5822 9220",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.5632078,
+            "lng" : -99.248082
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "bb55e350a41ee3d030d0380e21e95e10e760ce5d",
+      "international_phone_number" : "+52 55 5822 9220",
+      "name" : "Museo Adolfo López Mateos",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1500"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–15:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107981659320179541878/photos\"\u003eMuseo Adolfo López Mateos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdgExTp63sVQfB1Wm-XWWR9jYvE7nVKTVzEIYqQ9f0rLEFf-5pTNuG1RVEwG4pVAKNhBj5EwZZum7WUpFR4Yjx7zoCOqyen65cef7LGZ2UU9_QyFQy9J7QmjfxaGBZ6buEhC9Kgauc6Y_-V1HADI5WSBYGhRvDmqSOYI1gBsgpb84v0XXBS8HVw",
+            "width" : 2576
+         },
+         {
+            "height" : 1158,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107981659320179541878/photos\"\u003eMuseo Adolfo López Mateos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAotsoZGZDsSSZxZ6va7HT63VrIxa4eAvHzeWJBK5kcSagO0Qp7A_YaCmHV1ONGwdOBPoTbYX4y1Rp-o86TosxkP-oRgcoyz4ijf2KRBMbtRUk4PyaW4nv10bh-KQ4sdbJEhDAV7aJCYtn57TignjwNyTsGhQin5uIKuNnOuKspDzczCzM8_QC9A",
+            "width" : 1760
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107981659320179541878/photos\"\u003eMuseo Adolfo López Mateos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-Fkj8mTkr4ZYm8oTUotUPjYH7GusY5HxpbLbGOnEftli7aW3hWyKJy2X0zUoOoQ0H3d3hPe9XT8LHQHJOJbpVaTbta4ZNT6Qwro6CNsODdJ9ZbuPRAGJ9xULqde_D0PkEhDnrcn1VWNjlsC0OeR15y_NGhQtpNEr6uZvghqrjLw7AYkhI2Ay7A",
+            "width" : 2048
+         },
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107981659320179541878/photos\"\u003eMuseo Adolfo López Mateos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_jWPc33CPrl3bC4ccri3traUbqeCHRtYkWzSC4iCkSB5iRMThW3kNeESK3G33tXfLL7E4ZFN4hRiCefeEiOnx229uhpDoAb3n1c1mmfW6xceXJh_y1eVqqXmtVaOjLI2EhBoKtPJAMgVnVMut3pyxSDgGhSsjchP6uVFBYlG2YYivtRk3IvJkQ",
+            "width" : 2560
+         },
+         {
+            "height" : 641,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107981659320179541878/photos\"\u003eMuseo Adolfo López Mateos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA1n76jDdb0z21bTMVxnIRtq3mC91ts_QXvhx7T03j6Wmg1J6e7IeokzTR4dQdw837C7DcMHExwvOeMkxVJLIAMGwESDuvgLw9XKwommToj5_MCAB0tXZt_rKPzVwFHzIFEhDpSyYbXjXPRJE7sRMmnVhSGhTcH1gvXdRdMcVZ4-g2dT-UEr9gTQ",
+            "width" : 642
+         },
+         {
+            "height" : 609,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107981659320179541878/photos\"\u003eMuseo Adolfo López Mateos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAe_3rNcZD0cHB99KaWdwlULZhFUS2VBhqzia5G100nRvEXGbeE4jHUV6y_wdfPSCtj-WUg47CYGZIsjfcye0azlh1aVs8r80bmm3sEmFV5AWZWchU9tEJ8v5U45ZWn47vEhDJV4QZsclwWt27zlIzSppUGhTJjRlohk1aNJe3b__hTkqndTmNKg",
+            "width" : 609
+         }
+      ],
+      "place_id" : "ChIJQ-dY1fAc0oUReAjxt4S69Zg",
+      "reference" : "CnRuAAAAWgmSM1nKlJR7iMf5Cifb6GryIPvqlYL02XVaoL_v8ldoC6aAtJ-8d3zy75bferiNolw3_-oqJbxmby-0Ulfm0moX5vpcdrG1LX2gJvtAPQzeDAY2Kb73cl1uhioQMEpu3ifKTp6EtzoLS-7wnz1nVhIQQqRr-cqhExO7LuFbJCEiphoU1VZMJ00V8ki3psZSovK958Tj3KA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gustavo Romero",
+            "author_url" : "https://plus.google.com/116426930111625062429",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-cmvgnfWY8pc/AAAAAAAAAAI/AAAAAAAAGXY/p4grBRa6O7w/photo.jpg",
+            "rating" : 5,
+            "text" : "Estan geniales sus instalaciones, lo que mas me gusto, fue ver el carro de que utilizaba Adolfo López Mateos. excelente lugar :)",
+            "time" : 1454042196
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juan Pablo",
+            "author_url" : "https://plus.google.com/114430463501114056828",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1448914547
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "uriel salazar molina",
+            "author_url" : "https://plus.google.com/115472069059534237840",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-h3sOTQ149jI/AAAAAAAAAAI/AAAAAAAAB1k/6bbpo--TJ3Q/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1432064396
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aranda Galaxya",
+            "author_url" : "https://plus.google.com/101309161939408537749",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1416143123
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11021920742243633272",
+      "user_ratings_total" : 4,
+      "utc_offset" : -360,
+      "vicinity" : "Plaza Adolfo Lopez Mateos S/N, Atizapan Centro, Ciudad López Mateos",
+      "website" : "http://portal2.edomex.gob.mx/imc/patrimonio/museos/museolicadolfolopezmateosatizapandezaragoza/index.htm"
+   },
+   "status" : "OK"
+}

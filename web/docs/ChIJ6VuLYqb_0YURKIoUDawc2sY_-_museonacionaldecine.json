@@ -1,0 +1,87 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2662",
+            "short_name" : "2662",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Dvisión del Norte",
+            "short_name" : "Dvisión del Norte",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Portales Norte",
+            "short_name" : "Portales Nte",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "03300",
+            "short_name" : "03300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDvisión del Norte 2662\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePortales Nte\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e03300\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Dvisión del Norte 2662, Portales Nte, 03300 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5605 7394",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3780106,
+            "lng" : -99.1588256
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8f92fbd4fec4c2ff9bcec2ab377dc30246b3fc83",
+      "international_phone_number" : "+52 55 5605 7394",
+      "name" : "Museo Nacional de Cine",
+      "place_id" : "ChIJ6VuLYqb_0YURKIoUDawc2sY",
+      "reference" : "CnRqAAAAWAwyKyluku78hlLLMqkP8vQuI0kJvR8URy7cWlV6f0abInHaIxd61e1H3csWSbP5aoQGCrWT7kBnywh97y231ecMTAY1JG0SHH3AqqQRgNKve0f9yRkXq164ZUjBnK6TBForYohU80PQ_iDAow82ZBIQ7OsMD8kV82fyjDSQ8_ZgVBoURw84YJCxpEXzvNORw__wUYPlwWc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alejandra Mendez",
+            "author_url" : "https://plus.google.com/118108439440399736749",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-g5NiS6YnojA/AAAAAAAAAAI/AAAAAAAAATY/WAuYyi7jaHg/photo.jpg",
+            "rating" : 4,
+            "text" : "Me agrado bastante ver la sección de cine mexicano y la evolución del mismo es algo que te da una muestra de la vida cotidiana de las personas en tu país ",
+            "time" : 1379797261
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14328796689712056872",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Dvisión del Norte 2662, Portales Norte, Ciudad de México",
+      "website" : "http://muscine.com/"
+   },
+   "status" : "OK"
+}

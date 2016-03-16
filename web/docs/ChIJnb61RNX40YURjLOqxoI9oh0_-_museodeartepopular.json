@@ -1,0 +1,289 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06050",
+            "short_name" : "06050",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Revillagigedo 11, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06050\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Revillagigedo 11, Cuauhtémoc, Centro, 06050 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5510 2201",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.43377899999999,
+            "lng" : -99.146322
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "849de6002d485cf3e8393aa041c91b5cb87f8441",
+      "international_phone_number" : "+52 55 5510 2201",
+      "name" : "Museo de Arte Popular",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–21:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2362,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117155661926003987786/photos\"\u003eMuseo de Arte Popular\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAsvqeIfqwZQyQKeKGmIW8iYSTEe6LdS2bafo1laQdRACILhJG9zPpqJOYkRS4nWRxLdHPBrMxIGsDluK-Y8Q7sq-KoYXAPvdFT0q1CRxGgZiHIvwlFnCnoG33reHjZWUZEhCBpmSrjeoN7Zh1w-GbPkBsGhR9DvlTdYrRj61Cxj3eEShAtgqwHA",
+            "width" : 2233
+         },
+         {
+            "height" : 1664,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117155661926003987786/photos\"\u003eMuseo de Arte Popular\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALDmINXpSfZXs-srNNWQo46IOAeSVedqclWnGqYueSyN_bp_Em0Agvz_Fv036BJdJ8M0yYurqGuKYAQLJkM8ASuW6XgfNIqxJB3RADGoBPejjszT-25bPjwU0DA4_0kQCEhBA9kwPWAS8NvcbJqoq4tkiGhSb4FXp5tL-iW4xxUI22C0VBM8HSA",
+            "width" : 2496
+         },
+         {
+            "height" : 1664,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117155661926003987786/photos\"\u003eMuseo de Arte Popular\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAw9X_VKkuzkiscnqOMpkAA5qWqZ2hQw5y4PkxJezyFT0ppBgVXJi5y3llCdeBBfXVkNstxhKff63bSm4zKb3-zcZmcZKKmMH2gtor9dGWjrPAqizRvesj3fQ0zYvlpK-1EhAg85fiPHWlgRMFbbjYQGQrGhSAEACNt2ZElCt-uNlQE_a0SNEFBA",
+            "width" : 2496
+         },
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109541777102367619153/photos\"\u003eMary Castillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAplv8ViJ7-qySc10Xx3Kh6bx5k6F67SwUc016BNCQ19lEuRn-WhdiTgdchR4AEVGnphlzmkyVnBqBwJc_QY5AmdJkkP9zz9ZjMfI6beFO9nylZ5zOMJB__WqFnqWjGJLaEhD9Ky_OGQhkH_3OSpE6MKhHGhTptxVQCgqDKEb5lNmdZAEnznMXug",
+            "width" : 1296
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117155661926003987786/photos\"\u003eMuseo de Arte Popular\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAItAiRZdxaEHrAxS1bsil1URZgD5P-7hnPc2nWHjQDNcn5JrZCGCnljFkmdtEvUTZtK5uFQtPiQVhXXikirQAU3jDerQl0EB017Vqgwd-yURAEt_CiIiKoIhdBJbNRyYhEhA4FTjqF2zPmgC9UFVKtASDGhT6bEFPPVMxvSEeFu2Lug8nv349eA",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118063458340853761213/photos\"\u003eSasha India\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2vVBaYwX4YAkLztXCp5VPX_FDVlkfdTaqwX028pSZGTDU3x2XL8TAVkttGTXvz4Jso6UREzALHa-Dmyna1--sB6ia69hiHBrs855RajUD3W2RIbwiwJGTP_msZnY131dEhDl03Og-MamQIWX6-CqmnMnGhSXmlUWKl9Gxh3uojWeblCqT65C4w",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118063458340853761213/photos\"\u003eSasha India\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAquaVb5TZUzWIT8LdHCfVSVgaKHiKiwMgMZvAwomvpEmHHuZxfeNwA6WmhFTPIoT_GfAHHhR2MGag47kJFUEU7lfJdaG6CUte_8AKmHe_D3x_G42urN9-MZ1189VxS7bSEhATwNfY9zJ_U6lG7v0BocQhGhQu2JFZt80AmMepV-hkshJ-TNQcKA",
+            "width" : 1536
+         },
+         {
+            "height" : 798,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117155661926003987786/photos\"\u003eMuseo de Arte Popular\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzJXVD23OS_ThQw0lLcQRhcbxj_qgKXp_lf9Sf6BJzvP5MAVDtNfSgHn_hn9YhcLf8v0HU8iUUfysKSBipCLp9pwloZ37Fc2tWUFegNWxfDSaoWx3bETLchYJbeVGSHPTEhC2ORO3LHGUCmc2jIWLuZ21GhT7OnCLIHZnMjIQZzoDggXMd8w3kA",
+            "width" : 800
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA57RXoJ5EeBH9cWkS4VljPERXA2cjRRqAmVMRmf-cz10qMQXwQnIyrpch850PDIlyCDph0TMentmfBprroXvIdogyph6vj-botjigoj6LjqncderxDSe9K_UrLf6zvIKwEhAdO-Cmjxox4ykvZurV9hDoGhRzLkmeoHUH3RDIPgHhbvavdu7RMQ",
+            "width" : 3264
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112992848918810639544/photos\"\u003eMartín Zvl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4y8MN7TdRBKUoz9Eb9lforZl97jilWOSWSwVRfdnP6u2lJJQBaxHcR_cNBUQoKPSIQIXKo_63FLHLa81686jTe6FICC6vrWCa0bATNaKGxVY6bH3WeXl6cZEupFmnZf3EhBRojP_R5tFOACbvu-yqmfYGhQYp39Ny0zZy2_E4FuYFHcxKKREfg",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJnb61RNX40YURjLOqxoI9oh0",
+      "rating" : 4.5,
+      "reference" : "CnRoAAAAxqphltB6IPQ_2JotJb5Zr4fZ5JhqUibZcKDuGFZEXNGIwPz43u8c9_Bqqsw1O66Qyg8F_6sGBMMUvUoatts5SkjMsDkXFQAd_QaxfWU9ei61letnQiJl_NQhuggSRnBATk1BkdXo29Vju0xMrvmB9xIQfA_pzHYTPc6ard5ya5l7ARoUiR3X5g3LFh2NnzdPIhmR_hq2Y9s",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lalo Green",
+            "author_url" : "https://plus.google.com/114321548759150831604",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-T3rbjf-UTJ0/AAAAAAAAAAI/AAAAAAAAAbw/FXf3SahPQcA/photo.jpg",
+            "rating" : 5,
+            "text" : "Este museo supera por mucho las expectativas que alguien pueda llegar a tener antes de visitarlo. El edificio propiamente está muy bien adaptado y conservado. El único problema es que en días de mucho sol el patio central, que está cubierto para evitar los daños de la intemperie, se caliente mucho y es hasta molesto.\nLa colección de artesanías que se exhiben es excepcional. La representación de las etnias y regiones del país están perfectamente organizadas en temas que son fáciles de comprender para los visitantes.\nEn cuanto a la calidad, las piezas son de excelente factura y están muy bien protegidas.\nEn algunas salas la cantidad de piezas en una sóla vitrina llega a ser abrumadora, por lo que algunas piezas pierden importancia visual. De igual manera, las cédulas colocadas en el vidrio son difíciles de leer ya que las letras no tienen un fondo consistente sobre el cuál se pueda leer.\nLa visita al museo puede bien llevar un día entero si se quiere ver detenidamente cada pieza, pero de cualquier manera que se visite, es un paseo muy, muy disfrutable.",
+            "time" : 1457542125
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eduardo Vera",
+            "author_url" : "https://plus.google.com/113854341298500448371",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-GQzEI_rQTfA/AAAAAAAAAAI/AAAAAAAAUUg/S6vAeAqBkog/photo.jpg",
+            "rating" : 5,
+            "text" : "Visiten la expo del mes! Fauna Diminuta! Está increíble. ",
+            "time" : 1457581658
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Xone quiroz rodriguez",
+            "author_url" : "https://plus.google.com/102211960085343576494",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CkPlbZzS3JQ/AAAAAAAAAAI/AAAAAAAAA3Y/xGUkIprky3c/photo.jpg",
+            "rating" : 5,
+            "text" : "En el interior de este portentoso y estético edificio \"art decó\" se encuentra plasmada la visión de artesanos de todo el país mexicano. Nos narra las costumbres y formación de estos artesanos m, que más que eso son artistas que producen en serie. ",
+            "time" : 1452666408
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gerard genius 37",
+            "author_url" : "https://plus.google.com/108424610423575486146",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-4dVRpXlppig/AAAAAAAAAAI/AAAAAAAAAyY/HpDHP_5p-bc/photo.jpg",
+            "rating" : 5,
+            "text" : "fue genial por la sala de la zoologia en el arte mexicano y las demas salas",
+            "time" : 1446397771
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Melí Meló Cultura",
+            "author_url" : "https://plus.google.com/116340652691475201097",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-FOI756Qe1M4/AAAAAAAAAAI/AAAAAAAAAVw/udBW-kvFpZ4/photo.jpg",
+            "rating" : 5,
+            "text" : "¿Te interesa el arte popular? El Museo de Arte Popular muestra las raíces de las tradiciones populares mexicanas de una manera profunda, original y creativa\nCuentan con una colección permanente y dos salas de exhibiciones temporales con muestras de artistas contemporáneos.",
+            "time" : 1445295451
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2135336805215155084",
+      "user_ratings_total" : 106,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Revillagigedo 11, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.map.df.gob.mx/"
+   },
+   "status" : "OK"
+}

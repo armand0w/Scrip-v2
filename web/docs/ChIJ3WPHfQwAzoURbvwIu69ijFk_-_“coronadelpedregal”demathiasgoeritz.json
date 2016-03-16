@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Mario de La Cueva",
+            "short_name" : "Mario de La Cueva",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Coyoacán",
+            "short_name" : "Coyoacán",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMario de La Cueva\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Mario de La Cueva, Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3160882,
+            "lng" : -99.18393599999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "c54d2bed7bf062bdd37b1677417eaae581580f86",
+      "name" : "“Corona del Pedregal” de Mathias Goeritz",
+      "place_id" : "ChIJ3WPHfQwAzoURbvwIu69ijFk",
+      "reference" : "CoQBfwAAAO0XGh1HGEUy-gTJE6fV-s11eoH4Kb9zxuqW0jwNWlaLq_qs4xVoz1OW3dxpQC-bh9KhIhJ36CcAvl7FItSJV5HmH5Yi6bc9pWoDkwxOipU0xz8mukVxcyo0jrpnaXFislYcJDK15D-K-Aw0KFxiRY78lleaXYl-Ey0TKXVj_r6wEhCgiRdKQkDKRvJY_BDnasWNGhSEtsO0Zw1tZVFV4hje2yKlLCVvDw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "MARTHA HERNANDEZ ONTIVEROS",
+            "author_url" : "https://plus.google.com/117721734897050999976",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-yrxaAUiBc00/AAAAAAAAAAI/AAAAAAAAAGA/B_k2PXZrbHw/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1438396676
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6452640873011805294",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Mario de La Cueva, Ciudad de México"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,84 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3572",
+            "short_name" : "3572",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Prolongación División de Norte",
+            "short_name" : "Prol División de Nte",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Lorenzo la Cebada",
+            "short_name" : "San Lorenzo la Cebada",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Xochimilco",
+            "short_name" : "Xochimilco",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04620",
+            "short_name" : "04620",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eProl División de Nte 3572\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Lorenzo la Cebada\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04620\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Prol División de Nte 3572, San Lorenzo la Cebada, 04620 Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.2767713,
+            "lng" : -99.1216975
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "10efde86da838da89f3695fc9ed548f7388bb7eb",
+      "name" : "Museo Del Automovil, S.A. De C.V.",
+      "place_id" : "ChIJ_-uzz1oBzoURg8Rptx-1OOw",
+      "reference" : "CoQBdQAAACobCqFmSZurxFgL5jDOcj26FFu6zeG-3-sEgNz0J_yQ4z9NfUgxtLG5bwsLuYTH4whLJkFaQ_VZ_i2Vs_2QkaJq05wnUdj6wcosYPlZDGMlehTeJZhvHwQG_ZmrYUtnGu0a4DN1YG17NpmsEinpbgijKx5Fxn_El6-WYP1v17c7EhA45Me8fIsjvCPoDVHzec3GGhSkoE8mA45iCzCHKM7_Q2dDxclChw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joe Cambar",
+            "author_url" : "https://plus.google.com/112925709512060073803",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-NGi3mYoAWyU/AAAAAAAAAAI/AAAAAAAAAPs/EvzGSRKT2lc/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1456694543
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17021553939472565379",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Prolongación División de Norte 3572, San Lorenzo la Cebada, Ciudad de México"
+   },
+   "status" : "OK"
+}

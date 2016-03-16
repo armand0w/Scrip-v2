@@ -1,0 +1,126 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "General Benjamín Hill",
+            "short_name" : "Gral. Benjamín Hill",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hipódromo Condesa",
+            "short_name" : "Hipódromo Condesa",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06170",
+            "short_name" : "06170",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eGral. Benjamín Hill\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHipódromo Condesa\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06170\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Gral. Benjamín Hill, Hipódromo Condesa, 06170 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5515 2225",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4080619,
+            "lng" : -99.17858389999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "275db22a94db05b3472f72130ab9514e5c66fd68",
+      "international_phone_number" : "+52 55 5515 2225",
+      "name" : "Capilla Alfonsina",
+      "place_id" : "ChIJB3FwrEL_0YURven2ede2AcM",
+      "reference" : "CnRlAAAAZGQEuTNJp3PPYh4mWh8rMART0__V0nD4w2bBuesqIK7qoz9eW304wUarm1KWyF91VPssLeoOFqpgDUrE3u_GvJPgTZ2KceH4IjRDNRZ9PKmvpjUx6TyA8bWPWfNuf5t_aYdZH6IsObda0Xml7Ewa9hIQzyB_6pbfzqJpy7mznUZuwRoUTuaAcFHEu3MIjyiUaD7qfoxMzo4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ilse Karina Martínez",
+            "author_url" : "https://plus.google.com/103646957022906660287",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-4RZ7C5Juz5U/AAAAAAAAAAI/AAAAAAAAAP8/gPOhoy3pzbo/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente recinto ",
+            "time" : 1438199594
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ross Aguiñaga",
+            "author_url" : "https://plus.google.com/105779583360744184243",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-g9YkZQn5TPk/AAAAAAAAAAI/AAAAAAAAAhA/NMW_k2DjJ3M/photo.jpg",
+            "rating" : 4,
+            "text" : "Es la casa que habitó el intelectual mexicano Alfonso Reyes durante 20 años y donde ahora se exhiben algunas de las pertenencias que atesoró en vida: el dibujo cubista que le regaló y dedicó Diego Rivera; las cartas que el poeta Juan Ramón Jiménez le envió desde España, e incluso su colección de soldaditos de plomo.",
+            "time" : 1379843260
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ana Ximena Corral Navarro",
+            "author_url" : "https://plus.google.com/106021922325822765652",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-suxBfrbG1RU/AAAAAAAAAAI/AAAAAAAAADg/74UyPAGv1UE/photo.jpg",
+            "rating" : 3,
+            "text" : "Interesante!",
+            "time" : 1378399273
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "jorge carlos armenta alvarez",
+            "author_url" : "https://plus.google.com/102811483550635149065",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-zq4Kecx22sA/AAAAAAAAAAI/AAAAAAAAABE/7HEdIhLpdEE/photo.jpg",
+            "rating" : 3,
+            "text" : "Padre, vayan.",
+            "time" : 1379880856
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14051713348953106877",
+      "user_ratings_total" : 4,
+      "utc_offset" : -360,
+      "vicinity" : "General Benjamín Hill, Hipódromo Condesa, Ciudad de México"
+   },
+   "status" : "OK"
+}

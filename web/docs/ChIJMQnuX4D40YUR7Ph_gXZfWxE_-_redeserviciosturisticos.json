@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "461",
+            "short_name" : "461",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Av Azcapotzalco",
+            "short_name" : "Av Azcapotzalco",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Nextengo",
+            "short_name" : "Nextengo",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Azcapotzalco",
+            "short_name" : "Azcapotzalco",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Azcapotzalco",
+            "short_name" : "Azcapotzalco",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02070",
+            "short_name" : "02070",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv Azcapotzalco 461\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNextengo, Azcapotzalco\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e02070\u003c/span\u003e \u003cspan class=\"locality\"\u003eAzcapotzalco\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av Azcapotzalco 461, Nextengo, Azcapotzalco, 02070 Azcapotzalco, D.F., México",
+      "formatted_phone_number" : "01 445 347 5345",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4762917,
+            "lng" : -99.18718319999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "afefcf5de40b479ae610a57caf5eaafc5e212c40",
+      "international_phone_number" : "+52 445 347 5345",
+      "name" : "Red e servicios Turisticos",
+      "place_id" : "ChIJMQnuX4D40YUR7Ph_gXZfWxE",
+      "reference" : "CnRtAAAAmDk3dsNWSIbw7wNVTYlWdOHXeZ4RBsfBGgsu3SUHQ8Mtdo57_72NfD6c9QUe96d88jjME4oZdoJafsBsfwMrAbDdzon9INQ1S3pTzcanvEcr-AtARW4VUt3MGL9sdKE9L_zdmedKxmvUG--Cn0ZXdBIQofhAn6iloLjtaFUSSn8B-xoUijfWOMvjl8pxuV5qRPUlfDRzbQg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1250698284108871916",
+      "utc_offset" : -360,
+      "vicinity" : "Av Azcapotzalco 461, Nextengo, Azcapotzalco, Azcapotzalco"
+   },
+   "status" : "OK"
+}

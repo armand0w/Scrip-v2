@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "99",
+            "short_name" : "99",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Álvaro Obregón",
+            "short_name" : "Av. Álvaro Obregón",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Roma Norte",
+            "short_name" : "Roma Nte.",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06700",
+            "short_name" : "06700",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv. Álvaro Obregón 99\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eRoma Nte.\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06700\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Álvaro Obregón 99, Roma Nte., 06700 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5525 2894",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4184984,
+            "lng" : -99.15935259999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a69cf5770d930d4a71aae57eee60e917312f2a3f",
+      "international_phone_number" : "+52 55 5525 2894",
+      "name" : "Cafetería Rincón de las Musas",
+      "place_id" : "ChIJGywZWDr_0YURll2k-xSuQgc",
+      "reference" : "CoQBcgAAAAU8NCuRx7lICpHVnhVm54_C1eR_keSOIpCU-5xfbwnBsKctNlrerLYeKUhvYuAqs2BpB5am3Rv1sT3gAj8Mc6e1gVkBfHRqTuUg8Qh3QkW-qJ-eaKoiP_ayCjkfs1HQ3Cjwv9zb0zbpj-lMoBe7Be-pYKRW_uktpsG9BHnevXxGEhB13ApVu5kz7uVQpRnrEfvJGhSQZpUP9Roht_9QQZN9DCbZ5iUy-w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "Por donde queda el café tengo familiares, cada ratito nos echamos el cafesín ahí. ",
+            "time" : 1378506241
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=523171911872830870",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Álvaro Obregón 99, Roma Norte, Ciudad de México"
+   },
+   "status" : "OK"
+}

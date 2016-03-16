@@ -1,0 +1,248 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7",
+            "short_name" : "7",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Doctor Mora",
+            "short_name" : "Doctor Mora",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eDoctor Mora 7\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Doctor Mora 7, Centro, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 8647 5660",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4364584,
+            "lng" : -99.14613729999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "36c3fada664965823adea4e59d29e1be65aaf49a",
+      "international_phone_number" : "+52 55 8647 5660",
+      "name" : "Laboratorio Arte Alameda",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 9:00–17:00",
+            "domingo: 9:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114823991388245944326/photos\"\u003ePaola Gallardo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7Cxx5uZuPD0EykwI5JXiiuIyRIPyxp4ZM5BGY7pl8aHz-TU6y5qAyv33svp4DDP5QclLXZ2Nhys9CYnN63mwUurSHYTQTnWPCgmfQ-PacewU-ljQJSsZnqZeYzTf7yEbEhDdmwcfXbkJNePXmMAdYcTfGhTvp86EB9pWdkWVSYSbvO0KlWOCKw",
+            "width" : 3264
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112992848918810639544/photos\"\u003eMartín Zvl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAq90Lj6dHTAEAJiu1yTzeOf9Cqm6gVALhg4nBf0PCeNVgMzSOvqefiF9ZdRRiB7GBgEjuss6reXBqqFxGOe7u5u71WdONas0RLbLb1C8KQNbLdKjzJdT_MBaYL0Y-pLBpEhA7sHK9Lhd9Ba5NajdL_-1dGhQAcQ3Q6V8d68gTdLPm_yr_bHN_bQ",
+            "width" : 2448
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112992848918810639544/photos\"\u003eMartín Zvl\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAe7bJuCPCEPUG9XuWaJYfNIaZBywqAEJvRvcOFQ2jH75M31Qbeiu5WLUEfzDSFmT3AiBe7a1nSRPyJIhKvK0t_1Y3Ig_sY-5_7a7OrvHlsPTdNciqNoC6XRPkz3eVb4gEhBCFyq4l4gcXHsCNQ7HjqBEGhR3hfHS59pRQTwbZPE1moo0uhmQww",
+            "width" : 2448
+         }
+      ],
+      "place_id" : "ChIJd0_AmtX40YURWtzx7Y7wS0Q",
+      "rating" : 4.4,
+      "reference" : "CnRrAAAAXzTmoh1UK2IoORjF7UFmosErxU-sdi-c_uDnfckYTjrgWPn1E_Kh5_0Er0FkDWdX86Qs_Dkfo3BQHi6IqIz8jQ8EioxL_2v11i1hecic8JCW8xox8WKChk3-uYPCLGsDhSHpjYYx0SFy-KwLgeiYwRIQfSHXKOgwpezEEmDDMmH8ahoUkXEPdzV9f0tlyXrYCmsFF82ARfY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martín Zvl",
+            "author_url" : "https://plus.google.com/112992848918810639544",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-OyKrgl1_ESM/AAAAAAAAAAI/AAAAAAAAAU4/lzm6X9rECdg/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente galeria. Es una propuesta diferente del arte actual.",
+            "time" : 1448600311
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eder Xar",
+            "author_url" : "https://plus.google.com/117107053221843276467",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Npb9bAbO-Ns/AAAAAAAAAAI/AAAAAAAAAGI/IJqdDr0hRco/photo.jpg",
+            "rating" : 4,
+            "text" : "Es interesante descubrir el edificio que alberga el actual Laboratorio, ya que su construcción data de 1591. Es el antiguo Convento de San Diego, el recinto donde actualmente se presentan exposiciones y actividades de arte contemporáneo; así mismo abre sus puertas a distintos festivales y talleres en especial para la producción y expresión de actividades con enfoques en medios tecnológicos, electronicos y digitales. Sin duda un sitio recomendado para aquellos que buscan algo diferente, no dejen de apreciar la arquitectura y la integración de sus salas. #adictosalaciudad",
+            "time" : 1380428673
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "octavio suarez",
+            "author_url" : "https://plus.google.com/100356745002127480821",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-37vSaFqiJGw/AAAAAAAAAAI/AAAAAAAAAAA/39eIQpZOfaE/photo.jpg",
+            "rating" : 3,
+            "text" : "Muchas de las exposiciones no son aptas para todo el público. Algunas personas dirán que esaburrido",
+            "time" : 1378611178
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ana Ximena Corral Navarro",
+            "author_url" : "https://plus.google.com/106021922325822765652",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-suxBfrbG1RU/AAAAAAAAAAI/AAAAAAAAADg/74UyPAGv1UE/photo.jpg",
+            "rating" : 3,
+            "text" : "Interesante....pasas un rato agradable!",
+            "time" : 1378399547
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "Se ve genial.",
+            "time" : 1378495309
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4921291514500471898",
+      "user_ratings_total" : 12,
+      "utc_offset" : -360,
+      "vicinity" : "Doctor Mora 7, Centro, Ciudad de México",
+      "website" : "http://www.artealameda.bellasartes.gob.mx/"
+   },
+   "status" : "OK"
+}

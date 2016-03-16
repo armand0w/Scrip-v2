@@ -1,0 +1,214 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06050",
+            "short_name" : "06050",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Victoria 82, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06050\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Victoria 82, Centro, 06050 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5521 0426",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4317918,
+            "lng" : -99.1462803
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3739417271cfcdd5cde2d8cc547e1d720ea37d15",
+      "international_phone_number" : "+52 55 5521 0426",
+      "name" : "Museo del policía",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–18:00",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 9:00–18:00",
+            "domingo: 9:00–18:00"
+         ]
+      },
+      "place_id" : "ChIJncV3uir_0YURbye532FXQ5s",
+      "rating" : 3.9,
+      "reference" : "CnRmAAAAFKQt5dkGB-5Fnfpz-XKnvqrncf7QPxceQXlduzHk2SbVob9kbYKIVkpJdmWU5SLevy3_K6pDhiH0ZwXBP3JxN3Zu3-atugLRn7o6ak6WIQzib4mGicgMxLNX8yXeJ7tJSdM9ehBhPgNE8WP3UT52zxIQ64H-ayF6M5KOobUho1EyXxoU5aRp0Uwxcvszqqasu9QxLhpu_CI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juan Téllez",
+            "author_url" : "https://plus.google.com/100641376318053196189",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-Ue-A87ySIu8/AAAAAAAAAAI/AAAAAAAAO-w/Ri6bMxa3HQ4/photo.jpg",
+            "rating" : 4,
+            "text" : "Buenas e posicioned",
+            "time" : 1451363782
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Edson Camacho",
+            "author_url" : "https://plus.google.com/113746268727994480515",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es ermoso",
+            "time" : 1454129929
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Salvador Arizmendi",
+            "author_url" : "https://plus.google.com/108161238647787125670",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "M gusta mucho ",
+            "time" : 1434994043
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Yessenia Mendoza",
+            "author_url" : "https://plus.google.com/104032438026760040183",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-PkoxvIiLWh0/AAAAAAAAAAI/AAAAAAAAF4k/wGJYnbd48ao/photo.jpg",
+            "rating" : 3,
+            "text" : "alguien sabe si todavia sigue la expo de asesinos??? :) ",
+            "time" : 1444962744
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lucero Muñoz Morales",
+            "author_url" : "https://plus.google.com/118038334505712721715",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy bonita",
+            "time" : 1428701564
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11187881977195341679",
+      "user_ratings_total" : 31,
+      "utc_offset" : -360,
+      "vicinity" : "Victoria 82, Centro, Ciudad de México",
+      "website" : "http://www.guiadelcentrohistorico.mx/content/museo-del-policia"
+   },
+   "status" : "OK"
+}

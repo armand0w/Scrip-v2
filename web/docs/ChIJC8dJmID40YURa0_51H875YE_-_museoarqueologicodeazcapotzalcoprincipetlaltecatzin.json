@@ -1,0 +1,264 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35",
+            "short_name" : "35",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Libertad",
+            "short_name" : "Libertad",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Colonia del Recreo",
+            "short_name" : "Col del Recreo",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Azcapotzalco",
+            "short_name" : "Azcapotzalco",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02070",
+            "short_name" : "02070",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLibertad 35\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCol del Recreo\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e02070\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Libertad 35, Col del Recreo, 02070 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5352 1811",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4773705,
+            "lng" : -99.1858601
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "c6ff314965309f2b06455139cfff4fb65cec223e",
+      "international_phone_number" : "+52 55 5352 1811",
+      "name" : "Museo Arqueológico de Azcapotzalco Príncipe Tlaltecatzin",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1500"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1330"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1500"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–13:30, 15:00–17:30",
+            "miércoles: 10:00–13:30, 15:00–17:30",
+            "jueves: 10:00–13:30, 15:00–17:30",
+            "viernes: 10:00–13:30, 15:00–17:30",
+            "sábado: 10:00–13:30, 15:00–17:30",
+            "domingo: 10:00–13:30, 15:00–17:30"
+         ]
+      },
+      "place_id" : "ChIJC8dJmID40YURa0_51H875YE",
+      "reference" : "CpQBjwAAADewMqAy_HJbXKjw9hngNDcEdleq8ls5UrgGZGgrYM674EAFdmeXxBW6sM9Hqmw2LyCgwvq55AUGpXPjYprEtod5IUcxd5599Hjm_OwcBUqnxBcp-iLZu5GRls73nv_XVYE4YhG0VpwzgQVeuwN4l0Gr7M-QMgYUSNifw-JbMab20FYQf00dCgKOv3vI8cA_yRIQplByz4CyOUvSa5t2IRPEKxoUCYwUTAiosieiZ8-yTGGuI9EtLS4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "JAREDH LOVE",
+            "author_url" : "https://plus.google.com/111845394021735671519",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-YqaqwADAnMM/AAAAAAAAAAI/AAAAAAAACL4/9pdYe4YF4Tw/photo.jpg",
+            "rating" : 5,
+            "text" : "A pesar ayer vi al señor del museo descanse en paz el señor era muy buena gente",
+            "time" : 1446469654
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alejandra Mendez",
+            "author_url" : "https://plus.google.com/118108439440399736749",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-g5NiS6YnojA/AAAAAAAAAAI/AAAAAAAAATY/WAuYyi7jaHg/photo.jpg",
+            "rating" : 4,
+            "text" : "A pesar de lo que esperaba antes de asistir me sorprendió lo nuevo y completo que se encuentra este lugar ",
+            "time" : 1379798103
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "¿A poco en Azcapotzalco hay museos?",
+            "time" : 1378505897
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Un usuario de Google",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1320118864
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9359952820779437931",
+      "user_ratings_total" : 4,
+      "utc_offset" : -360,
+      "vicinity" : "Libertad 35, Colonia del Recreo, Ciudad de México",
+      "website" : "http://www.mexicocity.gob.mx/detalle.php?id_pat=3664"
+   },
+   "status" : "OK"
+}

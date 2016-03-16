@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Culhuacan",
+            "short_name" : "Culhuacan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "09800",
+            "short_name" : "09800",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Morelos 10, \u003cspan class=\"street-address\"\u003eIztapalapa\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCulhuacan\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e09800\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Morelos 10, Iztapalapa, Culhuacan, 09800 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4040 5500",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3398227,
+            "lng" : -99.10805839999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b135ad1d363a0aae442a154866c16659ce828a3e",
+      "international_phone_number" : "+52 55 4040 5500",
+      "name" : "Centro Comunitario Culhuacán Ex Convento de San Juan Evangelista",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 9:00–18:00",
+            "domingo: 9:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 947,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115572208613142084317/photos\"\u003edaniel gr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAu10Hfqrm_Cdi4J--2xSYK-EpZBKKH4gqmvSnEIJfx1Ojvsx2peQJNzLVN2fF6nfXjlS5c7aySFVpN68WL93ijqvm1w52mwoVBmbARegvnKrrXmOHCnZVLRkx1v7jCy8TEhA34Br_JpKODh_V3QyBuN4IGhTJy2pNF9gSGJVQV9yJUJxPBok17w",
+            "width" : 1268
+         },
+         {
+            "height" : 972,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117860443168330376346/photos\"\u003eAldernik Guevara\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5qVEJem108drftyYQeM6_hLt2hH2-vnYUxVOOHYMnhK2S1YoVpraurWluv-ibBKlcVObFzgokp3LxOjTq3fW1HYTpK-rNLkGN20resX7cXR8C6Veh4-bYpPmFAb1z_qSEhCaqC6E_qneAlEfUuA3GD5WGhSXwx_EFcCPd4nwG_sXdgojLOwDsA",
+            "width" : 1296
+         },
+         {
+            "height" : 1268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115572208613142084317/photos\"\u003edaniel gr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZl8OVfJMPFmTs8M8p8NCCoqPHDAZuhWIwp_TKQZahezjHCet6xu2iTXM6qiXasTt2kKPr048K4QRqXw6naMrX6T3ydxAAj4M0vg_oXP-XJ8lTNpT_3JUmR6L7PggJbrrEhCv5_h3k45j0YS902-z1GOkGhS_igr4X3eV7FKu_riSaxr97WEK4Q",
+            "width" : 947
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106268206729808426058/photos\"\u003eTemístocles R.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAB1mDVyC31czsuur-6qIhr-mJbJo9BJ2N-0Rw1ItTBXr57Bn0WVN_frL5MQbAMRZaHNpGALWqP04JYeVDsNCGzxSHPzTNO3miH3Z8PJhpqy6WbSw1-0n9g52MoRG0ZyuIEhADgNXVDSJIKUzVhaxNzr8rGhS_qVryzpw3G9SGXb8Q0SpLpfl3AA",
+            "width" : 1944
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110499175025290428710/photos\"\u003eSalvador TM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAATrTVk9TXs8VKoE8LNRK1Z0P2ydwkQLrgdev-n_AzGNqQ5cxXa3Jzde3LY0l0EaZUQZIr5yiYdMlufDgYtNwm8houPHYFKJVlQVaeET7U8bCrmlnPfdzAcy876fcnRqQEhDcq8wxJUJFEqUy43Lru0GSGhStaSvcXqxRcNZlvAjsulRYFJlr0Q",
+            "width" : 1139
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106806846822566470527/photos\"\u003eLuis Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8fexWTwcml_2hCCMQWC-9Dg2OKzknnNV_MpMZgl5LqEHC3dTyusVIT9VU-1dY_tRrtRQa2c5tVfFVpVYFKZAbvqEQ9xtTfV1zHwbVv4CnLmTC1g2lsr9otM2WKa84CGqEhBjxmws9i8dB1oD5TNld71EGhREaeSRT6Z6aMVj1OYF98-XzehTnw",
+            "width" : 612
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100355900310005017790/photos\"\u003eMilpaaltacronica\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAo12SZKi3dnfjc6BkwA4ODmqYt4xA717waSHDk6jxVNFycFtAMmEGPFE4ZMsGsDGHJGK3pyrG-RyZxNAWPgVWYiClePKAaCU0JtKewIJt3OOnbRDIpb-ShW_LEHJRH1f4EhANrvheUVS4kXfyV2sUCa8pGhTDCl6DDAU4H3X0TZUSWRVBz-KrKQ",
+            "width" : 960
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103688433874960454765/photos\"\u003eLizeth Bustamante\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3GxhVBW2MKEPIlQwNaQeDhFgoxMso9Ifju7egOehVK3mq0oNheRyl8CojWCiArcqyBAWEE4RFmVz8hTBPXvSi6lvY8-SXgQjNvY4jLuzKsqZ7cDbj4UUHf3iN0D8WCICEhAiPUSDDum2i0aaf9qaGPHZGhTYEDeEBc2HGJdhXFbf78eKkn7EQg",
+            "width" : 2048
+         },
+         {
+            "height" : 719,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110499175025290428710/photos\"\u003eSalvador TM\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQYCjoU3RPLJJfIe9ruOdCmE2DE1h_poHkMUDxEU5IAPV_VpAvZADmTmon7pl_1kkWlyZF6VYUxNXkTyWADVxkZwV5S2F5Tf2GupYdPltwaQdnJtq_wtHkHXXn5Oc_W58EhD385-jSW9vbmw2whBLShQaGhQ8qT4psyKQeRpKPa8Z-6Gyp81-NQ",
+            "width" : 1280
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103688433874960454765/photos\"\u003eLizeth Bustamante\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAntV-OBSSrEZZvL07Twa9WImwdW68FPUSC7mnvI_-xVdLGqSkuiqBxmLNDITWnIU2vD83aLEyILDKITiLpQBposogw4ZfYzgbM_LfMjBaor--GNV_Y52VyV2H8FepbK4KEhB_Sv5EGxPT_4T6uftLVTvoGhSJ8EHUCOa-DBh4K5OikqyAQi8RCA",
+            "width" : 1152
+         }
+      ],
+      "place_id" : "ChIJQ16Y7f0BzoUR1qDtZh01mUE",
+      "rating" : 4.2,
+      "reference" : "CqQBlQAAABBBS1qT-zisnY7LJcctHRnq8dv1eM_7UWtL0qtnj7lD0crauIO6DG4y1t1CXIKP5vVU5RM0I1U9kL2-9RGlfldp5Xdr4txHfAcEqOL0pz-LrqUjUtR-SSNb5q9KNvnblAaBbVcXXPPUWP3rI9GYhuOuBnP4sneEm1GyLJpuOwVakyxiBn0J61t6Snm-WVTf04Aa_ck5GwNr33NSxj93gNYSENPXU1g0zWkiBFLziWknO8IaFDSVQ8_5aet89vp6oxHExpOZNutz",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marcos Andrade",
+            "author_url" : "https://plus.google.com/105227484326098954825",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-ERniXyfViio/AAAAAAAAAAI/AAAAAAAAWXU/_uRVCwm4HYo/photo.jpg",
+            "rating" : 5,
+            "text" : "Un sitio histórico, excelente para la familia. ",
+            "time" : 1447528347
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "chesare maldini",
+            "author_url" : "https://plus.google.com/118003397432557509213",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "Bonito museo.martes d a domingo de 9am a 5pm",
+            "time" : 1362888845
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Ramirez",
+            "author_url" : "https://plus.google.com/117113207774660890793",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-hYscPf80L7I/AAAAAAAAAAI/AAAAAAAAADM/kbG38yI9vEA/photo.jpg",
+            "rating" : 5,
+            "text" : "Woo ke riko lugar para reflexionar",
+            "time" : 1342390043
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mauricio Benjamin Jimenez Ramirez",
+            "author_url" : "https://plus.google.com/108636172708853024885",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-mv-PDw-KYso/AAAAAAAAAAI/AAAAAAAAPXw/HOHSSedujEs/photo.jpg",
+            "rating" : 5,
+            "text" : "Muchas actividades todos los días y participación de la comunidad",
+            "time" : 1449970860
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "daniel antonio jimenez meza",
+            "author_url" : "https://plus.google.com/106334660825572982663",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-MGV6vIH-0dY/AAAAAAAAAAI/AAAAAAAAAEE/MYU4k8QVVAM/photo.jpg",
+            "rating" : 5,
+            "text" : "Buen lugar para pasar en familia yo lo hice con la mia y de verdad es muy bueno. \n\npueblo Magico de Culhuacan",
+            "time" : 1340923557
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4726867684299219158",
+      "user_ratings_total" : 26,
+      "utc_offset" : -360,
+      "vicinity" : "Morelos 10, Iztapalapa, Culhuacan, Ciudad de México",
+      "website" : "http://www.inah.gob.mx/"
+   },
+   "status" : "OK"
+}

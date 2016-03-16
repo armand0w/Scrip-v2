@@ -1,0 +1,286 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Jerónimo Lídice",
+            "short_name" : "San Jerónimo Lídice",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11580",
+            "short_name" : "11580",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Segunda Seccion del Bosque de Chapultepec s/n, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Jerónimo Lídice\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11580\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Segunda Seccion del Bosque de Chapultepec s/n, Miguel Hidalgo, San Jerónimo Lídice, 11580 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5515 6304",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.420431,
+            "lng" : -99.181923
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "1012a4ffec0f8d0945f89a2724d54bc77c3feeea",
+      "international_phone_number" : "+52 55 5515 6304",
+      "name" : "Museo Nacional de Historia",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 9:00–17:00",
+            "domingo: 9:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112771829426167208089/photos\"\u003eAxel Guerrero\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAp4hE-x0SxRmsl1J4A3AXqtOIdYVsXg54D4M3tGHuo-XZRYlDFQcfsPBxStMKM8DUpcW-hVojkEAnam4CXMppnhOsTthm3C__UF7w7ZxjWCavYN5MFAlFbSLvvbCZq2kTEhBsA8QyIuCuk6oNNrZ0-Pl-GhSz_wIdNYAWXsL2WZKmN0E5p7Ej_A",
+            "width" : 2048
+         },
+         {
+            "height" : 1096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118240735953737819782/photos\"\u003eDarío Carreón\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5DmLpk6PDfMn5p91LJCddStoPTpHNVzEZZb7VQIJHWp-bU9d2iVQATFd15xEsJveCFmRacIJ1ZGKcLqyfbU5QDAXDvNktrjxfMa-7VL6l1cdUx2NPuGpIlHC6L9Zp1cNEhBgsqaNt7sL9E6n48ZFfiENGhTY5LMUK8t3rUgjiL4eQev6yW15Hw",
+            "width" : 1096
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100436348172860787053/photos\"\u003eRené Pineda Godoy\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYpeT_S6MgYcPbpCr33IRpuBG2wPrR0KXqAUkgDJdZTTzXp6ihZMs67WcPO4V7cw4WMCNXx-2BnxGbjuFvss_URqdBmOGo0GjUxXXkNqNhJSsfmudilIdaY8ZRf2QK7JhEhDhZ7VY_Dfkt9s0laKOz3XYGhQ-iIiTlfTsj-pTPiJmkijjqmvlPA",
+            "width" : 1265
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117383558365571718836/photos\"\u003eGerardo Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAL149hIA7Rid2B_EF6HpmS_o8ZHqu4moJrN9E3Gf4f8Ixp7wIckmFYuogG_VDZTcs2eJ-tbBwHfizVLw19q5p0Aix1bwS-z0mtV0Qi73SANdBA1T0RQncidDzzHzjfb8QEhCopbdeVoDkjL1CUQK0MNSJGhQFn73EVzqqeyBIvbtdrdpHvyp91Q",
+            "width" : 3264
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111052933961621832790/photos\"\u003eDiego Ramirez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0p-uZjjigPOsrbQjfmWWP-G3615E7CoG-qrBsK77csuegddVNkwOkUOF2NS4Lhvqy6dLYQUMNVHTlpV0NuaZp1yfjt0nCG4kVgjTW3aI0ov24ObwlxMkYugFsqABnXy3EhCFKtCi-Wo9kQpe3J0S5CksGhRX_Ii6xTDvuVp5Sl5aO7aMcrLAkA",
+            "width" : 640
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118063458340853761213/photos\"\u003eSasha India\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAIFz11MM5Td86_RF9IumCEmojKtrhXButI0PN1lIopclQgvOuiPqdDJEr3i_cOtuzT5_0TgmxLhnkZGfTlfQ3CHfQwpV-5zHIwtN7fRQJmZEUzoESzMkRXCdvZY2DdDKSEhCX6-TgcZ95jzEW_dB6blY_GhR15KbLGU6ZVl0CQC-Z6siS7pLQMA",
+            "width" : 2048
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108047162667658518998/photos\"\u003ejuan de dios barron\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArA1X7wmmgMzjdGT0xQRynz-PBeB4pjrSogM5RmVM_A11j6K317umN7uPXs7M2Hb5xXjv7gAFdiJMiM6WIkqxH669d3EcAMnjAP7NsuvJ2Obpf4ZctZ0J3YloHzCUE0n2EhAIvWuh-8BRAyEDjsKsnI4DGhRWI9uB8joJb2a2Qre52Q7TOc0Qbw",
+            "width" : 960
+         },
+         {
+            "height" : 947,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100141670929415574007/photos\"\u003eJulio Cesar Guzman Muro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA04nwdryFSOzS85feQQts7OtNj5370ZyiolNa5T0ZJZPg864Wb5pQ_xz25IhhVMzTiue9-75DEdn3lJI2yiGY1dC8qhZf08gI7MbhRGoB9Lz16seS4s_8bit6vzaTbuOGEhDyLTvOo3DqFX7hRX-yIdAjGhSmkZUUdCneen-LSsGgZNOD5Lre6A",
+            "width" : 1268
+         },
+         {
+            "height" : 1530,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105282366044795030570/photos\"\u003eAdrián Acetaminofén\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAebUHAq0_9RerVh_umYSB-TrHAbP4ubSM2HCGAs-ffwJpbHRWAhODHDu3UAhNerWy8BNznvjFFzdUYEEbii2SiV0uJHGC6J9N9q2gFpXlJjzjEYOBgtbqcyWx1IKMQj1mEhCPbZA-cUw44FW-f98bbJhlGhRuHfRX3ueEidfxUJVnG_bor-Gn5Q",
+            "width" : 2048
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101017106801040485888/photos\"\u003eAlan Fitzgerald\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFjyAXM10nwB9Nf-ihTed5bsqbqVqOcmI89l56AfTSbc-Bk0qv15jZoSTbMoCyKdhOltwsgSUAm8lJn_gns0IlQrvLVzQvQGByjMR25-7jx5mRm1Mk66T2h7XxTljUAfrEhB005MDXyjT8QVDLenHUXJ0GhRXH6f2L63jTJdZirW7flHZiuayow",
+            "width" : 640
+         }
+      ],
+      "place_id" : "ChIJESeEi1D_0YURlnz6pjoW-Jg",
+      "rating" : 4.3,
+      "reference" : "CnRuAAAA7jE7zv3m97et_oDxbXsZmlOGkGTfKsLK3azl8GniVcG4A8mlu6yrI4m9ALzJhG8EooMAZFpBt2dHk1XZn8piZTQdp7ogU-mP9iL7sMTG7P6XJCJAQdOuLudLf4DzwZTMp3pk3pWBpkVkrog3Lfax_RIQDE8tns2z1RbN1c8CKZetcxoUdQ0QrDBjQdhTDzhioPVQuPAIoNc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Raymundo Garcia B.",
+            "author_url" : "https://plus.google.com/106191622883586158267",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es como echarse un clavado a la epoca de esos momentos y esta muy bien esplcados los echos y es un lugar para pasarla en familia excelente lugar oara visitar y pasar un agradable dia saludos",
+            "time" : 1451966932
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Rivera",
+            "author_url" : "https://plus.google.com/109620532670285775793",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy bueno enserio",
+            "time" : 1449779993
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abraham Vázquez",
+            "author_url" : "https://plus.google.com/105265877107259371550",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-5-x2a2h9aF8/AAAAAAAAAAI/AAAAAAAAAII/eOtQm5H1Thc/photo.jpg",
+            "rating" : 5,
+            "text" : "Una vistas impresionantes mientras subes por la montaña y miras el bosque de Chapultepec. El museo mantiene intactas las estancias antiguas en un estado de conservación muy bueno. Cuidado los domingos, exceso de gente que solo va a pasear. ",
+            "time" : 1453731125
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Donato Hernandez",
+            "author_url" : "https://plus.google.com/107016606783502320978",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Excelente museo.",
+            "time" : 1451236609
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mari Ortega",
+            "author_url" : "https://plus.google.com/105449060137139855467",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-UGS9tw9QXZI/AAAAAAAAAAI/AAAAAAAADg4/zUXT7tcM8-I/photo.jpg",
+            "rating" : 5,
+            "text" : "ME  ENCANTO  MUCHO\n",
+            "time" : 1451838156
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11022584529154636950",
+      "user_ratings_total" : 121,
+      "utc_offset" : -360,
+      "vicinity" : "Segunda Seccion del Bosque de Chapultepec s/n, Miguel Hidalgo, San Jerónimo Lídice, Ciudad de México",
+      "website" : "http://www.sedema.df.gob.mx/museodehistorianatural/?view=featured"
+   },
+   "status" : "OK"
+}

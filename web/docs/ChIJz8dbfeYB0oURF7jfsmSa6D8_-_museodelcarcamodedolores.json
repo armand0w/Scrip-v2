@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bosque de Chapultepec II Sección",
+            "short_name" : "Bosque de Chapultepec II Secc",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11850",
+            "short_name" : "11850",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Avenida Rodolfo Neri Vela S/N, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBosque de Chapultepec II Secc\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11850\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Avenida Rodolfo Neri Vela S/N, Miguel Hidalgo, Bosque de Chapultepec II Secc, 11850 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5515 0739",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4128505,
+            "lng" : -99.197999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4aa63034f19b7e9a7e594b3c26d65554ed5a3c96",
+      "international_phone_number" : "+52 55 5515 0739",
+      "name" : "Museo del Cárcamo de Dolores",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJChiz13hnJ-hqNt7xksvTHlJt3HttXXB7j-ygZ8LJZ-pV_B8tfA6mM2F9y6iBz0GOW26O7Gqs4laQ97bOxUAlg0zhAbA8RVuGRm2BvbVq69pnSibhtKFzT2QwGPTQ6hcEhA2woL2JZpF1VC0H76pq_xJGhSguq-3OlsUaKfdXTTy854iinUKXQ",
+            "width" : 2048
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116847871289377095098/photos\"\u003eMauricio Zaldivar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA66Cw79wPxelfeOaEFQbvBuFsVoZkK16POzl1euud2PGZJ53e6HITs_FEhukWxwsDcya8ETE_xfYpAmZQ6hnNmcuKLlyRT7HCt4jwMy1qase3IexXAbI2vUCnXgcbt2KtEhAHsM7tQ5lB1MPpNILjZqjAGhTZc4z6A_kkx0a41-ebPzo0nwcmvw",
+            "width" : 1024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAyk2sKnBuwyrKZ2iptwMBqmfw4V4jeBgw5vKGePdfAItxPLC2K5qQ6U1hasuWvb8xGnKi3WTBYBCde26qmHbiTo1g7p2KmOjqk0Bf6YNy53fTpSNp2yTSQjx9OSfVp1f2EhCVfzh0UH_tnVJZYkNwtjCwGhSqsZgbeLmUv7u7EnAcQne-NKNThg",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYUvYnAPbfvzlB4XXS-XNIacTzCk9BS6BUCDez62mGJN8T1LW_7O_PtYW7uJNOVMpQoU5UtNGVPc4h97O6-a3qSZh-myLetzZeOxCY7Wz3-t0pEGMIJepSEkiZmjXbQTZEhAo7R5y14O7qITI1v3s3ggJGhQkVwVRNgKAAeeGmGDY_ec19at9KQ",
+            "width" : 1536
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALwYqsOpsetpKcZm2wzAe_h_f50ImArpzbtHe82fer2RUiFijFflyyL34k11K-CInHLjm5bSrg0yVMS6w2dl_-hemDKEw_MAwFj1f1ugtbMs2gdtfG6_AwwNNqEJItLKYEhB477_fJXcbFGLRF3ZPX8fLGhS5mytw3E3nqxIYGBAnWaN9fbgdiQ",
+            "width" : 1536
+         },
+         {
+            "height" : 3888,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117781799380933028763/photos\"\u003esalip pilas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVjX_4MnLbDm3IYe_fyxcxel0q-ZenBVDrc9lIC2VigVOh_5PZrJan0oJcT5j0fEDsDw74g0rsYGXSyLA9ZE2FcdWbdePpsnmqetfGKlQeU9YTz9kmbKXfqrkotnyPqAHEhD04aSmcs-vPlZJa_H7LESrGhQ8TFKbc8R-z8SdwTLlMTdWuEhdSA",
+            "width" : 5184
+         },
+         {
+            "height" : 4096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112105672348708186200/photos\"\u003eRIC MAYEN\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAj8hLnFawHjVLOgy1jkgUFFU5yQVzFwwillS5jUBQ5qkTD7ATNlsjJWPKI96VpnmCqgo86dYfv4tpyJNXBNIA2cURoqp_cQs1qsrC15ZQhA4icPmpCz4q1OMZUt1ufcQlEhBFo3Q1WhF4h7OxZYcTOeZ4GhRj1MddY5U312DyOFTqN3FQFDndgQ",
+            "width" : 3040
+         },
+         {
+            "height" : 2432,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112105672348708186200/photos\"\u003eRIC MAYEN\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAe6JTGagDWokRNm99qzn3M3V-oWUjXrLafl7UVXaBsxpyJwxyYDdaMTiY7IAnN1nymcvH27kw76tni7suKIAg6pJfkqg1O2G6kZOIAkJ5_zB9szvV-laYtFwQe3lMHjpkEhD3DLXjuXTJ4FA1Zu1_EeAaGhQLEqtA77-9Pm6VIDjgnB8P6bTcAg",
+            "width" : 9422
+         },
+         {
+            "height" : 3040,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112105672348708186200/photos\"\u003eRIC MAYEN\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdRcz0mXQjG4HskqG7CxFLz5ZoCKv9d7wGu5OLQqbRQN4ateSlGfBPtySdf8Ch6idvVgvVwpOPuJ1xHyXAQt8YEHqkci0A9vWZpOd0pkt_DlbI6h8vBpwQc6jpiuQGv_PEhAIPR4IcWfnOVtl4PhyCD2LGhRt8b2ATjACrXa4klbaH7PYt1VtTA",
+            "width" : 4096
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYVbQTrGf11kKDSEoB4gOTQpX_z7zxEJfvjXXaqcOJk6843wNJjrHhaD4zPVBJbmckgK04D5iduKRzbhJfFWQvhUFVHM9l-7gmjeP2Lu30do18l7LQaGmT9ud1zPLW5dXEhDDcxa7rJbRXz3NaSlwzLwKGhRH4lOsvQX79HI82snNuT3_A1BG2A",
+            "width" : 1536
+         }
+      ],
+      "place_id" : "ChIJz8dbfeYB0oURF7jfsmSa6D8",
+      "rating" : 4.5,
+      "reference" : "CnRwAAAAWndvuiF-Qz5nP-8syIHdKrumy5QFWj0mei-eKlk4WJntkyk6d09xH0Gsiix__q2tdOoOrRXU5c2WK2ykIHI9LYo3pAUQfM0dCOSnEJm73lrgXqGK1nranDuJb7immV7sooS75u_zRbRCWw98bG3y0hIQqV6nrN7MVTxKyBc--8b86RoUFXR0qLZYTMx1fUfGIR-70BRzThU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Liliana Reyes",
+            "author_url" : "https://plus.google.com/105093259305776678692",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Además de encontrar el maravilloso mural de Diego Rivera, que con el desgaste que sufrió por el agua nos transmite un poco de su historia, también está la obra artística: Lambdoma  Chamber, de Ariel Guzik, que produce vibraciones sonoras. Un rincón mágico.",
+            "time" : 1448592581
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Charles Fried",
+            "author_url" : "https://plus.google.com/106935790543571413428",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-54W0m-ytQPs/AAAAAAAAAAI/AAAAAAAACwc/H2ILaFBKj9Y/photo.jpg",
+            "rating" : 5,
+            "text" : "For those interested in the works of the famous Mexican artist Diego Rivera, here there are two terrific and highly unusual pieces.\n\nThere is a huge mosaic fountain \"Fuente de Tlaloc\" of the Aztec god of rain. The mosaic has been done with marble and basalt and other native stones, and some tiles. There are many symbolic elements in the work, such as the corn in the gods right hand.\n\nInside the small building just to the east of the fountain is part of the water facilities of the city.  There is a causeway, with valves to let the water through. This has been painted by Rivera with a mural on the topic of water.  Rivera researched water proof paints, and the role of water in the origin of life, and uses of water to use in the design of the mural.  There was also an electronic mechanism to detect the sound of the water and harmonize it using organ like pipes mounted on the walls of the building. The old vacuum tube electronics box is still there as well, although the water no longer runs through the channel anymore.  There is a small charge to enter the building, but the fountain is free.\n\nThis is a fascinating and impressive bit of work by Diego Rivera and worth the trouble to find.  It is in the second part of the Chapultepec park, to the west across some major highways from the section where the Castillo is located, but there are parking lots nearby as there some museums, and the amusement park nearby.\n\nPara aquellos interesados ??en las obras del famoso artista mexicano Diego Rivera, aquí hay dos piezas fabulosas y altamente inusuales.\n\nHay una enorme fuente de mosaico \"Fuente de Tláloc\" del dios azteca de la lluvia. El mosaico se ha hecho con mármol y basalto y otras piedras nativas, y algunos azulejos. Hay muchos elementos simbólicos en el trabajo, como el maíz en la mano derecha de la figura.\n\nEn el interior del pequeño edificio justo al este de la fuente que forma parte de las instalaciones de agua de la ciudad hay una calzada de aqua, Dentro de esta calzada hay un mural hecho por Rivera sobre el tema del agua. Rivera investigó pinturas a prueba de agua, y el papel del agua en el origen de la vida como temas para utilizar en el diseño del mural. Había también un mecanismo electrónico para detectar el sonido del agua y armonizarlo usando órgano como tubos montados en las paredes del edificio. La caja electrónica de tubo de vacío de edad todavía está allí también, aunque el agua ya no se fluja a través del canal más. Hay un pequeño cargo para entrar en el edificio, pero la fuente es libre.\n\nEstos son ejemplos fascinantes e impresionantes de la obra de Diego Rivera y vale la pena de encontrar. Es en la segunda parte del parque Chapultepec, hacia el oeste a través de algunas de las principales autopistas de la sección donde se encuentra el Castillo, pero hay algunos aparcamientos cercas como hay algunos museos y el parque de atracciones ahi tambien.",
+            "time" : 1446668502
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jesús Wong",
+            "author_url" : "https://plus.google.com/100567123339595262288",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/--jJ3i0KrvX8/AAAAAAAAAAI/AAAAAAADCRU/drqEdOwJJzU/photo.jpg",
+            "rating" : 5,
+            "text" : "Uno de los rincones olvidados de este gran parque y de esta enorme ciudad.\n\nAquí se combina la funcionalidad con el arte, el cárcamo es el punto final de la tubería que trae agua a la ciudad de México desde el estado de México y el constructor decidió que podría rendir tributo al arte Mexicano al mismo tiempo y lo logró de una manera majestuosa, es toda una obra monumental que debe ser apreciada con calma y afortunadamente con el apoyo de Google Maps se pueden ver ángulos que de otra manera no podríamos disfrutar.",
+            "time" : 1442390854
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Isabel Victoria Pedraza",
+            "author_url" : "https://plus.google.com/116649818110534827303",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-VSGSNpVvtHU/AAAAAAAAAAI/AAAAAAAABCo/Z4BNc-tiDek/photo.jpg",
+            "rating" : 5,
+            "text" : "Me encanto tan magnífica obra echa por ese gran muralista Diego Rivera tenis la dicha d disfrutarlo y de admirar cosas maravillosas ",
+            "time" : 1452561775
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos T.",
+            "author_url" : "https://plus.google.com/108234669100658086204",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-cBwu08m-g-E/AAAAAAAAAAI/AAAAAAAAF7A/RCnSbusKaf0/photo.jpg",
+            "rating" : 5,
+            "text" : "Pequeño museo en el que se unen la ingeniería hidráulica y el arte, originalmente una obra para llevar agua potable a la Ciudad de México se integró una pintura mural hecha por el gran muralista Diego Rivera así como un sistema acústico accionado por el paso del agua, en conjunto con la fuente de Tláloc el dios azteca de la lluvia, la calzada y la escalinata en forma piramidal, este lugar se convierte en una experiencia única para los sentidos",
+            "time" : 1448392576
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4605100376274745367",
+      "user_ratings_total" : 19,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Rodolfo Neri Vela S/N, Miguel Hidalgo, Bosque de Chapultepec II Sección, Ciudad de México",
+      "website" : "http://sic.gob.mx/ficha.php?table=museo&table_id=914"
+   },
+   "status" : "OK"
+}

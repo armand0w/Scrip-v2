@@ -1,0 +1,272 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06040",
+            "short_name" : "06040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Artículo 123 #134 Col. Centro, \u003cspan class=\"street-address\"\u003eDel. Cuauhtémoc\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06040\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Artículo 123 #134 Col. Centro, Del. Cuauhtémoc, 06040 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5510 0469",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.433187,
+            "lng" : -99.150184
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "5bb1db9ff08d4b3b43c0a4741fbde7ea6bce3ea5",
+      "international_phone_number" : "+52 55 5510 0469",
+      "name" : "MUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 11:00–18:00",
+            "miércoles: 11:00–18:00",
+            "jueves: 11:00–18:00",
+            "viernes: 11:00–18:00",
+            "sábado: 10:00–17:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7O4WmP1dEnmkbiPYEFtYmYiM6d8jhJtATIAlWFvsjHKGN8Sck73ysjhOlUpbkQscFTpCipN0w6v2nwPRyqjYBmB_z9vxIXUzYcIbPoIvrG8Ol0CqZxSYDAgG0OOzQD5jEhB-1ogC0oQg5Eji_WX2vDK2GhS9zq5_4whMrW0rHKZ2ujRZLerBAQ",
+            "width" : 450
+         },
+         {
+            "height" : 451,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHol8H1H1HeOYI6csNKNYhdodw3_9PwRFwYqswXQFxC6HZWHph6WRGxjDZK3AbtuShrE9_aEEHAqbuY_egK4UgeBuukB8zMWb2htuOojg0RP7d6-xgKMbiZXRpJapcY-xEhAS61_yIP1sv_OnO4J7acIpGhTyQ-MKG_rMMizcXFjXpKL6rPGi0A",
+            "width" : 676
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADYkRB7qYUcOvDQuZ7duAHDhsPqtQjIJitmEig9C0pSldQloppU8_6LAalA5RIkcCGlsj7WOVHhcRJKeLnO0UXsSYtvGc6gtkh-7GVHoAvxmGQEvDlOe73bgA4hSan055EhCsts8kL6Stguj46LMboujoGhSpw7oJqBhzl7Fi4PlnKZzciC8J2A",
+            "width" : 640
+         },
+         {
+            "height" : 482,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5RM2xHadYeGIosGWjw86WWfSKdH5WqmYeH9efH_wtsaInxE7--6fWjEVwAAfaXYATuWmITTjwKqo1gP5w6N5hyFQPihv0l9KD4RkwD3QaH3aKxNzutyKCQCjh8zPdnoDEhDuTi5ZQgfdKd6lRRyVo3TbGhSK_KvW56_RpY6HwyQjvNNspX4ZbA",
+            "width" : 720
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAXtdRI5744IMmhgKBBi5-Dmo0e3wN4yoAXrZrbCL4lR3y84GmWBDZJrliDT6_Ofvo2-JQoU4MObcJN458L6MxRA7WjKOCdVMTjnMh3QAudJNMI3bBPloZZTx-MdllCHYZEhA8uihxU06k2drFF_okIFHMGhQjSL8StWyEZ9yAFF-Zat19To3UhA",
+            "width" : 960
+         },
+         {
+            "height" : 479,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZSU6N_QlR6j89MatXUjUZgTtj8srvofzxb-TB1bMQjN4hV8gvm3gYvGTFmHeV2zJsnig2RGkT7NRBvtwnjTg8DY39IBYMzSz2O6k4lsoqXk64XOOFbjSdpCqEgG1AD-rEhBLcqDRY84pvv_T9bj6jm3eGhTDoGg9S7I7b6KsqhDmCygVnORd9Q",
+            "width" : 720
+         },
+         {
+            "height" : 518,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKS1NLb9cQRZaiXmSYQKvbqCWgbWUyEIHNw6BVegkpdzlBDg-Pww4RpD68pBeIIgAl-gvOpGZfjfv-EjmDpGglFd1aAslliri0jzN6iokjrVJPfOxM6Z9JtFsZeig6QEuEhDrVcdKNNl9RdkSYSN5fDgiGhS2f_5j-Ih6JXLz87t_1YF1GIgrDg",
+            "width" : 774
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103513900844958381693/photos\"\u003eAngel Garduno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2wm7o5m_XyywvvLWLMJ2ADTHrPnPJhMBzEfbvRVpMQikKyBer9kTEQxc0Hy_RH7VWgSAPSm_Pr1iK5fehRAcO8KJ9LoQfLPK5uo5VwNYvXhrsRXNunjYm8lZ3-YLby9QEhB3xG6LHF3DlAm_e0AOb6SOGhT-i_6Rf_QreI7MKo01-mJJLF6vcw",
+            "width" : 949
+         },
+         {
+            "height" : 451,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJIL-orpa2feuXBvq-AGM_WNLJG7K9fCM2p85fbyyiPnKAdNs2DynvMtj5JdAGBseg5RzOnFmutF0uTyw-oJUaoIRknbZ9sG1jlSSN7gcDYs3n1NzsN4CWag9uU5Ulcm5EhDfDoibXFvM7JldkT85evhMGhR_DQdp6NpPR2SVWjtzFVy25FyKfQ",
+            "width" : 676
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112624962176824053144/photos\"\u003eMUSEO BRITÁNICO AMERICANO EN MÉXICO Juliana de Norwich\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAX0HBypvBk4sBG-ZPubPbbnzduNNVenh-YwggbCx1liypf9IwQhaS1-swu9VM7BvLtv80zbub4m6V79UK_yypTMNVmCn6Bwi5-luYJt96-tzoR--NzRhq2iRT0iUE9hr2EhCLM49qaadaAV6HHS6_z07TGhSEv51VHNeL9iayJ_jXGe-sAJgD8w",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJNxsgsdT40YURHMbwWKbGkvk",
+      "rating" : 4.2,
+      "reference" : "CpQBjQAAANdXpbLKFYymR1C1ZXdMVA8KtDjWQGHXq0d0loFeQmC-JhStEuE28AcQARV32O1f0ZAiiRKG02D-fjUb7h7WeiP7wORuPu6uxVlHCTn5ni5eWDMZ8V0lRFTSn71B6lt-p6cPkMW2hD944_hIHAnA_XQfzYeAi07czxRzs1xXJE0ugVcZhnkXtb-h14-NyJ3w9xIQujr4OIo6QvPzv_VHcjmRKhoU_rfVRWsi8K1yhzg8PAeoXJUgQIA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Beto Vargas",
+            "author_url" : "https://plus.google.com/106853419564815500218",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Q65ztR6AU7E/AAAAAAAAAAI/AAAAAAAAAoo/XSC_AiMAAq8/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente para galeria y talleres de arte. ",
+            "time" : 1456106981
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Alberto",
+            "author_url" : "https://plus.google.com/100509431762397895224",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-TS-ZOQ--WME/AAAAAAAAAAI/AAAAAAAAEjo/q5kHBFRgaNU/photo.jpg",
+            "rating" : 4,
+            "text" : "Uff que buen arte britanico hay en este lugar",
+            "time" : 1378487318
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Lopez",
+            "author_url" : "https://plus.google.com/105033042304244712505",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-xIvx-VpKQ8c/AAAAAAAAAAI/AAAAAAAADWQ/q4unVN2smCw/photo.jpg",
+            "rating" : 3,
+            "text" : "El lugar me gusta, me hace recordar aquellos mapas de Quake 3 Arena (game)",
+            "time" : 1378448896
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Daniela Davila",
+            "author_url" : "https://plus.google.com/115902816160422591105",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-DCs6fEidEoY/AAAAAAAAAAI/AAAAAAAAIEo/fmznoMQv-qo/photo.jpg",
+            "rating" : 4,
+            "text" : "Está muy bonito. La verdad me gusta mucho el ambiente que inspira. Muy misterioso e interesante.",
+            "time" : 1379803715
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "diego martinez",
+            "author_url" : "https://plus.google.com/101289088265618456974",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "un gran lugar ,  ya esta mas que recomendado, un lugar agradable para todos me gusto mucho ir, asi que mantengamos cosas como esta que vale la pena, por muchas cosas ",
+            "time" : 1379626885
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "art_gallery", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17983654679802856988",
+      "user_ratings_total" : 12,
+      "utc_offset" : -360,
+      "vicinity" : "Artículo 123 #134 Col. Centro, Del. Cuauhtémoc, Ciudad de México"
+   },
+   "status" : "OK"
+}

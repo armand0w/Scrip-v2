@@ -1,0 +1,103 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "225",
+            "short_name" : "225",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Sierra Gorda",
+            "short_name" : "Sierra Gorda",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lomas de Chapultepec V Sección",
+            "short_name" : "Lomas de Chapultepec V Secc",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSierra Gorda 225\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLomas de Chapultepec V Secc\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Sierra Gorda 225, Lomas de Chapultepec V Secc, Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4207143,
+            "lng" : -99.22660759999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "df2e7eddaef6f49c7b0835e7760e8136969bb3c7",
+      "name" : "Museo de la Corrupcion",
+      "place_id" : "ChIJie1iRYQB0oURKbmXqxKEAJA",
+      "reference" : "CnRqAAAA-JeTazbjtUwKkVu6tU_VYj5VHNpx_3_Ci896DEIfJVZ_qP-OUL0vqiBz-8E1zUWbTtrfBu2W2Z38nRmKeV-NwzjeorVwu7vO6A84NbuW4J0NhYGjAQ4l_drhxJkuze-DLWZ4wE7hxUN2vcOakHj-DxIQQxUIW0z1ubFlxYU1wLm-tRoUabW5PRZ6vHPCLLdDtFrxhfAjJJE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "j charles",
+            "author_url" : "https://plus.google.com/112469421591426495562",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Una muestra de la inmensa corrupción e impunidad que hay en mexico, el sistema político mexicano y cierto empresariado saquean al país 65,000 millones de dolares al año en promedio según especialistas, estos recursos se esfuman en Mansiones inmensas como esta del Presidente Enrique Peña Nieto, con estos recursos mexico seria una potencia en infraestructura, salud, energía, educación, lamentablemente estos inmensos recursos se van al bolsillo de políticos y empresarios corruptos!!!",
+            "time" : 1456940966
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abdallah Illarramendi",
+            "author_url" : "https://plus.google.com/102981645988811925145",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-n-3mVcQhoyc/AAAAAAAAAAI/AAAAAAAAACA/vt3YJiPRwK0/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1457460129
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Simon",
+            "author_url" : "https://plus.google.com/106430821435455975496",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-x7_MAXfMBTs/AAAAAAAAAAI/AAAAAAAAABA/2URSDfIFzFs/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1456199221
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10376438757184747817",
+      "user_ratings_total" : 3,
+      "utc_offset" : -360,
+      "vicinity" : "Sierra Gorda 225, Lomas de Chapultepec V Sección, Ciudad de México"
+   },
+   "status" : "OK"
+}

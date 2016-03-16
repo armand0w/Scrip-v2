@@ -1,0 +1,307 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "268",
+            "short_name" : "268",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Constituyentes",
+            "short_name" : "Av Constituyentes",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Daniel Garza",
+            "short_name" : "Daniel Garza",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11830",
+            "short_name" : "11830",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv Constituyentes 268\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDaniel Garza\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11830\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av Constituyentes 268, Daniel Garza, 11830 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5237 1773",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4116523,
+            "lng" : -99.19473720000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3e7dafeed23a80e06e622e4e004f58f5252e9983",
+      "international_phone_number" : "+52 55 5237 1773",
+      "name" : "Papalote Museo del Niño",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2300"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–19:00",
+            "martes: 10:00–19:00",
+            "miércoles: 10:00–23:00",
+            "jueves: 10:00–19:00",
+            "viernes: 10:00–19:00",
+            "sábado: 10:00–19:00",
+            "domingo: 10:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 648,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116660596491822625768/photos\"\u003eMuseo del Niño Papalote\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAR34FchVTfLsM_Vc_VgtpgcmEbLUGk3uPmP-Y60xhNnb3JQGFAvtDhSuWxa0QF2pWPe5fJOSkhQuD9lKZ-QiNfq2U8VIhc0metcMhxu5hGcnFb2HJddd68CuujjRR66L8EhD5Ha_0qZodFcV2YEL7swcCGhT6pxGNliDQ65JUL6z6DenH6yz6fA",
+            "width" : 968
+         },
+         {
+            "height" : 648,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116660596491822625768/photos\"\u003eMuseo del Niño Papalote\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAy-9KyvL9uPkWx0o3rhArpdTKz0jH8_WhfWFaiJkqpVnas_yFcUfxX88FskmSmZwvGQ6j1Dwe-FGvrg5rxDSLhXq0cvV2yJcT7vh7FnvPvu-LVw3XI8dUun5Ez4JGuPwAEhB5tcbBgr46cVnZYhvnDhPFGhSaDYgkhPB9-cJY28a8Hk0uWjVzEA",
+            "width" : 968
+         },
+         {
+            "height" : 752,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116660596491822625768/photos\"\u003eMuseo del Niño Papalote\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUVhddtu2X6vPtowCFvVNnTAyBbxrj4I0zVnWcZAfhJwEs01XhDnOcPVjTYZuYKBU0AyAydbb_UUJxyeYQV0UVqCamyCeJGsZ8bB5TVvsopbaNNLRDPC_5aNY9-yIgUnHEhAsim7vnH77R6FmGBZyBKcBGhQlDL9_HUjcUcJaeS3KoOdvwgSwKQ",
+            "width" : 500
+         },
+         {
+            "height" : 920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101021401248226308997/photos\"\u003eMaritza Jacqueline Valadez Marquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAEbkHQL22Uj7SPoEuL9uS2c2nysuH9UlaEjXjluIXoVVj71mKeM4KnngSFdtvAy0QsbE0_3lhKW6QH6NCS_Jfzp4wU3ZHkbkLlb4tH1gA67yGJxmlMt5N-NnkP4TkJ9gUEhDSMDU4dZlnjIII5BV-NSbdGhQrLKTwOMK4wxQXNK5QM3LjLOakFQ",
+            "width" : 1632
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113606007433983280090/photos\"\u003eMireya Leon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZD8nMdBkfi6yczNq11zzabwnkJzEOqrno4pkvwrxPGjbCbbPBl7pls502zkqrF05bRv-sU6BZ7a-pZxANXij_y1HBJfinrXmNoWGnvKvYW5HpDgwNml2LGWY_aeTfpV6EhADy3p_J4QCzst2gzN76OxRGhSFxC4rrahSPxZSI8kC1OP96Kv-Ig",
+            "width" : 1280
+         },
+         {
+            "height" : 426,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110851517086044481961/photos\"\u003eEduardo Jimenez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAheWP-SKb_vhMYKSb_5yRtjZFWG6I_qlblRgXXenuEANdFjrrg81H6Tm1mPJO-T_A1_HrEOLAgcEQSjFa3dKUhMZHvWaTvbyWfn_zoJ_pQ8TofDO27eD4YoEqwrP0h9d_EhCCWw6za740AFMatSydTjdIGhTbQUq_hVGZnXAjwxzXzjmF_IsQuw",
+            "width" : 640
+         },
+         {
+            "height" : 1936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115520278883877780149/photos\"\u003eGraciela Hernández\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjat5yemeNYsVWPqjfhHqJ-IvHAMeEQu5szc0d5Qp55uQJTyaNF15Q1CFtCgzSB5wUFt6a6J3E-k16utTc_oZmILf5UXNOE7kypDmTnQ1DOrmAzE4EEUCLwtt3N5rnNCqEhDcF16bM0Whlb70sZzacbz0GhTSsknIjKd3yov_X-74Sxyip70uwg",
+            "width" : 2592
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110127658268387463672/photos\"\u003eIrving Cor\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAxZ4omf9Drwt33PL9rMi98vyD9X_9UYlRTKHTyTVPfE3VjrDQyaHFNcWI07-MgZwcQtnHj7b-vkGJxOLaoJJ6tu4m0pdX4yisIGEldBTy86yH-P85oUto8tYj1lOYOl9gEhBnHc_-wJ8ztLsCT7bDtGeqGhRXBXqEqgatXTCAPf2sO06cMfkXlQ",
+            "width" : 1024
+         },
+         {
+            "height" : 1936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113897699255005129117/photos\"\u003eGretel Coria Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATQh2E56mOdX302WloKtKwNj_sToJ08LQO1d7CoI4iBo8n4P9pR9n1rRPDY-A3NI4EYLFCjBo0vZ1FNX35dGLE79hmuZZLh5sa8DIlYSceDu1stSeaiH67WTluAXoLjpUEhCbekufsf8od_i2DFJVh64yGhT93VUq7j4cbUylRGh1DpUnkubZow",
+            "width" : 2592
+         },
+         {
+            "height" : 648,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116660596491822625768/photos\"\u003eMuseo del Niño Papalote\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAStA5nRewl7cF7GSwDN8jtYCK4XroNwa2uE4vKnwBuuW9OBHNtlvgWLK8voEQJIcL05bmr5IvugbJa2UDGZCcunbUq3tI4XA2NFkvCie-67_Z1osPOX-yzoa6wlhd5XnDEhDv6LhM2CTUhbwD3SCf_rkhGhQCcZCFk3nQRsUfm2Ro_jxeer5jAw",
+            "width" : 968
+         }
+      ],
+      "place_id" : "ChIJAW6mReEB0oURfai5Fj_zJO8",
+      "rating" : 4.5,
+      "reference" : "CnRsAAAAyYwYhDOsYAlVMkai_DBPE4SEpoTNiEvwlAkByRcps52WDx-PwG2KkeFDxJTikl1VyD_ofVdsLsnSZGYzPAkZd1B5qVvJSYx3uQ_bbo0S5tdIVtlUkHOEFmj2y4zHcmRqOhN9Oje_jeiYm9_JHaeV9BIQzEggYTCNm_ATRjGeoiaFQRoUJPHZfYHAuPp9xA7uo6frRLiVMwI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mauricio jimenez",
+            "author_url" : "https://plus.google.com/111374495441921546278",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CPJ2TNoFktM/AAAAAAAAAAI/AAAAAAAADYc/gg3e2TuAW-E/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen lugar ",
+            "time" : 1457368580
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Saúl Buentello",
+            "author_url" : "https://plus.google.com/109282341786220910342",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CGljoLz3S4A/AAAAAAAAAAI/AAAAAAAAB94/1so7vUeuvZ0/photo.jpg",
+            "rating" : 5,
+            "text" : "Uno de los mejores lugares a los cuales ir con sus peques. El domo digital es imponente. Lo mismo que la megapantalla con sus películas en 3d. No pueden irse sin jugar con las burbujas y acostarse en la cama de clavos. Al día de hoy se encuentra en remodelación por lo que muchas de las atracciones las reubicaron temporalmente. ",
+            "time" : 1456219700
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Denisse Guerrero",
+            "author_url" : "https://plus.google.com/116855935585796574456",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-IpJvmrG-Jik/AAAAAAAAAAI/AAAAAAAAAJM/1W06b1eoSGE/photo.jpg",
+            "rating" : 4,
+            "text" : "Es muy buen lugar sobre todo para llevar a tus hijos, jugando pueden aprender muchas cosas",
+            "time" : 1449001353
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chepina Galaxy",
+            "author_url" : "https://plus.google.com/109147101031349928723",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Elpapalote. Es.  Ermoso.  Es.  El. Megor.  Del.  Mundo.  Mundial",
+            "time" : 1448577642
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Emilio Crisostomo Gonzalez",
+            "author_url" : "https://plus.google.com/117943063239247092843",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Sin duda el mejor \n",
+            "time" : 1451931041
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17232165526516115581",
+      "user_ratings_total" : 285,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Constituyentes 268, Daniel Garza, Ciudad de México",
+      "website" : "http://papalote.org.mx/"
+   },
+   "status" : "OK"
+}

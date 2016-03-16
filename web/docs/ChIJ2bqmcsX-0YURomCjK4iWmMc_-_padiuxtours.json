@@ -1,0 +1,69 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "27",
+            "short_name" : "27",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Agustín Delgado",
+            "short_name" : "Agustín Delgado",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tránsito",
+            "short_name" : "Tránsito",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Mexico Distrito Federal",
+            "short_name" : "Mexico Distrito Federal",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06820",
+            "short_name" : "06820",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAgustín Delgado 27\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTránsito\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06820\u003c/span\u003e \u003cspan class=\"locality\"\u003eMexico Distrito Federal\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Agustín Delgado 27, Tránsito, 06820 Mexico Distrito Federal, D.F., México",
+      "formatted_phone_number" : "01 55 5785 7693",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4206231,
+            "lng" : -99.1323115
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "718f28a2fecaded40752dec3fb20d528196b04be",
+      "international_phone_number" : "+52 55 5785 7693",
+      "name" : "Padiux Tours",
+      "place_id" : "ChIJ2bqmcsX-0YURomCjK4iWmMc",
+      "reference" : "CmRgAAAAwJdqk-GdBJsyzTYB3qLIvsjY0nfXkJ52uom9BSTdTCr7ruGQKouYRZIhybyZEdOcZnWpTRrhBus47v51I8ZDPu6mU18erUUONGG_Xr7rTrbxJAphkjmaduui6Le0gI5aEhAeJVxOmYvo8dcBL26sAvAmGhRTGfFy-NVMU1aqM1LDv8bagcb1yA",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14382410921599525026",
+      "utc_offset" : -360,
+      "vicinity" : "Agustín Delgado 27, Tránsito, Mexico Distrito Federal",
+      "website" : "http://www.padiuxtours.com/"
+   },
+   "status" : "OK"
+}

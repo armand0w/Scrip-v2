@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1a Augusto Rodin",
+            "short_name" : "1a Augusto Rodin",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Insurgentes Mixcoac",
+            "short_name" : "Insurgentes Mixcoac",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Benito Juárez",
+            "short_name" : "Benito Juárez",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Benito Juárez",
+            "short_name" : "Benito Juárez",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1a Augusto Rodin\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eInsurgentes Mixcoac, Benito Juárez\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBenito Juárez\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "1a Augusto Rodin, Insurgentes Mixcoac, Benito Juárez, Benito Juárez, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.372758,
+            "lng" : -99.1834516
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6290ecac3f8de8210cf50f4786a0725fd16bd2ca",
+      "name" : "Origins' HeadQuartes",
+      "place_id" : "ChIJpUc67oX_0YUR704aOzeJoP8",
+      "reference" : "CnRoAAAAbQf7LjWpdDZV7sk-i3EN4xjuG2Z7eyBky6hLOWafRB9zjRQDIjCDRoWHEZ9JHy3EuauP25TKQarC_kFtUoUGfCYJe2UwPxcoxyOBoabEbXl9GKBMQ5Z8GrxqUvTvAD_JM9MHViCDPBIg1SyXtp5FCBIQdj7MV-y33YQK4__2hjA9oBoUsECQwSwyvSVvo19zcGBe7isABDg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=18419873346253115119",
+      "utc_offset" : -360,
+      "vicinity" : "1a Augusto Rodin, Insurgentes Mixcoac, Benito Juárez, Benito Juárez"
+   },
+   "status" : "OK"
+}

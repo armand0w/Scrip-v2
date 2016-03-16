@@ -1,0 +1,138 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Avenida Acuario",
+            "short_name" : "Av Acuario",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Bosque de Chapultepec I",
+            "short_name" : "Bosque de Chapultepec I",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11580",
+            "short_name" : "11580",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Entre Paseo de la Reforma y Av H. Colegio Militar, \u003cspan class=\"street-address\"\u003eAv Acuario\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBosque de Chapultepec I\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11580\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Entre Paseo de la Reforma y Av H. Colegio Militar, Av Acuario, Bosque de Chapultepec I, 11580 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5553 6263",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4230677,
+            "lng" : -99.18811549999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "890827086c5b3579af42e0a6d2624897442d5b47",
+      "international_phone_number" : "+52 55 5553 6263",
+      "name" : "Tras las Huellas del Jaguar",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "place_id" : "ChIJ7ZfOQ1b_0YUR-kuqiQE8IPw",
+      "reference" : "CnRvAAAAoz_WO70tT9LTu4BQgyNa8Ny29o91ffle59ryjRdgmNao7NT7HZsDS5ywX-eg-YGur3LyGTSbRRt5Po8sXSkl6qBQU5L3HbK7tJ3D6jy7wog3d-CCs5YZePK2c_PaNiLCCR92YJlYttKUQCgbk0h4lxIQcoOk_Z3jVR0TCKwfLKsUyhoUz5MVzPqaeDX7uDuWZCwy7KuIpac",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=18167586874114853882",
+      "utc_offset" : -360,
+      "vicinity" : "Entre Paseo de la Reforma y Av H. Colegio Militar, Avenida Acuario, Bosque de Chapultepec I, Ciudad de México",
+      "website" : "http://www.chapultepec.df.gob.mx/"
+   },
+   "status" : "OK"
+}

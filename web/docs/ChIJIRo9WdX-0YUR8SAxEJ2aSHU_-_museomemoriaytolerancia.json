@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06010",
+            "short_name" : "06010",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. Juarez 8, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06010\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Juarez 8, Cuauhtémoc, Centro, 06010 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "044 55 5130 5555",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4343155,
+            "lng" : -99.1443453
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "fc0f860a214cb9f336cc2a2625539563fc5fd83b",
+      "international_phone_number" : "+52 1 55 5130 5555",
+      "name" : "Museo Memoria y Tolerancia",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 10:00–19:00",
+            "domingo: 10:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103467181144902782979/photos\"\u003ePilar Solis\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAmU-rXJCtN-8eFpeIolhUVD02nK6xYP-3dC0nPBPR0vT3PLLgR9qB8NzeJAyzij-e0eXzm_aODoSUD75bzGf3qiNMQmVPaKPPL0cgRPKdK5zW9vlz9RANm2qgz3gTqoQbEhAap2YY3K2j-P5Gy2ev9KR_GhTxQhu3Uz2eK8Cy1iBPBUU3K5UH7A",
+            "width" : 2048
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109874749624284548905/photos\"\u003eJose de Jesus Maciel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArCe9TYMvT7J-h_4hTwQXXDcPBwitJznhywra-61TS4blDgJb-vh3nhEtS1TBecZ2JBqv9SKRCPPcKJKNQhCW3AMAtkX-KajwuX3MOCjDWqsoZkGheFnuS6s8PfO-EW-rEhDv-iranOO31UQQ0l53Ik6UGhRQatKQBrZ7jM2QEHeGbPhZyzYiFg",
+            "width" : 3264
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109221392222685234763/photos\"\u003eGerardo López Tejeda\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5tCmKWUv2zvbSos05QTZCN9TSqQ-JHpRV_HqjMkmT1pwka-a6BOPR_hzKCJDJ-r0_tmOn86053MDKCKPDys0IUxEWRScY5rlgWIkiJNYef_NsXbOyv_Z2eIyjhlFv7wTEhCEdFEN4KH6ZVkyanDukmNUGhTKBwtJEcihd5eUCgjPe7KXa2B9KQ",
+            "width" : 1944
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104577383085389461577/photos\"\u003eIsrael Tuxpan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVkbDUJSQjL8vqjNgWBGHl4AZQ3rKhVxSFa9yRqPCSd9OzPEpqAdXMEsTvca6rgl5i5gyqHiVQXWEb-4HwaBwUIxGKR8FYhsu0wSD7JzXEUhJcPpUAPXUYr9zIjosq9-8EhA1-pASUq_4mAq7xZgGj5ocGhTI68evm-DxGUwdY4mPfJjn2ViMBA",
+            "width" : 3264
+         },
+         {
+            "height" : 366,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114677661662679992732/photos\"\u003eTime Out México\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAxzxqmQqe_xU0ypNwPvjELbEZIXu0lp2wa6MC8qEnC2ugulq-jrjtU_SA-I-0Noj3heqilrdodayONgMWQhf-Gz_HxxRmZev1duR6GHTMvIUHiDKzWfy4uU6knFTS654yEhBer0Lfc-FL57PCDfrGjavDGhRE3_7bzyDpwAYeMgVwW58nGGmBGA",
+            "width" : 660
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109874749624284548905/photos\"\u003eJose de Jesus Maciel\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAsX4HIl6Zo8qNdWqO-nuaqn42thdBj_y2lkBPwG0GZ7ZbUH0gxCZly5TXN9LyynaDXYZ-bc06nVWkod3_tHEg5BFNq9g_Lnix635KGMEya2kegfHhDhINBVibNiItE_rzEhBShezQcCh3stV4NY-WgWGiGhQNh3uPt-4yyXEka9nDCUoBGVFrGQ",
+            "width" : 2448
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111761185608900930880/photos\"\u003eJorge Contreras\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA90j5YvtPbOKAubyDLX4Pf-7jTqcgEhYFRSywUvmE5aHM-tAL_UhU_QfV0wDvnZ25kOzRMF2e78InI3vRHGWmqhXnfgkG5zRex7QGDKTKFAfvHZCDdsZMW0ABUuArINeXEhBypbbEMFkXdPrbvGIr7mSlGhRo-fhiaDFnKn79d4GtWk8J5aUbhw",
+            "width" : 2048
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116437121685341390471/photos\"\u003eKarla Canchola Perez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAIxmi3hgD5WBtIAHrCb_zm6ny0CZULcpvoKgahpFolngm3CQwmavkUUxvSxmR73YYCjRjlnkFNx56F6mz8yWNa6j6nbJNiGQlyxC6vnHfKYvEhGceL8NuqegmvgRUqlJbEhApwmugr16T5O33JSbkxRBtGhRzjlr-cBBOLLK5MFVK2FIamVxc3g",
+            "width" : 800
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107312649406033028240/photos\"\u003earely Velasco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAK1eNgkiO0yWjBM-WUI8P9KoXBA0SYuGF6p6WY7zyQca-dpL15X0xKkdyydjf77HeIlCpVuvcZCopkpFUaJ21JGTVY9uuZkjwGl1d9LcA2f7ivguYHqkv38Y_fkn0C8EZEhD14BbRz72DdFGK9Y4RozavGhTU4osY0wPFYaE0wohrze_fRqYHPA",
+            "width" : 3264
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116437121685341390471/photos\"\u003eKarla Canchola Perez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABjmzXyy2_fgVOwKBa2zjAMGJZ70YetE1QOKDsYv5h5y6lb1OiLXg-eQCePvbLSZgpfoj4iSDmqdIVrd25gpAENi2YUUCZ8pUuxrXmwR1yPQYvDsynPUvuT47cgcOANbrEhBKRthuCv9DaZktTcFbWDWqGhSJ4BCa5CjyZCBB64Dev2LONOJBpg",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJIRo9WdX-0YUR8SAxEJ2aSHU",
+      "rating" : 4.6,
+      "reference" : "CnRtAAAA_jGdxmEvoqmybV7i_9b_vB24u-G92WCcczf3SRVhX1AqS1aCkRT4rit31sXnLwlKHl6qqYFos4OsFVVcU92e6QQTvagMXlPDLctXDQWVFeezl5geJLN9TBbubQwfekCD7sg3WORRNcSsLHEgvtulChIQ8QyOFy29aWTiE72bMGKIdhoUeus5vSma7FzPJn6R7G42uPp0B1M",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maritza Valencia",
+            "author_url" : "https://plus.google.com/112680938571430486010",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-GnUSRo5Rby8/AAAAAAAAAAI/AAAAAAAAAyM/ehTyk0nXJpg/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente museo, altamente recomendable. Vale mucho la pena pero para poder disfrutarlo es importante ir temprano y con tiempo porque el recorrido es largo. Si van a visitar la isla Panwapa  (sección de niños), consideren que el último grupo se forma a las 16:00hrs. ",
+            "time" : 1451573751
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Aury Rubio",
+            "author_url" : "https://plus.google.com/108753311502584819772",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-f9O6JLVn9MQ/AAAAAAAAAAI/AAAAAAAABXs/sm83QMSRItc/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un muy buen museo además de que la decoración es muy linda. Tienen recorridos en distintos idiomas y un área para niños. La tienda tiene cosas costosas pero muy monas. ",
+            "time" : 1452044226
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Leonardo Lizarraga Aguirre",
+            "author_url" : "https://plus.google.com/116941827853383717502",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy buen museo lo recomieno",
+            "time" : 1447022725
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Keren Michelle Ismerai Gonzalez Flores",
+            "author_url" : "https://plus.google.com/113378526156395170707",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-fC9bDekXB3Y/AAAAAAAAAAI/AAAAAAAAGzA/o3W2iZSa2Vc/photo.jpg",
+            "rating" : 3,
+            "text" : "feliz hoy lo voy a conocer ",
+            "time" : 1446660655
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jorge Contreras",
+            "author_url" : "https://plus.google.com/111761185608900930880",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-KREksOQsgog/AAAAAAAAAAI/AAAAAAAACRU/YMDiCwlcxIE/photo.jpg",
+            "rating" : 5,
+            "text" : "Les recomiendo la exposición temporal de Yoko Ono hasta Abril",
+            "time" : 1457311065
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8451174700132933873",
+      "user_ratings_total" : 211,
+      "utc_offset" : -360,
+      "vicinity" : "Av. Juarez 8, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.myt.org.mx/"
+   },
+   "status" : "OK"
+}

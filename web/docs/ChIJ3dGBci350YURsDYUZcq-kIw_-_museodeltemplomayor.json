@@ -1,0 +1,302 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Seminario",
+            "short_name" : "Seminario",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06060",
+            "short_name" : "06060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eSeminario 8\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico, Cuauhtémoc\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06060\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Seminario 8, Centro Histórico, Cuauhtémoc, 06060 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4040 5600",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4346038,
+            "lng" : -99.13188099999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "c0754aa89720652d5ad5a67a794b01cf012d18bc",
+      "international_phone_number" : "+52 55 4040 5600",
+      "name" : "Museo del Templo Mayor",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 9:00–17:00",
+            "domingo: 9:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113315470582584725933/photos\"\u003eDara Martínez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAASoULRtP8mj5z9b1Rw7pewmqS69wPEcxDCYR4yk6p-q9slZDgqlQVSr5WrGNkobaMiU3-4ECiIO31EhSQmmdaoEGZ-Rw99cdLNy3-VB0usXS-XjdBt4gWz2wnOC1Q37CEhBk6Os7Qh96Gp3fbkl8qnwpGhTfeaj9FfXvDnLSikfNKdo5NrapXg",
+            "width" : 1024
+         },
+         {
+            "height" : 947,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108430701090401761063/photos\"\u003eRICARDO TRENADO\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJLEJtydandojkBzjok_AxAyU_D-2lfG-OS3PDPiQgzWl7OZUGsSj7XlXNave0pIGyrQg4wzXa2IxAjgsyeuxV8YutxQLyd3YxyWYTmvwrYUZ-oOHS8GHkRoSDAm98CDTEhC2fRctW6Kq8PXI56UlYUJZGhSRmXrgKkxgTZkV60-VjFPnXIOkgQ",
+            "width" : 1268
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117983202186570887849/photos\"\u003eDiego Muñoz Jiménez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAufCLEC_dqMN01Xf7JpMF4lv3wVs5GB3MGUv-Yykqns6cKLYHPCkDTwPZ-0J6lXlltHEB1_-R1oJsZNllMbki7xwVNRr-szRVOCAv51M0eI5wX7a65rhsm33UdT-KP1D4EhDts1s2xx9hBFFeIqLZNNnoGhRTcTAmXKJbD_1gYwKjIHkK31Zt0w",
+            "width" : 424
+         },
+         {
+            "height" : 3906,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADP1JhlBcYq0VYl5zeRdo8Qx3fPiRKsMJa6QNYj_gw5gGW71EdKww3wkzxemnHDNUzeWTlPwGXfwdxiRm4Y4BSm25Y3Llrs_zoMrqEzkYWhbmHa0AlbANjoII44GdMiozEhDkd1k2n7Pih1YJhdFMz2rTGhTp_OqZ3hyxDj4Ba4oJAybfFGyhyQ",
+            "width" : 5771
+         },
+         {
+            "height" : 4861,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAyDn6EYzXQf5rnAgsDK-bzvQjADzXj4tG1zEQLZ078gBBTtog337JYKK7AyChruB1WGi8J8UCWOqmLSFa3wVlM1-1xOidAVwZrNjEeENc-y1s6qcKBxVikgTwon2QQVkrEhCyV6FnkwjzYTki43fhdZmfGhTs8eTliPfGKWe8rv-mRsGEIvvwuA",
+            "width" : 7284
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100195673572408063848/photos\"\u003eYann Bloch\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAopmQe1L62eaiVO10jseiiwxc2p7zOhi14EVnZ5IlKf0yrh0AQ-3UruSuvjp5j47oPIMg-fDHvxoiAQNTvZUwbP5P8sPZUExTmIMgwLpk26Y_cnJ_F-HPrBjoHNQtKcT4EhAg-HDPQBsODOgKyhhz65KoGhQ3ukhp0fFCDphj7qmlNS2p61U-Xg",
+            "width" : 3072
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107592873497871928292/photos\"\u003eLorenzo Elostaz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANzg74e48bdwY172hVmAMbbtl5J9Mx-ChkhWYqgAGx3ylRh6IaSIw_KvRHJ__fY80M6D8CxvxMI1FCzZ1KQ4N8u2xPyotiUXj5MBi4hU3A1NiAVP-6kGRMlAjraYlUVnEEhDBwfo2wVZX2FdUutYs4FL7GhQ1kzDaekxFo6n-v5VCeVGXcvlHLg",
+            "width" : 3096
+         },
+         {
+            "height" : 1367,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAprlJspkgnt8ITZ2Kk5xO6gSBj5BUdW2riXyDJvZGpolPR7cO6YMoEtdN_AwHoy4k1nHlrTt4migB0tnnd_5E3LM9h2Gi_rIkvTo_ZqeW37zFSW6xITjRoZmgRW40JjnAEhB8nsWFBduSjDWIyFcCM8t6GhSPCX9jwSQ0M6N4zo2o_09ZShd-UQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1067,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110633479904423778083/photos\"\u003eMichael Bedard\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAW_a3V9sR0Zfn8yVz-1dujkzabzvQA2ghvFW9PYWo5-pcqh1NRSW9oWx_V3kxsOchtzJqLdP1jr_o7z5eiQvio63mDY3frJNurRVNrfoutoWN8wmrb62kds2aLNKE7qo1EhCHJhTP0VcD6yZ-e3DY_P3dGhR9jk2XeqZ2Nf6pT9DyLGuyaotW3A",
+            "width" : 1600
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115329509900920952664/photos\"\u003eJocelyn De La Mora Moreno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7DkT5F8FN3vm_Yg22AOPYptMOZIaB48PhsdTs0dYd2KgwGSuYPWi6wB-WoagLlLYuEi-GC6pE4DFVhYkgtwflZ7vPL9ZVSlPFwaMnaRd9he8oRuLAq5MZY4vdkZnz_NQEhAizI-Kalmo_5Za0xFMRV-mGhRSDUMpENojIwf2bboCi0m3Zp5Leg",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJ3dGBci350YURsDYUZcq-kIw",
+      "rating" : 4.5,
+      "reference" : "CnRqAAAAa1WJM7rFh3QqdN9qb2D-HY7XUibx6humTeri4kCipESVisxAjS8265R4c3-ZtZo_D87tgE5CB5-5JzlYBwdhCZPCjDSht0E6FwQJrwOA4oT1rS8T7by19cBFejL207oO2sZZw58uOAhEDYxf0A_D4RIQYhHlvTDJr4sbRHrs8cMY_hoUnfBrC5g_JtoSRHvIUfNVa3G96Xc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abraham Vázquez",
+            "author_url" : "https://plus.google.com/105265877107259371550",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-5-x2a2h9aF8/AAAAAAAAAAI/AAAAAAAAAII/eOtQm5H1Thc/photo.jpg",
+            "rating" : 5,
+            "text" : "Simplemente increíble! Ver estas ruinas y conocer la manitud de la antigua pirámides es impresionante. Además muy bien el museo, la señalización y la organización de las obras. Una pena la destrucción que ha sufrido Muy interesante todo. ",
+            "time" : 1453896690
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Adan Gallego",
+            "author_url" : "https://plus.google.com/109735417152458457873",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-BFKLlNOiOnE/AAAAAAAAAAI/AAAAAAAAAK8/jUalt7Ohaos/photo.jpg",
+            "rating" : 5,
+            "text" : "Amazing Templo Mayor Mexicas-Aztecas. OMG. Heartbets. Me indigna me duele saber que extranjeros (Españoles) destruyeron lo que fue lo más grande construido por los Mexicas, una ciudad en un lago, deseo regresar al pasado y ver maravillosas construcciones.",
+            "time" : 1451445545
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "gerardo quiroz",
+            "author_url" : "https://plus.google.com/105632994947841955844",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Interesante para conocer la cultura Mexica y observar lo que hacian hace miles de años nuestros antepasados. Ir en domingo es buena idea para no pagar boleto cuando eres mexicano.",
+            "time" : 1454686444
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Enrique Pastrana",
+            "author_url" : "https://plus.google.com/113820289364258449001",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "No se aun como es pero, presiento que esta padre. Aun mas para los pekes ,\nles manda un gran saludo:Belen Suarez Hdz.",
+            "time" : 1450544764
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abraham Vázquez",
+            "author_url" : "https://plus.google.com/105265877107259371550",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-5-x2a2h9aF8/AAAAAAAAAAI/AAAAAAAAAII/eOtQm5H1Thc/photo.jpg",
+            "rating" : 5,
+            "text" : "Simplemente impactante! Visita obligada!! ",
+            "time" : 1454037484
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10128805338444740272",
+      "user_ratings_total" : 246,
+      "utc_offset" : -360,
+      "vicinity" : "Seminario 8, Centro Histórico, Cuauhtémoc, Ciudad de México",
+      "website" : "http://www.templomayor.inah.gob.mx/"
+   },
+   "status" : "OK"
+}

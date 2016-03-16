@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Bosque de Chapultepec I",
+            "short_name" : "Bosque de Chapultepec I",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11560",
+            "short_name" : "11560",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. Paseo de la Reforma S/N, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBosque de Chapultepec I\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11560\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Paseo de la Reforma S/N, Miguel Hidalgo, Bosque de Chapultepec I, 11560 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 8647 5530",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4225913,
+            "lng" : -99.17986859999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "e4d74e1a9fca390acfa8f1e575a6afbfd009265c",
+      "international_phone_number" : "+52 55 8647 5530",
+      "name" : "Museo de Arte Moderno",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1015"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1015"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1015"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1015"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1015"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1730"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1015"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:15–17:30",
+            "miércoles: 10:15–17:30",
+            "jueves: 10:15–17:30",
+            "viernes: 10:15–17:30",
+            "sábado: 10:15–17:30",
+            "domingo: 10:15–17:30"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108524137935555893890/photos\"\u003eMuseo de Arte Moderno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAV6DJaQIENhVAjMvCZOAAwUI0iV-MgCGpxq0uocdLifHj6_qeHPtHEZiSJrVGrhbbO5q03IwgY1vyM8x59mf5VUlSHqZ3D8raunTDgqDANLa5RlkuiVFWCE6LJIBP2ZZnEhBUp80bHsYwE0Dri3GDqSmfGhQG4DBexFCIUUZS4ji9_YVsKwr2vA",
+            "width" : 800
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108524137935555893890/photos\"\u003eMuseo de Arte Moderno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-zOM4NIDP9JWCgAV0qb7h_jj5NaOzHYxLhtrry8v9WxyLxxucEsyAOn65X3haLbUWYLTvhBGY4H_azngF3ItHC1dsLr5kbqeNv6GIS5aEdP_HyD7PIc7r6AuaeISn1KOEhCl36W5QN7i61qHSZibOH6lGhQBTK5XlaDbxh-S1TfwD9q-q-sYqQ",
+            "width" : 800
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111943632327614212363/photos\"\u003eDiego Chiu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAHXRa40GrkyvqUgJCaxf_0YzJ8W4DlldO431F146886_wktyAtG1zloShPuGjWp8dsPabxhyiUIfkggySGXA21FEsTeElUs4axOgmE5RKQjO8OYYIhJOXNyXi9UrPFnoEhCaL_cGwqbg80GQkQ7EOPh5GhSC9Y6gfQ5Yud3HI9VSddx317BgQA",
+            "width" : 3264
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100075609128185859273/photos\"\u003ereymon herrera\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAK2CzxwRWxKOx8BZg8MZ50a2zg-eWkInHwEOv0l-iFuq5enWvd9OJ2qtpv_5SY66XnkXn8xLAOaw7ZoLYplv1faRPv58Ozmzv5BvUurxkFIZx56UKN5hQHeOEo62Hcml9EhAqsF4KQzBFCuSyfFZh-wyhGhQdkuUHdo5wnGi1Z3N9tfpeGUlnkQ",
+            "width" : 3072
+         },
+         {
+            "height" : 1268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115774225041494319928/photos\"\u003eMatthew Skala\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQKtBxVBBjTu-em0lxNvKJS8YqmNi-m8O9H8uCgLNEu0cK1upqE3zpVhOfParTaRe0TWGRq1ic0pb9__UoJE5femN80gBgTvLGyoQmEjzFM9yh1QyD_k-2v-6xqGFtlizEhDyqOKKlv2g1HahDQqS_3d-GhSpw7cG7BWjIy63qJy2EHueyYidyg",
+            "width" : 947
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105929644731397610584/photos\"\u003eDouglas LeClair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAOVU1luPTIdUGQzcA7BasBfNClRPjFVhsXteBchV21oV8ZkUjFHSGsIzrqbuBpIEle7URxoDRIisua9mWiF_HDP-6ZCV6yyLgNR0nqnCOClZYH72Mf4CbRqqVR1XnKp-kBG0E8TiWVyGRnv1Bdd-UTTAqatPc2ivtRELTszmVyGeEhD_QEt2N8rEy11c4yjBEPDCGhQJWm5es8f0Ml68QHPT_sMXka-LZA",
+            "width" : 5312
+         },
+         {
+            "height" : 2342,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101311634496915925502/photos\"\u003eLucie Sánchz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjAazYR7hhUwImBbxaKbv1lzcWFWqvZOzVARCO-SEywopjzoCRuFr_4PcFgn0eSI-s8IOKLiNT6nHyNlt5-QbJy7GTbatwniIH-xJnRZ2dRbpAVVcwQsd51FGBd4wmTZHEhCYdA7hCzRCdvsPpbiSacUNGhT7TBL32JG5mulUeUof_B7_5dhFvA",
+            "width" : 3122
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108524137935555893890/photos\"\u003eMuseo de Arte Moderno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAq5bowwk6JQD5FFhg5L7yZhQk-NDL9i98liUHlB78f6C3B1o3MXXZ_JlFbFdRzG9uDrn8_TBuZ96rI1O6ctDSsK9J80a8WIgmRPaJLsjMWYSyhWMGxygG17Bvt5iBUvWtEhBe99rvhg3VWtVHojB74_deGhTg3FRYCJ6akClimJgOuEzWOGTSFg",
+            "width" : 800
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116481859678923581375/photos\"\u003eGer Muro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApFuqzFrywjFb3sn40waZEsaD57s2H9f2suEPFec3gWTjrE_7yHOaRzjm56FsvQqj0O9uZ4P6IlJ5hPlxcQPbAfxvF1vZxZg-2fyZLxm_or9eCLW9s7nMMq3f9PeuktNgEhBtfHEsvApjeJ4rORW1fgh4GhT-1T8tri1ofROPJkvwcgKxAb707A",
+            "width" : 2448
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105929644731397610584/photos\"\u003eDouglas LeClair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAG_YJPzQPOwPWhdr0Yj5uDsMmJ8EXY31b9K6BsyFEFzkXR9-HexOlcAwXsTaaneIEec47MCKGHyJbz5BBwMHFjbDFRfqGNS3WjYoooVSfm0dTs98C22SQvutKshcDBr-fEH89hgkA4mhdVfvNnHL9DQlr2tCzeHC6ibQyrf8POg_EhCYdfpXZQQx_rzset6MiR84GhTDTyzAMW5yA3Fq12QUT7t8DOxRBQ",
+            "width" : 2988
+         }
+      ],
+      "place_id" : "ChIJTQGqdSv50YURJKLN5Eu1o3U",
+      "rating" : 4.1,
+      "reference" : "CnRoAAAAr4m1RSdOJgw1M-Izo6IkJszvx3UvIF47UmnYOQCN_r41STJoUPfKYSJSxPTQGVaDKalW7M79YsWDL2AlNOyE8JHzhrVh9ju6uCJPlhZ9xHDlL4VnQBErUZ8DPqjHAa8YYUukz1DPFHAvRJkzqdUonhIQ65IATCj477VgcmAizDEJNhoUhMZDIhX0O3kTBNEWMgnZxhNcQ38",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "isaac2535",
+            "author_url" : "https://plus.google.com/104975007271687430067",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Las exposiciones están muy bien! ",
+            "time" : 1452051017
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Emmanuel Herrejon",
+            "author_url" : "https://plus.google.com/107212891252664763555",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-bTJc7z4Q1N0/AAAAAAAAAAI/AAAAAAAABLI/IEXDOAIcSl0/photo.jpg",
+            "rating" : 1,
+            "text" : "Solo voy por tarea xD\n#soloporazucena\n#quehueva\n#solotrespuntos\n#salvandoelbimestre",
+            "time" : 1448174499
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martín Zvl",
+            "author_url" : "https://plus.google.com/112992848918810639544",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-OyKrgl1_ESM/AAAAAAAAAAI/AAAAAAAAAU4/lzm6X9rECdg/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un museo con diferentes salas en las cuales se encuentran pinturas icónicas  como 'Las dos Fridas' de Frida Kahlo, hasta exposiciones temporales de arte moderno.",
+            "time" : 1446902655
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miel Orta",
+            "author_url" : "https://plus.google.com/117866492344960405599",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-LYUjBIz8Pdg/AAAAAAAAAAI/AAAAAAAAE_g/1nTNR4mz2tA/photo.jpg",
+            "rating" : 5,
+            "text" : "Es una buena opción  para visitar  la expo de Lorena Wolffer es la que fue de mi agrado ?????",
+            "time" : 1442162912
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Christopher diaz",
+            "author_url" : "https://plus.google.com/114143585886592332972",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-wDW1crWCqBE/AAAAAAAAAAI/AAAAAAAACFg/oakFYR7xS8g/photo.jpg",
+            "rating" : 5,
+            "text" : "Gran exposición para la gente que le gusta el arte moderno, si no te gusta esta variante del arte, este no es tu museo",
+            "time" : 1456264925
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8476818261207261732",
+      "user_ratings_total" : 107,
+      "utc_offset" : -360,
+      "vicinity" : "Av. Paseo de la Reforma S/N, Miguel Hidalgo, Bosque de Chapultepec I, Ciudad de México",
+      "website" : "http://www.museoartemoderno.com/"
+   },
+   "status" : "OK"
+}

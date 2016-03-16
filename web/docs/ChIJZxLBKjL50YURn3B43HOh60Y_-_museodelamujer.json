@@ -1,0 +1,224 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "República de Bolivia 17, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "República de Bolivia 17, Cuauhtémoc, Centro, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5795 9425",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4391782,
+            "lng" : -99.1321195
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "852f163db0163c8e9777b74ccc37f3b05941243d",
+      "international_phone_number" : "+52 55 5795 9425",
+      "name" : "Museo de la Mujer",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113038018452254492709/photos\"\u003eMuseo de la Mujer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAyI95rHBgxhbpM8ljSTN7NTORD90NmH3FvIEAAb8JdQiqmhE42OPIIUEuPlYbR1yCvdDviLHPaUxhv5WJjY9srPTMffOBCcRV7D4hFE_I4fWIjcB7jvnWLSRGabS_nXUXEhB1GwnhZvu7td8tDH6UxdtkGhR7mmP5sC6kWPGjcfO7ZIA2-nL78A",
+            "width" : 900
+         },
+         {
+            "height" : 200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113038018452254492709/photos\"\u003eMuseo de la Mujer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAe7I1hgeOanaRDQPQgRpj_xws25-esk32d7MZWrtWmDqdWaSPSvmAHUEZ_h9QI6pzOj4xe2QSO8ioq9vNk4Xx1ULXmsejxQt2OKjMeBA4Gq-oAdjWuYjUgz_TNv-_0zxTEhAAZeaLgsExbCJLodYWPDV8GhRNi_NSnTd0K-kqcL151Ar87vnVWQ",
+            "width" : 200
+         }
+      ],
+      "place_id" : "ChIJZxLBKjL50YURn3B43HOh60Y",
+      "rating" : 4.5,
+      "reference" : "CnRkAAAAxpV46Jqw6Qt6GacrVpy-mahcOg1PSGVybLJvNRuhPb9GotpuCPiEvH6pxnfG7XERf9hMPUtCKAFfHp0vLE18DW1VDTS3BSl7Xq0q6dGRUBA5xSbIqzZySRelVKPKqyW_oT_tT-yKwuGmARFXW030sxIQd7nQKRve2QwA-pmUqCVkEhoUJV5Ac7saCmp9vH5zTuHpe66OIWc",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Onyx Mn",
+            "author_url" : "https://plus.google.com/109569027057226898909",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-fNRLzIPwYOE/AAAAAAAAAAI/AAAAAAAAn_Q/ZIQvFufdoME/photo.jpg",
+            "rating" : 5,
+            "text" : "Un lugar pequeño pero con todo lo necesario para dar a conocer a mexico y al mundo entero sobre el papel que ha desempeñado la mujer a lo largo de la historia. ",
+            "time" : 1447860714
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ana coronel",
+            "author_url" : "https://plus.google.com/106001662512956382853",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-OA1-I3s9Ju4/AAAAAAAAAAI/AAAAAAAAYbM/0imd_agZyRw/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente museo y los talleres que se imparte de mucha ayuda lo mejor que conozco ",
+            "time" : 1453523693
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "LESLIE GARCÍA",
+            "author_url" : "https://plus.google.com/112152146549683997730",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-hHVYLn4aPrU/AAAAAAAAAAI/AAAAAAAAAz0/m2WXotB8lEY/photo.jpg",
+            "rating" : 4,
+            "text" : "Muy desconocido y escondido. ¡Pero muy bueno para nosotras!",
+            "time" : 1378614934
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Adriana Acevedo",
+            "author_url" : "https://plus.google.com/103315235768443070833",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Grata sopresa. Pequeño espacio con buena librería.  Si bien esta dirigido a la mujer en el medio político- social , me gusto mucho los medios visuales. ",
+            "time" : 1398551858
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "GreyMix Crower",
+            "author_url" : "https://plus.google.com/107724635116981129480",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-q3SoIxQSmG0/AAAAAAAAAAI/AAAAAAAAAww/fVpe5sZXMOU/photo.jpg",
+            "rating" : 4,
+            "text" : "Es muy bueno este Museo y me encantó su forma dinámica de enseñanza de audio visuales. Aún que esta un poco escondido no es tan difícil de encontrar, lo recomiendo :)",
+            "time" : 1418285431
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5110355721174151327",
+      "user_ratings_total" : 19,
+      "utc_offset" : -360,
+      "vicinity" : "República de Bolivia 17, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.museodelamujer.org.mx/"
+   },
+   "status" : "OK"
+}

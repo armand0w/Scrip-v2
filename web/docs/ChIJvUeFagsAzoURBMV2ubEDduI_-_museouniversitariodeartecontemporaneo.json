@@ -1,0 +1,278 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04510",
+            "short_name" : "04510",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. de Los Insurgentes sur No. 3000, \u003cspan class=\"street-address\"\u003eCoyoacán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04510\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. de Los Insurgentes sur No. 3000, Coyoacán, Centro, 04510 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5622 6972",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3146485,
+            "lng" : -99.18539890000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "bd90b77215946bef723d094dd04d22ef021a0ca5",
+      "international_phone_number" : "+52 55 5622 6972",
+      "name" : "Museo Universitario de Arte Contemporaneo",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: Cerrado",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114105711888294176312/photos\"\u003eMuseo Universitario de Arte Contemporaneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAsTPHONUhH8_qnaKHRDTiC6OnX2gUe8MOzMz1fv1Em6_tN-hanaZa83DaUoSMPi6Yl5cQbNzmb0HXPwdf-aNAFD75V0qXLO8Gn3MWGP2nxmbKIM-0m-loCCRw0x3Dn-w9EhBnmXG8l8TEIN5LI-TplaetGhTCUTeZ0dKTWhejUrgHwUwq_50U4w",
+            "width" : 5760
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105230162263847751061/photos\"\u003eL. Royster\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABXYXIC-sbnpbUI12UixBd2KPxCU_T63hepH5u7TiPuJ21kpddjZ9sA_xoLm0yC1kFx7M1t6zawYYXvChfGX_3z5YJA7b9qZzsC0bfFArjiacDlDrB5rbQWppXqYmDlOsEhAv4Ep-0zVGRSaWaRqe-amRGhSfiAZzWKSFoopmq2H5Ny6Rw1BtRA",
+            "width" : 4160
+         },
+         {
+            "height" : 553,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114105711888294176312/photos\"\u003eMuseo Universitario de Arte Contemporaneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8-u3jq2EEe1ZZSDxE-MqFGUHLWPl9eUMWcIAG2hZF8h0TyJ3Z0dGewFeEciA0JTzCfQDYWRxzY5iFnhGCS33XFxGytdqPhIhWLoh8mek8s5pjOz55FYjz0f00xlCsbiIEhBzwC9riwdDE6ndf4TZXVCXGhQJipMPxTgp9APM_8GPQnYH9XZ9RQ",
+            "width" : 790
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHTSxuFm3VdjtCL-YiNkgZFZK-BhZ1UUAUXVv4uGgtTiB1KclewCVmF5Nk8Md6RX74KX8IssK-wvS7MhJQYChmPWkSMucSw0uROMpoHBcrS1sxi4k1QviUx1B1igTVCnhEhBdZ1i3u_IlnFSOD1it_ZgVGhTz_yIpA4gWzNodyjpjiHbeJUrgmg",
+            "width" : 3264
+         },
+         {
+            "height" : 4912,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114105711888294176312/photos\"\u003eMuseo Universitario de Arte Contemporaneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbWfPF5f4vNGLe3P2GEgdBcz3eYldsLJ8dnBDNYQEm2bDTOAqZWDo-uwC0KxOkTTCf6UzMvNzfl8O_044Y6QYYKKMJbh2OAqDCTJAlLiAAKkSapmdoV46gJDEq5vOtHH2EhBS2whUOr7ttijNxrvzOnpFGhSCgH3V3IYKEx8AonsxySB7d3VZJA",
+            "width" : 7360
+         },
+         {
+            "height" : 1123,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105661671741917607830/photos\"\u003eErwin Schalle\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4KyqtV4Nfu-UzmKX1ubW7R35oCS5dqdLQStnTHaHuXgoRwxoeQmcEe9za6Xx-VE58OJDymfis0pIMCkvxQE-2vIbWgezMaA1bICOy4-pIZ56tNKGCrn-A7GRq3FflYH8EhBzAr6QYx8LoBBcZfrs5S4XGhTfBk2ZECruGg3ONRgElT1oVUPUQQ",
+            "width" : 934
+         },
+         {
+            "height" : 518,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114105711888294176312/photos\"\u003eMuseo Universitario de Arte Contemporaneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAcd_Dgv9IjfjY_zhFmEbq_FweomOHggOJs9fG8W_7BHMP7rKyBmwnJTWE_sSY3tzelBcHRjZdSnEI49uuKvrG9Uh71lHN_jbWXKmnWo7BzvN3C-fnLzBQ-Zd1x77ALphPEhB_c2Fl6Cjvj9CcRYWDW4hTGhTOqxVsQFFRek-X0JBqBSkD0mBy8Q",
+            "width" : 778
+         },
+         {
+            "height" : 4140,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116790586015392408442/photos\"\u003eManuel Torres\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANUO4eqJ7JX-pkAGKwgzaRLip9QuwzK49qumlsw_pLEp03Dmh1lEu2IKr6gkybiL6UgLeYifaN5V-g2GK9aBmkwWRkBpBag2rWsXeim0695sLtigIfjqIuqoO5ksGh0G_EhCZZU-l1c3B2ukMUMj0B3JgGhRewHOGLgFTUyVYdaExpdWfJiqHoQ",
+            "width" : 5520
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114105711888294176312/photos\"\u003eMuseo Universitario de Arte Contemporaneo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAaZsY33BM1Hg5iRxGgvyQ9_PXPIKO5DwVxeW24HW5CDmHrtL02LEd_sNwjlsVGM8aXMx3zkEfxvnUK8Cqq1aBLD2nych19WB4ZVs53wIDxExZPotnalfil9k2clN0jSRdEhDW53j5QYYW3GQPvah3bzyHGhSlXIB4mh3LmbIBhFrkCA0b5Akvdg",
+            "width" : 3240
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105180717504130693712/photos\"\u003eLuis Arturo Peña\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAHdMGfNVud9NCCJylBTAvoBN7q7lELR497F0foeZbaNRLP9t3F_fQXVhvuea61c0QttjuPyOF0YJRGJLoaZyzJ_Kl-QJjIHDm-hg2xFNA6DmfP9v6b6pWqTU_3cgrXvflR_oZpcNMpQXBlgm8W-_2r_adbDuSvBVplnCz5dR4rlqEhCa9AYN-XgbfiyqR1tUs3rXGhTjjQ3omZ7L8XvktDym6-TCrsNBrg",
+            "width" : 1936
+         }
+      ],
+      "place_id" : "ChIJvUeFagsAzoURBMV2ubEDduI",
+      "rating" : 4.5,
+      "reference" : "CoQBfQAAAIOj2X-H8Lhh6f-sWg7ZU3V8wDb8dvRLcIJPkx7TXkTmjcc9W8OCCAtJ4GRtMwB-ot75DPd2AgcGrpbCtF20DsUt-ltPYl4ObmidJI49H38mHTmxrCvOk31gifjzvrcGqHXrVGN8gaDMWezIdOWDt9twarFBGSpZdLYSG2C6VbPYEhCexyKemQBpahdpxSBTlM8XGhTa2crvcBcacvwBbNOmS9hJVhY4eg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ukulel93",
+            "author_url" : "https://plus.google.com/107599017478960578249",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-6dXQ2gVQxhI/AAAAAAAAAAI/AAAAAAAAAKE/6_IiEsTWa9E/photo.jpg",
+            "rating" : 4,
+            "text" : "Exposiciones interesantes. Infraestructura limitada.",
+            "time" : 1456084583
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ofelia Padilla Franco",
+            "author_url" : "https://plus.google.com/108485456558239538456",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Voy con ex compañeros de la Carrera de Administración y Amigos De la Carrera de Contaduria  y me dicen que es muy agradable estar ahí y la cómoda es muy buena sobre todo reencontrarse con amigos con los que convivo de estudiante, amigos entrañables. ???",
+            "time" : 1455990045
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Marco Antonio Rojas",
+            "author_url" : "https://plus.google.com/101243760712913113784",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-j0iyq2kPOks/AAAAAAAAAAI/AAAAAAAAAY0/uiajJfZrk-g/photo.jpg",
+            "rating" : 4,
+            "text" : "Es una excelente exposición las que muestra continuamente además de que muestra el arte bien vinculado con la tecnología día a día. \nLe pongo 4 estrellas porque en la explanada realizan eventos que obstrullen la entrada que implica que tengas que dar toda la vuelta y eso para una persona que deba ocupar las rampas de acceso no lo puede hacer por esta obstrucción. \n\nCon todo respeto, para eso estan las islas ya que no quieren o pueden hacerlo dentro de un auditorio. ",
+            "time" : 1454986234
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Esteban Ruiz-Velasco",
+            "author_url" : "https://plus.google.com/106705242437425841750",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-CfDGSNL3Tlk/AAAAAAAAAAI/AAAAAAAACCo/3kM6hkXXEcI/photo.jpg",
+            "rating" : 5,
+            "text" : "El lugar es esoectacular. Las exposiciones, como en cualquier museo, varian mucho según el gusto. Pero es de reconocerse la calidad de la curaduría, y el heho de que tengan arte sonoro también.\n\nEl restaurante de abajo es muy bueno.\n\nEs facil llegar en transporte público (metrobus CCU), y hay donde dejar el coche. Además el Centro Cultural Universitario como un todo es excelente.",
+            "time" : 1448944662
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivan Aguilar",
+            "author_url" : "https://plus.google.com/115444012951106337775",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-l2v8xWB4Bno/AAAAAAAAAAI/AAAAAAAAR9s/r65DyOlYyoU/photo.jpg",
+            "rating" : 5,
+            "text" : "Interesante,  la entrada muy accesible ($40 público general $20 estudiante), me encantó. Buenas exposiciones, rodeado de un ambiente agradable. Estacionamientos baratos, comida barata y en el centro cultural de Ciudad Universitaria, ¿Qué más se puede pedir?",
+            "time" : 1454141178
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16318234361679234308",
+      "user_ratings_total" : 89,
+      "utc_offset" : -360,
+      "vicinity" : "Av. de Los Insurgentes sur No. 3000, Coyoacán, Centro, Ciudad de México",
+      "website" : "http://www.muac.unam.mx/"
+   },
+   "status" : "OK"
+}

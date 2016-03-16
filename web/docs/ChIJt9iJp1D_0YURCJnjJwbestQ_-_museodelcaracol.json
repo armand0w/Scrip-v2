@@ -1,0 +1,263 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Miguel de Chapultepec",
+            "short_name" : "San Miguel de Chapultepec",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11580",
+            "short_name" : "11580",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "1ª Sección del Bosque de Chapultepec s/n, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Miguel de Chapultepec\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11580\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "1ª Sección del Bosque de Chapultepec s/n, Miguel Hidalgo, San Miguel de Chapultepec, 11580 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4040 5241",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.419054,
+            "lng" : -99.183312
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "62198af107df83e5f3467e8e130e9df31e4b6e17",
+      "international_phone_number" : "+52 55 4040 5241",
+      "name" : "Museo del Caracol",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–16:15",
+            "miércoles: 9:00–16:15",
+            "jueves: 9:00–16:15",
+            "viernes: 9:00–16:15",
+            "sábado: 9:00–16:15",
+            "domingo: 9:00–16:15"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111718030988128507103/photos\"\u003eJosué Plata\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5LHbWtIxcEJJS25I20NVXO7G1wE3YcTkvYn1XNUbn3nDJCwvzT9GCPElAucKCbaWApgxFJhKGgsLjZnTUx05fB4WXDeez7dLqk57m8u4v2OGFHvQG6ialJMsSEcGOm3VEhCQbybYQ2AO8KyZJrKJoqNAGhTfZZ0VFpG7AX58aByR1wBtpf5i_Q",
+            "width" : 3264
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106225710349030582431/photos\"\u003eMuseo del Caracol\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7D8ufWQxVlzy2UA0NRvJqydpSofH-vpTBi5og4Bgj8bjaMgfAIlG_6NU7eE8RvxSnUhU_oY2mtedLuODSMfQ3GyYd2ORIjZaO0rwU1b_T-NtIt2DH6SfDB06XU5KC5IsEhBQO4GOyG98IW3lj-gKFODUGhSdZazpR8Y50Y-3wAfUNf_naL182g",
+            "width" : 2048
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101187294887745608626/photos\"\u003eBrayan Morales Ramirez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5uO4HcFTxwhGSkCs41ig_4KN5m2Epxu8Ww9VjN8RVw76AhPndGrKtwpiL52-So-263daaHYQh7zo7CrvAw7_j4yh466teJRJ5MjSU9D4GottRK7NCnu2QjK1SXu7XYi5EhBhh_BP_Abcg2dBCQLugJmwGhSrU-CJ3Oc76u_T4aJgEDSV4G7mmw",
+            "width" : 816
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103309419465612496720/photos\"\u003efco javier rivera\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdDIoXtSAthkzRmGE2Ak2UA4laJeE_vgc_2PUxQ9nn-cKMKvQDrxD2rdn5Y152PSsNU8ReL471ZBKgykClQw2HoS-AK5gxF-UgSGrJI6vh3CXzRhE8jstlsyVJYmVwikqEhAUW_pxPknNdokoq_KZhx7EGhTel_J6od96b2m1cm9lSO_0FGBdYA",
+            "width" : 612
+         },
+         {
+            "height" : 321,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101269801601451461997/photos\"\u003eDavid Heredia Gomez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAs0krGOmB4Tp-Hy_ZNhD1PY7QgS_43lDS9HpgNDIW7N0A8Pua41yJ-uzZOY9dEbaNqOTA9bk1TvRIydGK0_1fOfsDYU718YC93YfHJDpCe7RXzfnHjTaEvCZHrS5SfljqEhCGDaY26I6mx7vdNVO0u149GhQEaJkc_nwhANeVNC12kP_mLdItjQ",
+            "width" : 500
+         },
+         {
+            "height" : 353,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100197324305304057856/photos\"\u003eMuseo del Caracol\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4qRBXel9-BAwn2HdC07Kcp-zonuvrwDn_cohLPOGa1qnwPYk53UTtQlLKdnkk1VmNNkv-exce2OPi5yTLinmago1RE-dRSEni5Kd8aDcHCgrF9_bY6SbkHOfoF-N70hCEhDRlfhzF5_7IMUu9Yi6PN0BGhSh-O4Asd8WPh8z5PBjERANDUJaMw",
+            "width" : 353
+         },
+         {
+            "height" : 250,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100197324305304057856/photos\"\u003eMuseo del Caracol\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANAXuTF850GZKtv3px7cL7FutK6dFnubQP3VI9Exd-KsgAEb6L_FS2wp4ULtYsxGo-tx_cJnqepFhbRq_3Sm9NPe_8MG7Zi61zVvohGYuVlPnNQZ2bGaqcny_fJFWrWCEEhAFVQa_Hx_5HvudFpYsr6kpGhT1clhJ5_LudBJX47rJvrZZ4FDSkA",
+            "width" : 250
+         }
+      ],
+      "place_id" : "ChIJt9iJp1D_0YURCJnjJwbestQ",
+      "rating" : 4.2,
+      "reference" : "CnRlAAAAgkE0WLj9R5BQMNdXvUzlCV55zestb-XsVQMLV3gJMDSJUSwNAJRa2xY_YEccw8A90d043Kqrw44mbbyI5S7QuKb22eB_spm2y4yz7zEUUL5m7X6u9qek5EJnh39JCOT-KkLKss4cl7xl4imJIZpnMhIQoQ6J8pMi3fGMuRCq3lFXGBoU6hLLJtFLI7bGq9SdScgrNiZ39pI",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Isaac Saucedo",
+            "author_url" : "https://plus.google.com/113690986042669637498",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy buen museo ",
+            "time" : 1457673789
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mauricio jimenez",
+            "author_url" : "https://plus.google.com/111374495441921546278",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CPJ2TNoFktM/AAAAAAAAAAI/AAAAAAAADYc/gg3e2TuAW-E/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen lugar ",
+            "time" : 1457368377
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "fco javier rivera",
+            "author_url" : "https://plus.google.com/103309419465612496720",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Fantástico rincón de la historia de México ",
+            "time" : 1425854161
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alejandro Terrazas",
+            "author_url" : "https://plus.google.com/107829213548963410908",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-1f933Y3rEZw/AAAAAAAAAAI/AAAAAAAAAKA/eTLS4F07M_c/photo.jpg",
+            "rating" : 4,
+            "text" : "No es muy grande pero es una manera interesante de ver la historia de México ",
+            "time" : 1452183877
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Josué Plata",
+            "author_url" : "https://plus.google.com/111718030988128507103",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-ts1cAWIlaug/AAAAAAAAAAI/AAAAAAAAAbw/Cx_6yJqXgvg/photo.jpg",
+            "rating" : 5,
+            "text" : "Un lugar muy entretenido y agradable.\nUna terraza y vista espectaculares.",
+            "time" : 1445314441
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15326556599915616520",
+      "user_ratings_total" : 31,
+      "utc_offset" : -360,
+      "vicinity" : "1ª Sección del Bosque de Chapultepec s/n, Miguel Hidalgo, San Miguel de Chapultepec, Ciudad de México",
+      "website" : "http://www.caracol.inah.gob.mx/"
+   },
+   "status" : "OK"
+}

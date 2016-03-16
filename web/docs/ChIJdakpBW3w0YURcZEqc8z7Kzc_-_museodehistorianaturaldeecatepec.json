@@ -1,0 +1,252 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Circunvalación Oriente",
+            "short_name" : "Circunvalación Ote.",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Jardines de Santa Clara",
+            "short_name" : "Jardines de Santa Clara",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ecatepec de Morelos",
+            "short_name" : "Ecatepec de Morelos",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "55450",
+            "short_name" : "55450",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCircunvalación Ote.\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJardines de Santa Clara\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e55450\u003c/span\u003e \u003cspan class=\"locality\"\u003eEcatepec de Morelos\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Circunvalación Ote., Jardines de Santa Clara, 55450 Ecatepec de Morelos, Méx., México",
+      "formatted_phone_number" : "01 55 5774 4671",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.5467475,
+            "lng" : -99.0366451
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "74953fdf4a3cf3d5fb2611397764c58625bce754",
+      "international_phone_number" : "+52 55 5774 4671",
+      "name" : "Museo de Historia Natural de Ecatepec",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 9:00–18:00",
+            "domingo: 9:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3864,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111343499866972799495/photos\"\u003eMuseo de Historia Natural de Ecatepec\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALueH153AXw0nCSQwpyFH12SjufULhO0poEb-1iAADVFhRX8GRjLGw5dzVYMY5bDnNklCA4mYviRlYCHonMk01b_5KJL5nfUuyYpXJvwUqQdiD3NRzN881BM0zJhaI4l9EhDTg_IfDdkSuFMO5xes0v_2GhQQkhVxpJ6GN_0b-iPM2z5hnTjzoA",
+            "width" : 5152
+         },
+         {
+            "height" : 3864,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111343499866972799495/photos\"\u003eMuseo de Historia Natural de Ecatepec\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAegIUpfuveH3ELTft_TggLoX_u8G9Y0Jk7hdoj447-3qC5QS9ueVuWa8-1neN6Kvo6Ye0igVwTpDH5cV1Rpf2h9goUMmzpF3N_iuTxKF-zHgwNKnQEaVnCJPKtmLneTOoEhC7YqufcMpaakqgysoDyqehGhRGDTv9wgY57KnOndSFdGRdOJPs0A",
+            "width" : 5152
+         },
+         {
+            "height" : 1851,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111343499866972799495/photos\"\u003eMuseo de Historia Natural de Ecatepec\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOYVH80siDtp_-b56SiK8nYWjLrNyQOaxegbmP8GuPH6mg1FosvqX9Rdbw1sJoRQxq4G74W4CK7JvA1K7OZkRPLWNoEAmzQLswRsu4BPxSiGs_xdp6-CxbG0tDg39zKixEhDh_Be8xf7itE708N0u8RUzGhT5qjgeW8C9NFnTDztIquW5cjohBg",
+            "width" : 1846
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100848303662669351169/photos\"\u003ejose de jesus cruz tellez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAL2QDn1SXZHXXqC1FzopG-HezB8JGldXtol-oSfoNoCk1QeYAROIwarntaEFmP7LMT_6vEAtYoOrxnwUoR9ZN_FurnxIIJzqevd4mm-3KTj8I8fRgXNlM_NWf2OfYiHTUEhDQlsP5kSyQ9-TFwOYTw5dHGhTWg6IeGJyLgdqv7oI2oF6DOZa_kA",
+            "width" : 640
+         },
+         {
+            "height" : 3104,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105619373001204121508/photos\"\u003eGeraldine Acero Sanchez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApAa4RBXjtI9lgZOcl8byKwRZLD7kwJ0gYHzYTztz8MAmLe9_lcXmWbA597phyLpWJBC1x8CS_IMHu6QFV7eHy2PeNFRWbe829l1D9QBuCaGLy7giUJ-UyD-WVdg7z2I9EhCnK0e8gdOqejG47OrmPPgSGhSMMLCj48TvLI0sNDYLDIRiXda8gg",
+            "width" : 1746
+         }
+      ],
+      "place_id" : "ChIJdakpBW3w0YURcZEqc8z7Kzc",
+      "rating" : 4.2,
+      "reference" : "CoQBeAAAAIAwrEa68vMLEuoaXwwvWPRxIDikNBOWLL0jU5AVYCTZqX9ricTpQTHWRZOQX8-cQr-z_E0ZN-Yvdm07iF9rsxh6i0rvH-k9e1DNqcCwULQDf_uiOZieRMHM7j-7lxCdYyeekYJjy8zDXpYksPqNhXBJowE5LwLo4BZQq_jhzGngEhDx2hXHpyKjPpp2RvfdaDUmGhQEeyIysYUUMA0RdQYGt-pKnV3tOw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karen Cabrera",
+            "author_url" : "https://plus.google.com/114595364442785620830",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es muy bueno",
+            "time" : 1448589119
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "José Gpe. Uviña T.",
+            "author_url" : "https://plus.google.com/112791105579571968782",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-QExt5BPAggE/AAAAAAAAAAI/AAAAAAAACIc/wDKFU0dpMaA/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un Museo Altamente recomendable, tanto para los niños y adultos, ya que ofrece un Viaje atravez de la Historia del Hombre entrelazada con su mundo vegetal y animal; aquí vas a encontrar: \n\n- Imágenes de Dinosaurios y sobre todo esqueletos a una escala Natural.\n- Muestras de minerales y meteoritos que han caído a la tierra.\n- Fotografías y maquetas de los Viajes Espaciales y de los planetas.\n- Vídeos referentes al tema.\n\nEn mi opinión se debería dar más impulso y difusión a este museo.",
+            "time" : 1447243911
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "clara guapa sosa",
+            "author_url" : "https://plus.google.com/118307607823500830806",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-M4ARXyNuyes/AAAAAAAAAAI/AAAAAAAAACM/1CJo8qAUPew/photo.jpg",
+            "rating" : 5,
+            "text" : "Es muy hermoxo\nGrpci",
+            "time" : 1447562755
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mariaesther Calderonlaureano",
+            "author_url" : "https://plus.google.com/102517687984732067788",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Esta muy tranquilo las personas encargadas de el museo son muy amables y atentas es un muy buen lugar para conocimiento y no gastas nada que mas podemos pedir",
+            "time" : 1447189449
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "HUMBERTO AUTOS",
+            "author_url" : "https://plus.google.com/113511310934669665065",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-doNglDiHVVo/AAAAAAAAAAI/AAAAAAAAADg/AQnRAFtQZRo/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar. Trató muy amable. 100% recomendable para los peques",
+            "time" : 1453144719
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3975547951608664433",
+      "user_ratings_total" : 22,
+      "utc_offset" : -360,
+      "vicinity" : "Circunvalación Oriente, Jardines de Santa Clara, Ecatepec de Morelos",
+      "website" : "https://www.facebook.com/MHNEcatepec?ref=ts&fref=ts"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Av Paseo de la Reforma",
+            "short_name" : "Av Paseo de la Reforma",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Chapultepec Polanco",
+            "short_name" : "Chapultepec Polanco",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11560",
+            "short_name" : "11560",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv Paseo de la Reforma &amp; Calzada Gandhi S/N\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eChapultepec Polanco, Miguel Hidalgo\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11560\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av Paseo de la Reforma & Calzada Gandhi S/N, Chapultepec Polanco, Miguel Hidalgo, 11560 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4040 5300",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4260032,
+            "lng" : -99.18627859999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "bff3275e7e3cf45f4507276cfb257987fce87893",
+      "international_phone_number" : "+52 55 4040 5300",
+      "name" : "Museo Nacional de Antropología",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–19:00",
+            "miércoles: 9:00–19:00",
+            "jueves: 9:00–19:00",
+            "viernes: 9:00–19:00",
+            "sábado: 9:00–19:00",
+            "domingo: 9:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109547070669950953615/photos\"\u003eMario Donati\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzPgE3UQYkPD3-wTr2sAqT6iy37HFg_N_BnnKfdMzeXKOdqNPz0ivrnfFFKxib6y2tvJRElJSN9oRaJ2nQqWb6bdCZWjjJI4ss1YH4EsK4qKL1gy6y1_-qJewOfY8MLQaEhAGMKORypN3bG_3OjUX9D3GGhRFwNeF0FoTIpLCs_ZqaOfx_wxQHg",
+            "width" : 2048
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102570645330857682690/photos\"\u003eJavier Gibaja Esteban\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAIb7NyCV7N0htqvBJq0Rd7_ByUrFJmEwsxr_4tQahURaOLXOJgx1cgCffo0Axz4nvM550ZZRLivcUFQV4nyiQ3bTHfRdkqnhhcSQUvaWHcDuodkg7t3JHT9xLW4B8ueBCEhCkYAINfAMzo9ei1c4O2OrvGhQCCbMIh45jQR6DiXGnueW6d1OB9w",
+            "width" : 4160
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102570645330857682690/photos\"\u003eJavier Gibaja Esteban\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAALqF1jGYdbnGQErRJVOn3FquT4XhBlaGnqa0M6CxMZpqUooZUeShkc5DXslUsJquiy4L8dFPskq4uRVgrr6nLBiGnUHlLZzkcoHPrtYMc61TnWD55H7T4bqbRzEWy_i3SbTQD6vPYIjqUM5SCwbHqI_oY660qin5-AUNIZzMEnUwEhD2VZ_7w0x9x6jdFj4eKOyGGhRGdphH0R5Qopx7Pz9lmxH20wwqJg",
+            "width" : 4160
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110564874081919845674/photos\"\u003eTomas Janecek\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKM4qlZD74NDNmPXVm3iAwVkA3ZSZv4ho4rWKdHFSCh_jAk4qO7nIeFXSTXPI4uhiQUWJ3hYO9NHm5-TUqylUAyyr8ViHxtoa6dWFEggbI70R1N_tCZ9XjsTDWYMWfTOyEhBSJwYk5OUAefXTg0fZe2WdGhSYb65fT08FyKvGvJEc23Rn3lamiw",
+            "width" : 612
+         },
+         {
+            "height" : 780,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAK2-1-5Q8z4XHWkfyq9ywDWGuSbXk64PG8sm-Om-tuxcWsEvAWFxpXKyeHUYaeHjMx_uFZ41wBlTl4Q7WZUGtoW3XZW5jRHR6O4P8RoKi7R7p0fTnYU-ai5wxkBKltyjDEhCkyNYmlSf6wFN5qKCmyjp2GhS-48SuTvX3DfbwmuXd_u93MXgjVQ",
+            "width" : 1040
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108775430396786630313/photos\"\u003eFarid Monti\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMWe3f7hQ5vImTjaVzIhUjR_bL8oF4N66pfC7LZamkPcmzWB1DKShe_3vlMgT4EHNWbRlb-AuEie5B6RVjv3oE1ncOpiyQW94SeCPKIzSiR0Gjf9nWWnhEQBenilTTrwdEhDoEvY3pRSyiSfC1pAhe8hKGhSqHbKqjZxjp89GXkqBW4Sl53zoqw",
+            "width" : 2048
+         },
+         {
+            "height" : 4912,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkkfzle-MQIh0rbBajF1DfRn4AX1Ie9nWsSKSfyHf5dXc5_aBXui0VjkCY_MjQh6cgb3wwuJwk2P1s3xfX6S2fvtG8Oeyudk6Zf5gFBNTz59FCOOfflNyTaZXs7iBExXUEhBBH2knvLzQ7LT6tLMFsEIDGhTXkfc6umkX2a1Iqeb8uYlAhtBNrw",
+            "width" : 7360
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118079819960734087355/photos\"\u003eIsaac Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9hjG_20YlGDn8Sm5OkfSCeAENmQ8lTMKZsgJdcAnK0YQmaOEEV9XUe1i7pKlI4Ahu3tSsUadlNx-pIYli0OIuTfvqHWDR13YeVmZEWIich8avu68Z8HoPdvEKn8ClyPFEhACTuaTklwV3bh33P219_h8GhS060Z38Kbi9t2DkPNvO8_A74DWhg",
+            "width" : 4608
+         },
+         {
+            "height" : 1367,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFs0yGS4NMNIiUu4qKUaTK8Qj07ZeqNDAlFsmvgYVKyAvT_AyxiFbzA4YqGDYtLL2K57plLjPmtzIXnPynE4CdmS5BjtRtWGWsRygrMCFK6yECpHo0ayENsqhUA66B5NHEhAIz66D4POjB2qnmS2JI528GhRpqJHB_0vHPp-GYLYN72j2NOyUgw",
+            "width" : 2048
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116898179844348460599/photos\"\u003eEz Gilz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAavdCcwmInb_Lr6OcAy8obuFc-LfqwhuGFTtB-PjrnWEmsq3OyeirFXBr_95eJZrjdbkjGKG3NtYa8Iqs59dV7xM99Tyv7_rumxfPmDhovARJ7Br5oihYSOv8v22UvpQHEhBcX4B4h38AkIi--q1G92YHGhTblK7_6wJVGDblvjGtJTFudGP0ew",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJScjIILQB0oURJMVub-MaI4Q",
+      "rating" : 4.7,
+      "reference" : "CoQBcwAAAKFXXglqPzGLfueI6YsPmyX8gjFf5wMelUPw6-iRALE2M9kyH7AJa3d6Q95dAlKPyvzxCos-JEjWXy88GsAoFVug3KVbheDCNmCPprTvtERx6H-gSSo_Vr3LiWUlxAxWXUYIdkdL5jRKjP8xSpJ8seaYQlQgDoEBInNrpIBqtNjVEhB_gs5gSh64iXGgpk5c-IzDGhTMyvXWDuTN8ugLyNsYFv0lE5DFVw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mauricio jimenez",
+            "author_url" : "https://plus.google.com/111374495441921546278",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CPJ2TNoFktM/AAAAAAAAAAI/AAAAAAAADYc/gg3e2TuAW-E/photo.jpg",
+            "rating" : 5,
+            "text" : "Un museo muy bueno ",
+            "time" : 1457308707
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sAbRoZo mUñEkO",
+            "author_url" : "https://plus.google.com/104848014571184656341",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-ss23H8V7W5A/AAAAAAAAAAI/AAAAAAAAAHI/V2ogfQ1KXxI/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar para turistear y conocer acerca de la historia de México, eso sí, lleva tiempo de sobra para recorrerlo todo porque es bastante amplio y así puedas aprovechar la visita al 100. El estacionamiento es un poco caro, la opción sería llegar en transporte publico o dejar tu vehículo sobre Campos Elíseos tu respectivo pago de parquímetro. Los souvenires tienen un precio bastante elevados para ser réplicas. Para la comida sería buena opción si pudieras salir a consumir algo en los puestos, de lo contrario tendrás que pagar una cuenta elevada en el restaurante.",
+            "time" : 1456865308
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "pablo rendon lopez",
+            "author_url" : "https://plus.google.com/105669740813343717210",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Trabaje por mucho tiempo pero desidi biajar a usa y aki estamos en keypor nj",
+            "time" : 1451615400
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Amaury Guzman",
+            "author_url" : "https://plus.google.com/106147251792122323387",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-4V7BjxD__co/AAAAAAAAAAI/AAAAAAAA2CA/pelr2-f1t9E/photo.jpg",
+            "rating" : 4,
+            "text" : "Lugar obligado para visitar en el df",
+            "time" : 1451593305
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ramon Guzman A.",
+            "author_url" : "https://plus.google.com/111592847619807772723",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-k7YIkyIqncQ/AAAAAAAAAAI/AAAAAAAABLQ/NdtdeMjRVwc/photo.jpg",
+            "rating" : 4,
+            "text" : "Muy buen museo, ideal para gente de otrls paises con gabas de entender la historia de México",
+            "time" : 1455298893
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9521483601320789284",
+      "user_ratings_total" : 632,
+      "utc_offset" : -360,
+      "vicinity" : "Av Paseo de la Reforma & Calzada Gandhi S/N, Chapultepec Polanco, Miguel Hidalgo, Ciudad de México",
+      "website" : "http://www.mna.inah.gob.mx/"
+   },
+   "status" : "OK"
+}

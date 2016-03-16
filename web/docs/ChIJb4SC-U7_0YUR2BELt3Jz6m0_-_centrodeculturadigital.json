@@ -1,0 +1,281 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06600",
+            "short_name" : "06600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Paseo de Reforma s/n Esquina Lieja, \u003cspan class=\"street-address\"\u003eCuauhtemoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuárez\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06600\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Paseo de Reforma s/n Esquina Lieja, Cuauhtemoc, Juárez, 06600 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 1000 2637",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.42313459999999,
+            "lng" : -99.17580220000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "7792468e1cfc2d83a3cfd095dfc81cc4ff6435c8",
+      "international_phone_number" : "+52 55 1000 2637",
+      "name" : "Centro de Cultura Digital",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 11:00–19:00",
+            "miércoles: 11:00–19:00",
+            "jueves: 11:00–19:00",
+            "viernes: 11:00–19:00",
+            "sábado: 11:00–19:00",
+            "domingo: 11:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 4160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106705242437425841750/photos\"\u003eEsteban Ruiz-Velasco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwQXIwEKf9Q1GmC810M-ebeSeseKlhZFdgI6cXLS7-ogBJIZK-eKNFl7gkIwbTA_sRod7n_6OoMZfLTNEr6GKTy-aJ8eRiu9KTpW6x9mJuQcZRP4R2m3VBby8x4arKpdUEhDeHXbOkpRbsk9eJQQ3tTQdGhR2ey4c4NmK_vxGXxDuxP42Deuveg",
+            "width" : 2340
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110465435556625358580/photos\"\u003eEnrique Maqueda\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqlMQGYAqpNHUFuceFs2dOSU0dVvminMgZrj6oEzEuqcxg0hZYfDsvIN-sKGy1VG9H4fOxZLGKk-b08G_K5pTY6FqI-Rifwt0FkB1fDBWs42fwY97Kpz9k62pl85DJ5aXEhBqTzKuO9b9NgHa_zgf14QGGhSdf9XQiyT41nAmcqmBHxz1NniEyA",
+            "width" : 3264
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107095918319983994988/photos\"\u003eRey Ley\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAACP_vR4x-6XfD22TRMXELbbok4-XKbdk6rBjcdg9Rynpe7Y-UasyrTgGUEWV2UKSzMXFqFqLYOsVQGhp8XghbnaqSUsyK6UH6XTMkP2NiUjDL7sLmXp5IvYepPg5qsXuqGtUjCxi7WVUrxiXPQRjmdBPLGRzBQEuS9WpS5euH9c5EhAf6R89eT3vtAbcUjfMGnEJGhT1rcWmrqlUGG8PWFbTQc106ngEnQ",
+            "width" : 2322
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102043609283166989205/photos\"\u003eCarlos René Rangel Salazar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqRuvp3qybLdFu54j4H20iKnzqkyBB6gG6Xj3At2FH2lBYWrfG-kTsfH8mC01ElpxwXXbq8eO3Ertun_uKRD0qnPuTMgGFvVZYaRYdsU6ckd76mBGgyzXZM7Pissa6Z14EhB4gTujMh5i3aEsvdwjDwNcGhRkGLTCzUEaEiOITZ4_WTX8tjdG7w",
+            "width" : 4160
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102043609283166989205/photos\"\u003eCarlos René Rangel Salazar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAsDW2W847rjkYr_SanNy8RvSAREXiRo7fnK9IJFKIsR3yCKwp0eGj3xu83wtrwIr2oykAV3RRdNqyCP7K45aUt8In_X3N_1mAD2Sf7KYn-xn8zWd36-EVSO3qvHg1l-IPEhBzffDEMSv0BguqBqRZ6IqOGhRo_ZtdPWZn-IHToOZHjpTG2EG2Tw",
+            "width" : 4160
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101166707425213797782/photos\"\u003eKarla Rss\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACcVaGk31jyCZhqDoOOtTkH-fZU4pVD5gskOXg833L0EoyRALauL1XG5LX-3VGdOSUxhOEaeIM5eQ0Hb_ARQ5dv6El3bunLzx4n8mSFPgvLaIzk8t-6S_3ZBN-_HldNOWEhD9Elcymocdx_v6aR7BHq99GhS6mj3kt1s6AR80xpDac1STeaXlfw",
+            "width" : 1224
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101166707425213797782/photos\"\u003eKarla Rss\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8E3W0NwahYel_gq6C03a8s1zlMwsyqTUf25zyokPE6BtVNLCvl6vpvd7BqHpXT3sdiJhpGAo4ZK7G4XuSJd27byoj7xqBIUnbcLYJJO9g9eUNPzHaDyW7TZrrBoZOUvEEhCvZpF1CZAB8yl9MjcoRAjMGhSY_0YQBFRfZH-NY3GwihOmSwXTfA",
+            "width" : 1224
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105265877107259371550/photos\"\u003eAbraham Vázquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKLSl3ZtQr4wKfa65dH22SshwudfBlV_0EP_YqQ-Z177yp8nnV_foMaXEnR6AQxICqLhCe-QFWjM_zvo1L7BKpxU5auFSiK3uwuDXYF_I5YG1-qwopSXt03mM_2IriN8mEhBxWgty1Pj9dtxpIVR6zIdtGhSyoAifAWHxE5oVk394FufxLL0SDA",
+            "width" : 2161
+         },
+         {
+            "height" : 4928,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107095918319983994988/photos\"\u003eRey Ley\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFQCsLDxr05TkHtBTYyuA2DrhPirVZgo1DWVgHR4eHafkVBQFATU9i9ceCHQrKSusTE_q-ONBT23hVVUfe44cP2ISLDTjGsrQzxcEwpPNFMkeeKZKXmT-V4654IQY2LKDEhBU1byTa7xuZjMllWTKv8BjGhRB91EMLv2J3UOsvQgNbWGDP7_mKA",
+            "width" : 1744
+         }
+      ],
+      "place_id" : "ChIJb4SC-U7_0YUR2BELt3Jz6m0",
+      "rating" : 4.1,
+      "reference" : "CnRsAAAAUrOhkj7R0HrAJz7sb4bTKpS2TGaJ5hL4zC6NVh11TnwOGWJIeNz5JvGjz26TztDiq1wVKp8o8bcIcYep0dVmwsJPK83Kb8eso9LZcl2ISP0_qZv1OBGwmJnKOcMH22zUkcjjRAQma7S4hNSisr61BRIQFCtH0AVPXiAqbYrRnjC0YhoUf-0qSukIgliFexU7MQjQb12OEiY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Enrique Maqueda",
+            "author_url" : "https://plus.google.com/110465435556625358580",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-Ss3T1Svwgnk/AAAAAAAAAAI/AAAAAAAAirk/uBcCe3vLyLs/photo.jpg",
+            "rating" : 4,
+            "text" : "Un lugar extraño ",
+            "time" : 1453238764
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Esteban Ruiz-Velasco",
+            "author_url" : "https://plus.google.com/106705242437425841750",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-CfDGSNL3Tlk/AAAAAAAAAAI/AAAAAAAACCo/3kM6hkXXEcI/photo.jpg",
+            "rating" : 4,
+            "text" : "El lugar en sí es padre, y nada como estar al lado de Chapultepec.\n\nPero la estela de luz palidece frente a los edificios cercanos, y siempre estará el animadversión por el derroche millonario que representó esta suavicrema.\n\nEso si, hau proyectos de arte y tecnología muy interesantes, y de manera constante.",
+            "time" : 1448900833
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alexis Rodríguez",
+            "author_url" : "https://plus.google.com/107350834427393594262",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-0tf8lhQVe64/AAAAAAAAAAI/AAAAAAAAAD4/nrODamkTMTU/photo.jpg",
+            "rating" : 5,
+            "text" : "Debajo de la horrible construcción Está este centro con talleres, exposiciones,  presentaciones y muchas otras actividades. Vale la pena visitarlo y revisar la oferta cultural.",
+            "time" : 1455825519
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ariel Dario Cruz Flores",
+            "author_url" : "https://plus.google.com/116703009940119588326",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-6MCRUbjGsH0/AAAAAAAAAAI/AAAAAAAAAuo/GseYeN39pF0/photo.jpg",
+            "rating" : 5,
+            "text" : "Lo mejor: los talleres gratuitos sobre cultura digital.",
+            "time" : 1442453138
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos René Rangel Salazar",
+            "author_url" : "https://plus.google.com/102043609283166989205",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Wsk2bUx5CFs/AAAAAAAAAAI/AAAAAAAAyoY/LO0dFeDj9QE/photo.jpg",
+            "rating" : 3,
+            "text" : "A pesar de que el lugar es muy bonito, no tiene estacionamiento y en realidad se queda corto para los eventos a los que he asistido. Puntos extra por tener acceso a personas con capacidades diferentes. ",
+            "time" : 1448125130
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7920269831218860504",
+      "user_ratings_total" : 24,
+      "utc_offset" : -360,
+      "vicinity" : "Paseo de Reforma s/n Esquina Lieja, Cuauhtemoc, Juárez, Ciudad de México",
+      "website" : "http://www.centroculturadigital.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,212 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1",
+            "short_name" : "1",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Juárez",
+            "short_name" : "Av. Juárez",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06050",
+            "short_name" : "06050",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv. Juárez 1\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06050\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Juárez 1, Centro, 06050 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5510 2475",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4354284,
+            "lng" : -99.14127160000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "617f3d21c697b92e3a8efc8042bf47bb9834b50b",
+      "international_phone_number" : "+52 55 5510 2475",
+      "name" : "Museo Nacional De Arquitectura",
+      "photos" : [
+         {
+            "height" : 3864,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116577904416799392401/photos\"\u003eRodolfo Heberto Farias Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbtpf4NXV5buxoH_-6o6m6__UiGOSdCyKx2m9vBUkan47uouAyAul3oml-VmOCuFbhCUlc3-oZRkYBktaAoFNwPsPOA8peEAZrZ-9K-v5ua3WhRcjhQMBXSKTAtCP3ZaxEhC9LK4LuSKU5-uR0GoD6CxHGhShJJKrY3mzpb8nHt_6K9wcSohcig",
+            "width" : 5152
+         },
+         {
+            "height" : 1010,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115780022568809611518/photos\"\u003eJorge Araujo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKs9VTX0SukhwOE0pna44QAjH8lWGl2YG8h-BhmX1hfAWh_e32hmJ-eJ2Kz08TjSpGXlsSwkzWTZR86FHj49JdoKqM4pu9vqdWmld9b3vxxLhsoTeH_PWkqhlyizOUDQTEhCPR8Jb_q1Mfmrg7bzHQd11GhStQWR2DBsj8jU5v85bf6syDEXNZA",
+            "width" : 1440
+         },
+         {
+            "height" : 525,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103620943571561466151/photos\"\u003eOnd?ej Schmidt\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJsNeE24C9KbZ_gNubfAv5G_0p6jYKuyNYuWzLVhg9mJ1AG6A-LwX3-flmduZfNJK9daSncyhv-1wRMD8keBNtYx_Eo_-PnI2bpGvWFBIg5aaqa4PJUGxvfQ07k16h-pvEhCs7fQdnBbxj4TmHOwloBupGhQnY_rfbzkpY-3glmpyjpLnC__SBQ",
+            "width" : 700
+         },
+         {
+            "height" : 3864,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116577904416799392401/photos\"\u003eRodolfo Heberto Farias Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjotc33ucocJfKhN2RO_5jBv7aUIR3H0iWDS5Yu7wZICq7yBEfeMFSKFaX3Fr19pKbEB35R-cWBA3k2EvcvNy7Cu0rFI5u1L2JyCvF13wWJMFNWMgXVeMdRlVpaiSsx1mEhD46s2DYerpVYOHi3u6Cu5wGhQpluhMgsC0c_hdyFXLUkZ0_IXocA",
+            "width" : 5152
+         },
+         {
+            "height" : 6160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115661875510513795890/photos\"\u003eEnrique Jesus Ambrosio Rodriguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASJDLOs44exSR93n8laBMdYsl5RE-AIavXTDJlW0932l5ce_XkY2lfLCyJ6_CrIY-pklmRHokwa0FRy3c2TxarK3IwA_Mb_-EuAw5z_vXOUdyqbtC9LS0Rkp59JFqBYmpEhDPHIYvp5AqTjyPshvYiRfKGhRDXFcU0sdJRllHXh4zntW4ciocKg",
+            "width" : 3072
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114423571988395881766/photos\"\u003eSergio Gongora\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAe5F2WRf3xufcXoTMKxZZDkjcLPYkx6r0ta9kgJdK9kF4Lr0Q_7kgokWHv844x_aMrhNaCwBoQjHWjAKxNF5oK5-9EXoZUFHHfgO02iqvd0_0h21aTbL3ipMjUJa7voHTEhD1rXLGUbfTOJhyfMaKQ81hGhRwvxxor-9f9UK63FSqst-PDvagLg",
+            "width" : 1024
+         },
+         {
+            "height" : 3864,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116577904416799392401/photos\"\u003eRodolfo Heberto Farias Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-SY7NaD3V-DSZbHSShlkiXI63tivm1_FNmXljUZhqeLeRi9K-qhMuKZPkSRnJvjL9p9rQkSbVj84Ri0aCE2FAKsW_dlvH1FJs_urc7SoGFc2hyjYnq3zOyMUErVwlzVhEhBDarm_b0toGoMDkZtMit0PGhSJ8IZnjcDJInXQBr6dMssU0LBqzw",
+            "width" : 5152
+         },
+         {
+            "height" : 270,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117857864236199718444/photos\"\u003eCaro A Díaz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAfUM0ydGcVAY-y9kIm-9iDb-0jHTRRnvOYpzZXVrrWZZ_bIBb-PqN5w9pXGv3UXa7DYhUg-eHRWlLocDxmCWjYm1Gw93_NCVm34cMbQ_ypG0m1eCF_87cX2m2gMC2okTeEhC5yBP60s6H0y5LSc-w4auMGhT0En61bcQPXInKCgxTQs7wiU309w",
+            "width" : 480
+         }
+      ],
+      "place_id" : "ChIJgf9T6jr_0YUR-G4EP8imAQ0",
+      "rating" : 4.4,
+      "reference" : "CoQBcQAAAMyevYYfXKGZUAHwiZ2CH8MCEJ7puaihic9Sdh61gzed6b-IxevQ01j0mK1lXAmxiFW9uIhOw4JHulko1bXlo-9QkYzFXPhlhG-PJR39GQ21aDNmuMvPE-OyHvkQ7f3gMee0IfEh3XDWc38sNiu5Q9B-ltC8GlsN9bTE1ziccfpwEhDwK0cSje1ayiR02HS66cWGGhTEXKsVeGdevvyRWvGVYpFEJdkgvQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Escobar Rafita",
+            "author_url" : "https://plus.google.com/118261561732891656313",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-O5Ix4e29RfM/AAAAAAAAAAI/AAAAAAAAAGM/hNz9IsEY-P8/photo.jpg",
+            "rating" : 4,
+            "text" : "Por supuesto siendo arquitecto o sabiendo del tema los disfrutas más pero es una muy buena opción para ver sus exposiciones, tiene un precio a parte.",
+            "time" : 1454997192
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Edgar Balderas",
+            "author_url" : "https://plus.google.com/112662017052523399303",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Muy recomendable",
+            "time" : 1425857721
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carla Garnica",
+            "author_url" : "https://plus.google.com/107278600736591469741",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "\"Te recomiendo visitarlo y mas si te gusta el arte\"",
+            "time" : 1450539097
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Santiago García",
+            "author_url" : "https://plus.google.com/115369622376953962497",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-4Cp6QoBfbcI/AAAAAAAAAAI/AAAAAAAAJ80/H3QAxqr8y84/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy bueno vale la pena",
+            "time" : 1447793219
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gretel Manríquez",
+            "author_url" : "https://plus.google.com/101564593011130621420",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-44yX4oYYS50/AAAAAAAAAAI/AAAAAAAAAIs/odEaFN3kf0s/photo.jpg",
+            "rating" : 5,
+            "text" : "Otro lugar perfecto para los amantes de la arquitectura, las excelente exposiciones de increíbles obras, el lugar esta realmente acogedor y bueno las exposiciones de primera calidad. ",
+            "time" : 1379664405
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=937213576450699000",
+      "user_ratings_total" : 13,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Juárez 1, Centro, Ciudad de México",
+      "website" : "http://www.palacio.bellasartes.gob.mx/index.php/cartelera/mna"
+   },
+   "status" : "OK"
+}

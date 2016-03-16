@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Santa Isabel Industrial",
+            "short_name" : "Santa Isabel Industrial",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "D.F.",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "09820",
+            "short_name" : "09820",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Eje 8 Sur (Calzada Ermita-Iztapalapa) No. 100, \u003cspan class=\"street-address\"\u003eIztapalapa\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSanta Isabel Industrial\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e09820\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Eje 8 Sur (Calzada Ermita-Iztapalapa) No. 100, Iztapalapa, Santa Isabel Industrial, 09820 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 800 008 9090",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3577045,
+            "lng" : -99.087552
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "2c740900232a1ed61c73ff034658bac020e95538",
+      "international_phone_number" : "+52 800 008 9090",
+      "name" : "Museo de las Culturas; Pasión por Iztapalapa",
+      "place_id" : "ChIJs2qaH-_90YURPoYyZ3ZSlxA",
+      "reference" : "CoQBgAAAAP20I_D_WFKfzayAK9TTV6nBRAnBbyWZuu8tk2kpK-2wYP0CjRLeiOWaCgXwOu_x_UZoYHAqXCeNJLsnmlTJhQAgL265Do3pUv4M57Opm1N1yWFqZNtKXnshAwgXeDdRFlxOmmEPSvXQlbVam-qkTb7uL_5hK0UqHJm-6mx9u_WNEhBVDtegzYvCZ7IMDPq5eFUxGhRBP5WZR0yTk-ds8KUlUmCLD5Vt6Q",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mike Bc",
+            "author_url" : "https://plus.google.com/112227687469985574080",
+            "language" : "es",
+            "rating" : 2,
+            "text" : "como se llama este museo?",
+            "time" : 1394972233
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1195514894581139006",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Eje 8 Sur (Calzada Ermita-Iztapalapa) No. 100, Iztapalapa, Santa Isabel Industrial, Ciudad de México",
+      "website" : "http://www.mexicocity.gob.mx/"
+   },
+   "status" : "OK"
+}

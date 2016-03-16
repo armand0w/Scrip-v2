@@ -1,0 +1,275 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Aquiles Serdán",
+            "short_name" : "Aquiles Serdán",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Aragón La Villa(Aragón)",
+            "short_name" : "Aragón La Villa(Aragón)",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Gustavo A. Madero",
+            "short_name" : "Gustavo A. Madero",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "07000",
+            "short_name" : "07000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Entrada por Cuahutemoc, \u003cspan class=\"street-address\"\u003eAquiles Serdán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAragón La Villa(Aragón)\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e07000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Entrada por Cuahutemoc, Aquiles Serdán, Aragón La Villa(Aragón), 07000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5118 6407",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4816368,
+            "lng" : -99.11756129999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "78d2336ee980f013dc66fb6f92511878e1342695",
+      "international_phone_number" : "+52 55 5118 6407",
+      "name" : "MUSEO DE LOS FERROCARRILEROS",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 779,
+            "html_attributions" : [ "De un usuario de Google" ],
+            "photo_reference" : "CmRdAAAA_4BSpuIKZmiVDQHWGWFUOhwO0I80GlPqCpMD_58eQhZdnkhRmrr8pzv_rougGVrdbdhEaDkpfMYjDedVZ3jIZCS2JflOqg1FZgiM42vecdy8kev8-jiafS8BRFDahU5CEhDZxv7c3TB9zhVlLPFxCUvuGhQcDbRB5XAngWgRNPLU9M2Ul3yj2w",
+            "width" : 960
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [ "De un usuario de Google" ],
+            "photo_reference" : "CmRdAAAATNSLbg8E_ipbvFjy2l7y6lIGQGW7imWlc7kUSHvFszsbiFWuYNgp_PxhToVF3M2LIAaPbyqqudecoCJdWbGlUURaw0cXSgo9xRBbsgzjTsgWYttcqQdyjFWMLQoU6NY_EhD2V4ata7QBh7EMOohyPDrTGhQmTgYzombR6ZkZkC-AEcE23ogWBQ",
+            "width" : 960
+         },
+         {
+            "height" : 709,
+            "html_attributions" : [ "De un usuario de Google" ],
+            "photo_reference" : "CmRdAAAAlK-HQB_Km0qjBVApMqn0yYyL6MQTaI6tyT4OoLFPKUoWwDOsbKm7u2s6s-ykRqX22A33YHwocrnl4Oz7ltrFZ_GAgGbqlu3wdXxFVuRfm9S2KW_7XL1rRkGjlQgLpNW1EhBDjTwu1KgKavB7FVWFn2BkGhShJ-O19FoG5_uoXasK9J5RfrR0pg",
+            "width" : 945
+         },
+         {
+            "height" : 1932,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116210128534067002909/photos\"\u003elaratram001\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3l42zqqj0CTs1VGuOk0U4zBYmA2emYOa-zCFRPaI7HbItWYnwRopovM4qBXyrjFZPAOs0zfzXgh-70X3jdGEhIW7UamUlbXb5WNT9-qCjWLAl8Ksv8WxveREDG4wGZJREhBDcvFrwIouiZa7qGHv4jTuGhSToeijRUoQFExQjQPGxKIPYfcv9A",
+            "width" : 2576
+         },
+         {
+            "height" : 1932,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116210128534067002909/photos\"\u003elaratram001\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0pGmzC9sTgE9-8WnMYDQdsxq8z26_0DTkxMNStHiAOhgddLI1vgkwi0Uvtm5aQk6Ftb4SSbvjkFf4-cBHbpQrT5trpkw85buCZmJoPOV2sKFYRbaBZ7LBmDccy4VywRnEhCPZq-3DxlG2qFfkBvGlje4GhT-0P6FFRSz6ZLH81T1rpfMWo16Dg",
+            "width" : 2576
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101047834098133673241/photos\"\u003esscrapy15\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_ZGukHfa2rPSS0zMOMiBl9maO5HBUWu-locIjCBDxrRztAqRJHwUhM96TNDPQa12AC1vJ1TPHUEtOQA6v0TTCXK3F7BF4N57_EkE8z9hgqD-SpdeDJXnxIIf6PsuwXotEhBmuxlW5ZrIvR99Xp2YFWjlGhS8srSDefiYmDLLaW0Y9F2XzwRNBw",
+            "width" : 816
+         },
+         {
+            "height" : 1440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113681451940992289363/photos\"\u003ePaco Ildefonso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0d66XlOV6KglSOq9qYvFB730hypc-OPWSx0f8MBJ5a0DibSoco65iYg9tnaWOqSv30I6psnbvmPdtJIYjoGHFHJ7ezjhEOQkunlT3WjpGJnsrPUVIomfYdeKzI3mXCYwEhB1Zk7DPIPyrOUWryGkvRosGhQrzvCEc5hbm_IuuXLmVyERTzJtuA",
+            "width" : 2560
+         },
+         {
+            "height" : 1440,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113681451940992289363/photos\"\u003ePaco Ildefonso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4nkBmA7zuIuZXBWaScf_eNzvgq-p7WVHhtYsC9FGo8V__FOTsvOjJAX-8UvYRMX3kRS2oB7eH-XYPjAgGEn1rtpl5gSGMS8PGmh03lBQH0ZMIXV4LpEqogmSSbuHPtAKEhDAmYnQiEh5UrzZ5MgQfUzZGhQ4Vi8_wJHeuZHjcBh9IdRJzrxvog",
+            "width" : 2560
+         }
+      ],
+      "place_id" : "ChIJ5xY48Z350YURhLTdU3_KgJs",
+      "rating" : 4.2,
+      "reference" : "CnRwAAAAyMhTEpKQGU7kgoKHKluYBywFcw0AfpaFJR1nxcBkxQ-LbACm8DSo4UFmKBf41odvJQGj2h9QmlKu4uxysDQawlZGm_FhVjhbul60RMVUWneY3vcXBfRx2d0aas9XJGXpp5j3E-FLDIQI2Mk54zrqdhIQB71geox-kDCvnqsJAj9OmRoU_NtrwAfrGmFM7-HYJHEfd4i_D6o",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "miss JC",
+            "author_url" : "https://plus.google.com/103988201650731982040",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-MbmDyHfQUB0/AAAAAAAAAAI/AAAAAAAABus/8Zf6zQy6VOQ/photo.jpg",
+            "rating" : 3,
+            "text" : "ME rompió el corazón no poderme subir a los trenes para el instagram... ¿Si no lo instagrameo en realidad fui a un museo? \nEl sistema de registro es poco eficiente y el personal es algo descuidado (los policías distraídos, sobre todo), pero es un lugar lleno de historia, ferrocarriles preciosos y conferencias con personas geniales.",
+            "time" : 1446582140
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Blanca Garcia",
+            "author_url" : "https://plus.google.com/101581580165881550160",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es la primera estacion del ferricarril de la ciudad de mexico y es muy importante e interesante y  muy cultural ya que yo vivo a un costado del museo y al jefe del museo le ha costado mucho trabajo por eso debemos conocerlo mejor y vengan a visitarlo ya que hay mucha cultura y le deceo mucha suerte al jefe del museo hasta pronto.",
+            "time" : 1436758344
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jesús Sánchez",
+            "author_url" : "https://plus.google.com/113546178240492841491",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Aqui sales del metro y te encuentras con este pequeño lugar q te hace volver al pasado.Muy recomendable,visitalo con tu familia",
+            "time" : 1437499978
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "GUILLERMO GAJA",
+            "author_url" : "https://plus.google.com/107891030792473178336",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-thw5JZw3eJU/AAAAAAAAAAI/AAAAAAAAABI/KLmdFBLg_dE/photo.jpg",
+            "rating" : 5,
+            "text" : "No lo conozco todavía pero es una pena que habiendo un museo no lo den a difundir ni tengan fotos de ello, Si fue un patrimonio de la nación y deberían de hacer conciencia las autoridades de reabrir dicha comunicación. Yo recuerdo muy bien el trayecto de México - Veracruz y era exquisito viajar. Y de muy chico hice el trayecto de México - Cuernavaca y fue padrísimo. Algo que jamás a mis 62 años de edad podre olvidar.",
+            "time" : 1392708186
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gerardo Palma",
+            "author_url" : "https://plus.google.com/106400409895181474937",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-lP-HpCCRwng/AAAAAAAAAAI/AAAAAAAAABc/EpA6WH297gI/photo.jpg",
+            "rating" : 2,
+            "text" : "muy bie yo casi me yevo un tren de lujo están tan chingo es esos trenes del año de la canica:-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) :-) ",
+            "time" : 1433091896
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11205178521114489988",
+      "user_ratings_total" : 13,
+      "utc_offset" : -360,
+      "vicinity" : "Entrada por Cuahutemoc, Aquiles Serdán, Aragón La Villa(Aragón), Ciudad de México",
+      "website" : "http://www.cultura.df.gob.mx/index.php/component/eventlist/venueevents/11-museo-de-los-ferrocarrileros"
+   },
+   "status" : "OK"
+}

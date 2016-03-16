@@ -1,0 +1,83 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "87 C",
+            "short_name" : "87 C",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Calle de Bolívar",
+            "short_name" : "Calle de Bolívar",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06080",
+            "short_name" : "06080",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "de, \u003cspan class=\"street-address\"\u003eCalle de Bolívar 87 C\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06080\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "de, Calle de Bolívar 87 C, 06080 Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4284585,
+            "lng" : -99.13922900000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d48cdc853f7efcea0da878fef1f576c7c2fc48df",
+      "name" : "White Cremnitz",
+      "photos" : [
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107537495816552646513/photos\"\u003eTere Marmolejo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACCShjRU6p4gbfyGQEmEOMnMZRJKSqeYo3KAaicdRnUWzY7z0ln60aI61Ceanyv2KtQN9SydeHz6Ljv94zg90jSn2-9NqLoKr65tfa_x_J_tJ7AdB86xObLIKUYFh38lcEhBDrWNCVgqh61b5-vcKtNE6GhTbDweoVqXlvD-4iVxKDeycH_1aDA",
+            "width" : 949
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107537495816552646513/photos\"\u003eTere Marmolejo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAgxsB2yob-qYzYF6LkqyQn3pNyk9foAlR1DulGFvZdBWMrR0IxAPTki7W0JDRekC47GCRRxk0e5jfT2_b2TuVSlutVI-L6qXHxjZJwV9jhhxmWKJFUwrRgeX3gSsRjYK8EhCAbS0jnwyy7wFSxnYZFl1OGhTVpkM-e_aEUpz0xUhWZ1-F6-xmwg",
+            "width" : 1265
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107537495816552646513/photos\"\u003eTere Marmolejo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAx1j-1N9Hk515o9eEkY7ymqR3MwkLNKOh2GYtQtmJyrH7RgzUmauU3uXOiuGahdvXd6obXblwJ6qbEAMXkXOGUMFRTQ3tYMOvMWufahqdhpCV9LnZKXN72fPKpGB0DBtwEhDCmlZCcm3V9hq6Ljzo1v7eGhQWQ1sVdF4teOWnJZc-Wnt_B4GcOg",
+            "width" : 1265
+         }
+      ],
+      "place_id" : "ChIJW1Cy7dP-0YURk0NKVIK9RgU",
+      "reference" : "CnRhAAAAyRmvp7LRcr_02NxwQOJyvy8LBRCGbbpjyvYU6QKP5QiPzZgGsxJBteomtwVGn1X-F-_CbLZs4At0soeNcFmpy4cPwdISc9Wdh4Fc2Lq7IFqLHZrneoC-ljFDIsNC0ckuqYmzw0ieHq5YoUA_hagoTRIQ206vrkQj_MERl82cyQBxURoUpjg1AYD8CsyVik7T_4qpK2igEjc",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=380199586016936851",
+      "utc_offset" : -360,
+      "vicinity" : "de, Calle de Bolívar 87 C, Ciudad de México",
+      "website" : "http://www.whitecremnitz.com/"
+   },
+   "status" : "OK"
+}

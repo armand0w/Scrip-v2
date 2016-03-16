@@ -1,0 +1,303 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "303",
+            "short_name" : "303",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Miguel de Cervantes Saavedra",
+            "short_name" : "Miguel de Cervantes Saavedra",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ampliacion Granada",
+            "short_name" : "Ampliacion Granada",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11529",
+            "short_name" : "11529",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMiguel de Cervantes Saavedra 303\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAmpliacion Granada, Miguel Hidalgo\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11529\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Miguel de Cervantes Saavedra 303, Ampliacion Granada, Miguel Hidalgo, 11529 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5395 2618",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4404115,
+            "lng" : -99.2038663
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "ed02b710bb680ed793fa22b7205bab79eaebaaba",
+      "international_phone_number" : "+52 55 5395 2618",
+      "name" : "Museo Jumex",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 11:00–20:00",
+            "miércoles: 11:00–20:00",
+            "jueves: 11:00–20:00",
+            "viernes: 11:00–20:00",
+            "sábado: 11:00–20:00",
+            "domingo: 11:00–20:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112491036828968021301/photos\"\u003eJuan Guillermo Navarro Ortiz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4kkjYjJmQiMBZ06r9xI6X5mfDx3yoGxxUoLkz8AXvAAWi6qn056G8h5j0IWTNFp0Ju6T0CGuS2gF8yrJ1eMbsxZYGo7W2jU0L6g2vl_dInfJ6HVrwvIrxEnPT8wSGBD1EhA-e29zRpZmfOmBZM3Q5nkEGhS5pAcPKAwTGEPokbmFW9K6DZ0W6A",
+            "width" : 2448
+         },
+         {
+            "height" : 2328,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAej-qznowI3ZjFNilKTV1XV-gLCPGmggn2AIgGs_cKrXUcFlCxjUkXpKc7u1_Vda7QbRSN4tH4hi7RqKS8XuRuG-cpoIGx-15D0LkZzmuKfleq--wFLnCbnDRTcUAmdp1EhBq12TUhmTGNIUYzJjjmBNBGhSPV41LhlUhsb0c7PgA-ITW-Ham8A",
+            "width" : 3104
+         },
+         {
+            "height" : 814,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105574972679022211784/photos\"\u003eJorge Munguía\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFAAhNDiNsTz2y5zCEcMo858smZPnDaVUjdZ9fg6R6G1YP-cCovHuMd2AbU8PFdbHy1i2EZflkPm5mJXCcilT7FH9rh2iYHkjwijNxrm3NJ-e_v2RYQSkCrjLtKhErhuWEhBjLWNFsN_vAZEX1tYKCsbaGhRvRBD0muo88y-_FT0atGmoPOaX1w",
+            "width" : 1642
+         },
+         {
+            "height" : 800,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAi0ZiEJxd7Y542SaZYCTtDDdYpCMJvOFWXokw9mtXsmku_Fgj7h1FWuIJarrbnCrRWNdj-VCZP7kzTBi_UOSEnxtytJ7LGOOc0DwQT_ayeTi0C3-jZFndfYB6aiYbZSJGEhBs6RJ6f0Cfl2f-48Ucqk20GhREibMMIm_cMyxbUU9ZuqsMu_dp0w",
+            "width" : 534
+         },
+         {
+            "height" : 806,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAxoWIeZqLYnPRiI6ng-8jQ84QfjRdaH9tapq1QPOWvnnJ_ElbEbhXtiPmlcRv9Ltzs2ugZlY0P35uSrs7oLEDRfb5YRhBIBbn9GyT_PQUUbXQK9RYpRPwLANiyPn4VNXyEhAVDDMhIIhKIHF8rY2Jv6O1GhToodFDuUOGFd9bQQ7F-5LK06aoGA",
+            "width" : 1200
+         },
+         {
+            "height" : 801,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAF61YXZ7bWp5OhVoFKxjpazBlo_3tY_pK5XvHBL50B3g3kFS6Ol9Vc2zI5H1KCiiLCU2vlDWrNEC6uI0bIPdJn7F3NXuQsaBfZ6AegSjWzK31wckPqzgBw97h4JM1Ns5mEhBWyL5wni_Mg5w1Tat56KB8GhSigdOzh0ql2Z7AogfUh9S6cjsynQ",
+            "width" : 1200
+         },
+         {
+            "height" : 801,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5mo2mAA4mgDdQU6oYYN7y8Dzn7bWIZIU5atRp1Ij23ZhYBv68tKHgGoQhaOdPBAXA61otXUbJx-PtRPmXUOYjVPSSpTKmcwhkrkVPluRHBH6aTVigaCaLtUFakM1JCC1EhBT4uIR5SaqESKUQv3LM7ugGhTtW3Yv1NV2vPmDHf2TVaSeJspKcw",
+            "width" : 1200
+         },
+         {
+            "height" : 806,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAb4q2wee2C6sITkgpbF_ZdbBT5GWEexWUcxwxFEkNz2Q1F2fp2kaIhKCTNxPHTqkcF1ZSOWBZPBSst1r2pio1kloNZNFilTwVeqe2AI4vg8sd-XPONRNa8zZl0QxkAPzKEhCV_jx7PobIAQTgXT44Dqp0GhQxiwJY75z_6VoNrKYqJe1PrrO1fQ",
+            "width" : 1200
+         },
+         {
+            "height" : 941,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwprsgTpaZfXWzEOea2a9tof-0QR-QJZV4T35m9nhLm0D2lIGF9B6O9VtpgpPPTIN87vJxh05jP7lyuU_hOjm7AuH_ySMAADbVEmM7QbNo9G48bu_QL4EDEV01EJZtwYQEhBDAi052ZGsX4m-mkwR5YzEGhRXr6LB5KCxuTxuhdY5q0WNiWhPxw",
+            "width" : 1200
+         },
+         {
+            "height" : 801,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109004744909427566306/photos\"\u003eMuseo Jumex\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACiP5Iq-CSFVYTLBjh93z0AfDxPTEvw_z5Xhv5UNcbvsjmCWGe9JGU8EVdDpQ3G-OY51tYX9wyjlPqKdlpi5d_wkY7KG3aRYTbGpWpaR8QkRb9vIeuTkC877nk8G8pQGXEhDV18xjNChdBIf4PVjM5wYPGhRrMWxfZbKkpLiDg1hpbbbFZzv_Iw",
+            "width" : 1200
+         }
+      ],
+      "place_id" : "ChIJv0LcYRoC0oURwXXz3593qE8",
+      "rating" : 4.1,
+      "reference" : "CmReAAAAVHMFWBVR_hUtSl_3FmrutPP_BxiMyH_YarqAMDFcrK7497IjWaKlRIPQNuPjnvIJ6whh0TCTTA0s1sQ-appEWg1GE9Mdu6EhPXFWHj1bYilr0b9NeWd7w3wba3ZBCtbvEhDNX_7N9hM2frmGzz7ful5GGhSkmIynNB1AUPDSoV-vFJgLn0L5Dw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "jose angel alonso prieto",
+            "author_url" : "https://plus.google.com/104862757835307690315",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-gWLyv-VeCWE/AAAAAAAAAAI/AAAAAAAAABE/KqwmoxRTp5Y/photo.jpg",
+            "rating" : 4,
+            "text" : "Si aprecias el arte moderno es una alternativa. ",
+            "time" : 1446600929
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "monica vallejo rios",
+            "author_url" : "https://plus.google.com/106023449795032867752",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-r527VjAWhMc/AAAAAAAAAAI/AAAAAAAAAFw/DrEAUq7Bqfc/photo.jpg",
+            "rating" : 5,
+            "text" : "Me encantan las exposiciones del Museo Jumex! Checa su Facebook o su página de internet para que estés al día de todos sus eventos y exposiciónes ",
+            "time" : 1448499399
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Evelyn Salas",
+            "author_url" : "https://plus.google.com/103550301459474849988",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-k2sIUMtwAps/AAAAAAAAAAI/AAAAAAAAAVo/J9rOJ8IhYcw/photo.jpg",
+            "rating" : 3,
+            "text" : "Un espacio muy bonito, amplio pero creo que bastante desperdiciado. Deberian de aprovecharlo mejor promoviendo artistas mexicanos de arte y cultura.",
+            "time" : 1451340108
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Mendoza",
+            "author_url" : "https://plus.google.com/110512431577201731947",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "Un museo muy bonito aun que por dentro hay mucho espacio que se desperdicia bien podría ser ocupado por mas piezas de exhibición, aun así es un museo increíble ",
+            "time" : 1456506321
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Barrientos",
+            "author_url" : "https://plus.google.com/107255200930623979783",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-qO9xz0XYEjc/AAAAAAAAAAI/AAAAAAAAB50/PcyFgIql1NI/photo.jpg",
+            "rating" : 4,
+            "text" : "La fachada del edificio increíble!! Pero drntro dejs mucho que desesar despuès de visitar al Museo Soumaya.",
+            "time" : 1429080335
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5739969253624477121",
+      "user_ratings_total" : 46,
+      "utc_offset" : -360,
+      "vicinity" : "Miguel de Cervantes Saavedra 303, Ampliacion Granada, Miguel Hidalgo, Ciudad de México",
+      "website" : "http://fundacionjumex.org/"
+   },
+   "status" : "OK"
+}

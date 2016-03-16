@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Madero 17, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Madero 17, Cuauhtémoc, Centro Histórico, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 1226 0004",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4337305,
+            "lng" : -99.13903979999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a9ae8988a3c10f8a739a6e6dde32d2f1672b2fb6",
+      "international_phone_number" : "+52 55 1226 0004",
+      "name" : "Palacio de Cultura Banamex - Palacio de Iturbide",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–19:00",
+            "martes: 10:00–19:00",
+            "miércoles: 10:00–19:00",
+            "jueves: 10:00–19:00",
+            "viernes: 10:00–19:00",
+            "sábado: 10:00–19:00",
+            "domingo: 10:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109400472359143849946/photos\"\u003eDaniël de Wit\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7ojp5PX5rcoXoxa0ZeFXMK_JhHr4Vap8QUqXCvJ6EkCRU_2eYV6dhV_e5WD9aFUQ3eEPdgWJH8L-FpztsXkGBoDoDnIuMmH6ELhhstfATX12w3sp-fv3Oxi-QR3JseFhEhB9FC4N4MAyD7MMGGtTcCMiGhQ0ak5znf460AWdXJ3vU70gEyMZwQ",
+            "width" : 1536
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107129054996164683446/photos\"\u003eDr Irvin Jesus Cruz Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApl5u_zlPv8lNJzSXf_-i2pCRNhT_15JasH76rZfytA9zychfgtA-L-fCoFb7QlUTkBMqq2YmTwofsmlGSInoc4pD1RM6DX6vN-bekIALDoblLk38Ni0oCLxbgAu5BBwlEhCnfdqcBR-pHxGXB82RChd3GhRDajD1VeAyo4k_A5wJRilEgMzg9Q",
+            "width" : 1224
+         },
+         {
+            "height" : 1333,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118021571021934421757/photos\"\u003ePalacio de Cultura Banamex - Palacio de Iturbide\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnjGe4-enxTLJ2U5DBETAEi_x3rhKy6ay-2tWgQvEMV9CYZ4eCd_JIfjS-aFXX9SErto2y42h2sccPFrmp7uGsAVghV02YY5yeJkSQs7GCXT5Ywb5jeHosotWgy7_z_JFEhDbKXq9qCSgKgQKZV_4nXtLGhQ3U46wsdMOKI59xbpWcNNu4xPkpg",
+            "width" : 2000
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117846820762743137935/photos\"\u003eJacob Trejo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9G1d9zkHMDQdxrK5xoaaojHJ9c6x4hvYRZfqwOqbSHH1OP9GAjPrVA7lPQvXXYtcVCxtxHcdD9mH9Qf8aujn9CX9UfJBIkPtCE4LeRRdWZr8VQwgQDMk5FfT8NWR9sGJEhDS1NDk-Njt6m90KpsCoMQPGhSGSzbq2LaSR8rjwta-ZardHstokQ",
+            "width" : 3264
+         },
+         {
+            "height" : 1065,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118021571021934421757/photos\"\u003ePalacio de Cultura Banamex - Palacio de Iturbide\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUbf0o8wHMvhdbZmBRv6Hr8MekvBPwi3_VvGTpXht7DCEDKsH3zFq-GgHmtnPeI7YrngqvCtZby0pvxOzq3kPXND356R8s_vpegZKlIWBJOGbWOjaKDZT2nx6PXPNTCpNEhBgjj1h0LD0yN7UA3kOnIO9GhSLYP0hBYN0DDpglE60hUe2xPg5Ag",
+            "width" : 1059
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107129054996164683446/photos\"\u003eDr Irvin Jesus Cruz Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAoLGjvuHjuPEX5rUQfEd0cdFEFf5u9raW2f8cF5Y2sTHq5tOY95Z-_RJr9_fhrLPo3L8P3zYW92fHiquJ6gh9ZtXMVCEK7M0JjLj08q7hfkWr8Rf286O9ToLuzgEfpPxLEhCbz5xjyWzPevAMNTypokfAGhQ5KSM7L001O-MxylGJ5oxpsawvow",
+            "width" : 1224
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117846820762743137935/photos\"\u003eJacob Trejo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAH9XPx1Roj3QE5FbJS-JCPsQhTECe2-bgJxXbNkkMqR1YRKkXVcWpH0huK_h87PeM8EonKmSwYNFHecqPY1VA5js1-XUPQ9HBdUSrySTNbfT0knCT-LUBvVqOFxVtRbYgEhDAEWABuA4lA-jju1NXkxOOGhQ-RPKiwF7WExNhggyXbOpwyDXo-g",
+            "width" : 2250
+         },
+         {
+            "height" : 443,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118021571021934421757/photos\"\u003ePalacio de Cultura Banamex - Palacio de Iturbide\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnL3Oj9AGCswWMaZ7idgHU_GD8T-1dJa1SeE8inX5fNWLvZ4JhKdSxFbcGWZ_epR-282TiDMKjQni2uyIdVNMoFG3zxsNOgitFx32HMsTHZ_2daIqev96NeLAbnO1ZX_7EhCFDhtklNQ57bCQvZoDIFNuGhR2RVRIcQM8O98OyxLJbOh016ln0g",
+            "width" : 443
+         },
+         {
+            "height" : 2688,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113850608558258221362/photos\"\u003eCristhian Alavez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASAIXSw3-kT-1wbXBCOMJSXFIsCTxuM-sBgTggqavEtkGi8rVUJSO-zuf7PhClWqKJuNYevqOqpg41aW5KjY9u9nVvIDBous5w6OtOfg7vrCS6ZWYOma_S94PRe4lfsbCEhCRvH1SQ_io2qwvtRxKXwz9GhSOzEmfn45utxP6OA0PsufdlQVyqQ",
+            "width" : 1520
+         },
+         {
+            "height" : 2517,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102911371148216231087/photos\"\u003eBrenda Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA8e2WiolAFSmheBcaSmzNEu0wVPciFk7zAYKRJh5pS0lP0qAQMZ_nxLBf3q3xOO3tGEiQ44jbRQOV3XdO6ATIX0mm7S_Fufad3VsA0iSBSP0kcYc-xr-gW9xortl77elQEhCvZe3Zgw8zQYGF1SqTOms1GhQXE4bpjjpIqsw_X_d3NabfYJgs0A",
+            "width" : 1869
+         }
+      ],
+      "place_id" : "ChIJA0KYsiz50YURNCVEmA8LKxs",
+      "rating" : 4.5,
+      "reference" : "CpQBhAAAALYGGJuw1jCvjUN4sVc4ls6ffe91c_a71j4I8l2EiJVsMmJ9q3-U2duEW6aiOo-xA0eCr0ipIb6xhAAQNU5IWvL04fY3ZP7630e1dyrrdGVGaSmHMTJ-TUwh4Py88Qiuep7geEI4dKCSeIIU0-Ta3yXVVWwlm1lKBIv2cMu6PuF096XR_BzJZ42eFvuDkOIG-RIQwRzQ_KlMaMToTBWOgTc6KxoUKYEhm2LEYHEExFx2O4W5-qxd1yU",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Xapa Olin",
+            "author_url" : "https://plus.google.com/118254029937688428501",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-XuGCW4rti-g/AAAAAAAAAAI/AAAAAAAAP3o/I37WC4wTQBo/photo.jpg",
+            "rating" : 4,
+            "text" : "La antigua casa de Iturbide; selecta por excelencia para exposiciones Virreinales, que a pesar de ser una de mis épocas menos favoritas, he de reconocer que es placentero, en cierta medida, el recorrer las obras que ahí se muestran. El edificio, evidentemente, es una obra de arte per se. Generalmente el acceso es gratuito, no lo desaprovechen.",
+            "time" : 1449163667
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erick Jonathan Roblero Roblero",
+            "author_url" : "https://plus.google.com/102774883818712364095",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-LLIaR8mZbW0/AAAAAAAAAAI/AAAAAAAALBc/Zkc1TdAT6eM/photo.jpg",
+            "rating" : 5,
+            "text" : "Diseño hermoso",
+            "time" : 1453876159
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Xone quiroz rodriguez",
+            "author_url" : "https://plus.google.com/102211960085343576494",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CkPlbZzS3JQ/AAAAAAAAAAI/AAAAAAAAA3Y/xGUkIprky3c/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente muestra de la arquitectura novohispana del siglo XVIII en la CDMX, elaborado en su mayor parte por el alarife Francisco A. Guerrero y Torres (a quien se debe que la ciudad sea conocida como la ciudad de los palacios) hoy bajo el resguardo de Banamex, quien le ha dado la restauración y remozado que el\nPalacio necesita. Alberga exposiciones de arte contemporáneo como del acervo de la empresa.\n\nEl acceso al mismo es totalmente gratuito.",
+            "time" : 1439416675
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Norberto Rojas Gonzalez",
+            "author_url" : "https://plus.google.com/116615515733062795064",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-93-_fLLixvc/AAAAAAAAAAI/AAAAAAAA6Fc/I5xRAunBquk/photo.jpg",
+            "rating" : 5,
+            "text" : "Yo curse la primara en el escuela profeso Daniel delgadillo y vivía en ese entonces a cuatro calles en la área de escribanos pedía regaladas tarjetitas en el templo de santo domingo se caso un tío enfrente esta la fuente de Josefa oetiz de domingues donde en mis ratos libres jugaba pelota y en la cale de Perú y no recuerdo que otras calles  viví hasta los 8 años y tuve grandes amiguitos que me amaban y los amaba  recuerdo dos nombres David pasteana y Juan luna que luego fue mi vecino en la col. Estrella junto al teatro tepeyak.  A un lado estaba la ford motor comany a los 14 años murió mi abuelo que hizo de PAOA inmigre a Monterrey con un pantalón una sabana y era todo en el autobús de noche solo triste escuchaba en la radio gutbay yelow estoy llorando por que estudie trabajando y ayudabava a mi mama y mk abuela que me frío nunca tuve tiempo para mi ni juventud ni miles me desplaze a guadalajaea donde ya tenia joven un satarus conocí a una guapa niña a rica de Tijuana nos enamoramos el primer día dia u para ella toda mi vida y se me fue a los 53 añs sintiéndose amada y joven o dios cuanto la amo todavía\n",
+            "time" : 1435294407
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "cona paulin",
+            "author_url" : "https://plus.google.com/117347366322590203981",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-4H0gmCCdafM/AAAAAAAAAAI/AAAAAAAAAIk/HZ6I9lUsXaA/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un placer ir alas exposiciones desde que entras la arquitectura te cautiva y siempre el personal muy servicial y nada extenuantes como en otros museos ",
+            "time" : 1454572794
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1957670624629630260",
+      "user_ratings_total" : 69,
+      "utc_offset" : -360,
+      "vicinity" : "Madero 17, Cuauhtémoc, Centro Histórico, Ciudad de México",
+      "website" : "http://fomentoculturalbanamex.org/"
+   },
+   "status" : "OK"
+}

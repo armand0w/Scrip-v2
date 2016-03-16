@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.arm.model.Picture" table="picture" schema="" catalog="museums">
+        <id name="picMusPlaceId">
+            <column name="Pic_Mus_Place_Id" sql-type="varchar" length="40" not-null="true"/>
+        </id>
+        <property name="picUrl">
+            <column name="Pic_Url" sql-type="varchar" length="300" not-null="true"/>
+        </property>
+        <property name="picReference">
+            <column name="Pic_Reference" sql-type="varchar" length="200" not-null="true"/>
+        </property>
+    </class>
+</hibernate-mapping>

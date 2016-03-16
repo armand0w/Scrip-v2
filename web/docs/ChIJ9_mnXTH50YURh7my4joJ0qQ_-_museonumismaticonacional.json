@@ -1,0 +1,192 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Apartado",
+            "short_name" : "Apartado",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eApartado\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Apartado, Centro Histórico, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5511 7700",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4391607,
+            "lng" : -99.1303411
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "9bd742fde9185705b31ec596203ae2e15773cfae",
+      "international_phone_number" : "+52 55 5511 7700",
+      "name" : "Museo Numismático Nacional",
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117873406883497883014/photos\"\u003eManuel Celestino Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAe68OT5hwHqS91SEObcO0-UqalqQtaDpiw7v5w3evrW5SN-Zxn5qo6iPo3YkIzgeOFKs3nyUFbMCaNTcDueypcu93UWXz3uStYerNwpT9NmGD-CE2_1nKFph9HfHusQNpEhCq0yzUHE-8scutPGBYXsW9GhTeU1Qk699XpoeTHOQPyMpJXn2OQA",
+            "width" : 3264
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117873406883497883014/photos\"\u003eManuel Celestino Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAdvOhgQrbr3qil7kwXFhIJcE9lHXu45QZKjgvtJGLy6L_TRYVQLEObKFZkM2yl2xx1Gq-68z-wFHQEJZzA7aL6tvcFl8cCQhe7MPFpyAolJWGAoBEMHP5MwQodBmIWrKHEhD5B9ZbSFuQBdB6N_Gpsub1GhSbc2QkJIQMKT_Js_wZUujFrICMrQ",
+            "width" : 3264
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117873406883497883014/photos\"\u003eManuel Celestino Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATdxtZUv0Vv8bh0VmxHhiVuGLj5PzKxBFERz0tQjIIDzViqQIceD6mnLyQOuBhNSlrX0tnhYfE4THyHmWIrk4fQZs6N7Jpq29ZDBIDgUA81WPGv1eriThtVtgK15u0wkvEhDN2zkRPLVLWUlXu9pvUbkgGhT-uaCmporZedeE4pBCHbnVCCQ5Jg",
+            "width" : 3264
+         },
+         {
+            "height" : 1520,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113850608558258221362/photos\"\u003eCristhian Alavez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAIo5ms8hyOZs4w1uX9amI_6B2VbymYbLV-pJrkTZSgv_uFRZInWZvFoSZrA8WnboYW6C0JniBX3U6vPGgc2Zxx4-wH5C-slLLiUMQKY9kfAvSWobT1fzkgfoJUwF2Nl68fm79ZgPU7GO8vEAfTo1VnvhhI3p7-5nz9sPG6MySrgMEhDzcDvyoir74-vM6dDWdcwaGhQ9zpW6Nol6enFUIq_3PdPy74T73w",
+            "width" : 2688
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117873406883497883014/photos\"\u003eManuel Celestino Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4eXble5lfQoZNq6EXkuzXWBCoKloqyQnMsRpjJ5SFYQE4woD3nd3PJTUJv4OXlFoAkkbIOkfQAubyhrzc9tYwt7Vga64w71gW0vbyhNaspdM3KQ3t56gHxiL4kr4JyseEhDLvrAKGR2SHNBhz0EEIWf7GhSfZ9OaWY2Kh4O-m6FC24-JJ2v70g",
+            "width" : 3264
+         },
+         {
+            "height" : 1520,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113850608558258221362/photos\"\u003eCristhian Alavez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAPyw1n_wRdsrpmap0UCohcO-YL0q8bU4Ng9r3NfrPc_k-UMoSO7I7yj1FP5qpQ_tn81GypV73FKJmnj9nBMI6kha8bmLIS9sVL0dhwAM_PHppdcb32_n5HShSEfwMsUCqV2QCDrpv6cdzKoul8PzW--tgyuAl0cVqmj1oaLgmQikEhChyTJjj7k-k3zOBbP64OiWGhTM0MagbGc1Q4KzMMPDgc20qgwUVg",
+            "width" : 2688
+         }
+      ],
+      "place_id" : "ChIJ9_mnXTH50YURh7my4joJ0qQ",
+      "rating" : 4.4,
+      "reference" : "CnRvAAAAXvmEVmrpl3qJ_ftkmg2WkThgvjHrV8TICc8sBwZ3dO5vfX_VShXKSrdLqI3C9QXe3F-l8Y85aN0Mm3zmyYmS3cjiiDdBHtuTiOrcxsuQg2e6jfzCN970C4Bqu9f3yYzMkI9YmsQNd0T5SPkpJgPcqRIQuybksdHAeTJaKHbEf9fiIhoUTlokJ38cM8m_Abltm2Q7j5ku-RA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anita lunita",
+            "author_url" : "https://plus.google.com/118024328280927836158",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-pYH00bReJMI/AAAAAAAAAAI/AAAAAAAAAFk/LmRYvwUuS8s/photo.jpg",
+            "rating" : 5,
+            "text" : "es maravilloso en verdad no se cree que exista tanta belleza y en lugar tan poco agraciado ",
+            "time" : 1455151509
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tatis Van Linderman",
+            "author_url" : "https://plus.google.com/115916251385349026437",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-ZtDmJyU9G04/AAAAAAAAAAI/AAAAAAAAAB8/rug__inVrCo/photo.jpg",
+            "rating" : 5,
+            "text" : "Es una gran parte de la historia. Y es muy interesante ",
+            "time" : 1456333895
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "CLAUDIA ELENA OLIVER MANCILLA",
+            "author_url" : "https://plus.google.com/106637957918593801667",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-HEyevpRoHjs/AAAAAAAAAAI/AAAAAAAAAEQ/SJ7L4hm9SlA/photo.jpg",
+            "rating" : 5,
+            "text" : "Es el mejor museo de la ciudad por su historia, infraestructura, por el arte de hacer no sólo moneda circulante sino momentos plasmados en metal.",
+            "time" : 1451400400
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juan Ramón Gutiérrez Caloca",
+            "author_url" : "https://plus.google.com/102954111431802675023",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Hoy es la reinaugurarán del museo numismático nacional \n\n",
+            "time" : 1431873782
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Onyx Mn",
+            "author_url" : "https://plus.google.com/109569027057226898909",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-fNRLzIPwYOE/AAAAAAAAAAI/AAAAAAAAn_Q/ZIQvFufdoME/photo.jpg",
+            "rating" : 5,
+            "text" : "La historia del dinero reunida en este lugar. ",
+            "time" : 1447860756
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11876565315845536135",
+      "user_ratings_total" : 10,
+      "utc_offset" : -360,
+      "vicinity" : "Apartado, Centro Histórico, Ciudad de México",
+      "website" : "http://www.cmm.gob.mx/museo/"
+   },
+   "status" : "OK"
+}

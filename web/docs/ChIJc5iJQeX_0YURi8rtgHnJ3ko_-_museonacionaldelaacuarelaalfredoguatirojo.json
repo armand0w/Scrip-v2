@@ -1,0 +1,297 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Santa Catarina",
+            "short_name" : "Santa Catarina",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04000",
+            "short_name" : "04000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Salvador Novo 88, \u003cspan class=\"street-address\"\u003eCoyoacán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSanta Catarina\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Salvador Novo 88, Coyoacán, Santa Catarina, 04000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5554 1801",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.348631,
+            "lng" : -99.17707
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8bcecb96f46a33ba91a5766dbc3241e832843354",
+      "international_phone_number" : "+52 55 5554 1801",
+      "name" : "Museo Nacional de La Acuarela \"Alfredo Guati Rojo\"",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–18:00",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100332396461548305714/photos\"\u003eAngel L\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACJfnZdt8qQJg36YgCMPGbHMyPZvO-hxglk2r8CKzwMB_r-qwu01gdIz1vatqr90Swchrq0CXOm24ZBhxYKKh18eZNA2d959voa424UhC-2l7jt9JkKjOTFHT29wG4de6EhAflbWbig-lwEeBc1jOxHUwGhR0f5PDvMbTxAL-VZateIrc9uPP6g",
+            "width" : 800
+         },
+         {
+            "height" : 472,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPNLweNi9xKgcjSjyM-8ZZ1sY9O5t8StFk6uqusMDkefzhzrqeD1_H1_8e56_NqXY0fYl7QfxBB2U3jwg-aGXpdrk1Hd5I6dbohD0QLNBZ-GgEKw_Bh0r0pCuhRZD1W5HEhBRORe9q-pz0lDRTK7VDsm0GhQVwvwh0yXDSiZoNWDUtGeV7u9qWw",
+            "width" : 1000
+         },
+         {
+            "height" : 664,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAzNnUar2kcOmU4pzI_OTAUOcnkF6-Dhsz5_aoveF5FtCa50dRRGsmAvYKF6r1LohsRxX8qJxLzFs_nwlDH88tSjayL6v4O4Jn8uFZ_FXTl-t21OtNbMkJEt0w4pjM3ySAEhAK47HP4glZ235CjiVkWAj4GhTzEkrUq8riGwkSSRM_rE-NgUWV-g",
+            "width" : 2048
+         },
+         {
+            "height" : 1325,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOpjZ36fWtkkpqFRmY-RHoWpqqS3_fXDAN3lihEaCy4CSfDq9yaeSkGVCrcFa6kSjAXMTi7K-fHDe9Kyv66QTRi7QHQlNk-lCTV4Fa2fHg2jbFRJfThfcHGmxzpqlL887EhBUCdksXV3jZuj2uaWX5dyvGhQKGZq3rBzrDmRugxa8lCcJ4zbypA",
+            "width" : 2000
+         },
+         {
+            "height" : 1356,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAXE5TmoKHkxNbJtc-aWi9nC_X0w7QpDKYzKP0Z4oE0gOKw_sC7UJxsym5TzHelUUqcusZNMck1GTCO1GCXZbup1Ne80auFc2m-deifRA-xlEZ34PFMwfXZbV7UTDnzxFsEhD-RTMh95a8kD_FIOXfr72yGhQX2GPnRUZPzBTfZR_qqZBlibOKTg",
+            "width" : 2048
+         },
+         {
+            "height" : 1325,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0BjVRi1SW14Tj6LGPSUwEpQ1iQqylH0xtfi-_3X5bKVJnAKldBasvd67BQ50bWdux4RCc63UGeRUgHSY7oEMiIK4QSwOF3YintmHqSbAKSJHuV7FHEp1yejtjlV5Y0sLEhCDmNWUP3kQugPoZXKGz-JfGhR95N2KvTjLgn4PftFK6EeOQ09rVw",
+            "width" : 2000
+         },
+         {
+            "height" : 425,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAcUnlizdxFg1cpDHzgc1nbgQ9fI0nD2FOQGTuD_5lUE28FuL5Qo_3kRT4wrDIyPWzqoFnqnPmOtO3cuEnGgbX0qVwKx3mBJrdqibHhs2sZN8LAj3dB-OQnR_QX5A54hf0EhDupkC1IVj5qBLq6M4eOlyzGhRbdNyA3oSeK9tghDFU-if1txH9_Q",
+            "width" : 425
+         },
+         {
+            "height" : 1158,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101637256953936481465/photos\"\u003eMuseo Nacional de La Acuarela &quot;Alfredo Guati Rojo&quot;\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUuyhmQbFYdNNm3y-M8u8_8C9v6eFf1oFneHnX_yjEU9Rm4P-xRJP9w4UaTBJ1t3MVu5yAwKcbaa9qB_uLRSMRXguL2DELRE2kPNNyIhrB8M___DUGnIsGXiNihq0n7WsEhDGR7l97tEr5oy3m7GShOvwGhRgUX6_oXzgYoVHo47EqYSpBx1xgQ",
+            "width" : 2716
+         },
+         {
+            "height" : 2100,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110651956316704259797/photos\"\u003eRodrigo fonseca carreon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA06XZ9jCnpTsgvOranB7G78bVk212AbfyBxNGPjWewMlgeqTglTWVFNsXx1-HjPd0eLGN3ky6URxKGpEPCj7zIw9NfO5vpoESiiOWh9fGD1D3FA7Yo0tdnmZyr0osqjfmEhDnO-KfbYuezRumzPUMu_8nGhSshK88GAkCDZPGBeIRaEC87OXlig",
+            "width" : 1500
+         },
+         {
+            "height" : 608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110187262187155439344/photos\"\u003eandyennicris Perez Acevedo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3IlEznWN5WwoGN-3j4G_eTIqNqns9_BFyRKA08EFIzx8rGhuktSg095MV5UyOvqSKqHKlxoXtqJlSE4mSxNDRKPLEEvA1eTH-KQEJxWlxBE1ycFX2zL3F67TNaOQiyk7EhDU_eweSUyPQ8vZvLNmemocGhRcSGFKOAzACgAK3vVt95i1vSbBmg",
+            "width" : 1080
+         }
+      ],
+      "place_id" : "ChIJc5iJQeX_0YURi8rtgHnJ3ko",
+      "rating" : 4,
+      "reference" : "CpQBhgAAAPJHkfeIkpCIAjrgjJ1cXtLN-jtvwSPgy0643rTpcPGdSVYlJIAU8yWyZuEZ0XV8_XVwwwpwoL2s-unwBkQTUPElbiyHP404J4dbVGyu4E_QJXl9i0CjtYrS28-YRJlDNckhZrS0x02tQwM9g8D1ZsBoEGXZ64TORetbUDB53bU0g5EIKOjAp1vnhBx3H7GqiRIQNhzGhgP6bwWCVR5lPJmbYBoUq1eNqQgYjzNdHnVYmxuhAkK9vok",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sandra ortega",
+            "author_url" : "https://plus.google.com/111445688514304480366",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "El museo es excelente lastima que la persona que contesta el telefono del museo sea tangrosera es una pena tener personal asi contratado .",
+            "time" : 1447109316
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cindy León Espinosa",
+            "author_url" : "https://plus.google.com/112456525372845593543",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "Maso menos jee",
+            "time" : 1432820423
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Pedro Murillo",
+            "author_url" : "https://plus.google.com/110368295150861430659",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-DLvxFo2_-kE/AAAAAAAAAAI/AAAAAAAAAA4/mk_VdCEzhf8/photo.jpg",
+            "rating" : 5,
+            "text" : "Lugar perfecto para relajarse. Rico menu",
+            "time" : 1446323275
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rodrigo fonseca carreon",
+            "author_url" : "https://plus.google.com/110651956316704259797",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-ibeSe0YbpbE/AAAAAAAAAAI/AAAAAAAACH4/Kw2JHikjjWM/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar, tranquilo, bello, y arte por todos lados.",
+            "time" : 1438985564
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fernando Valles",
+            "author_url" : "https://plus.google.com/116400981635100684734",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-dlp36Hp9DuU/AAAAAAAAAAI/AAAAAAAAAFY/i3fOmMQdgyo/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente para relajarse y disfrutar del lugar",
+            "time" : 1454300913
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5394970927327726219",
+      "user_ratings_total" : 32,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Salvador Novo 88, Coyoacán, Santa Catarina, Ciudad de México",
+      "website" : "http://www.acuarela.org.mx/"
+   },
+   "status" : "OK"
+}

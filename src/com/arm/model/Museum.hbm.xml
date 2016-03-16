@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="com.arm.model.Museum" table="museum" schema="" catalog="museums">
+        <id name="musPlaceId">
+            <column name="Mus_Place_Id" sql-type="varchar" length="40" not-null="true"/>
+        </id>
+        <property name="musId">
+            <column name="Mus_Id" sql-type="varchar" length="50" not-null="true"/>
+        </property>
+        <property name="musName">
+            <column name="Mus_Name" sql-type="varchar" length="200" not-null="true"/>
+        </property>
+        <property name="musRating">
+            <column name="Mus_Rating" sql-type="varchar" length="5"/>
+        </property>
+        <property name="musScope">
+            <column name="Mus_Scope" sql-type="varchar" length="30"/>
+        </property>
+        <property name="musPhoneNumber">
+            <column name="Mus_Phone_Number" sql-type="varchar" length="20"/>
+        </property>
+        <property name="musIcon">
+            <column name="Mus_Icon" sql-type="varchar" length="100"/>
+        </property>
+        <property name="musWeekdayText">
+            <column name="Mus_Weekday_Text" sql-type="varchar" length="400"/>
+        </property>
+        <property name="musWebsite">
+            <column name="Mus_Website" sql-type="varchar" length="300"/>
+        </property>
+
+        <one-to-one name="location" class="com.arm.model.Location"/>
+    </class>
+</hibernate-mapping>

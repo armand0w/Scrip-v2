@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Doctores",
+            "short_name" : "Doctores",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06720",
+            "short_name" : "06720",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Dr. Olvera 15, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDoctores\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06720\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Dr. Olvera 15, Cuauhtémoc, Doctores, 06720 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5588 2100",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4153516,
+            "lng" : -99.1444966
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "dafc32aefc6c23615fc4944b638dc9a55fab9897",
+      "international_phone_number" : "+52 55 5588 2100",
+      "name" : "Museo del Juguete Antiguo México",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–18:00",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 9:00–16:00",
+            "domingo: 10:00–16:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109595949800446194938/photos\"\u003eFelipe Javier Flores Gomez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATkdAHZ6oGwxW8JCiro2IFlAGHMiHN0-DCrsI8s2fCdRp1LaMyNaq2V-3s76-NZm3EZb6ERKkRib0RQ3KpvT5ErQzD4u3-KnlkKsGEQOW-_WIDc_Gj06hG8SmCO2zWrOiEhDtZq5bM1UP1v59yvk9Jb6VGhQAiuiyJpgP6YzqdBowvS6l1uZUYg",
+            "width" : 4032
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102556877372188148162/photos\"\u003ejavier valencia reza\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5GA57qpFhcLYXzkwcITSn1Wb5hckN3uZZUboZwm7xZMUT8CP7HDc52N1dBwArsBQT8JWflmCJA6AXlVvLrRSaYQHmofQ6Hy_aMVU0LOu9nxZkmHaZdpWAlJvxEjvUjlsEhB7NeX0gw8Qlz49AcYqt-nHGhTY5pypVEs5srbcGCznhkj5u7SHew",
+            "width" : 2160
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100409870849354886598/photos\"\u003eAlberto Garcia Caballero\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPIBWr1v1xNwHKSgVQkKtVM93UIY-tnZ4rM_NKWs_-WUxncrSP13cgmj-XBzlxIi5NPjQrtJg8Gql5_y3KEG6CREdqMcrMvgZPLETgZYXuwTw9aqzeAe1i6qt1jhHO41uEhA-Ac4V-1k3Zj4r7I46ZtDsGhScIb0hBCLxr3c4f6x1B3ndL_Uypw",
+            "width" : 1536
+         },
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104896493298967848697/photos\"\u003eJorge Martinez Pérez Salazar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKqBbVk1RZxFCtHIksQuBgnYYFdOqEStF-IQrTvOdUv0Jt3YHMDFwp534Y-cOL93-W-M17iG6FWaSpfL1P0thYjcanECzVe9sXbnaI6UrujSEc00ZCRv4TqmjVQwi-WGdEhCoOsic5DWllXMjSLMpTNELGhTZDxkDpp0XnqjTK2xaqubjYUZV6Q",
+            "width" : 1265
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102413168906507558431/photos\"\u003eSALOMON AGUIRRE ALARCON\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9fTgPW1bqKV24UiV6jlN4G4F9ObkozjwY5DRH43qSraxeKD1g2YWA1hBBlJ2aMiZlCC1X3fE-fcXEBedq2NjG5tkPJUZB7sK7S9hwVmkwB5hdoAUIPwg2oU76AiKWsIuEhDmXLMGaqMCSGleP3EvPPIAGhToKPpw6mEN1YQ04hTYx6cJtjIO6Q",
+            "width" : 816
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114230839249022536495/photos\"\u003eMuseo del Juguete Antiguo México\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjvLPTq35US2z1VR-R6Be-aT9z2NF1giQWVpcOvpjbR4VXdknmOpTuyRbZ9fBk4Ox19Swb-bq-Qtajio-lwIBrWX7ifFZUTd1AzNwZRDKu04_hlYgdg4Ld-xIbK7dz_XTEhBHx_1z8Ye3PzqMRJ68l9QRGhRae_PbXXF0Jj2whW8NrXOxdejPAw",
+            "width" : 480
+         },
+         {
+            "height" : 442,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102207040641019550372/photos\"\u003ePiksy - Regalos personalizados\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAjjRFrw4p03bRgtpUbyKZtXatwgv5XipeUiSNHo-E-yiFFNosHGYxHiaSM7FLj-VZn86WNMhsPY8B3F1eDEfmDh21VrISa4uX83HNChIZkvukjz6Bo2oKStlk9Dun0YU_EhBrNwEx7e-sWra6TaCYhxU-GhRi4K7s7T_MOcR92sYYMqL7lQ5tiw",
+            "width" : 737
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114230839249022536495/photos\"\u003eMuseo del Juguete Antiguo México\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZxRB2LLwllK5RKKsaXCnlkLFDN3ZWCscxTbe54UPOwvUZ1Ljos7mS6FjMY0uKwoCrdFY28mFixtEyIKvWjQOHUrLzu3vN4_HDUU9eQRheAuOJ4hIadX4HHSBOjwEtkETEhDTqyzApcqtRr6UbV738YFDGhS316KQ1gGLQo297wJfeD0jNWLnLw",
+            "width" : 960
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100409870849354886598/photos\"\u003eAlberto Garcia Caballero\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAv9hnwXplm69y7kINpl26YU6Ipjc5nVAE7o5DJvocYm_m7px-7Pwv6ra1ldT49ZolDArOU_iGdNPt4YokjWvyMObtrxuvGCVsRULTme5gnc40YyTXc_XnKfRtAwNPCwJHEhAt8acyCMBTDDUXqJBGvol4GhS7hhQ0qh6WXZ5P5n-YM2ccJrYZ-g",
+            "width" : 2048
+         },
+         {
+            "height" : 333,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111600645055799158068/photos\"\u003eRaul Venegas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAW3BgArDi88djizOAINLYCbvyJ2ziISs3_To5vpxD0g7JrK9SvciCwveMjpzil-kIUUsQav2NIf80cnwKrQDdOWFuZAX1rLpF9EAA94uMtqpHI4FSNZhz4vu0VrYL8Lc1EhB_ta2kjLz99u7yWD4Tdxp-GhTRErhnGyELbHRNloKAa32_WDVDMw",
+            "width" : 500
+         }
+      ],
+      "place_id" : "ChIJYWPttNj-0YUR7jI4exTvVJc",
+      "rating" : 4.1,
+      "reference" : "CoQBdQAAAKCL8HKql9WNp1IKnJ4cOG8gWTuHqcrd078XkZKprxibrkhqrCeOfxAXqNn_LU_O5ZjdN5a_u4Zy6PqmEzNWrl_KV8YIBQB7bAMgKdfQNqR6Ztv9N6l4xRIpEMIazS-uY2P4lUTQua7GIVp9Du9eGeNOG9mOwWGTEbvAo1vE0beJEhCVqp0qrhge06ElJFqt4sW7GhTUXhjMDoXw0N1u0MrUZNyDSEqRww",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "J Luis VA",
+            "author_url" : "https://plus.google.com/118288141227297975175",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-yVeSbIKiVIA/AAAAAAAAAAI/AAAAAAAAAAA/tNbWJgXXY0g/photo.jpg",
+            "rating" : 2,
+            "text" : "Visita este museo si quieres recordar los juguetes que tuviste de niño o que probablemente aun conservas en alguna caja. Si tú como yo sufres de alergia al polvo procura que tu visita sea rápida o tu nariz lo sabra. Como otros ya lo han dicho, falta organización y el que sean juguetes antiguos, casi reliquias, no tendria porque estar peleado con la limpieza. No me doleria pagar $50 pesos la entrada, si el museo estuviera limpio y ordenado.",
+            "time" : 1454690923
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Enrique Pastrana",
+            "author_url" : "https://plus.google.com/113820289364258449001",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "les recomiendo a los papis q pfis a sus hijos porque aparte de feria ayuda con la educacion en los ninos XD los quiero.",
+            "time" : 1449341065
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Israel García",
+            "author_url" : "https://plus.google.com/106725324947075061971",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-rQkUFQLmORo/AAAAAAAAAAI/AAAAAAAAAPM/BaXh83pAqWM/photo.jpg",
+            "rating" : 3,
+            "text" : "El servicio es muy frio y desganado, hay una cierta sensación de que no se limpian las vitrinas por dentro muy seguido, por el contrario los jugetes logran que borrar todo lo malo, y dejan una nostalgia tierna ",
+            "time" : 1451396420
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Adrian Solis",
+            "author_url" : "https://plus.google.com/101605128543493432192",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-3icuDBv4mLw/AAAAAAAAAAI/AAAAAAAAA8s/BrSjksaSGBQ/photo.jpg",
+            "rating" : 2,
+            "text" : "Fui un lunes con mis hijos, como parte de una actividad escolar, el museo no tienen un orden definido ni una explicación de las diversas salas, es una gran colección de juguetes, si. Los juguetes están al alcance de la mano y los niños pueden acceder a ellos fácilmente, más sin embargo la indicación es que no se puede tocar nada, lo cual es complicado cuando vas con los niños pequeños ya que les da curiosidad. A mi personal opinión, más que un museo, es una galería de una colección personal de juguetes. Algunas salas no contaban con iluminación y la tienda de souvenirs no llamo nada mi atención. En conclusión falta mayor organización de la galería.",
+            "time" : 1448522246
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Acupuntura y Nutricion",
+            "author_url" : "https://plus.google.com/107400087818355890159",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-NYzyM7Dtz0w/AAAAAAAAAAI/AAAAAAAAABI/K5cOJKXbkbs/photo.jpg",
+            "rating" : 5,
+            "text" : "te va a encantar!!",
+            "time" : 1443112432
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10904603469016478446",
+      "user_ratings_total" : 83,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Dr. Olvera 15, Cuauhtémoc, Doctores, Ciudad de México",
+      "website" : "http://museodeljuguete.mx/"
+   },
+   "status" : "OK"
+}

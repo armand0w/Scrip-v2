@@ -1,0 +1,214 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Zacatenco",
+            "short_name" : "Zacatenco",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "07738",
+            "short_name" : "07738",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. Wilfrido Massieu S/N, Unidad Profesional Adolfo López Mateos, \u003cspan class=\"street-address\"\u003eGustavo A. Madero\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eZacatenco\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e07738\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Wilfrido Massieu S/N, Unidad Profesional Adolfo López Mateos, Gustavo A. Madero, Zacatenco, 07738 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5729 6000",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4968936,
+            "lng" : -99.13985149999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id" : "4c985004725ddb9476362289e8bece789c625ce1",
+      "international_phone_number" : "+52 55 5729 6000",
+      "name" : "Planetario Luis Enrique Erro",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 530,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117320550435832899445/photos\"\u003eValente Espinosa\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAj8gC09XBxwpWgw9J6XJkXV0y7ZMJkaCsnjEyGKrr8F_ra7GJ8wZKxS501x1sRqcTdDm_qkwa7vk_fiH6oUGjlSIUHBNvIXbMKhUyaZAUyxhTQu4564VLIv52T3OVT5eVEhB0DC1wlJXh4lzv1Hl4fORjGhSRm9TdmxWzmZC9hQJAw9iG180GYw",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJG0zF2LX50YURumCvxFBORS0",
+      "rating" : 4.4,
+      "reference" : "CnRvAAAANRsTOe5-y_iWei1W4ZmEmbnM_LTbGjW0Ej6sDNMMQhkuvemsNETHOnf4jn_tBhgaKJT6fR1dkUWq8emCrjgOgjCGROBv6G0XUjZ7K7iE5zQqRYARWG-oU32M6sKIqIlnvB-YmBzYqNkpfnsey8vUWhIQ4TcWiXYhZmcfZiAftlaH2RoUemxIlSdSSGr9r0i7XcGHRSoY8YQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "katia garfias",
+            "author_url" : "https://plus.google.com/106311550098793094297",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "Hola em yo necesito llegar al  planetario para una tarea se Fisica ayudenme nose llegar ;-;",
+            "time" : 1453081056
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "brenda garcia",
+            "author_url" : "https://plus.google.com/108305590444063236473",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Recorde mi  niñes ahora volvere pero con mi bb",
+            "time" : 1453770709
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iván Vega",
+            "author_url" : "https://plus.google.com/113211998085339457765",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-mGcGXZR-MBU/AAAAAAAAAAI/AAAAAAAAAOk/rsPNUoG-7k0/photo.jpg",
+            "rating" : 4,
+            "text" : "Están buenas las películas ",
+            "time" : 1452232467
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivan Aguilar",
+            "author_url" : "https://plus.google.com/115444012951106337775",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-l2v8xWB4Bno/AAAAAAAAAAI/AAAAAAAAR9s/r65DyOlYyoU/photo.jpg",
+            "rating" : 5,
+            "text" : "Econónomico y sensacional. \n\nProyecciones muy interesantes, exposiciones y lo mejor, precios muy buenos. \n\nIr con tiempo, ya que las entradas suelen agotarse rápidamente, mientras esperas, caminar alrededor o visitar la BNCT son buena opción. \n\nLa zona es tranquila y considero muy segura. ",
+            "time" : 1454316012
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivan De Jesus",
+            "author_url" : "https://plus.google.com/109928787700540109416",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy bien politecnico excelente opcion para una tarde familiar",
+            "time" : 1444916170
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3262099613903970490",
+      "user_ratings_total" : 59,
+      "utc_offset" : -360,
+      "vicinity" : "Av. Wilfrido Massieu S/N, Unidad Profesional Adolfo López Mateos, Gustavo A. Madero, Zacatenco, Ciudad de México",
+      "website" : "http://www.planetario.ipn.mx/"
+   },
+   "status" : "OK"
+}

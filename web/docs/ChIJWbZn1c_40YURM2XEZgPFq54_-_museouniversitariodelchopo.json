@@ -1,0 +1,264 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Santa María la Ribera",
+            "short_name" : "Sta María la Ribera",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06400",
+            "short_name" : "06400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Doctor Enrique González Martínez 10, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSta María la Ribera\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06400\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Doctor Enrique González Martínez 10, Cuauhtémoc, Sta María la Ribera, 06400 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5546 8490",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4419269,
+            "lng" : -99.1567802
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8e03aba2c94e16d62cf7309480c79dc2322057d1",
+      "international_phone_number" : "+52 55 5546 8490",
+      "name" : "Museo Universitario Del Chopo",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 11:00–19:00",
+            "miércoles: 11:00–19:00",
+            "jueves: 11:00–19:00",
+            "viernes: 11:00–19:00",
+            "sábado: 11:00–19:00",
+            "domingo: 11:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105903461543396873900/photos\"\u003eKaRiNe DaemoN\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPqEbaHnVgeHJUDAlN1uNKlEWzZ11fpN5i8dVQYnA3H8zKhYUEv6sWJ-MwrweIsUFwrwa_l6leKjmFvqqijrF3Gffc9eTYv7SwbfxuPT0bVh0qxM7Cx7dCJ8Z7qF2LCtIEhAeZ_obR0fPab8oOVPYVOGuGhTYuRtEXjxkfAoXt_nu_CtobG7gQw",
+            "width" : 1200
+         },
+         {
+            "height" : 370,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114677661662679992732/photos\"\u003eTime Out México\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5F_g460dP2gCvpTd6ypcAB0Hbl_MMvFwgW7Waocvnh4YiU11Fv63wMoymhBc2-L5-2hMzPZ1PPdmFrwOZdVDj2ZMF9mFu_882TErI_YO2lkv6QIOlQhp3qx5WLndMz49EhAeedO9OuHNF3eWWIY39eULGhTyhSfOie_Wdqm9tEAB-iXlzEUJRg",
+            "width" : 660
+         },
+         {
+            "height" : 370,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114677661662679992732/photos\"\u003eTime Out México\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5LEDnjVlVUEFmUy6ami_sbxbeNrjfg_OIKk8CdXIE45XB_PZ_9-116OZjs3o1mkCCa9WhK_UzGV9jgaHEDgdzy5aUP6BxjsxJmV9qczyxDUmzkS0_2Ps5dyi7oL_Z9iLEhBY8zg0onobeczUjlPmI5SwGhS6pBPdE8hO6ulNGPUbr7eDTo_Szg",
+            "width" : 660
+         },
+         {
+            "height" : 1746,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105915543792929593440/photos\"\u003eMiguel Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAMJMa1YM08lTfnJ9RPZLRQRiNK6NSBdtEvbefuVqsIJKqoexCyxYNgCZS3j90XEv5sprRRSeLC2bnOkC7v2_EMvXuzow2VcXs__iNRDGw4-_L8FI18ul-GxoZULqlu7_b_0abmZt0iOb1t1bT1p4AQ4tRQjyNcR3Vu5LeSumdD7iEhDpV8EFVxOKEjOZ4v5cc29qGhSN_VGMH27smvBlf9aACsKQMWGHgg",
+            "width" : 3104
+         },
+         {
+            "height" : 1000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103596246619412065166/photos\"\u003eJaime Millan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAXVxyH7vHltk6DQD0Xca_SwJcY1FujJdXpWb-8a0UNUIqqFEQxmsJl3c_qUF9fO_s7nsMFKtjcj-3VVsq-8sI6tEZ5NtyyinmaBe1FWynMr_yfEFVf_PPEX4-H2bs4xT4EhAVvxFNuRRk_fCpkHiu-G2EGhSJk-E394LCkGmvYvu5LKKiKRJXsQ",
+            "width" : 1000
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107391837353148951085/photos\"\u003eEduardo Montoya Chavez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADwwRf7DVARp7zEmRzBEwdj_PJvbn9a1O7c17rt6TnbR9svfnT2BuGviovWi2Lgcvqf73rMfoE2gt2_2dU26b_ww5Oxy4zGbToh5dZsTLHBksLQCxCOrd_1q5SE14BNy5EhAMEGfY7eLgrpR-wrtA03mkGhSFvaavZoRywZFO-YEPvd9V4a3aVA",
+            "width" : 1024
+         },
+         {
+            "height" : 370,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114677661662679992732/photos\"\u003eTime Out México\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABXPjH39aNCDYsfChXlE3EDSmDTiov1z-n7FVzs2GUGOVVDGV3Wpszb-9f1ON1uShYyiH0Yw6amtlQt9L9VTt3vLtKD_ihctnk-z5rXJrRI-dwyMrNsvzmoiWgkosOc4cEhCAbNgl-X2gVpk5NMQ-O_kUGhReNy5IbtkB89Ov4NPwFbhixkAdDA",
+            "width" : 660
+         }
+      ],
+      "place_id" : "ChIJWbZn1c_40YURM2XEZgPFq54",
+      "rating" : 4.5,
+      "reference" : "CoQBcQAAADJFrxBc7i5YqlYJURwCj_cs1aRgvO1-6Iv2FCU6WfGqxmv8Kc7NvxXvSekJBFGW2yxzLWDq3HaG00Z9xBCbpeQZIvEvvkSgzAssq6SbEGtvEtBYaTuPh7GISMWDIbdkO5aH2bbkGWDv9cteFkg8LOI-zB7usJiMVnEPuLrqYKq8EhAQGtGl-fYeoOXpaAHHD5NhGhRuSgQDg94C5KY1OaZ6AbELZOTtew",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Hernandez",
+            "author_url" : "https://plus.google.com/105915543792929593440",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Excelente museo con muy buenas exposiciones, y una cafetería con muy buenos precios y muy buen sabor, la arquitectura del lugar es fascinante. ",
+            "time" : 1458004286
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Oscar Lopez",
+            "author_url" : "https://plus.google.com/116678516353132314239",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-7P-Wys_ZSRE/AAAAAAAAAAI/AAAAAAAABGI/6FPUKKAYT1U/photo.jpg",
+            "rating" : 5,
+            "text" : "Hotel muy agradable",
+            "time" : 1456798497
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Navil Sánchez",
+            "author_url" : "https://plus.google.com/116875685321161342448",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Ofz3I2d3oCI/AAAAAAAAAAI/AAAAAAAANcA/TX8SUk6fKf8/photo.jpg",
+            "rating" : 5,
+            "text" : "Un recinto muy agradable. Un espacio para la muestra de diferentes expresiones de arte. Hay estacionamiento seguro para bicicletas ",
+            "time" : 1451444764
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gerardo Díaz",
+            "author_url" : "https://plus.google.com/117080341468741887586",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Tceo8-83jnc/AAAAAAAAAAI/AAAAAAAAACc/67HZu7TGZZ8/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy bueno",
+            "time" : 1441566879
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kai Ccd",
+            "author_url" : "https://plus.google.com/111543514931272710632",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-94UPbc064UM/AAAAAAAAAAI/AAAAAAAAAOw/lT_b2YKSn6A/photo.jpg",
+            "rating" : 5,
+            "text" : "Un Museo bien actual y interesante, siempre hay cosas de descubrir!\nTienen un buen estacionamiento para bicicletas!",
+            "time" : 1448560883
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11433448697409856819",
+      "user_ratings_total" : 67,
+      "utc_offset" : -360,
+      "vicinity" : "Doctor Enrique González Martínez 10, Cuauhtémoc, Santa María la Ribera, Ciudad de México",
+      "website" : "http://www.chopo.unam.mx/"
+   },
+   "status" : "OK"
+}

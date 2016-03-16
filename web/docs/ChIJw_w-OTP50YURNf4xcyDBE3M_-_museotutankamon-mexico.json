@@ -1,0 +1,235 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Licenciado Verdad",
+            "short_name" : "Lic. Verdad",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eLic. Verdad\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Lic. Verdad, Centro, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5522 1724",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4344129,
+            "lng" : -99.1307944
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4be442e5c1320270045c2cdaa0e46b6e85cafe48",
+      "international_phone_number" : "+52 55 5522 1724",
+      "name" : "Museo Tutankamón - Mexico",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–19:00",
+            "martes: 10:00–19:00",
+            "miércoles: 10:00–19:00",
+            "jueves: 10:00–19:00",
+            "viernes: 10:00–19:00",
+            "sábado: 10:00–19:00",
+            "domingo: 10:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 299,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102221688269427393779/photos\"\u003eGema Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAu_HC69C4pO4bF5harsfijZ2VamdxnG2csHjz-Gar864kDp4GgnrA85NY7OlWMmBvZfOgGPeY8TNU1VAF06ZwGPrfHw9HlCDuStfRoN8TMvA2JG3XzPR87o5AYEPfngUlEhDaxH5OoWImKAMcU1s9Y-giGhSB6o44jgsaoqIqrbG2ZvbJ032YpA",
+            "width" : 448
+         }
+      ],
+      "place_id" : "ChIJw_w-OTP50YURNf4xcyDBE3M",
+      "rating" : 4.1,
+      "reference" : "CnRtAAAAMeNJscsugztrmLjeGVQMLjiJ_pnCVpFs0pmRzrJbDXhHMUntBpfdnGr2gVYR5_9KCGfX4E4mQpPu7dKNFNxVdaN68wrX4fk3SuUi7JUp9hFskm0dqP0lLPOQRrhYMf8nCeZbVXW_KsQLHtqR_zoqGxIQwFobl0JXet0lV7NxNi8C0xoUL4rQQ6rlW4EsZ4HpMH0dcOaxd-g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rodrigo Cruz",
+            "author_url" : "https://plus.google.com/101210056722611534022",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-QA8JYyN1Yx0/AAAAAAAAAAI/AAAAAAAAh-w/1cjSpXSZcTk/photo.jpg",
+            "rating" : 4,
+            "text" : "Buenas exposiciones!",
+            "time" : 1444884220
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "Las momias están fantásticas. ",
+            "time" : 1378495543
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jonathan Fructuoso Mercado",
+            "author_url" : "https://plus.google.com/115947180823013196851",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/--qejl08-twY/AAAAAAAAAAI/AAAAAAAAABM/VB22jVuvCCQ/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1448595414
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Silvana Gutierrez",
+            "author_url" : "https://plus.google.com/100594778819711821796",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1442689690
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cesar San Pedro",
+            "author_url" : "https://plus.google.com/109798883015282847586",
+            "language" : "es",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1424630488
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8292183684034985525",
+      "user_ratings_total" : 7,
+      "utc_offset" : -360,
+      "vicinity" : "Licenciado Verdad, Centro, Ciudad de México",
+      "website" : "http://www.tutankamon.mx/"
+   },
+   "status" : "OK"
+}

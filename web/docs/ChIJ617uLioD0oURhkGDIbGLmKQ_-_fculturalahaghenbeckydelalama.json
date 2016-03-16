@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3",
+            "short_name" : "3",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Ignacio Altamirano",
+            "short_name" : "Ignacio Altamirano",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Adolfo Lopez Mateos",
+            "short_name" : "Adolfo Lopez Mateos",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad López Mateos",
+            "short_name" : "Cd López Mateos",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "52910",
+            "short_name" : "52910",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eIgnacio Altamirano 3\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAdolfo Lopez Mateos\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e52910\u003c/span\u003e \u003cspan class=\"locality\"\u003eCd López Mateos\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Ignacio Altamirano 3, Adolfo Lopez Mateos, 52910 Cd López Mateos, Méx., México",
+      "formatted_phone_number" : "01 55 5397 5147",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.51715219999999,
+            "lng" : -99.23656029999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "9319edf67fbba3de8de22f435b24b0b7c3ba5543",
+      "international_phone_number" : "+52 55 5397 5147",
+      "name" : "F Cultural a Haghenbeck y de la Lama",
+      "place_id" : "ChIJ617uLioD0oURhkGDIbGLmKQ",
+      "reference" : "CoQBeAAAAFe-6SMTgMKvE5nHlHETrhor6FD90tz0l3FjAGscH9Eszf_xDV-EQ1MRlQ0_TGuLZuh10LhMSj93BdBL8k1stJLkmGt6aAfJtZ-HOENrd4LjzDcfyXLwpgzFug2qQXjMnHLIThVTJVDcbOsdE1eUuE7X5AZsNVoip45F5Ar6ZsC2EhC9pBJkRwtKMGUGEHKz86RfGhTQobp6G6wp4jARHrsroxFalysFKQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11860383211567923590",
+      "utc_offset" : -360,
+      "vicinity" : "Ignacio Altamirano 3, Adolfo Lopez Mateos, Ciudad López Mateos"
+   },
+   "status" : "OK"
+}

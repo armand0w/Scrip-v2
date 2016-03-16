@@ -1,0 +1,113 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Carretera Federal Pachuca - Mexico",
+            "short_name" : "Carr. Federal Pachuca - Mexico",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Heroes Ecatepec 1 2 3 4 T",
+            "short_name" : "Heroes Ecatepec 1 2 3 4 T",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ecatepec de Morelos",
+            "short_name" : "Ecatepec de Morelos",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCarr. Federal Pachuca - Mexico\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHeroes Ecatepec 1 2 3 4 T\u003c/span\u003e, \u003cspan class=\"locality\"\u003eEcatepec de Morelos\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Carr. Federal Pachuca - Mexico, Heroes Ecatepec 1 2 3 4 T, Ecatepec de Morelos, Méx., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.6015419,
+            "lng" : -99.03478179999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0d86e91db54baf5dc6937238424feae0daea589d",
+      "name" : "Museo puente de fierrro",
+      "place_id" : "ChIJta2ddsDx0YURaJQ2e5btCxg",
+      "reference" : "CnRqAAAAV80iDbPQVth6JMyEn8d_M-gCyySNqSyS5IH3hXYFicpaeaDAQFxNSLipWsfXyf1fqpNcz4h5uxwOFhdHstllkUIqcxt8i0po1NEdYtoI4Q4KAZdkd4k4kUbwcvb435bg0NHMVaFBIjKSRmOcSD5FhRIQK17PLM7h55gSsQxRHb3H4hoUc44ChaqG8Kspsmw-Mfys2G-5s-4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giovanni Nateras Mercado",
+            "author_url" : "https://plus.google.com/109868288176552968247",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-aDHrD-dvv1k/AAAAAAAAAAI/AAAAAAAAHCU/5Dp_1PG1muk/photo.jpg",
+            "rating" : 5,
+            "text" : "Un museo que aunque está mal ubicado, es recomendable visitar",
+            "time" : 1453354006
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Arturo Rodriguez",
+            "author_url" : "https://plus.google.com/115043907870682476676",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Me parece MUY BUENO el sistema google mapas para informarnos sobre COMO llegar adonde quisiéramos ir!",
+            "time" : 1383450334
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jonathan García",
+            "author_url" : "https://plus.google.com/111306640373267458236",
+            "language" : "en",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-E9gfpC4OL3w/AAAAAAAAAAI/AAAAAAAAOgU/WEjVXevwtHk/photo.jpg",
+            "rating" : 5,
+            "text" : "Visitenlo.",
+            "time" : 1446172422
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Hector Alcala",
+            "author_url" : "https://plus.google.com/110540404730136167411",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-nHCd6H6EDhQ/AAAAAAAAAAI/AAAAAAAAAI8/vc8NRpLiWiw/photo.jpg",
+            "rating" : 1,
+            "text" : "",
+            "time" : 1449687865
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1732739712222139496",
+      "user_ratings_total" : 4,
+      "utc_offset" : -360,
+      "vicinity" : "Carretera Federal Pachuca - Mexico, Heroes Ecatepec 1 2 3 4 T, Ecatepec de Morelos"
+   },
+   "status" : "OK"
+}

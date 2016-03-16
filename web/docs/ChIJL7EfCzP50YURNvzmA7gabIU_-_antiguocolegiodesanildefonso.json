@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16",
+            "short_name" : "16",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Justo Sierra",
+            "short_name" : "Justo Sierra",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJusto Sierra 16\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Justo Sierra 16, Centro Histórico, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5702 2991",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.436341,
+            "lng" : -99.1308634
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "d0ad1f032b1fcbc23573dade7b098f3943bc0957",
+      "international_phone_number" : "+52 55 5702 2991",
+      "name" : "Antiguo Colegio de San Ildefonso",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–20:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105666396483772347559/photos\"\u003eOctavio Alonso Maya Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAiLAttt1g6hAR9C75G4nRzMhljQMMLX7ZdeLaaeZYFdLv079qBWcvF6TufFvuDW31vgQF5ZlFAhCPiDsem_fAx6nnC3WwS4LhOow6TLwUZ_-5l1pBuv6wflFriHMJ_ZUKEhBzRFHhgCMonViL0Y2rz258GhTQaFS5d38UnAsvYxqQfLkLvYo-Xg",
+            "width" : 1363
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117276363008644055965/photos\"\u003eArturo Martínez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAA8FevMtWhbt_cESfpPYZkdxxnQuZUw0DkE2iGDCmpxQDbhFk8zquco-bRAJowIDYhDiusDsfcb-lkHRpSnT1Dkc7jw6izPdAi-y9FTHScV22oZUVHY0dhtgk0RZpbp69EhD0235XELMSaw3h-vY_Z8W0GhRzl1S61x_I38WSNipyPC7xqMp_TQ",
+            "width" : 1600
+         },
+         {
+            "height" : 1936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111911991150291908427/photos\"\u003eDavid Echeagaray\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATQBdgPqDUkfxYGkRsqljhkcd1ACDaFxeHnL7btpYmwwCLQPM8wYmfD9Qzw1SU6e8P_-nQ_GAlwchVNw5en6Az3iHQqcRnL1STbuWTYSsTQX0crZ-FOryxI9yZXMLSYlTEhA5gqCwqG8uakCRJXBnDr07GhQvBD3pVPsAEa199hdON9lntHtAJQ",
+            "width" : 2592
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4gl65-sXrqVhCiGgKHFUk3ArCREmWcuigq-8cfPqoXcwS-FMBm4ilwsQFz3_8EzAkOIaSwW-T75dML3pIYZ2yvrkNbZ_eYzAVHJd6_uxu_Gq4Uoc5DBfML1hE0DKNwJVEhDZ3c356MPp2kFCkxA_k9fMGhSxtJdBhAK4xuQdDjJHg1Vyc6gZUg",
+            "width" : 3264
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107355106472769064702/photos\"\u003eSaúl Santiago\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtQ74L10IN-CXK4kExRL4MGFsXdV6bUvXsn3ImJEpzU31hpy7M3uia9reT11JGJOrr3TDsRd5FePqPWnvmrjj1eTmlM3v2OctDop2vlbrrEiFJNnkRziSIp-h5jCCx8EGEhBsabJ4masB04MBAXuJlT8eGhSUvnNoG3AlVqGWd_wu8sVJ94eIOw",
+            "width" : 4160
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGSxxdfNj8TBzBPA4kVaxfdf-5b9istsHWF8Q4Fp3ELiREimJdrqY_Ab9lxQVujdZEdCn5quXTxM4b-pGQa6s-_9UHEJogvDp4FLg_nLbqoXElt9o7RrT_lUaRlqRUMLXEhDKmb4tiUNROrfXuKb_JyQ1GhS7Pf0H5FQVkdJaM0CieyG9drUUxg",
+            "width" : 1367
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112936208389793944253/photos\"\u003eAndres Padilla\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAvRTj4d2YcLMwty412u8qo93JF9Qn77yP_jJ8a4acMAnbs3lFWe-Yh03Usi4t9CqunQAf7BnK4Nxn-2eDI91XBZWUThs5l9zVVxb6iAp4f6jC4z8iUtUHIJGDA1rBe7YXEhBOFeJM6nFORFuF5VNwAQXSGhQ1uxk_D8ksi7rWGCo7GW1HnZTZKw",
+            "width" : 1536
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104187623223432186709/photos\"\u003eHECTOR MARTINEZ\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOZKFcsJgE-5RfrFtVDh1MdrkdTcfjz2IiMARSxj_NBail1kQECFEIKAJ1e_5EzHccdIpYVu4M-2iuis7lVdb-GCbBzqFaOcDohIfAqAeNlrcMnGWd_4NOc4AitTVVcnPEhBxXnO2mP6xwtYVxxwtwcSyGhSJg_SMCZWGRJ6Dw2pNQqbycIxCYw",
+            "width" : 640
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114268984193568625176/photos\"\u003eGabriel Vazquez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABAPtT-EiV73OK1-EjTg6zaKt9ZZXJZq-OJhFWfbUGIfM4l2gBonKJforH9vi33Tez73640j0ziywVufjmmvltKOZP3dldRuQWbPOHdvcVnqG4BlB2OeUSkyHATjUrm3xEhB2oUO80vpP20Vma-qe1I_wGhRAl-UnmHBJmWyRTcbjdF4WGpQROw",
+            "width" : 1024
+         },
+         {
+            "height" : 1109,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115715071345672165928/photos\"\u003eAntiguo Colegio de San Ildefonso\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA724kblK_3oUE0cB0sMLlNlvt2gr7K6w3nKzPQJwvLCaLWWzoIlGqAClmrJjsOfYTpv79aPy9jbpjchqIeeNu5KPuc6u5K3vWtuv838oOd2T0F7uaIiWWdS6rbFdVHztyEhBetMXifA-XJ3WqO-SxmCXOGhT-TDDOBLRUcKnqVmCZvJnWx2Puxw",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJL7EfCzP50YURNvzmA7gabIU",
+      "rating" : 4.5,
+      "reference" : "CoQBdAAAAFKVcgqMTJDkMh2DS-9peXw99o1990fo3gxqAGbINptlJwETGXdFM13tCEqARKqp2-CntRoTxSVlRt6LNPZw4DO-SZGj2EvtZR5bm3180pZeE2F5DfGFUr6H3vfeup7m6sZE2AI-kOasC3xkIv-_-P5nhxY3q1r_ho0rzdexZvHyEhC7wEs58ybETLPindb0PN61GhQEpPhMvdsOXHmgvn3wsWgU0eIdzw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Gala Menendez",
+            "author_url" : "https://plus.google.com/105209473950689379603",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-INvC4ddhMNU/AAAAAAAAAAI/AAAAAAAAJt0/u8bnYy3azEo/photo.jpg",
+            "rating" : 4,
+            "text" : "Es un buen museo a secas, me refiero a que las exposiciones y su curaduría solo están, a veces parece que quieren llenar el espacio de exposición. No me parece que aun con credencial de estudiante te cobren (aun así sigue siendo accesible: $40 general $22.5 con descuento). La atención es buena, salvo en guardarropa y tienda (qué no tiene un gran surtido). A veces hay exposiciones libres y sin duda el simple hecho de visitar el recinto ya es una experiencia por la arquitectura y sus murales; recuerden que fue sede de la Escuela Nacional Preparatoria de la UNAM.",
+            "time" : 1453490773
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Akeri Cruz",
+            "author_url" : "https://plus.google.com/104901147499385889094",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-nIq0T6UfW-U/AAAAAAAAAAI/AAAAAAAAUEU/8KxMmiXXgd4/photo.jpg",
+            "rating" : 4,
+            "text" : "Un gran museo. ",
+            "time" : 1457916382
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Andrez Escudero",
+            "author_url" : "https://plus.google.com/111708207295223461499",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-ZUVAPQfACwE/AAAAAAAAAAI/AAAAAAAAABo/DQ5ApsbWPbk/photo.jpg",
+            "rating" : 5,
+            "text" : "Es un lugar hermoso.\nEl jardín principal me encanta y por lo que he visto, organizan bien el espacio para las exposiciones temporales, esto tomando en cuenta que es un museo de planta y se tienen que acomodar al edificio y sus pros y contras en cuanto a accesos y áreas.\nLa gente que me ha tocado es siempre atenta y es fácil llegar.",
+            "time" : 1452330741
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Echeagaray",
+            "author_url" : "https://plus.google.com/111911991150291908427",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Maravillosa exposición de Javier Marin \"Corpus\" la belleza de lo imperfecto... Un reencuentro con la monumentalidad del hombre",
+            "time" : 1448558430
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Allan Christopher Bermudez",
+            "author_url" : "https://plus.google.com/109534869760062012132",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-9cW1hxDri-k/AAAAAAAAAAI/AAAAAAAAAU8/Zg-mLDLrl8M/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente museo",
+            "time" : 1449913995
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9614088682170940470",
+      "user_ratings_total" : 124,
+      "utc_offset" : -360,
+      "vicinity" : "Justo Sierra 16, Centro Histórico, Ciudad de México",
+      "website" : "http://www.sanildefonso.org.mx/"
+   },
+   "status" : "OK"
+}

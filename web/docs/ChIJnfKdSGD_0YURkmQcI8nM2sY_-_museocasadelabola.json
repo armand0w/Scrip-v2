@@ -1,0 +1,222 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tacubaya",
+            "short_name" : "Tacubaya",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11870",
+            "short_name" : "11870",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Parque Lira 136, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTacubaya\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11870\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Parque Lira 136, Miguel Hidalgo, Tacubaya, 11870 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5515 8825",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4047746,
+            "lng" : -99.1884833
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "59e2e808d7054f2969604e1631966fd9b9879634",
+      "international_phone_number" : "+52 55 5515 8825",
+      "name" : "Museo Casa de La Bola",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: Cerrado",
+            "miércoles: Cerrado",
+            "jueves: Cerrado",
+            "viernes: Cerrado",
+            "sábado: Cerrado",
+            "domingo: 11:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2282,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAEhaG0zSgio3bwIK7vJdfc1rXoWzYRptcJN687kDlNuoqXnmLb6q85dwfmix3fmmKJ-ZnJRQ3q59wQm__-jIne0E6haRtAOAn1QVdC5YmCTLpHTYjbpZGlOoQDGtXYswvEhBNGKNNT-VUwWiZcQkQMkFIGhQdIK1MNnGF7S4zbZdNQBwIrWOzMw",
+            "width" : 7032
+         },
+         {
+            "height" : 796,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATOLjYs2UNuD0rLRN_9BdzR_9FV9n9yxQSu3zCDDXLbEntDdMKM2yZLpMNf2ZLLauNKWL3lj0mRT4Ma1kLYAdx3eWggGMWpSXnZUOVo4637JhnwLqZF7pbR7yZcX75pO-EhAO5DCm1xKG6FBGYkqlEK56GhR-_olWXVWXmeCiZkKnFeGkDy_A4w",
+            "width" : 1926
+         },
+         {
+            "height" : 3754,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2c_y4hodvk5nH2yTWaneqZ5BeP4kfCiBcC87w6-oU8VOkITYMDoDVZzHYwglTqYGY1kIZmzsS8k3vvZ1hzq9TlDgS57bGfbri0Ib6GPPJfA704QnoLZZUzMbPD9nMpbfEhAIqtrHCn1LU9_5kK0LdKoMGhTFtyEJ_SUktEEteY-Ps2ngRO3GaQ",
+            "width" : 5236
+         },
+         {
+            "height" : 2624,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApygAtG1GzhB2VMBwkhsmG-BXald7-_A5_8TK4EGREC5j8APaS7q4dKcoLUwamglhjXHMqd1WFGviWJysgwanH5_3JvbtbBLjSv1KetKiCQJMQtl7Cx54tAiN8keu1FmMEhACBj_LT4fCBQ5fDfHxF43OGhSxpjPc9U61dwQnGkf0smyXotbLLQ",
+            "width" : 3291
+         },
+         {
+            "height" : 4170,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA3YMBgMRtQQQNWX1WjbN26PoJPOfYY7JIjLG2zLBIEqXn_1CQLx7O5r7OOWpjm3GWH_tR_lS2feQtlrgUWlFSYDOXQLaSex0eu0hJdefrgay0qhcYaqc7n-5m3v3CWbq-EhCk3ZFLCv6ntzOBmsxPAm2aGhSyGct6J03zmNiMw8P9eCSk4t1f3g",
+            "width" : 8204
+         },
+         {
+            "height" : 3807,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAXGj4Bgf_C0eNuRQupqgTBFHA-10h1Wt3stKh4yb5S77d9iXM2i44h4Zr_zgxoiM11v7ArA5GazOdzmr30eCEjqlOvnSZG9dPVQMDbdPLdbgvnldEs8hUy79_ZOh4npVTEhAs1IcabkFZy96Tmftvxiz_GhQxyUqLppVIMPHtnI9xcGa4zwHmdg",
+            "width" : 8206
+         },
+         {
+            "height" : 3852,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnRv6dI-qZmjoTMPEvZDq6N3QSDvp9w1L5UXIY0lwHijFeyGt0h9yvDrMXch5tRMCDmqSxE5L_3V3jTqy3Dh1l4O6QLhXR7YCNdluQK5S5oWiNQXuseDE-AzTSuFBMTrOEhBvCwmtzMaxMoRAgmRqGC94GhRP8Az59afEKm91f8sw6DWEVF-UNw",
+            "width" : 8540
+         },
+         {
+            "height" : 1256,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111574131961913579119/photos\"\u003eErik Rocha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAcDT1b3699oFbnsRibTqBdm_1szjnRMPy-bhQPiYGpWLbWEEwmBWfR7FZeGXqCNOC7Wp5iqUpcb-eIA9pE674zvPkUrr2QbdS2t8__ruRrre7fuGAdCAuDJ5PIv80MUezEhAU6pPec56CfzcPaXw_fDwPGhQ4eTZkQTxSqz60gppsMYZbeeMAcQ",
+            "width" : 3171
+         }
+      ],
+      "place_id" : "ChIJnfKdSGD_0YURkmQcI8nM2sY",
+      "rating" : 4,
+      "reference" : "CnRpAAAA70lbKIdlHCM5eSlNYxC6Pk9cNtbfwU8Sh2NbL44Ab8rN_ABMNwUVSYZbpt_05jlnvvF5NulqfWkTjMCphs_XRnJAx97rVvIt2wlMkKKg8U5af6CeeI65m1MqcufW6cUiMs9wtlMlBh8YL10depaA2RIQajs-KW4E1rBrO0xK9sN8yBoUEtqs7AKvnwKnYft3OFZYWXtQNlY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Melí Meló Cultura",
+            "author_url" : "https://plus.google.com/116340652691475201097",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-FOI756Qe1M4/AAAAAAAAAAI/AAAAAAAAAVw/udBW-kvFpZ4/photo.jpg",
+            "rating" : 5,
+            "text" : "La casa de la Bola fue donada junto con dos haciendas para ser conservadas como museos por la Fundación Cultural: Antonio Haghenbeck y de la Lama. Hoy todavía mantiene las pinturas, grabados, espejos, cortinajes, candiles y obras de arte que formaron parte de este recinto en los años 50. El jardín es uno de los espacios más llamativos con fuentes, estanques, andadores y varias esculturas de mármol.",
+            "time" : 1447966601
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Morante Azrael",
+            "author_url" : "https://plus.google.com/107907171294152825780",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-ZIbRc_pavoA/AAAAAAAAAAI/AAAAAAAAVlQ/zi7ZGLC6aec/photo.jpg",
+            "rating" : 5,
+            "text" : "Monito el lugar",
+            "time" : 1437601747
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jorge Aguado Lara",
+            "author_url" : "https://plus.google.com/112561257579995945986",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-H5bz5kUU7SE/AAAAAAAAAAI/AAAAAAAAG_M/5ihkQwa3e5M/photo.jpg",
+            "rating" : 4,
+            "text" : "Bonita casa-museo pero un poco descuidada y con filtraciones en los techos",
+            "time" : 1451864882
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "B FlowersC",
+            "author_url" : "https://plus.google.com/114335076058200538958",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-F1Vw4wNyvlk/AAAAAAAAAAI/AAAAAAAAF4I/EjtscrXFGAw/photo.jpg",
+            "rating" : 4,
+            "text" : "Principalmente se enfoca al arte decorativo de las clases altas mexicanas, no es muy grande el museo pero toda 2da planta tiene cuartos con decoración. El lugar no es fácil de encontrar por lo que se recomienda ir en metro ya que no cuentan con estacionamiento.",
+            "time" : 1379371335
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Lupita DZ",
+            "author_url" : "https://plus.google.com/101022589119071688610",
+            "language" : "es",
+            "rating" : 2,
+            "text" : "Dar ruta por metro y por donde salir",
+            "time" : 1425287039
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=14328990328682210450",
+      "user_ratings_total" : 16,
+      "utc_offset" : -360,
+      "vicinity" : "Parque Lira 136, Miguel Hidalgo, Tacubaya, Ciudad de México",
+      "website" : "http://eventosmuseocasadelabola.blogspot.com/"
+   },
+   "status" : "OK"
+}

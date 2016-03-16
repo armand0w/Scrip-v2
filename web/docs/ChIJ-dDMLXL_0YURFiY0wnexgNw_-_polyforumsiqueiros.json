@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Nápoles",
+            "short_name" : "Nápoles",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "03810",
+            "short_name" : "03810",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Insurgentes Sur 701, \u003cspan class=\"street-address\"\u003eBenito Juárez\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNápoles\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e03810\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Insurgentes Sur 701, Benito Juárez, Nápoles, 03810 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5536 4520",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3933277,
+            "lng" : -99.17338629999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b467b5d87480a3d7a45e7d34a02453a522727083",
+      "international_phone_number" : "+52 55 5536 4520",
+      "name" : "Polyforum Siqueiros",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–18:00",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0Q6FEPwB8HPnJ9ns0YTtL7UQO-MATBaEEmgTwTrQgh3QQxalJURyOq9t52OyTYiFXez5d869PIRQgDk5xO_02g5y3x_szDTbjtNFk4VJqdJA4SbZEOMObsY7mc9wXOQ1EhBLiS92xGxpUnog6g3k1oPgGhRtlGXeeQ_JupziTWon28FpaXoXRw",
+            "width" : 3264
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112032327192404681789/photos\"\u003eDavid Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAG6NRQUFGpb1TYk4qLEG3Kx5cz4xfktNIdXft2DfkGDPAaOkrwFlzQEc38luOATCyv2MmPMGKHuIuK0gHTXHHJhIOPMgPtKLS2qRIjq1TRHeHYxzZLTGkhPw0itK_Rv2LEhBBBlax5AkBmrVjvP1JdjUFGhQwXMzJLQqdIkp3hNji8mDYsagLEw",
+            "width" : 768
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117783994596078693113/photos\"\u003eAdrián S.G.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAOcL0LwIFboGtgC5Lrv7kWEHPBortkBNFGrZtZsVylY8bfuUgznfbSJfXIRqrhNY9uSRhGcYzWnsht0KLslvyO_zp0omKyRnnsGuTy1deaEEWUwUR39Gd8ubeVV3Mxcp5tX1ThSJXLuS-xAcWSlQgroRl3c6Jh1RyP6xDHp5-9u9EhCW3F4X0Elwb9m13rtU7KiuGhT2DqsRrozmO_Frms_OrlhZUlWhDA",
+            "width" : 4160
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110023015342708766234/photos\"\u003eIvan Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAc-s8mCe29Xl7LKDKQ17d0CGdMt0Kivp_51JKVi_XeEudhSl7HDs2g-QQ9aIaNynh2wx3clpLDDr8DUbfE5CXCewzijilQubJ9zGCQkobV2JUg9GK9QS3ojIYrj1tJwLlEhBrlznF1ZkDnlrLIv8QQ-CDGhQNFJh4i6SKX8UlhrQ6I21mmu_Jwg",
+            "width" : 2048
+         },
+         {
+            "height" : 4128,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110023015342708766234/photos\"\u003eIvan Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwd-LxNbQ089sCdQ-TPRt4twD0yW7anzRZ1DcLxPqVsNoQv9AFy_QlAg34DJgKzKw3MtaTBySDyN1TULq2xfRFW38o5j8RcVrBK5-YdqJKvuUiEZs9tJW-NWN5yIRL5K7EhCv4gyrS3Ysu88eBT2TgNXDGhTSw2yzhT4SyqPAMBDvEfYAsdBitg",
+            "width" : 3096
+         },
+         {
+            "height" : 1296,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105002391790118430368/photos\"\u003eLiliána De La Luz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwSeks1lUiIo5vYmJxX3Lg5jcPW3PhQAtwWzRJ1T7z6Y_AWTMcUJrvMv66B_Xkp3LU80x7tijpmGdzZdJ0rBYngEqE_76-J7Kn42LxVsCzOcfNGCccQkLBwBxtz_qXBOFEhA82ee59hsTY5VkLmOZNhRkGhTe9sx_LslhX61RNZALMB_JU-Qshg",
+            "width" : 972
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114994817630632609645/photos\"\u003eSantos Torres\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAecO3W8RfTIcaJElo6lF1OmlXrz2DpG5h8Rm0NiCl2lMdzFD7OhrH6_LqlI42LFG-XR6CzRkSeYg3hgyKt3W9FjDqyJxFBq4YrdDCQhs7MZKqESDUgGiFL0X6b0G-jNAaEhAeIAZckzGI7xjk37d-UkNkGhQAJv3HC3CSFEj9weubUWrSSYOWFQ",
+            "width" : 640
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhkjrXDAHsFFGE63XGZB_Hz4JUjZ_6Z_7VFZCeRI5-dvYAUgIVq1-OJgfATJoYWojorKCG1Yyp8rH51uUClPmo-jpuF4Y54waj50atwcTFwywTaTBMF-FkkORpGbjWZw0EhDssf1P_XYJidNfc-Cg-4EdGhSpG9OJTMwjtc7zk3fpY-hQwbC8bg",
+            "width" : 2448
+         },
+         {
+            "height" : 560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107895309336447520274/photos\"\u003ePolyforum Siqueiros\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAF93Qh5h5rmzrd9tQwosb02_Vo1jO1gxJFTV2ZZ3f7EJr6TYkxVQlh7kxYRwraAg5bbqMf9s3wzLwdtwp8J6hBgsGd7VSSLkJ2sJIMEx_NWBF3lmkOiyq0v4rdatnCbKoEhDMnhJWx8uAXRUXGR4OCOZrGhRndHV92sSrf4ot8RjOt3JBp00YJA",
+            "width" : 560
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112032327192404681789/photos\"\u003eDavid Antonio\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnj6LfpXfmEqyN-ftP8dJgCGf3-Pc__eocSkuWe6mAiYzvvIPKtuobKS08oxSdS_irkhKlrVjC_sAdVS3puV3RuRIeqc0LGszIf6i-ZmQTtdotdUIuLtjMBh_L1QDsUstEhAepz3p0kDgG82ierOtoeHIGhR3ar5H38UBnRyUTIJUuggpDxaHKw",
+            "width" : 768
+         }
+      ],
+      "place_id" : "ChIJ-dDMLXL_0YURFiY0wnexgNw",
+      "rating" : 4.2,
+      "reference" : "CnRnAAAAf6_gB8AOjCC6o919lbGMjtsmBwwSYmVdLcl5tEvINKH7d6mMRWWiczP8ferlVLmsLLggFyi4U9gENebcL8RrSvhUPQqSnUhjYbEhd8o2vrX3WzBCde4uhz6KEx5l4OotblTxftKnHiercNSbM2pP1BIQcZEUmZtmmbctiRnoKFYldBoUBv70qzVN1yHHyPLSp_EjqA8cKSY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Hurtado",
+            "author_url" : "https://plus.google.com/103722519753501046882",
+            "language" : "es",
+            "rating" : 2,
+            "text" : "La recepción es atendida por una señorita de mal carácter, sin vocación de servicio. (solo tiene interés mercantil de vender los libros de esa casa) No hay descuento a    personas de la 3a edad. Los 4 monitores  de guia no funcionan y se traban. El audio del espectáculo es de una tecnología anterior, rezagada (no se entiende cabalmente lo que Siqueiros dice), esto puede ser superado con una regrabacion y con mejor sonido. vease, el planetario del IPN. y el Horno 4 en Monterrey, el espectáculo de Xel-ha en Cancun, etc.  y la explicación con guia no estaba habilitada. Lamnento que en este sector cultural, nos hallemos muy regazados para ser competitivos en el turismo que este magnifico recinto requiere. ademas le falta difusión. y, mejor que no la realicen hasta en tanto no mejores las condiciones de operacion. atte. Mario Hurtado.",
+            "time" : 1456243300
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ada Luz Soto Olivas",
+            "author_url" : "https://plus.google.com/108219191115336364556",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-MNLmvIRhhEc/AAAAAAAAAAI/AAAAAAAAA_g/5R-VC7B7uCI/photo.jpg",
+            "rating" : 3,
+            "text" : "Este ñugar es maravilloso, los murales de Siqueiros tanto dentro como fuera del edificio son espectaculares, pero tiene el problema de que no está bien cuidado, requiere remodelación, sobre todo el area de eventos, es un poliforum chico y acogedor y bueno para eventos, pero las butacas estan viejas, es muy oscuro y la pantalla no se ve muy buena, esperamos que con una buena restauración muchas personas visiten este lugar que en definitiva es uno de los patrimonios de esta ciudad. Algo que podría darle un toque diferente sería un buen restaurante y un buen bar ya que el lugar se presta para eso.",
+            "time" : 1454186462
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Osorio Feregrino",
+            "author_url" : "https://plus.google.com/114120295657604710515",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Ke-0lLik1d8/AAAAAAAAAAI/AAAAAAAAAFM/o5YNbfc8tBE/photo.jpg",
+            "rating" : 5,
+            "text" : "Los murales y el recorrido guiado dentro del poliforum es un must!!!! ??",
+            "time" : 1455717969
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Enrique Barcena",
+            "author_url" : "https://plus.google.com/109926118940198836165",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-yG7iCvwVjZo/AAAAAAAAAAI/AAAAAAAAAxE/2W-c6Gt6tzE/photo.jpg",
+            "rating" : 4,
+            "text" : "¡Gran Lugar para una agradable Exposición, para comer y disfrutar del Mural más Grande del Mundo realizado por uno de nuestros máximos exponentes del Arte, David Alfaro Siqueiros, realmente muy recomendable¡¡",
+            "time" : 1453357128
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eric Reyes Altamirano",
+            "author_url" : "https://plus.google.com/102052341055028902026",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-SCJByFEDFHM/AAAAAAAAAAI/AAAAAAAAl7s/YSHVL-5-4cQ/photo.jpg",
+            "rating" : 4,
+            "text" : "Me gusta mucho este lugar pero siento que lo podrían aprovechar más o integrar más a la vida de la colonia y de la misma forma lograr tener más visitas. Es un lugar muy interesante por sus murales y los eventos que se hacen ahí tienden a ser muy padres, pero algo falta para que no sea solamente intrigante y pase a ser algo que se tiene que ver o visitar. Fuera de eso, los murales son muy interesantes, los restaurantes tienden a ser buenos o mejor que buenos, el espacio es agradable y su ubicación privilegiada.",
+            "time" : 1448296702
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15888894613280531990",
+      "user_ratings_total" : 68,
+      "utc_offset" : -360,
+      "vicinity" : "Insurgentes Sur 701, Benito Juárez, Nápoles, Ciudad de México",
+      "website" : "http://www.polyforumsiqueiros.com/"
+   },
+   "status" : "OK"
+}

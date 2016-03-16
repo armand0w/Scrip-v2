@@ -1,0 +1,241 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Balderas y Colon S/N, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Balderas y Colon S/N, Cuauhtémoc, Centro, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 1555 1900",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4361804,
+            "lng" : -99.14695569999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "991091dc345f57f0f3de26542c01c1f0e0096793",
+      "international_phone_number" : "+52 55 1555 1900",
+      "name" : "Museo Mural Diego Rivera",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105929644731397610584/photos\"\u003eDouglas LeClair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAMzcg6Ysw_zDo0omyh1UugsBaXgkiKBY49QlCwjlQa4f0Gwv3bPZ5pby8f43v-p4JpwSdRqZ4pxWx3XEARbqdo-yq_VTtHLKceuLV3fhQb7i4d3z14JJKj__gFYJGdSNoX8_Syg7OXIAwK8EAE6M1nSqcVUtWempmYCw0PQp-079EhDMqo_ceOnSt8GE9MU1Lg5WGhRVtSdHo0iPiSdFjgy1ScAQ8yS4FQ",
+            "width" : 5312
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105929644731397610584/photos\"\u003eDouglas LeClair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAALDChOZY_ZOYDaMz56erT8_5sVXChEj6TWjMQhEV-NWOKxAhin5GKhDk_h6HqKW8e5Xx4CBYml4ayo8VkZnTI4qJ6vXbK1bOA8u2kNH53BJZ6J1-eyQCj4swePOPY_zcGQeXzqnZ-C-n69jFu3LSAnOPHQiYqYQ0TdVCHOil1KyhEhCrRbD2fz6VpOFfKN83nNc5GhR6mQbHq2-1H9DTfB-OchXy_xx6fQ",
+            "width" : 5312
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105929644731397610584/photos\"\u003eDouglas LeClair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAKr455-dC7vQ50dkfEdd51SUMtb7Uwf5QFkktJ_TvYpW208_PRtcScHTFZRqxgBU0igJUHV4Flh3xcDhydUM4rjvBUa_vkkbn9KIAv4JuT_LfxvooWy7vWy4HqusyOJ4iP1oin9cZkvaBrG2dQBTteqCC28ha3NGPpruX_BAf6JWEhDA6kyjy_iQ32QWesfK6QguGhS41qUEPVgZSYK6qQtt2aZblhMmMQ",
+            "width" : 5312
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105929644731397610584/photos\"\u003eDouglas LeClair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAACL-sUYMxdJMXIbyJp9eYkPsaXz7UYFLmwGV1wtYLLWWJ4OjiykDf101GYITra2fzuRqRS0h0KAhrrTxMPupTnlPGi0Kyui761wuxf4zGx890mSm1rTUI9lrjdC5MWaM-GdIg30p7Zsssyy9UVkIR4pxU4u9F34l8-HJBayfXYAsEhCUMWcZandxoYE5JI7vKj27GhRlL_Rg9YRFNtVuDz2s53bpJJOH9A",
+            "width" : 5312
+         }
+      ],
+      "place_id" : "ChIJY2WVmNX40YUReN3PtV1PvGQ",
+      "rating" : 4.4,
+      "reference" : "CnRrAAAAz0xHV5KDixk_hmJJ0bxdoQ0_yZttjtlVbWmLae7noxC0YTzwC-ubLNfT_6kpXi5EzfSnDmGoTrRZTdatlaqXhuowp3SFN35xQ7zgGatb9nRRVwGF_ZT7smDZtF1Iou2H1LrENhnBx2umrW9hsfleWRIQrNOcqbwR06Cmd00Vz-MFtBoUOZWd5HN3Czu24uMu-PQyYO5Fj-4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jay Francis",
+            "author_url" : "https://plus.google.com/111397690774329136432",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-dxgVIog-08k/AAAAAAAAAAI/AAAAAAAACxA/cdGmRpabCPE/photo.jpg",
+            "rating" : 5,
+            "text" : "Be sure to see this mural. You could plan a wondeful walking tour beginning with breakfast at the Casa de Azulejos Sanborn's, a walk past the Bellas Artes to the Alameda to the Franz Mayer Museum, to the Mural and then back track to the Museo de Artes Populares and possibly the Museum of Tolerance if desired. Finishing with a snack at El Moro Churrareria.",
+            "time" : 1455114961
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Vega Rivera",
+            "author_url" : "https://plus.google.com/110415345076902986010",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-0s973FwCQZ0/AAAAAAAAAAI/AAAAAAAAAfQ/EWCUDLAeDaY/photo.jpg",
+            "rating" : 5,
+            "text" : "Cuando fui estaba en remodelacion, aun así me gusto muschisimo.",
+            "time" : 1448035637
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "VICTOR HUGO LUCAS CARLOS",
+            "author_url" : "https://plus.google.com/115090485931503840053",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-tvijzT_SGgE/AAAAAAAAAAI/AAAAAAAAQA8/I1rI2sgsXOM/photo.jpg",
+            "rating" : 5,
+            "text" : "Agradable y bonito ",
+            "time" : 1451874803
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "dennise diaz",
+            "author_url" : "https://plus.google.com/105894673833647286159",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Z0cH4N-1QH0/AAAAAAAAAAI/AAAAAAAAAOg/QYbdBhLdrXI/photo.jpg",
+            "rating" : 4,
+            "text" : "Un gran Museo, en verdad interesante. ",
+            "time" : 1458058800
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ernesto Sorver Portugal",
+            "author_url" : "https://plus.google.com/113891464521545160711",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-eYaAVJIS8SA/AAAAAAAAAAI/AAAAAAAAJSY/-KFhDJ7pSBQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Ese Diego Rivera nunca me ha caído bien, pero a que buena pintada le pego al muro para convertirlo en la obra de arte que es.",
+            "time" : 1447471295
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7258763963315248504",
+      "user_ratings_total" : 46,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Balderas y Colon S/N, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.museomuraldiegorivera.bellasartes.gob.mx"
+   },
+   "status" : "OK"
+}

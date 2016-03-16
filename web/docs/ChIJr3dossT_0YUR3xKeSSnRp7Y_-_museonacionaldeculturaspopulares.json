@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Del Carmen",
+            "short_name" : "Del Carmen",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de MÈxico",
+            "short_name" : "MÈxico D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "MÈxico",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04000",
+            "short_name" : "04000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av Miguel Hidalgo No.289, \u003cspan class=\"street-address\"\u003eCoyoac·n\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eDel Carmen\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de MÈxico\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMÈxico\u003c/span\u003e",
+      "formatted_address" : "Av Miguel Hidalgo No.289, Coyoac·n, Del Carmen, 04000 Ciudad de MÈxico, D.F., MÈxico",
+      "formatted_phone_number" : "01 55 4155 0920",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.34990939999999,
+            "lng" : -99.161019
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "fc02c40563c957d866d2c0ba980a9a9d5acecf1f",
+      "international_phone_number" : "+52 55 4155 0920",
+      "name" : "Museo Nacional de Culturas Populares",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00ñ18:00",
+            "miÈrcoles: 10:00ñ18:00",
+            "jueves: 10:00ñ18:00",
+            "viernes: 10:00ñ20:00",
+            "s·bado: 10:00ñ20:00",
+            "domingo: 10:00ñ20:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107262562677352254720/photos\"\u003e¡ngeles Campos Juuj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAgZK32tij8sEEY1j3nksYs0X8WbGe-w7jLo9N2OGVj8v99A4p4aOLWgNh41NsRhaDzr9JqSG94V8D8IBIn3d4_vHrgWSFDXWfTH0-iU49DF0_9DXVLygwD4pjWvFw2GwaEhD07IEjttPTxDQEVeX3SE1eGhQntp84aBBFOEkFtFOfu5RSJxRNhg",
+            "width" : 2048
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104267939165081200276/photos\"\u003eJuan Carlos Ruiz Estrella\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATgnM186PQVAf39XateAhFz5E0aMWTUVCQ9ruKRZirfP6ylmly9n_H12Ra-qh5M361QdlbXg_LkmxtWdSaXQTR652UaZj3CkWqtAambvUhaP9EqDhBRtiezG85g6GTIuUEhA-REESD7MI1F5JTOWzmWOOGhRCR15ft6llGQ_1jg2F5mzHp_mPJg",
+            "width" : 2448
+         },
+         {
+            "height" : 982,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107262562677352254720/photos\"\u003e¡ngeles Campos Juuj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnoUiyUyu8j_Am-bpvaFz-eXpwTcRMCXEGr8n6fwB7rykZzUisNjlJ1_cDSYFvAMJc_PgZkaI4VkRY1tf-oZjXcK69g-hRpobrH8aOpjRrvHHUDxjm9MgDQldrcT6ChQiEhBUU8Vob5iy7LbQDYZj8Yl5GhTg7mSkqHss5xMHz9kDu3auUnX8ig",
+            "width" : 1556
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114129269073064771025/photos\"\u003ejohny fuentes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbRnAsnZn8HgCpdMWe9EQjEQRsdqPKtBzwosYFyStoCm7muQ98t0G4fgnU2F-wBDY0jUgueUjUO6uWpxTdVxCemYcv9KYIbQ6Y_IYUWbawCoULFzQH7hv_55ON1PwJJ81EhAwuFrKDAWqqDvgxvT7k4mjGhTdEdLYCKQQ0t8kf8OD6GgpnNq2iw",
+            "width" : 960
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107262562677352254720/photos\"\u003e¡ngeles Campos Juuj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAonNwDRUQD-1OrVAbR56kOZbNMhDgjiPYfFM47x7uSRFhcwYSr5duwn738MZDoITgQsR6q8NUr3nzlNBFIPT0PbWGQQsaPC7q3Ng1k_eiU0KJ1V3YqUUlEp8cyBriTqvxEhA5z0H54hOfbRfE2IPMhu5CGhSYcu8DbwRMj12-R9iUTfib9acJmA",
+            "width" : 1728
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107262562677352254720/photos\"\u003e¡ngeles Campos Juuj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAP51yFAPJfHUae5ZYcOFGtrxDJs9-xgC8BbgoV2_xm2EddFGxzqY6eYkXUJldQTDDcGWMStYyXK7trZ_VoDabqMe4NqFsZ8r7_EcC6gThy--vHZQwcnHjW6iP7HxO_rmvEhC9qCvYDQml9z1uAqvmWqYuGhTVMZPyQKow3wfejVczaUL1y2Xbtg",
+            "width" : 1365
+         },
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107262562677352254720/photos\"\u003e¡ngeles Campos Juuj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA73_KvYJP-rpQsRW3mcd_tlfCxK2T8ithVH_VRaujFEjZUN4fkPhgRABpeSRvZw_C3S88M9jo3gcD5aVACYEPiAM0rP2TxFEFgF77MKeB6WSYikXIBT4xJUfhdMuF_9C4EhAz8BtSYlIWh0vuUy5q6wPcGhRNnJlLuaPfZUtEVuqgiR7HhpjlQg",
+            "width" : 2048
+         },
+         {
+            "height" : 4608,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108804413720125873208/photos\"\u003eAlfredo Trujillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA1W9TM6afNyjxWui2YBU_7RdnqRNmqnVGOAKclUFu-Wu6bdWuRLrfgtL7qKD6TplqTZYKTNK_DWzQrAHVvv88C1yHhlkWK4gSFt_lgcQ_u6UEEojVuR2NuSRyh0e5KIvkEhARUvioll1uVAi-0Ue3mXBRGhSUPBOnLLEAxV3sT6WjjPany8b7FA",
+            "width" : 3456
+         },
+         {
+            "height" : 540,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114129269073064771025/photos\"\u003ejohny fuentes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADE-bNmHtLo8vHfu6KUxc7koERq0VC0GGZFuBdS7vxHkS1CwIp1sgyVuTswlDsbBPkxxGzBEyB58fkN6ZnWAqei9V8CzvQC8tk8WmUYga498TRL81XEZ4sqzTCw-2nnB1EhC_gS10bRy104m5w3cMexFyGhRYmrBj6F8hOshY2iYA52ykgxk3Iw",
+            "width" : 960
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107262562677352254720/photos\"\u003e¡ngeles Campos Juuj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAM-_Z_L70dpz1lqP1E_2qg-nhg8LN_4cXdiCDbdBkpi1NEMv8JlKVvUlixVV8ww8rW2NwDE92efSyfJfh-Xba9DdNeNk7_9eoJa-hRo_ZjI5icyJwP_EBJk3yWEmSyv1zEhBDASjsxf0yM-Q-W1nzznRjGhSXfuSE7SfrOmW9QWLdF52ajU3Xow",
+            "width" : 1728
+         }
+      ],
+      "place_id" : "ChIJr3dossT_0YUR3xKeSSnRp7Y",
+      "rating" : 4.4,
+      "reference" : "CoQBeAAAAIPGpYJ_SFjwiEsZw4xQg_RD5gAtBXUxMOyX1IpDSWuT6JJ5bmhT8onrQBzW2yjd4EYYQg4cfxQ9edgDILaZA4qjX47p3q2-YgED1AYyMV5GQ1f0i3LMxnvGBvu_SY01KhmFBsK5vJyO4iqQJBYrVfNieAs9naMX1Cff6Qwcf2G5EhCIqrkCRlkDv3OUP2kKSrgyGhQZRrzOzrPlsPxfUaSJ21af_NMzMA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rosy Alvarez",
+            "author_url" : "https://plus.google.com/116119283627742805313",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "feroa fel tamal muuy caro",
+            "time" : 1454372659
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Kisifur Loco",
+            "author_url" : "https://plus.google.com/104014008734744790615",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-u5Kj5sd62o4/AAAAAAAAAAI/AAAAAAAADcs/zk-dLFi67zs/photo.jpg",
+            "rating" : 1,
+            "text" : "Una feria del tamal q no maaaa... osea todo muy caro. Un tamal n $35 y atole n $25 o tal ves soy pobre. Pero la verdad nada especial el museo muy bueno exposiciÛn de la familia BURRON",
+            "time" : 1454286641
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rafael Romero",
+            "author_url" : "https://plus.google.com/111642914476101248500",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-7MPlrkv2Jvw/AAAAAAAAAAI/AAAAAAAABQg/i52LH7KSJoo/photo.jpg",
+            "rating" : 5,
+            "text" : "Es de mucha ayuda y ahorra muchas dudas",
+            "time" : 1447353197
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Flavio Lazos",
+            "author_url" : "https://plus.google.com/110128121110603274162",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-XufQ7pWvQyA/AAAAAAAAAAI/AAAAAAAAACg/r5EGAnncj70/photo.jpg",
+            "rating" : 5,
+            "text" : "Un ventana cultural a la tradiciÛn y esencia de lo que es MÈxico y sus muchos pueblos, Èpocas y formas. Vale la pena darse la vuelta de cuando en cuando pues sus exposiciones no tienen desprecio. En diciembre no se pueden perder la colecciÛn de nacimientos!",
+            "time" : 1457601148
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "magaly adriana barrios gonzalez",
+            "author_url" : "https://plus.google.com/106016126628264484637",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-PntxftTx9i0/AAAAAAAAAAI/AAAAAAAAAVo/4XcVoxJ6HSk/photo.jpg",
+            "rating" : 5,
+            "text" : "UN MUY BUEN MUSEO CON DIVERSAS EXPOSICIONES Y EN EL MEJOR LUGAR PARA TURISTEAR Y COMER XD",
+            "time" : 1456944263
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13161718411272524511",
+      "user_ratings_total" : 75,
+      "utc_offset" : -360,
+      "vicinity" : "Av Miguel Hidalgo No.289, Coyoac·n, Del Carmen, Ciudad de MÈxico",
+      "website" : "http://museoculturaspopulares.gob.mx/"
+   },
+   "status" : "OK"
+}

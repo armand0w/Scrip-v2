@@ -1,0 +1,128 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro de Tlalpan",
+            "short_name" : "Centro de Tlalpan",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "14000",
+            "short_name" : "14000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Plaza de la Constitución 10, \u003cspan class=\"street-address\"\u003eTlalpan\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro de Tlalpan\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e14000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Plaza de la Constitución 10, Tlalpan, Centro de Tlalpan, 14000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "044 55 5485 9048",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.2878678,
+            "lng" : -99.16667149999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "7aaa9732e84549ee08b2080977b4a5885e4c992c",
+      "international_phone_number" : "+52 1 55 5485 9048",
+      "name" : "MUSEO DE HISTORIA DE TLALPAN",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1400"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1200"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 14:00–20:00",
+            "martes: 14:00–20:00",
+            "miércoles: 14:00–20:00",
+            "jueves: 14:00–20:00",
+            "viernes: 14:00–20:00",
+            "sábado: 12:00–20:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "place_id" : "ChIJ4W5PJPUAzoUROIpsdTFgeqI",
+      "reference" : "CnRwAAAAdweXqOMKF91Com8dZK-ifgSxZxoMV0f6lmd0UVVoHFUovYPg9CZIunad40GfNYQ413fY2JoB_LW02VcytiUPs8ckiDawY8D0kix1_1AeqdAQnri5l3oXdJ_AOca5k3daJXyKsGN2TrrheEPTHitNOBIQaQPdPcnZAilZwBL-ld6XlxoUGod18fexyXii0thfg6Qmo9mbQ4o",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11707775946842737208",
+      "utc_offset" : -360,
+      "vicinity" : "Calle Plaza de la Constitución 10, Tlalpan, Centro de Tlalpan, Ciudad de México",
+      "website" : "http://www.tlalpan.gob.mx/index.php/tlalpan-boletines/920-museo-de-historia-de-tlalpan"
+   },
+   "status" : "OK"
+}

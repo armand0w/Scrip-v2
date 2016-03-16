@@ -1,0 +1,280 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Via Jose Maria Morelos",
+            "short_name" : "Via Jose Maria Morelos",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Juan Alcahuacan",
+            "short_name" : "San Juan Alcahuacan",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ecatepec de Morelos",
+            "short_name" : "Ecatepec de Morelos",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "55040",
+            "short_name" : "55040",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "esq. Vía Estatal, \u003cspan class=\"street-address\"\u003eVia Jose Maria Morelos\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Juan Alcahuacan\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e55040\u003c/span\u003e \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "esq. Vía Estatal, Via Jose Maria Morelos, San Juan Alcahuacan, 55040 Méx., México",
+      "formatted_phone_number" : "01 55 5839 5864",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.6003491,
+            "lng" : -99.03560220000001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "c9d91dff8316d3fcca3d23fd1d25910bc2648d8f",
+      "international_phone_number" : "+52 55 5839 5864",
+      "name" : "CASA DE MORELOS",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–17:00",
+            "martes: 9:00–17:00",
+            "miércoles: 9:00–17:00",
+            "jueves: 9:00–17:00",
+            "viernes: 9:00–17:00",
+            "sábado: 9:00–17:00",
+            "domingo: 9:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109290350214686355530/photos\"\u003eDulce Citlalli Gerrero Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOGwFLwyLkavnlY5kyLwREbMlvJXEEa7nuabp2TKUQ4UUsbRm4qi9XLZf6XYuAp_saBn3EcTFo_OdH7smzFmbYE0r69zY19iMC-yM0OuBZwVwz0Z4wmscWGZFkbHU6J9jEhAs7TdQHgRlGXMw6N5_-qmGGhSvpqc4W2oe4hXju3a3PNiU_re_rg",
+            "width" : 2560
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108703051078647585144/photos\"\u003eLiliana\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKIsdA8gE5Qn1shLjRPJ_JrzLQ4NvbXbaNKeNkJDDJZPsYwW4KT03iURlBpnQhiXqh1-mJ1X752LIohGOZxMh0GPLd4N6yJPPjZAYbwNkwL__1s2w5SRoHScqP7blKyS9EhBR_2AlSkTjGNweTh7pH9fjGhSIGazD6veNFrwkl9A2rm_7WyWnGw",
+            "width" : 900
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108703051078647585144/photos\"\u003eLiliana\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAKPlZJbeLx9BHsBogJwpC-bHcaGexhmDsWOyEdZiJnp4jSDpk0sZ1F_WQTn9z5ylqdlDdhXEngtFusRtx5D8km1pPg7uZzKAX-xhczqkDxGDqEwwFBqeFwJmb6C5LGIYxEhAvK0nfTki1NoIO2uf0E_bzGhQfmmVtQA8SuFfwc0XY6iYmKr_Z7w",
+            "width" : 900
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105470629531757182333/photos\"\u003eLobo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAVhDw3JVRDPfkSojaGpCelxOoDoMsCgMJVA0xZ5XVZVOVT9juasRBC2bRsBwHM1IpbEw3VG_h7yEOGqL1hJ4kHJQV-mY7ORZu2MDV4J5GAxpRgZ38vZj2_h4-wyvV1utFEhBpEadFVnM62-XrqyFvRTLqGhQgNj2yLSZ7XvZu4NkxwlXesFsGhw",
+            "width" : 3264
+         },
+         {
+            "height" : 648,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109565763099897286212/photos\"\u003eGrupo Ambientalista Sierra de Guadalupe, A.C.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJ4wCpzFNXuKBSmBoiKZaHWrOOO204pXpXbNcPXS7BQU_N6QMByBmwhxQRK1OGUdL_LG1npQVSyCebcRmMR0M9Z0ELkrqFUvrfgPQ_tyAW8FiR3G1sDGnhnEp4jklqyrUEhDkCIUmnpR_C3hfrP53S00IGhQTeMs90Ru7heQE9FNiy49aD-imFQ",
+            "width" : 972
+         },
+         {
+            "height" : 640,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107885352547694867576/photos\"\u003eGerman Alamilla\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARseG2Lnzu9CYpAsUqV_iwzlJdo-YzICkxZ9TQQuBrjXA4A7dFcV5RS9KecxtfQ5lVfDOmu1aAXajqgbamLB-kzHVvIytu4pK4Q8FVea9YR1QZ5ofVTtinG0kvsDF3Jd1EhAnQK0PD12JzSBXj8l5fmx3GhSVrrmlpEZk_Rn-8wIDZHIUWhgRgw",
+            "width" : 480
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111895180973586827670/photos\"\u003eJose Morones\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMXH-duqW7i0_HVDdl5Bj4ASI7B3-_JrQmkwT7U2qo_Jhvk_x58QIkrwQgM72baHsX9cwQiKcaCHnla-TAkNKPtZi9_HRnI5YVgvbDnjSLCkx47EHYm5UqyJHNq0vqrGgEhC9TjoFW4cXEJHdmQ97GBp9GhT5mSrKdZjHOAgQ4G_pWOg4NETPng",
+            "width" : 720
+         }
+      ],
+      "place_id" : "ChIJd_kWeL_x0YUR1KVH8wi4yKc",
+      "rating" : 4.3,
+      "reference" : "CnRjAAAAanvsJg3ojV1YXRJUQsJEKh-5Skec-bwQN-9XM1UUPusuNuDZ_73GMI8E9z-0GE6OqumpJ8Oa_ycdEqbRI1yDs-Ct6jKtFxqmQm_LbK3IiJS-geHzeJvbs8yZ8r3Up0Xh9XjNV6QGxE0FwkkQmbA8LhIQBD6zSZBj5AH3IBEdEjzMGhoUoAag30rpb8F-jXxwEHM1MKBu7lM",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Liliana",
+            "author_url" : "https://plus.google.com/108703051078647585144",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-VOtNA0EEljI/AAAAAAAAAAI/AAAAAAAACXw/r0b82F-t3Hk/photo.jpg",
+            "rating" : 5,
+            "text" : "Este lugar es llamado casa de Morelos, debido a que aquí paso sus últimas horas, esta casa, en la época de la llegada de los españoles era llamada casa de los Virreyes, y era el punto de entrada a la ciudad de México. En ella podemos encontrar actualmente antigüedades y en su patio trasero una pequeña capilla, que fue restaurada por el INAH, y en la cuál siguen los trabajos. ",
+            "time" : 1450406533
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Grupo Ambientalista Sierra de Guadalupe, A.C.",
+            "author_url" : "https://plus.google.com/109565763099897286212",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-yie4-VGOQ3U/AAAAAAAAAAI/AAAAAAAAAh0/-6tROhjnnwo/photo.jpg",
+            "rating" : 5,
+            "text" : "Estamos impartiendo a partir de marzo de 2015 una serie de talleres sobre huerto orgánico, fertilizantes orgánicos, hidroponia en el Centro Comunitario Casa de Morelos, acompañanos en marzo. Consulta nuestro facebook/sierradeguadalupe ",
+            "time" : 1425584711
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "sofia mendoza",
+            "author_url" : "https://plus.google.com/103377544757418844131",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-SsDEf4gNB64/AAAAAAAAAAI/AAAAAAAAABM/k8-KIaQ1YXk/photo.jpg",
+            "rating" : 5,
+            "text" : "fue muy lindo es un muy buen lugar\n",
+            "time" : 1420991772
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Giovanni Nateras Mercado",
+            "author_url" : "https://plus.google.com/109868288176552968247",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-aDHrD-dvv1k/AAAAAAAAAAI/AAAAAAAAHCU/5Dp_1PG1muk/photo.jpg",
+            "rating" : 5,
+            "text" : "Conoce más de acerca de un héroe de la nación, José María Morelos y Pavón en la que fue un día su casa",
+            "time" : 1453042836
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alejandro Vielma",
+            "author_url" : "https://plus.google.com/105919428664917516078",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-jg6GQrwfAqs/AAAAAAAAAAI/AAAAAAAAAB8/oYBu9eOrmyo/photo.jpg",
+            "rating" : 4,
+            "text" : "Esta padre me gusto demasiado se los recomiendo ",
+            "time" : 1448566911
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12090115548256904660",
+      "user_ratings_total" : 18,
+      "utc_offset" : -360,
+      "vicinity" : "esq. Vía Estatal, Via Jose Maria Morelos, San Juan Alcahuacan",
+      "website" : "http://www.inah.gob.mx/component/content/article/264-red-de-museos/5919-centro-comunitario-ecatepec-casa-de-morelos"
+   },
+   "status" : "OK"
+}

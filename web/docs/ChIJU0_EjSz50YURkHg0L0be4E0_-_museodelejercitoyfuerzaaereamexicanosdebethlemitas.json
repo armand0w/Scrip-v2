@@ -1,0 +1,231 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "6",
+            "short_name" : "6",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Calle de Filomeno Mata",
+            "short_name" : "Calle de Filomeno Mata",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06002",
+            "short_name" : "06002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCalle de Filomeno Mata 6\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06002\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle de Filomeno Mata 6, Centro, 06002 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5512 3215",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4355292,
+            "lng" : -99.1389391
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3c207c9e85c899dcf91eb9f2e2ea072a3e557289",
+      "international_phone_number" : "+52 55 5512 3215",
+      "name" : "Museo del Ejército y Fuerza Aérea Mexicanos de Bethlemitas",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–16:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108699112382346297738/photos\"\u003esalma osorio\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_mvncJrtDrWz7Bvmqa-FNjVGGzSmOlQz6v1FbvWbDxlV-TzUjLbu9adVTBUi5aJX6MQjjFLioYfHU4tiwlip0idAOjbTamV0gr1mcycYA9oLSoA1lg_je44hfhsfdDw8EhD7TJU-jTPOAV2-nJdm9GdfGhTT-WW3_wBbnr17xBY29upS0I2V0g",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJU0_EjSz50YURkHg0L0be4E0",
+      "rating" : 4.1,
+      "reference" : "CpQBkAAAAItt7UM3Y7uKgFRVBiZFVXxhwL9KgIusICGyl9iigSDSzPSpYXoRFcF1GGIRZSA7mkraUlQyVGULmHX46koKAPFy4W4-ck3gBa9Ter220xVCsZd-xf7-XndSf2cho-sPfV18HUtJwIKSqdr6oZS_d4ONOuV1zHf9Ez-ReVNcrj4gXjaTh1ZbgTU6nNF2XQlnwxIQM1Dy4ryxliadZivRSVS1CRoUMChI2_1SDOSyVGAUAWFBkg_A0C4",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Islas",
+            "author_url" : "https://plus.google.com/104307847380401851404",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-u1T8OnHsQJs/AAAAAAAAAAI/AAAAAAAAAPI/l43y3qH0fqo/photo.jpg",
+            "rating" : 3,
+            "text" : "El museo es pequeñito. Hace un breve recorrido desde la época prehispánica hasta la actualidad. Hay piezas interesantes, sobre todo armas y uniformes. En este museo se encuentra la bandera que las Fuerzas Armadas de México llevaron durante el apoyo humanitario en EU por el huracán Katrina.\nTambién se exhibe un FX-05 Xiuhcóatl (que significa 'Serpiente de fuego'), que es un fusil de asalto diseñado por ingenieros militares mexicanos.\nEl museo es un poco oscuro y la museografía no ayuda mucho; a algunas piezas les faltan explicaciones.\nLa entrada es gratuita",
+            "time" : 1439609366
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Joel Cardenas",
+            "author_url" : "https://plus.google.com/108281685244882647778",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-IAKOSyaseiY/AAAAAAAAAAI/AAAAAAAAAng/0k-EAkZdd7E/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy bueno el Museo,esta chiquito pero muy entretenido.",
+            "time" : 1432522463
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Anelise Velasco",
+            "author_url" : "https://plus.google.com/110279206251466564375",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "es una experiencia a lo grande hay tirolesas muros para escalar show de perros muchos aviones camiones del ejercito de todos los lugares que visite  fue  el mas mas bonito",
+            "time" : 1439223809
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "angel ortiz aguilar",
+            "author_url" : "https://plus.google.com/114005447467042832718",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-YYsAQCrHjSk/AAAAAAAAAAI/AAAAAAAAARA/-cvFaIs2Gis/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy bonito el lugar sobretodo la información muy completa ",
+            "time" : 1453212410
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ojeda Hats Ojeda",
+            "author_url" : "https://plus.google.com/114883396122840223164",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-QpZeTEr-zx0/AAAAAAAAAAI/AAAAAAAAAaI/s_FitPCppXk/photo.jpg",
+            "rating" : 5,
+            "text" : "Ok",
+            "time" : 1451839467
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5611729528724682896",
+      "user_ratings_total" : 17,
+      "utc_offset" : -360,
+      "vicinity" : "Calle de Filomeno Mata 6, Centro, Ciudad de México",
+      "website" : "http://www.sic.gob.mx/ficha.php?table=museo&table_id=972"
+   },
+   "status" : "OK"
+}

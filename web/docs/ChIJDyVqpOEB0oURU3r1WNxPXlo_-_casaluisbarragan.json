@@ -1,0 +1,287 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ampliación Daniel Garza",
+            "short_name" : "Ampliación Daniel Garza",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11840",
+            "short_name" : "11840",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "General Francisco Ramírez 12-14, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eAmpliación Daniel Garza\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11840\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "General Francisco Ramírez 12-14, Miguel Hidalgo, Ampliación Daniel Garza, 11840 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5515 4908",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4111148,
+            "lng" : -99.19240769999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "dbef1c3af40588dc91fe3a2a7c9a5d90961b47cf",
+      "international_phone_number" : "+52 55 5515 4908",
+      "name" : "Casa Luís Barragan",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–17:00",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:30–12:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA_lXlwiLkmvSP8NqxVyJbqsXguT39T1sbtSgTHOZF7cn04PVgGPiw4ArY2GYvvESjP_tQNk0XwEf2XNp7OHyi1u42H_Xy_EphASJ5wy-3-KzbWWRmyOvjG1srqNOoOeKsEhAzcN8XwDcqLJjA9jKMz1dJGhSdqNWHAHhEUAUWHn04UKngaIvIBA",
+            "width" : 1152
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116126367473693775965/photos\"\u003eitzel nazarelly\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGCO0lcV7fp4ktYh1U8lI8NzMt7FIQnaLmsjPzTdaLX8mMbOmEeUaBRR6NFgQnZi6GHw1ukHil_6c6txNMmo83quYWKITeH6b9qG6f3VV0Qn3zDyxlSRLw7TfKvdb5VU9EhCiu2Mh0sVeu8JWhCNDCeQVGhSGIbIAj6Iw4kWtmXJxZzUSiaCF9g",
+            "width" : 1080
+         },
+         {
+            "height" : 1152,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMEEoRJmb2DrBMk5DufBSsbEQRs4sQhz0RcjwFWa6zmI7MkTFK9QNYj43th2OWOZbGG5Z_86qr6W87ubkq39inSM-MoGrP_l08uxL3xh14MWB3M_Ta1pHmibj0RkgVgtjEhB8jUk5Xt5JCNa6wly3ldzoGhTHyjRYLo2l5UfKsHjwqmH2B9VIAQ",
+            "width" : 2048
+         },
+         {
+            "height" : 330,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116583961577128151115/photos\"\u003eOctavio Cisneros\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAa1wHsYg5IIU9DuJEC7dEzxfksaMxkcr0slZshX6ZKCI0o1bYOAC_m4vZCXOQl2JRhUzyxc17cq8UxxSBW1NMklBO08F3tbT0-MVB8XP-6jzmg4k6zpujoSwF_VwaMhoEEhCiJpqtI0EEXfe6tBCe3nG5GhRmO7aGkObC_6lSFFMmW_f50gphIg",
+            "width" : 484
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAvI7zPljfoudFpttJHS-HOvKFUrQ23iDpWAdE8dpP6PTmIe6rk_YGfcQCGJCHHLHUTifgYla15LBDFpCUTngJIE8oPhWSoPy4iIx43UD59TZyvEwomRM_AkAi_xToUr7_EhC1ob83f4GdmoInUFQQB5DHGhQuINw1q2q949BcTqo6PtZk6Kh-1Q",
+            "width" : 1152
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOlHpUXZUwVX-X_CxrQFCitzGYC8aot1UijJ4zDLNHT95ZG8XMvCIIogK5QCMeTKNIkDHfPLGdFKHc8qsyWo-xxUZHAk7iGK5ymxRs86EKGARr3LjOgEpJlrRxaH8NweIEhAB6JPC3cUclZaHf59wV8R-GhRFfXDDjAdUrwNy-X24X2BjaFGX0g",
+            "width" : 1152
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOYyivGb5llhu40O2d4ODOjUoeqdNgf1Uy29p3dh2ekKO8wSHRgJs0lTRTmqg352Z_MkhFPGaOFDMTIAM9-8oxtiTq2NBOWqSYFTnpy8D269gyIxUIU4Z2LIHuoqX2RYVEhD_huUNMmZQD2xJwX_qvKCoGhRyfF1bt_OGVbihrCmZjBuDSGZTmw",
+            "width" : 1152
+         },
+         {
+            "height" : 1151,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAStGBWSFbF8aSTIsDiN8q7v0W07hHnMnLHuYjO32WYLTHaTWTvO1e3Q3jR_IcvoZvG3eevventdPgbz8A8z4_QLe4C1-W-qwwd1e5beJHHp78mD6T5IfLD99mgM0ranGIEhDwDhY74Yw9XCd3mrX0jHvWGhQHqbkHw1D_HTZaLtRqMShHunim4Q",
+            "width" : 1830
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARDJsyjpE84AIO9cfPd5CyjVW3YsjnNDTepXc-_-ZK0t4v1Su6rVf_g_DKg0PBf0hEveVCnvxBVYIJ68UYSF2LhaMzZnGc9B_xShPhIf4zJS2cZV9VEBHjKCsXjRmP6g6EhBgpA28cNzMSOE088mWEQM7GhRdWpBjtyeVKdKO8Kal8jmcdN4Ogw",
+            "width" : 1152
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115482057898852656309/photos\"\u003eCarel Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA1HyjG620NpuFq1r0-QVjRERWRiVWUHKrxAH0tFjGs4MFdbnlYPt4-P0TnNg4-ahBTb5gJozMwyKWj6JNoqScv3n7KE4fSP9Xd2YqXz4g1d9nz3lrhryE8C1SxMkHEt_-EhAFY-8jeKeLU9gradRvu9RwGhS08NC7PSxXurp5wcmQFJKFTN_SYA",
+            "width" : 1152
+         }
+      ],
+      "place_id" : "ChIJDyVqpOEB0oURU3r1WNxPXlo",
+      "rating" : 4.5,
+      "reference" : "CnRmAAAAhKfPxFoR9MHZZqQB5OYCuxRntLey55Pc24P3lCcNcLXITfJg2ehf3p-gXEjTEg7XWuRfZTqCPQa6HX1LPeKNKaNR9kQ2iTYoc6OLhAPfcaiDvXS_crdA7GCwBgBdJp6W8ZGqlJNey1dOSaT7QrLhyRIQpGqUM-2lEwLpM-RL6K7f1BoU3fqDzUGAjn9maU0yDpijgo42UDE",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "gerardo luna",
+            "author_url" : "https://plus.google.com/112943238677367242414",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Viaje mágico y misterioso como dirían Lennon y mc cartney ",
+            "time" : 1455918468
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Melí Meló Cultura",
+            "author_url" : "https://plus.google.com/116340652691475201097",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-FOI756Qe1M4/AAAAAAAAAAI/AAAAAAAAAVw/udBW-kvFpZ4/photo.jpg",
+            "rating" : 5,
+            "text" : "Una hermosa casa que se esconde tras un muro gris diseñado de  tal modo que no rompiera con la estetica de la colónia, visitada principalmente por extranjeros y estudiantes de arquitectura.  \nTiene una serie de elementos que la hacen única: el uso de piedra negra en el piso de un interior, el juego con perspectivas y formas, así como la conservación de la armonía en un mismo espacio.",
+            "time" : 1441757678
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Flavio Lazos",
+            "author_url" : "https://plus.google.com/110128121110603274162",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-XufQ7pWvQyA/AAAAAAAAAAI/AAAAAAAAACg/r5EGAnncj70/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy bien preservado, el personal es atento, amable y responde cualquier duda. Vale la pena visitar pues te introduce en la vida del artista y su gran detalle como arquitecto e ingeniero.",
+            "time" : 1452568758
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Rodrigo Garcia Gutierrez",
+            "author_url" : "https://plus.google.com/115056069502995282688",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "We made a reservation at 3 pm for an English tour. Had to wait 45 minutes for a party of 3 people who seem to not be interested in the house. Even though we had made a reservation there were no English guides. What is the point of a reservation if it does not matter what language they give the tour in. They gave me a lecture when I tried to do a walk in the week before, arguing that they needed to coordinate the tour guides. \n\nNow even though I am fluent in both English and Spanish and have an architectural degree, they said that I was not qualified to translate. So they used the translator that came with the party that arrived late. He got in for free. He was not even a decent translator, he translated only for the couple that he came with and I had to translate for my wife since she was not able to hear him. She had to follow him around since he was not even interested in translating for her. Not only that but his lack of architectural jargon made the tour a lot less special. He also only translated only half of the things that the tour guide said. Making me translate to my wife all the things he did not say. \n\nTo finish it they had another English tour that started on the opposite end on the house so that we did not cross paths. They charged me full price while I could have done a better job of translating, we had to wait 45 minutes for what seem to be \"special\" people and I still had to translate for my wife, and I got lectured on the importance of making a reservation while they clearly violated that agreement.\n\nHicimos una reserva a las 3 pm para una gira Inglés. Tuvimos que esperar 45 minutos para un grupo de 3 personas que parecian no estar interesados en la casa. A pesar de que habíamos hecho una reserva no había guías en inglés. ¿Cuál es el punto de una reserva si no importa el idioma que dan la gira?. Me dieron una charla cuando traté de visitar sin hacer sita la semana anterior, con el argumento de que tenían que coordinar los guías turísticos.\n\nAhora a pesar de que tengo fluidez en Inglés y Español y un título de arquitecto, me dijeron que no estaba calificado para traducir. Así que ellos usaron el traductor que se incluye con el grupo que llegó tarde. El paso a la casa gratis. Ni siquiera era un traductor decente, tradujo sólo para la pareja que vino con el y tuve que traducir para mi esposa ya que ella no podia escucharlo bien. Ella tuvo que seguirlo alrededor ya que no estaba interesado en traducir para ella. No sólo eso, sino su falta de jerga arquitectónica hizo la visita mucho menos especial. También traducio sólo la mitad de las cosas que el guía dijo. Haciéndome traducir a mi esposa todo lo que no dijo.\n\nPara terminarlo tenían otra gira Inglés que comenzó en el extremo opuesto de la casa para que no nos cruzamos. Me cobraron el precio completo, mientras que yo podría haber hecho un mejor trabajo de traducción, tuvimos que esperar 45 minutos por personas \"especiales\" y yo todavía tenía que traducir para mi esposa, y me arumentaron sobre la importancia de hacer una reserva mientras violaba claramente ese acuerdo.",
+            "time" : 1418147403
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Leon",
+            "author_url" : "https://plus.google.com/107590953919889003733",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-lVDAG5W-rcM/AAAAAAAAAAI/AAAAAAAAAHg/25wyD7YYslg/photo.jpg",
+            "rating" : 4,
+            "text" : "Tal vez no sea fácil de entender, pero es una arquitectura muy especial. ",
+            "time" : 1457753998
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6511729919028197971",
+      "user_ratings_total" : 35,
+      "utc_offset" : -360,
+      "vicinity" : "General Francisco Ramírez 12-14, Miguel Hidalgo, Ampliación Daniel Garza, Ciudad de México",
+      "website" : "http://www.casaluisbarragan.org/"
+   },
+   "status" : "OK"
+}

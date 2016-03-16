@@ -1,0 +1,56 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Calle de Regina",
+            "short_name" : "Calle de Regina",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCalle de Regina\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle de Regina, Centro, Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4279584,
+            "lng" : -99.1380599
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0352d284c68033755bbbb9eb43f11963cc40e8ac",
+      "name" : "Arte Invasión",
+      "place_id" : "ChIJB-qx2tP-0YURW0IAg5MV-4U",
+      "reference" : "CnRiAAAAl7swu1jSxmjNWOfTvGR6k6QlOAegSZA2LQ3-8H3zLa7XsIdGdkSV8rhAqDPiud89brWhO1S4ydV67bsbRtLjbGGsRDTIuaCdzo07MJZZ9zJHnR-RUtdFaZWdoT8DzeprFE4147oh1f0Y-6LF5gK2-xIQkcQ72jWLZJsv_4U-rYcwoBoUiMXiNoT9pdfVvMnOfBA4GQfQv7w",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9654333949500998235",
+      "utc_offset" : -360,
+      "vicinity" : "Calle de Regina, Centro, Ciudad de México"
+   },
+   "status" : "OK"
+}

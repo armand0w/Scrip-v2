@@ -1,0 +1,187 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Col. U.H. Cabeza de Juárez III",
+            "short_name" : "Col. U.H. Cabeza de Juárez III",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "09227",
+            "short_name" : "09227",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. Guelatao S/N, \u003cspan class=\"street-address\"\u003eDelegación Iztapalapa\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCol. U.H. Cabeza de Juárez III\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e09227\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Guelatao S/N, Delegación Iztapalapa, Col. U.H. Cabeza de Juárez III, 09227 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5445 1160",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.382711,
+            "lng" : -99.03906789999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "16cebe79ea3935b3a55d306c19e505d2c013a06e",
+      "international_phone_number" : "+52 55 5445 1160",
+      "name" : "Cabeza de Juárez",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "open" : {
+                  "day" : 0,
+                  "time" : "0000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Abierto 24 horas",
+            "martes: Abierto 24 horas",
+            "miércoles: Abierto 24 horas",
+            "jueves: Abierto 24 horas",
+            "viernes: Abierto 24 horas",
+            "sábado: Abierto 24 horas",
+            "domingo: Abierto 24 horas"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102002256049070159875/photos\"\u003eJesus Roberto De la Torre Morales\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbyp0SDvLKG4JX1x_TyHIEi8QurIbzN_45josbkioAuJt4i8lAkFJE-1d2pqdpVIau5WlSjXM9-KrFhzzbQt63RPGMHhjNM-8Bpjye-IF7TfxqsOaFfnU5mUn9YyK4_47EhA3z2FRlW4G1hMFUqc5aguAGhRA_LivUgscGrnUfK4fRvyvIP4erQ",
+            "width" : 1280
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107558584024283416053/photos\"\u003eAshley Ordoñez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7YBxh-RNOPXU1bmAjv_ELHfI_vlubYFql3g2Szs1zewr0p4TQOze5lsP60z9jvsfVCZqcYENwbQeSniH1tjKeuwysXp9p6WJldKADmZUEYpkJ1yzJkWrPdMSeyUtPJOlEhCzrdoXc_M8aO0PG0lT7S2VGhTm7TgGVc3Qb1Ts0d6CMvqUj7N3jA",
+            "width" : 1456
+         },
+         {
+            "height" : 309,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112202876903866170400/photos\"\u003eEric Paz Moreno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJEiMbJqYRvcnZp_7I_jGYs97ZIO5WLjBd_0-Xyh6nkJls_rWUDbFzDLWOTVhwYBNHAevHhGY-h3zfd2jawVQ-NfPAktswM9hPe5Fgm-GY2VJIfbHZlU-ZjAXNQhUKAaIEhBvP3JI-jnusv_UPuNMzo67GhREcoqV-60VOICBYVJ5u0OXtVi2qg",
+            "width" : 476
+         },
+         {
+            "height" : 250,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111990189466952138391/photos\"\u003eDiego Martinez Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7gsG4xL8uWQyJnRCRGp0N0HUAhDbXgsm--WaCQF4PsvtlAj3uFj9UmfQhoZ6A68ElDl30NFbt1_O8HQl2FnqxnFzVB0inv4cOLtw0MRJS5U5nVmkld5H596muH6GVIfVEhDzc3l19wfQxA8tzv2y5g47GhQo2MxzchW-_w_FRkd83sXiZwjp5w",
+            "width" : 331
+         }
+      ],
+      "place_id" : "ChIJQYhQEhn90YURWVngv2UZPuY",
+      "rating" : 3.8,
+      "reference" : "CnRlAAAAl90tgPP8qUB1n6v48gi7426O3j23pa88XdVeBOzjkASfq6J1QImvCJLKRYeYrS6eLcN1brp8XuoStyrIzVpOEryMcA2i6yklxXRxB4pj6fOHkOvBQiH6K02QcRa6u7HqWpwJINw--8PHKShKiaR5AxIQ7VG-gxApy7TByOc30V__YBoUgv61ZTgJd2CkrmBwnsnPUcQFPTk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "SZ CS",
+            "author_url" : "https://plus.google.com/101029140318792515512",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-8T-RrS7viTs/AAAAAAAAAAI/AAAAAAAAACA/xOSr2nP4_k8/photo.jpg",
+            "rating" : 1,
+            "text" : "Da miedo esa zona.",
+            "time" : 1456277516
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Javier Malpica",
+            "author_url" : "https://plus.google.com/113209068716370474254",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-f2iQwbfvyQM/AAAAAAAAAAI/AAAAAAAAAa0/XQClFYlRY8E/photo.jpg",
+            "rating" : 3,
+            "text" : "Busco a Laura Mendez Garcia vivia cerquita de la Unidad Deportiva.",
+            "time" : 1450058974
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Eric Paz Moreno",
+            "author_url" : "https://plus.google.com/112202876903866170400",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-cZeae6-XtJM/AAAAAAAAAAI/AAAAAAAAIfk/mT6AWBxa1Ro/photo.jpg",
+            "rating" : 5,
+            "text" : "Tienes que pasar a visitar el museo. Descansa en.las bancas. Hay mucha seguridad.",
+            "time" : 1456252189
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ashley Ordoñez",
+            "author_url" : "https://plus.google.com/107558584024283416053",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-LYUbhQsAIfE/AAAAAAAAAAI/AAAAAAAAWVE/GUyBcJaQX6Q/photo.jpg",
+            "rating" : 3,
+            "text" : "Es un pequeño parque, la zona no es muy bonita y no hay mucho que ver ahí pero tiene información cultural e histórica que es bueno conocer.",
+            "time" : 1454356349
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Moises Adrian Fernandez",
+            "author_url" : "https://plus.google.com/106072869356342791742",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-oGNceo7i2NU/AAAAAAAAAAI/AAAAAAAAAC8/BITluNSlCc0/photo.jpg",
+            "rating" : 5,
+            "text" : "que es bonito estar ai",
+            "time" : 1419799677
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16590726002081028441",
+      "user_ratings_total" : 40,
+      "utc_offset" : -360,
+      "vicinity" : "Av. Guelatao S/N, Delegación Iztapalapa, Col. U.H. Cabeza de Juárez III, Ciudad de México",
+      "website" : "http://www.sic.gob.mx/ficha.php?table=museo&table_id=547"
+   },
+   "status" : "OK"
+}

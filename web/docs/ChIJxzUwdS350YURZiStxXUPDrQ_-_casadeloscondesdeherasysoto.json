@@ -1,0 +1,161 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "8",
+            "short_name" : "8",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "República de Chile",
+            "short_name" : "República de Chile",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRepública de Chile 8\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "República de Chile 8, Centro, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5510 8582",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4360995,
+            "lng" : -99.1358966
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "44a5a03fa36351b346e6c37d5692338e1df234ae",
+      "international_phone_number" : "+52 55 5510 8582",
+      "name" : "CASA DE LOS CONDES DE HERAS Y SOTO",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–19:00",
+            "martes: 9:00–19:00",
+            "miércoles: 9:00–19:00",
+            "jueves: 9:00–19:00",
+            "viernes: 9:00–19:00",
+            "sábado: Cerrado",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104307847380401851404/photos\"\u003eLaura Islas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAk7F_40z2-yNhXpz33rvPE5fBgV3QLL4AXP7CtnVVquIzUVkofnSgnYrS3icqWtX5ldtjpxuofQLueznKK0XpqwU2xSMOhAkZzJoRU-iit5nyJtzlkHCfyJMoCmEaGg9VEhCscwcMB9B1mg_vJwi-N7SzGhQlWLjLOOseWLmDK7-M-N7TVDhN9Q",
+            "width" : 720
+         }
+      ],
+      "place_id" : "ChIJxzUwdS350YURZiStxXUPDrQ",
+      "reference" : "CoQBdgAAAEIUqh6OqxGLafUBmoYDH_37CEMzeJLCVOCxegUgDCaQkCOudUT_lLogznItQMoFu5vTcwSKgdC6iCza-UGkeoT29cAeVWCj3a2iMen0Dy4r0GRyGCnSg1FXesbxkNcdrJrAXqxhSKC10029Xb9zmmMPf-LMIZZp4O9pvdMNz2c0EhC-iJWPq9Q1m2ZK7qp4jQaRGhSLSvt0e3pO1lBiuP1AF_2hPGDs4w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Islas",
+            "author_url" : "https://plus.google.com/104307847380401851404",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-u1T8OnHsQJs/AAAAAAAAAAI/AAAAAAAAAPI/l43y3qH0fqo/photo.jpg",
+            "rating" : 4,
+            "text" : "En este pequeño palacio virreinal se encuentra la cabeza original del Ángel de la Independencia que se cayó por el sismo del 28 de julio 1957; en aquella ocasión la escultura original fue restaurada, pero no fue posible reconstruir la cabeza de la Victoria Alada mexicana. Actualmente este edificio es sede del Archivo Histórico del Distrito Federal.",
+            "time" : 1439423968
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12974324575003026534",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "República de Chile 8, Centro, Ciudad de México",
+      "website" : "http://www.cultura.df.gob.mx"
+   },
+   "status" : "OK"
+}

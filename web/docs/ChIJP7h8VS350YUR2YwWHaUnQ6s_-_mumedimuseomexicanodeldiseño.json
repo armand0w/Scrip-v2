@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Colonia Centro",
+            "short_name" : "Col. Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Av. Francisco I. Madero 74, \u003cspan class=\"street-address\"\u003eDelegación Cuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCol. Centro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Francisco I. Madero 74, Delegación Cuauhtémoc, Col. Centro, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5510 8771",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4333277,
+            "lng" : -99.13458869999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b5d49b1f0bbc08f302be237ee76f3d4dd36dfbcc",
+      "international_phone_number" : "+52 55 5510 8771",
+      "name" : "MUMEDI Museo Mexicano del Diseño",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2100"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–21:00",
+            "martes: 8:00–21:00",
+            "miércoles: 8:00–21:00",
+            "jueves: 8:00–21:00",
+            "viernes: 8:00–21:00",
+            "sábado: 8:00–21:00",
+            "domingo: 8:00–21:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107095918319983994988/photos\"\u003eRey Ley\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAd7O4su6zRIGFNmRlVSQf2cX9S6hAZej_i5hJrlQavl6QiuaXu6h0xfkfM5PWtpBdPmxvNF_EeJrkNdloCip9gABOgniX7I1dOwXZUqvUgWlqySctwNi8SvoiusOvcIXxEhD7RN9TlqAGMR7c8D97o05EGhQy82-JCZoscj8TzyXlaKD8Up3HkQ",
+            "width" : 2048
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107794779221227397460/photos\"\u003eLouis Trujillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA662Wxly59epRjB0kKAMmbuh_NTiq4l-5O9FMtL8u88YwIzA3pBJHIeA9dEAkjbDDPewZcMFFnNYky06YlGp6LztugzHn6EphdPQtd1s1lybNWiLf4GCC-nt6L3zrC78HEhBOF-gBYFE6q8Z97SFJwTNGGhRWDn7g4GxjBtlFxV0BALohY-SdHQ",
+            "width" : 2448
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109747793098916934740/photos\"\u003eRicardo Blanco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPdFdXC46_pAfHvQQSzvNkaOMRbM7Hr4GvHq_yZenOKHih0BGWt0NTcGZ9NUQnbUwT99VLO2AvPzJK3ilZZRrTQwDnhvg5SVTEm3okqugaK3bKtHW__Z32CVoZsCIYGOCEhCzGzyCtLArKbHp-nhgcZrKGhSSDMTkHR_zpm77_fhozh9auwK59w",
+            "width" : 2048
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109431357816829995259/photos\"\u003eBel Dominguez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYKypiCsew4QxwxuJ6PbQQZrkN0OCrCvCxJgmgtMLLJSGSMYWSCXG9npKGvtqlr1tZTi1qZSRsOJZvw6uZRe42z1SyqqYsRik7oJO_MjZRptZzGjIIj73aU7FHgcmMBqQEhCYAZJiq4vJIjYFTCv4Oq5aGhRaeJY6XML2n-BO_Ml8UnijjPoLlQ",
+            "width" : 2988
+         },
+         {
+            "height" : 1080,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109282341786220910342/photos\"\u003eSaúl Buentello\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANpgdyg1dwxV0ObsMdQd5aBx-19cfnQA2RMw45E6i4wfdIN05V0Jxze05IKS59wUbKHpEI4EwQ6YKZm3sxuCezaKXZQiEYOIh9tzUU6uyhHcPlSt91h8RKP2h0JRO7BjwEhADTmZsTYup7nXgKOSmfMMoGhQQFBenm_Ks_Ykz-wnKnhh1Lx61Bg",
+            "width" : 1080
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102091378881365206484/photos\"\u003eLuis David Garcia Najera\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPgKu9njS-Q_7WtCyZwcQeTsUD_KfjhQ3K3FOVLtdCM5REOS4_jS-UABSDFPUr8diZmKLOSEGBBAHqC7rcWMAqTLTXhmVn_832QvfJm5UWUMB_lv0_j6rnRTH1DrufeLMEhAmMuPHDMsGnOKBvBr2TyStGhQkUTeB48tE6q0OWaan73CseVJqjA",
+            "width" : 5312
+         },
+         {
+            "height" : 3104,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113213607703170846647/photos\"\u003eVictor de la Peña Vasconcelos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwE3tgPpoNov6iFLX-b07TL8DUzsxjZ_7u6gseO-3kOVN3YzDhnSzbalWz34wQe_sEO6C0PutOfZ5zt5ZQ6efjlrc2Ui77OWLMBh1G3NO49B5B_dw9N-kfwElhwlCZyYKEhBbtq_00GGYIx17Zt7sLt52GhSh_XdmJe_Pc1hVz3oM8YT4UEJ9bQ",
+            "width" : 1746
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103544621203359324236/photos\"\u003eMichelle Ruiz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7Ph7-3P3FIVgnJYl-l3jb1CGtfrzORxBLrOI5n76tXJLqKVZXtEWgu1Hv9PtGg92S6gDfDN4EfXzdXjMV2Nz_cHwz-MHekKbmmAOuR8bd_x54krBHNcGM7zQMbbCiaA2EhAd32xS8Y87vvieIwpQ_6dpGhQbxQKKtw2faik5EUmmasPyoNLqLg",
+            "width" : 3264
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109747793098916934740/photos\"\u003eRicardo Blanco\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARZRXVtFCpL8wGFo4ZDaKrYxbp8SC5i6iQT9g2xrIkF0XpTnm-riIQuzvQ5qutlw3L7UBU6O8AHKFtW4--SQ0sv-Gim4lB0p42mh_qLiivhIEfgAdi9IkSBt1pPXzfA5uEhD8xKvlIq0kAXSzNNpUs_vfGhRIwJiK3zzyvJc_m8xbf6UdbYAW0A",
+            "width" : 2048
+         },
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113763600884847067111/photos\"\u003eIvan Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHowC9hoGTyabXznf05LFmC2Bx21NxjLPSfM_jjhjNmB-8hTHuL_73n8ye4DJsrUBpbpXVL2E_h7Lh3KeZwHzCf3yEB8Qq3t_MMOmFamGy6olJOZ_C7iZpz1X_so6nXcREhBVyFI-i_H_BhoJT9zmwMWeGhSr1IbORlhRD_sZumtbQgd3BAlXaQ",
+            "width" : 1280
+         }
+      ],
+      "place_id" : "ChIJP7h8VS350YUR2YwWHaUnQ6s",
+      "rating" : 4.3,
+      "reference" : "CoQBdQAAACjsnqyaNct5_LFxjLSlPclMblIE_2kKpOAAjAtEvhWnc--2lizOgoXXhSIKOYx6GjgkoC5sbMptbQzEzj4cFEDuDTYK9MMLlEFSbFjJ94V8iyFpxL8rvadErp6wuc0N3j3QMMdYdTAJK5B67V5siyTZo-76-FuahxOC51HFt7agEhC0zmBHDzvmNC1eDF-50iqtGhSYmLyxh80fT_9jHX_sKQEFpM7XQw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Camilo Buitrago",
+            "author_url" : "https://plus.google.com/108022616301651854261",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-IIeprsjtpQk/AAAAAAAAAAI/AAAAAAAABac/E6rZ33oVdmo/photo.jpg",
+            "rating" : 5,
+            "text" : "La tiendita del MUMEDI es un lugar para antojarte de un montón de cosas bonitas que se verían muy bien en tu escritorio.\n\nLos precios están un poco altos, pero es el precio que pagas por tener accesorios que tienen ese toque único y especial.\n\nPuedo irme a la tiendita y quedarme una buen tiempo probando los distintos juguetes y pensando donde ponerlos en mi casa.",
+            "time" : 1454979388
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Jeffrey Torres Chong",
+            "author_url" : "https://plus.google.com/117372003570051262354",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-44_ekVOig48/AAAAAAAAAAI/AAAAAAAAABI/zFAK4Xt68Xg/photo.jpg",
+            "rating" : 5,
+            "text" : "Comida gourmet deliciosa y agradable a la vista, las papas curly son riquísimas por sus especias, el decorado es muy fashion.",
+            "time" : 1451031668
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carolina Dupinet",
+            "author_url" : "https://plus.google.com/117345382014330939166",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-PL436eD2cec/AAAAAAAAAAI/AAAAAAAANmg/dT-CKRUXcJw/photo.jpg",
+            "rating" : 5,
+            "text" : "Edificio fascinante para entender la historia de la conquista en México.",
+            "time" : 1448921085
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "pablo cesar perez ramos",
+            "author_url" : "https://plus.google.com/100968920489448548579",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-vovmgs8JWD8/AAAAAAAAAAI/AAAAAAAABrw/TeYdNOHgZu4/photo.jpg",
+            "rating" : 3,
+            "text" : "Muy buenos diseñadores",
+            "time" : 1453687275
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Osorio Feregrino",
+            "author_url" : "https://plus.google.com/114120295657604710515",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Ke-0lLik1d8/AAAAAAAAAAI/AAAAAAAAAFM/o5YNbfc8tBE/photo.jpg",
+            "rating" : 3,
+            "text" : "Me encanta la tienda aunque los artículos son algo caros. Nunca he entrado a la galería siempre que voy no hay acceso. La cafetería es muy agradable y se come rico. Casi siempre hay que esperar por una mesa.",
+            "time" : 1456406635
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "art_gallery", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12340750994036395225",
+      "user_ratings_total" : 76,
+      "utc_offset" : -360,
+      "vicinity" : "Av. Francisco I. Madero 74, Delegación Cuauhtémoc, Colonia Centro, Ciudad de México",
+      "website" : "http://www.mumedi.mx/"
+   },
+   "status" : "OK"
+}

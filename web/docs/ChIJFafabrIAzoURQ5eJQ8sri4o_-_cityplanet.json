@@ -1,0 +1,90 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tlaquexpa",
+            "short_name" : "Tlaquexpa",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Pedro Martir",
+            "short_name" : "San Pedro Martir",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Tlalpan",
+            "short_name" : "Tlalpan",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "14400",
+            "short_name" : "14400",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eTlaquexpa\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Pedro Martir\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e14400\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Tlaquexpa, San Pedro Martir, 14400 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5849 3874",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.2465158,
+            "lng" : -99.1777469
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id" : "c1d88028c921044de2b7efe0f044ee3718e74b2e",
+      "international_phone_number" : "+52 55 5849 3874",
+      "name" : "City Planet",
+      "photos" : [
+         {
+            "height" : 375,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118053785809213253872/photos\"\u003eCity Planet\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAxEAG3QCyNPYef0j-E_ygiCp6ZF72yZrxnMojEtSvMsNu9YpelULh8Cb6Lj2OkhwdMun3lgiXc7S7gB1dskFFmn-A6x9peHfdljDj_X4O2t6Qd3DLszl7-tlYXl1Ac2qCEhBqrnjLMQedY20DpvG1H5CFGhQ98d-QmS2IxTpDcB0Th28NhQiIQQ",
+            "width" : 500
+         },
+         {
+            "height" : 375,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118053785809213253872/photos\"\u003eCity Planet\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAWtCq3Fq18_aSU_wsZt0-jODTiXkK6uPpDbAaE18qtS-sij2YeCUp4UXdDLWjGKcD_XYbGBSBf8TRshlUztykGcl8MyNe6bVwdl0u8-HvLcZM5tHEPcQKH-ee3c9zxXJjEhAgXxMR9_nrUUeNEbU-cKPRGhQPBsNwkJgyYorhDpg13GwWNgVDHQ",
+            "width" : 500
+         },
+         {
+            "height" : 450,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118053785809213253872/photos\"\u003eCity Planet\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAhAJ_Ntzc1G_e-D-DKZ11tLN3UNyB1_0T-WuetF7B5qtvoMTQMIbunCh9ZoMtoNpbK5NvIjVjYIyZJXrLVH5LUUPAyC3_1mmYiNvbJQELPIhhosEaS8JTKTHWVRAosIt0EhDOstyAMQBo0WDU2HE4gZHJGhSSRu0Q0_B0cXSDyxLIS-sQuMHQ9A",
+            "width" : 800
+         }
+      ],
+      "place_id" : "ChIJFafabrIAzoURQ5eJQ8sri4o",
+      "reference" : "CmRfAAAA4ND7TR2X9vKZP2aLxVQcjSritbY8Yy2An04Uf3jRh6JFjXxh4grVxKyOBONXlTgSGkVFcIFBwCN9DewUaQbfHeqNi_snLvBXep_L-ECMCbJJETM66y5Lg-FCDVLEUfvrEhCQpBZqT6vuCICi2mz5YjUyGhTkNiPzgJwGijDD0wtsIIP2qDOr8A",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9983121151008282435",
+      "utc_offset" : -360,
+      "vicinity" : "Tlaquexpa, San Pedro Martir, Ciudad de México",
+      "website" : "http://www.cityplanet.mex.tl/"
+   },
+   "status" : "OK"
+}

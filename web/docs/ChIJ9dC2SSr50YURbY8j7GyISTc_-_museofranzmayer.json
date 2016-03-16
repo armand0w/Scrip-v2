@@ -1,0 +1,309 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "45",
+            "short_name" : "45",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Hidalgo",
+            "short_name" : "Av. Hidalgo",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro Histórico",
+            "short_name" : "Centro Histórico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Guerrero",
+            "short_name" : "Guerrero",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06300",
+            "short_name" : "06300",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv. Hidalgo 45\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Histórico, Guerrero\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06300\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Hidalgo 45, Centro Histórico, Guerrero, 06300 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5518 2266",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.437607,
+            "lng" : -99.147223
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "92513e4cc929cf16f2cec8f47b0372b344661974",
+      "international_phone_number" : "+52 55 5518 2266",
+      "name" : "Museo Franz Mayer",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117840586773623981096/photos\"\u003eALEJANDRO BAUTISTA\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQoA_fgQ8gBHybrWzepHukgzo4ib9MPhhTv78Dc94K3US676nRYsfiGZHFMEMJzOvmexSaz_yM_O71O-KqQDk78xVqJHeMrajvN1Tp0yYiZ6BD1aiZ3OZ6emm-cbRATZaEhDHNqivFh7TetWk42_5EEQBGhQZUhtURQcJrqRjAYkE_ok88qcXsQ",
+            "width" : 1600
+         },
+         {
+            "height" : 1296,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110011763240385865377/photos\"\u003ejose luis gonzalez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5eZp7IOGMkIlWgUk_47SFd30kggDe6LwORmd-nlgDQmL5zXtDy4HY2jmwVlhvq2r_mqtL3_AAtOyJY547PAcv3dGQ6yOjNCnYQMyATb3NEcB9P8FAbKt8ZIIoV3yUbAXEhD1qE3Mr9WGoDVbROH54tOaGhQqUnSAtetqldCQcCTJfdt-XPHnOA",
+            "width" : 972
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109400472359143849946/photos\"\u003eDaniël de Wit\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABJHqu2Z-sTbc2nlY1mHyLEzVcW2ChPrnKyl464lAZl-LIKE2CXrDgMyedB_6Z2DPdVcQNx43g2wGNK1VKOg2C0P_4Ba00qgrGpgO4rq5RkcFE0S--SxuBJy6F4bZY1glEhChHwjdboVkSjn6py68pTpvGhQvmu80In-CCGBWKVNW-Jqdc2D9Qw",
+            "width" : 2048
+         },
+         {
+            "height" : 1936,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109617356271000117750/photos\"\u003eLos Mezcaleros\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAljTvt_koGuqvdqLUGKRt_4PgdeS6jP_bnOElgatd6r41xwRViNneRybC3Q8H3NwOJZgkQix1QRPWgaWvr_-Mm2li9C5GORdru3z8JYXsASx-g34mSl9KNqUyxHrTFSFVEhCYUSRqv7qAdLgdRo6kTLV4GhRsBIPAAsULIEOF5cQz82vRe7z2bA",
+            "width" : 2592
+         },
+         {
+            "height" : 797,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102249211224405138808/photos\"\u003eMuseo Franz Mayer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQWTh5NIfF0GM4-Of2_JltohSquyy3aDixdPdl6EM8SFvLQEtWglvs1JXwS8ycLyWK9ldKoFjxbwYimolFkNj8KpqroGvEz2LSKdi1MPmG2O9f4T4VOlXOZ5kvwRiXKFqEhCYBQZuCtoH1dOQZ0fuar_2GhQ0T9NwFHOfOQzk_Msq2YrI_GdBqg",
+            "width" : 797
+         },
+         {
+            "height" : 1000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102249211224405138808/photos\"\u003eMuseo Franz Mayer\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAGlRAfGMQGUZkAKBvp3zN4wQzrKgxzqftzxFqo0IrM2r3WKLS83Gc58qZdU9M43_HrekARfLR6aytk1PiCcxbexqFvl_69_DpNuWgYbRODJXvYtzqZLmsfh8gVMuvNaBxEhDbnqhNmEwmDu95JMMcG7xYGhTWxHDcm5SZHmDPFRURdbIQJiNdIw",
+            "width" : 1000
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117840586773623981096/photos\"\u003eALEJANDRO BAUTISTA\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABnMs-g6ac89v01IuzxKjcfCzl7xfZVyEQoudcNWS5gZ8YmDUj1p-vvU2im6UxpXLdYXf4BkF6O7D5o72hH2N28yFlVmAajIO9Y3A9hD07bItrGZHj6ttzQDe1FS_FgWIEhBiikPHpZzwHX-uc7pp5n_PGhQtONlMG4FBpn7SHkGYey0WpTX_gg",
+            "width" : 1600
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114661118669006151415/photos\"\u003eIrma Pascual Mendoza\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA91_SYuY1R-Y2TIZc-Fto2zD7wBoZbeolWH-6K7GsOHZUVFE0rCYynt1X5fWzCWArSEYMAtDiSINbgzvehi3JLbHaBywxYHjz8FJwWu15TLlOvXhK52LfoK3QW3WmPsP4EhAAagJsTPKHMB5DFbBevT-cGhRFfj_PxakmcU72LH9-AClWT6vHWw",
+            "width" : 400
+         },
+         {
+            "height" : 1200,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117840586773623981096/photos\"\u003eALEJANDRO BAUTISTA\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAIMeIcPPyk1DRLWZusXJeaSv_-GgqzMg0oWwM06ArRFj5_Gf81meudNfBCzuChR8oNC2TpFHG3d5tvNbHgKKsN-acxyiCE65C8p-DsKhB7UhJroGwm2x72Fx3MvVWxz88EhDVAM6jY7qHeid7rHYlAiqzGhTzB6Adar3pMt9EWh_TzOC5oCcl5Q",
+            "width" : 1600
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117840586773623981096/photos\"\u003eALEJANDRO BAUTISTA\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAPO6SpurdlUIZ3qODZYLbAqS1qIc1t-zC9209bSF24lvTbnWQxdm0U4tvfUzKHlexP6f5oL9Vjfp6916sGpH5zJ1UCUcdRV-S0xzqZNCG_L03--QkVe-MBfVCzJo07hzGEhC7fELXDg8u0CyJfJ8S94KEGhTJX1CdMbaWd7nJhbxV76dwNLIRDg",
+            "width" : 1200
+         }
+      ],
+      "place_id" : "ChIJ9dC2SSr50YURbY8j7GyISTc",
+      "rating" : 4.2,
+      "reference" : "CnRkAAAAu65-bEheTL0F81AMJxVS_Q2Sh4Qe_aQy9BvUprju4BqneTiJrE2zZ_ZtpylD7HByeD_htCwHG2sAopnsIqfWomhLJtKWpwJIZGJvbczk0fpUidNQF_Z4gCJcAcOUZb2LbjbZsI8uXXrOP8iQjf5S9RIQBMhxng0XZnV_wAXOZodVRBoUSbB7tiEWk6PTRRsCp9ZPLR4Dw4s",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martín Zvl",
+            "author_url" : "https://plus.google.com/112992848918810639544",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-OyKrgl1_ESM/AAAAAAAAAAI/AAAAAAAAAU4/lzm6X9rECdg/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buena selección de piezas que se exhiben en el museo.",
+            "time" : 1448600690
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ryu Dragón Azul",
+            "author_url" : "https://plus.google.com/101409688245568251504",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-H3eAf-XeexM/AAAAAAAAAAI/AAAAAAAAWB0/cqVbEPQOUpE/photo.jpg",
+            "rating" : 5,
+            "text" : "Uno de los mejores museos que tenemos en la Ciudad de México, todo su estilo colonial te transporta a un ambiente de los siglos XVI, XVII y XVIII. Tiene exposiciones temporales muy buenas así como conferencias muy interesantes. Su estacionamiento a pesar de ser centro histórico no es muy caro y está techado. ",
+            "time" : 1442413126
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alfredo Vázquez",
+            "author_url" : "https://plus.google.com/117192419092351093890",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-zw3hjRF-E7g/AAAAAAAAAAI/AAAAAAAAGd8/RhOmdLzE9eM/photo.jpg",
+            "rating" : 4,
+            "text" : "Un museo muy bonito con gente demasiado atenta y sobre todo feliz de estar haciendo su trabajo. Lo único malo es que en algunos lugares la silla de ruedas no puede pasar aunque unos metros atrás si haya rampa. Pero a fin de cuentas es uno de los mejores museos conservados hasta ahora.",
+            "time" : 1443008753
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mo García M",
+            "author_url" : "https://plus.google.com/110136892294906160004",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-KF9qhU8h3g4/AAAAAAAAAAI/AAAAAAAAABc/-Zh8nznYgZc/photo.jpg",
+            "rating" : 5,
+            "text" : "Esta muy bien el,lugar, se te van las horas ahi, y hasta cafeteria hay",
+            "time" : 1451946771
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Tania Lina Gonzalez",
+            "author_url" : "https://plus.google.com/111369726133930735798",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-Hej05ldV5LY/AAAAAAAAAAI/AAAAAAAAAB0/SK2bPJu9wAo/photo.jpg",
+            "rating" : 5,
+            "text" : "Mi museo favorito. No solo por la belleza de su fachada, sino por la gran curaduria y el nivel de exposiciones que presenta. \nCuenta con estacionamiento propio y una acogedora cafetería.",
+            "time" : 1447017442
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=3983865346785513325",
+      "user_ratings_total" : 144,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Hidalgo 45, Centro Histórico, Guerrero, Ciudad de México",
+      "website" : "http://www.franzmayer.org.mx/"
+   },
+   "status" : "OK"
+}

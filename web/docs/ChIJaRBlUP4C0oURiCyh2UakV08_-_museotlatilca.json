@@ -1,0 +1,199 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "200",
+            "short_name" : "200",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida Gustavo Baz",
+            "short_name" : "Av Gustavo Baz",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Naucalpan Centro",
+            "short_name" : "Naucalpan Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Naucalpan de Juárez",
+            "short_name" : "Naucalpan de Juárez",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "53000",
+            "short_name" : "53000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv Gustavo Baz 200\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eNaucalpan Centro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e53000\u003c/span\u003e \u003cspan class=\"locality\"\u003eNaucalpan de Juárez\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av Gustavo Baz 200, Naucalpan Centro, 53000 Naucalpan de Juárez, Méx., México",
+      "formatted_phone_number" : "01 55 5300 2705",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.479177,
+            "lng" : -99.2320041
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "7d1fd2503438a7f16658da060ef4dec83ac6e875",
+      "international_phone_number" : "+52 55 5300 2705",
+      "name" : "Museo Tlatilca",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1400"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–14:00",
+            "domingo: 10:00–14:00"
+         ]
+      },
+      "place_id" : "ChIJaRBlUP4C0oURiCyh2UakV08",
+      "reference" : "CnRhAAAAPje_Fj-HftM1u_247gwCa0_OgGSD7A-QZS2sEd-oyTCvwDhyoqBveRFqeHWDISLQ6WWyLPN8HQBbwA2mhyxcOGhLBgMiMAloYTD7FAKsZxpot4rIetzZF8RPotNr9xHC9_njowRq4bc1jnZITGr__BIQqUflqf-qhjPQ73Pxczg9RBoUvvBtlUQWHS1NHE8Lxu8V2slU1OY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Guillermo Saad",
+            "author_url" : "https://plus.google.com/111737067704370724993",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es demasiado pequeño para el significado que tuvo la cultura Tlatilca. Procedentes del norte, fueron los primeros pobladores de la cuenca del Valle de México en el periodo preclásico. \nEn Naucalpan se asentaron en lugares como San Luis Tlatilco, San Andrés Atoto, San Juan Totoltepec  y el cerro de los Tepalcates, y en el DF se extendieron por El Abolillo, Ticomán, Zacatenco, y más al sur, en Copilco, Cuicuilco y el cerro de Tlapacoya.\nPoseían influencias olmecas en lo tocante a su religión y cerámica. Construían casas sencillas y enterraban a los muertos en los patios de esas casas. Destacan las mujeres voluptuosas y sensuales, elaboradas con la técnica del pastillaje. También se han encontrado instrumentos musicales, espejos de obsidiana y esculturas de músicos, siendo una de las más famosas la de El Contorsionista, que se encuentra en el Museo Nacional de Antropología e Historia. \nComo referencia bibliográfica del tema, consultar al arqueólogo Román Piña Chan.",
+            "time" : 1447100703
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dipef Retro",
+            "author_url" : "https://plus.google.com/105771503206204975332",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-GVDvi4zhQDE/AAAAAAAAAAI/AAAAAAAAB2k/rdRJ6U4qXhk/photo.jpg",
+            "rating" : 4,
+            "text" : "Por la facil navegacion pero las imagenes estan desactualizadas",
+            "time" : 1444789496
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jesús Garcia",
+            "author_url" : "https://plus.google.com/101944928603784133052",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-IzmzyCKxjkE/AAAAAAAAAAI/AAAAAAAAAFI/YisjZijFc7U/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar de esparcimiento y conocimiento ",
+            "time" : 1448316506
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Israel Orozco",
+            "author_url" : "https://plus.google.com/113095525765148071969",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Gyz9JMLZYH8/AAAAAAAAAAI/AAAAAAAAABM/EXyQgWDp1dM/photo.jpg",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1441397225
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=5717218876176018568",
+      "user_ratings_total" : 4,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Gustavo Baz 200, Naucalpan Centro, Naucalpan de Juárez"
+   },
+   "status" : "OK"
+}

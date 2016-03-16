@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Ciudad Universitaria",
+            "short_name" : "Ciudad Universitaria",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de Mexico",
+            "short_name" : "Ciudad de Mexico",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04510",
+            "short_name" : "04510",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Circuito Cultural de Ciudad Universitaria S/N, \u003cspan class=\"street-address\"\u003eCoyoacán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCiudad Universitaria\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04510\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de Mexico\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Circuito Cultural de Ciudad Universitaria S/N, Coyoacán, Ciudad Universitaria, 04510 Ciudad de Mexico, D.F., México",
+      "formatted_phone_number" : "01 55 5622 7260",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3119904,
+            "lng" : -99.18044379999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "5c34923905c47cefc9ad0d6b590b8a6e9995ac41",
+      "international_phone_number" : "+52 55 5622 7260",
+      "name" : "Universum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 9:00–18:00",
+            "miércoles: 9:00–18:00",
+            "jueves: 9:00–18:00",
+            "viernes: 9:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113483983104276643188/photos\"\u003eAlejandro Lopez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAeDPLqhXeMiT_HhsPa39pCZcunceXALfNcmYVloF5V1giXjV8Wj0MEJ2IBohf2GIVvWPRGa_JpM4Ug4iV9fzJrTCtkziOGDLftTYYqIaMwX9EQrCElolFKJBWjkVrU-q7EhAAbNaVbIbx20p7PvMZqJLyGhRgjHx1UX2fHkzOnLhZQ-iY1ObWhA",
+            "width" : 1836
+         },
+         {
+            "height" : 343,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103737806186930491129/photos\"\u003eUniversum\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAaxXcNhpfmIRXbrakrpqyVjenkqocFPu22xLSnswtLf_aDV26GnXkwcoUnHtLGKpGb61Wzkrv2lZPqeaOVBAkJ_LxgnRkM3VGRzmtZymK4GcgotfUt5q3Sl25uHU8RMCCEhDwAUjnwHQJkwHDjhomb5mGGhR4AmeuuNSDG7ydohtyMl9XEbyt_Q",
+            "width" : 512
+         },
+         {
+            "height" : 502,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101228506437886110200/photos\"\u003eandrea vanessa jimenez diaz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFqWcRTc8j4zgfb6PV5eqjwl3_PtLh5F1oVXWLn4pOhcF0t4daFKHNVb303wET_NGoccARfqb5J1lXmK90F3zzTf4o2EOwEPMyzaTYFpimKHYS5MwXKGkauoY69ovCWWlEhB_dcDdq5JygX1l7mvwWQ-YGhQjwavY-n4MsBRo6b-x_FPtybivbQ",
+            "width" : 752
+         },
+         {
+            "height" : 1944,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117388765526354113171/photos\"\u003eFrancisco Castillo Muñoz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApSQyHB2zvwxaPtV2oRMCWJfWDS949KXB3_WyGjdxIkfHjRGFmB_r0AvV-kMG8G3lRsrsvt8SeBloqu4WQERjIvBBYm02GZWMLclunUO9vLZAs_gciR903ZpEmHxyGvoqEhC-ToIXP03RCOEcXaeDTnqmGhQY93chhtYndWoneO_6IqNG4chdjw",
+            "width" : 2592
+         },
+         {
+            "height" : 2328,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUy25SF3M0E9zr3LjUKoU4LNFdrWx2MQzQqOtS0uG05W4feeaUB8unKLqB8g1RCzi1FRgEj3F8DARJ4YIGPeka1JtE-3-CfdcerYEhAADgnC1Jx3pjl-VXV4y5ezGJ3lFEhAlLX_-RHqZwEFHkVyBMsdcGhQK2bhXHu_SFb06_tWvxRUfvxA6cQ",
+            "width" : 3104
+         },
+         {
+            "height" : 3096,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106176615145627700110/photos\"\u003eEdgar Gutierrez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHc5RwZjEYMotZ4Ha9Zs-TRY2UuGl_QlcOlQxGw9fORmnncbjeIZOxuVRGpBEDT-xtqjdmGS0-Ej_zr8ko97dEKt9Cn98VLsjsi6DyPhp2-TQACd2TYOoaf5mX6kShqntEhDqTczCAq6O4NtG2XzghZWIGhQAUcZ3MANtzIKqheDelzyr7nWasA",
+            "width" : 4128
+         },
+         {
+            "height" : 342,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103737806186930491129/photos\"\u003eUniversum\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9vHCPr5KrycvNV2Up6P1Al6CMiBSOkyd5zsXH1zdcLsk_npBqPMoNLMAH5q9RZSznzYCx724NgyRHvVQINXeLCXfkL6U0EvOWx2pe8Vod-HFM5-GvmFVZNcbf1xsTYRJEhD2qdx7YDg4cbt3RPAypsYXGhTf09-V_xCj209q_7PRiK6B6DJSgA",
+            "width" : 512
+         },
+         {
+            "height" : 2763,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAtjkvGbIxaSwOUb3Ld91smiuAwylVdHYKSlh698WNVWtAH9t9aKNPeCNA8tToKJZFqCfZhPDFUrc8S_flBk7zH8RlEz2Ce2AVInp9cqQMH3vmTxjL9HdCS5oZ637LlAiEhCapIsL7keHNryC0l4c9l-VGhT5L7NWvFmk6VDKrzYYVXHSUtcNBg",
+            "width" : 2328
+         },
+         {
+            "height" : 512,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103737806186930491129/photos\"\u003eUniversum\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0-vtZ-2sBx2hVuvnFl43CCloxIs2brgU0klOxO9DdUkSu4Sb3odkEIw6K_WY_E7GPSlSfR7_Ne7E4A653JZ_lqOxkSWsDN3tVcY-eR0zFHnIMhopW4M8FMb4ygmD6s4hEhBPC2Sx0UqsitswJLJSthfDGhSVnAzcJAW6fWg6iuggrloJfWCpmw",
+            "width" : 384
+         },
+         {
+            "height" : 342,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103737806186930491129/photos\"\u003eUniversum\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAgg263iRL1bjHIpRsgS-zuLx14xuln-QuIazzP88v1Zi3jqXCKww0sdZVsuc9LT14qHqNdiiR9K8qfbUooO-xfEE_Fsr8493m8k7XgsaiOQIyXS0RWHA9t_bpwT9BWs5cEhBAB39b5498tpU1KdTuzHHCGhQ1o1OpFdjCZ-YrWXKquxequZNoSQ",
+            "width" : 512
+         }
+      ],
+      "place_id" : "ChIJ8zug4HIAzoURl_h__aNLwIU",
+      "rating" : 4.6,
+      "reference" : "CmRdAAAA6wAfhdKa9xu-pWJs3L4kFzIZh7Y0Y5ajf9REYBvRqJBb_LAfFwDR36e7YXYgg1qa5KosIum7N9Z-usnVdftSJX79W9wJuNH5tMWkfQyHVrX1m7R4ALgkFCq_lAqba94hEhA6A1tSia31B4dRF3TNSltGGhTS8-KRjZmML1GdSzodavuk9i5PIA",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Esteban Ruiz-Velasco",
+            "author_url" : "https://plus.google.com/106705242437425841750",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-CfDGSNL3Tlk/AAAAAAAAAAI/AAAAAAAACCo/3kM6hkXXEcI/photo.jpg",
+            "rating" : 4,
+            "text" : "Este museo es de los pocos que se enfocan en difundir la ciencia de una manera divertida.\n\nHay exposiciones mejores y peores, pero em general es divertido ir ahi, especialmente para los niños.\n\nEl restaurante es bueno también.\n\nUn inconveniente es que no es accesible en transporte público, pero no es tan lejos del metro CU o del metrobus CCU, y las caminatas desde esas paradas son muy ricas.",
+            "time" : 1448944024
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Flavio Lazos",
+            "author_url" : "https://plus.google.com/110128121110603274162",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-XufQ7pWvQyA/AAAAAAAAAAI/AAAAAAAAACg/r5EGAnncj70/photo.jpg",
+            "rating" : 5,
+            "text" : "Uno de los mejores museos de México para la divulgación de la ciencia. Para chicos y grandes, niños y niñas, el Universum es el lugar ideal para conocer y asombrarse de este mundo. No te pierdas la oportunidad de tocar un auténtico pedazo de la Luna!!",
+            "time" : 1457601551
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jose Vargas",
+            "author_url" : "https://plus.google.com/100936974718690311852",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es muy buena esta aplicación\n",
+            "time" : 1448732849
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "KaRiNe DaemoN",
+            "author_url" : "https://plus.google.com/105903461543396873900",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-3mOasu-LHYE/AAAAAAAAAAI/AAAAAAAAFqU/Xzq-KS__J-w/photo.jpg",
+            "rating" : 4,
+            "text" : "Uno de los mejores museos que hay en el DF, el unico pero que le pongo es que esta muy lejos. Pero sus exposiciones son geniales y sus actividades fantasticas. La mejor manera de disfrutar este museo es con tus amigos o con tu familia para que todos se diviertan ^^ se los recomiendo mucho.",
+            "time" : 1448490148
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "leonardo ramirez",
+            "author_url" : "https://plus.google.com/113404096120420548362",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-YYCdbgSFXS4/AAAAAAAAAAI/AAAAAAAACaY/QaQeYX88kTo/photo.jpg",
+            "rating" : 5,
+            "text" : "Si están en el sur, el universum es un museo ideal para todos. Dentro de C.U y con un ambiente perfecto",
+            "time" : 1452532524
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9637786370277636247",
+      "user_ratings_total" : 209,
+      "utc_offset" : -360,
+      "vicinity" : "Circuito Cultural de Ciudad Universitaria S/N, Coyoacán, Ciudad Universitaria, Ciudad de Mexico",
+      "website" : "http://www.universum.unam.mx"
+   },
+   "status" : "OK"
+}

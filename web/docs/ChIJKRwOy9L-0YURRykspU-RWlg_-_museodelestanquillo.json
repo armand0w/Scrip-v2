@@ -1,0 +1,281 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06000",
+            "short_name" : "06000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Isabel La Católica 26, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Isabel La Católica 26, Cuauhtémoc, Centro, 06000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5521 3052",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4333193,
+            "lng" : -99.13614629999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "54574c7fe3b16b88649d11be5ed78194047c105f",
+      "international_phone_number" : "+52 55 5521 3052",
+      "name" : "Museo del Estanquillo",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–18:00",
+            "martes: Cerrado",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102285150339872923686/photos\"\u003eKINO DIAS\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAACaKdj8HXNBEV8mkh-TEmNxQt7zkqX7SNmsSx4HYL9VaWlzXpgvGMyEaMdI-R0wb68Y0QP1OtABtYRmg8hDJOwaYGxSq0ndY7B3owrlyzNaV_RRC2OjIYBEsSeD2fTGb3EhBRCk9E_jRRdSubIm9boaFYGhTOlVvOE3miC4g_SC0Qaek0xiE1bw",
+            "width" : 2048
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105666396483772347559/photos\"\u003eOctavio Alonso Maya Castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnSPs2kndaxu9NS3Nd_1SqynYkAEc2aBZVqtHSD1e-iODtHJoJdhS7F-3xCZ_lMcnPdT3lS956UCfilnuoRCVSuNZPsuF9C7D0XvLPxcTUkniCbVexNA9rv8dX1fN44hnEhAwAn_ssYsYv1aTNuof99AVGhQRkGHtDv7ZXjQzmvwZ36NusVFAbA",
+            "width" : 1024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109400472359143849946/photos\"\u003eDaniël de Wit\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAEHY39a8UJlJXp7Efwr2bQNw2KWFfYgPBRqxERLNBl5r2TzFZ8LTTUiqY_4b92XU0qdIRDSSfxSlz3oSpxGLDVm-R_oPa7hd4arvjbx6CYMdcMwg45uMSyzk2k0PgsfijEhA99R5vmxtrw6JPUPuyqL0cGhSJAzJ1W-d1YkkWifQrsqyIQXUPSQ",
+            "width" : 2048
+         },
+         {
+            "height" : 619,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103304620155783060393/photos\"\u003eMuseo del Estanquillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApmjqyV3Htv3UlCif4RSKf74Y3NvZAwPzB4dVxYbN6A0o-QXW9akfT6QASoNX56xrm5ZfezvES1fwk1B4XgSj2uDZ2XvL7Uurjllp-W75j0kU17sHS0kYys1eMxKb5EOiEhBj6mQxoVAlICpZwswQVaKgGhR9yNLUoCDsqrjZUDmujSa4TcJCLQ",
+            "width" : 990
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105889188807244379103/photos\"\u003eJaime Golombek\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAuuoJ5G3sGnVhhUu7j2A_eBa-ydQa3i4ba-TdTCJxXZXdYwtWokp27S1tEiR0aESBSYtL7ibJhKv-GRDxhYYfrVfL0OqFeBWuLK1qXergUiS-3BKYuVt0A-kpUZpwvQf3EhATLhde86XUpaZC5NhgfH0_GhTbfB1rJRGY56fNDfHRNFTbaQRX5g",
+            "width" : 2039
+         },
+         {
+            "height" : 773,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103304620155783060393/photos\"\u003eMuseo del Estanquillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAaLmWc_vvt8-ubMkzxV0ar78psy3B_OF47T7UF3KVCls9p43Ci47VK-5F5GFJOavF1vLTJXf-zXN-CRGw6hkiiCr3LmP00y_CWJ3MX8FC7Gb6hrR-CuKzLjVg9ZES7xv7EhBFB5xTq2IgkkHGMiYoa1hjGhQHKW_RYDZ1yZMhpnVHF2p-XHZn3A",
+            "width" : 773
+         },
+         {
+            "height" : 2560,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112936208389793944253/photos\"\u003eAndres Padilla\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA92f6Ci4i_Ae6M4vyiG583adCZNnGuKExhW8fcKOlEfQGwB21XbjzZ5ja2-cljoe0n0v3mW4zT48hkSQgTPNjQyNH4lgVjQ3vpBCh_nLwAviMux_E306nrD6QSZ90oicJEhBElQc_Gvd3it9SeoM8gRVZGhRbcvFFgFyVfFhQpzpq4cY6MApUDQ",
+            "width" : 1536
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109606191856979334536/photos\"\u003ealberto neri\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQEyBKxObSCgt9sVCqDep7IPQBG3s3Iv_-52L5EhBpwqCq3wgtv1QVakGgB8mOf0RIGelNfL0h6UzHwpeU4FmIPl6d6VP5T3AnoBHddqPeZEkfWhpnAO_kzzV266MseoiEhAUfbDjwl5DRCGWdcjrXNtgGhSjgzGcvigcDy5MK4oKQZKTEn0d4g",
+            "width" : 4208
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114481373146114646771/photos\"\u003eArturo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAG_FENAxnMa3HZwqATuz5BFU6J-IoLfiyUHdFsvgG8YJKoiLknub-spiLIAjduM14ejTKUMn_eB8PvfiGtLvffK6DXmoTaJ1s5IAuPqEpRl3qsn0_jhA1UXTn4MuNJnno8qAOLRhKVnqlTVW1NVeUKa5oJyzsDoBxClUmTzdcrAdEhDi9i0pcOmS6qWIeznUkVvQGhTxaAgViEjcT7S8TYJUeVRX12fTjA",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJKRwOy9L-0YURRykspU-RWlg",
+      "rating" : 4.4,
+      "reference" : "CnRoAAAAAjh5LPn3lVoUfng9VMfOb23xuZ0BxViKq1x1KxTkvIsxEiHd4OizS6fTaDRSP3W17d7tqso-ehLmFf2GHBzcyDtEhwo3BYxN2zrvz4HXg5gjxY0OFK0ec48chkSyblxDAhDn65tbyljuMZ1gq_RjCxIQ61QSAbQDdnWqmORmrx2SbRoUGOo6UrkfKBMPoI6isl9_QbgAxqY",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Islas",
+            "author_url" : "https://plus.google.com/104307847380401851404",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-u1T8OnHsQJs/AAAAAAAAAAI/AAAAAAAAAPI/l43y3qH0fqo/photo.jpg",
+            "rating" : 4,
+            "text" : "El Museo del Estanquillo se encuentra en el edificio de La Esmeralda, el cual debe su nombre a que fue sede de la joyería Esmeralda Hauser-Zivy y Compañía.\nEl edificio La Esmeralda fue construido en 1980.\nLa construcción es hermosa; tiene una de las terrazas más bellas de la ciudad de México. Además la entrada al museo es gratuita. \nEl museo exhibe la colección del escritor Carlos Monsiváis. Actualmente hay una exposición muy emotiva sobre el terremoto de 1985.",
+            "time" : 1442124031
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "San Beatle San",
+            "author_url" : "https://plus.google.com/111498018136050982036",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-FtkJN9dCbWA/AAAAAAAAAAI/AAAAAAAAADg/ZIi8XSPPYto/photo.jpg",
+            "rating" : 4,
+            "text" : "Es un museo joven con apenas 9 años de existencia, pequeño en apariencia pero organizado perfectamente en 3 pisos, las exposiciones presentadas son pertenecientes a la colección privada de Carlos Monsiváis; En la parte mas alta cuenta con una terraza donde se pude pasar un rato agradable amenizado con una una buena plática y en ocasiones botanas y bebidas, ubicado en el edificio esmeralda, el museo del estanquillo deja ver de cierta forma, los años que han pasado por la construcción, tiene áreas interactivas y dinámica incluyentes, su personal es totalmente amable y resuelven todas tus dudas, la facilidad para teber una visita guiada, es de admirarse.",
+            "time" : 1439445855
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivan Aguilar",
+            "author_url" : "https://plus.google.com/115444012951106337775",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-l2v8xWB4Bno/AAAAAAAAAAI/AAAAAAAAR9s/r65DyOlYyoU/photo.jpg",
+            "rating" : 4,
+            "text" : "El museo no es muy grande y pasa muchas veces inadvertido, dado que no hay algo que indique expresamente que es el museo.\n\nHay exposiciones interesantes distribuidas en sus 3 pequeños pisos. \n\nEl acceso a la terraza es un plus, hace deleitarse visualmente un poco del centro histórico. ",
+            "time" : 1454779006
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Karen Janett",
+            "author_url" : "https://plus.google.com/105870244314495781094",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-LgBNmNcgIIM/AAAAAAAAAAI/AAAAAAAAGpw/OvsyASxsFJg/photo.jpg",
+            "rating" : 5,
+            "text" : "De mis consentidos",
+            "time" : 1456764803
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vannya Rocha",
+            "author_url" : "https://plus.google.com/106395875300675479493",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/--cQfolZZlfk/AAAAAAAAAAI/AAAAAAAAAPU/Ma5cLA86YnQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Generalmente presentan excelentes exposiciones, la curaduría suele ser muy acertada, contenidos interesantes y una buena museografía. \nLa colección de Carlos Monsiváis es asombrosa. \n",
+            "time" : 1438095282
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6366560794501196103",
+      "user_ratings_total" : 57,
+      "utc_offset" : -360,
+      "vicinity" : "Isabel La Católica 26, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.museodelestanquillo.com/"
+   },
+   "status" : "OK"
+}

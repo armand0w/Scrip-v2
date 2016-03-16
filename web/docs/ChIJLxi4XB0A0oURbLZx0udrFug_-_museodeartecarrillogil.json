@@ -1,0 +1,232 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1608",
+            "short_name" : "1608",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Revolucion",
+            "short_name" : "Revolucion",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "San Ángel",
+            "short_name" : "San Ángel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Álvaro Obregón",
+            "short_name" : "Álvaro Obregón",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "01000",
+            "short_name" : "01000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eRevolucion 1608\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Ángel\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Revolucion 1608, San Ángel, 01000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 8647 5450",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.34929199999999,
+            "lng" : -99.19030599999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a4aa03253ef7ae694923b9167234a8fac793ef52",
+      "international_phone_number" : "+52 55 8647 5450",
+      "name" : "Museo de Arte Carrillo Gil",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 375,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101636744343495778756/photos\"\u003eLeòn Alfredo Balderas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZXggQfOqGP61eCeldFMZvPggHDUayi0QCZ1QLQjgiwWUoQOaBNiv4XdPP0rKQzkjTyekpMbwEHVChbX9kgc4xx5T8jCWEtivGTxqmxlErRTS7_VnhY63WitPnYNQ7st2EhAaV_r03W3eCiMmR9Wyj65eGhSLzxoqrIS2Q_hCgMTEDTKTC6yxwg",
+            "width" : 500
+         }
+      ],
+      "place_id" : "ChIJLxi4XB0A0oURbLZx0udrFug",
+      "rating" : 4.5,
+      "reference" : "CnRuAAAAOupUgrnQF54BvID4j1cI3UVqcQMHJykqTudD2D3EvYiu0CJZ95SL1V3WFMiCjC69VjIVCJ9z8A0tydKpAFnRJE3irCWWBlbvdD-0VZZ2vAvk6el1n7b3QxKraveZyNi5J5a575OOTwYMKO-wltN3PBIQy123WW5ATOgjyfCbhkp3xRoUQJZsR_vZS3OB1pImRTx4oo6U7BQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Melí Meló Cultura",
+            "author_url" : "https://plus.google.com/116340652691475201097",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-FOI756Qe1M4/AAAAAAAAAAI/AAAAAAAAAVw/udBW-kvFpZ4/photo.jpg",
+            "rating" : 5,
+            "text" : "Generalmente exponen la colección permanente de artistas como Diego Rivera, David Alfaro Siqueiros, entre otros bajo temáticas distintas, sin embargo también presentan constantemente trabajos de arte contemporáneo de diversos artistas nacionales e internacionales. Además cuentan con dos espacios destinados a pequeñas exposiciones: los gabinetes.",
+            "time" : 1445378642
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ian Watherrock",
+            "author_url" : "https://plus.google.com/108973068719103552420",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-QYeWvCvb-eU/AAAAAAAAAAI/AAAAAAAAAKw/lSu-PGAYvls/photo.jpg",
+            "rating" : 4,
+            "text" : "Me han encantado todas las salas, estan muy bien ubicadas las expocisiones",
+            "time" : 1449456119
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Francisco Emiliano Pastrana",
+            "author_url" : "https://plus.google.com/112181461728832065349",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-GtUk5Xi14BU/AAAAAAAAAAI/AAAAAAAAI-Q/3ezDRBx-sRw/photo.jpg",
+            "rating" : 5,
+            "text" : "¡La colección del museo es impresionante! También tienen exposiciones temporales muy buenas.",
+            "time" : 1447380418
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Edgar Flores",
+            "author_url" : "https://plus.google.com/104696822609858302682",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-4cnsaPclApw/AAAAAAAAAAI/AAAAAAAAoKw/2aHEIOSlXmI/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente recinto cultural, las exposiciones se renuevan cada cierto tiempo y siempre tienen varias simultáneas de tal suerte que en una visita se puede visitar varias exposiciones.",
+            "time" : 1447452317
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "octavio suarez",
+            "author_url" : "https://plus.google.com/100356745002127480821",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-37vSaFqiJGw/AAAAAAAAAAI/AAAAAAAAAAA/39eIQpZOfaE/photo.jpg",
+            "rating" : 4,
+            "text" : "Aprevecha las pocas exposiciones que tienen en el año. Es de los pocos museos que el mismo edificio es una obra para admirarse. Del metro barranca puedes llegar en menos de 10 minutos en microbus",
+            "time" : 1378610082
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16723672909699200620",
+      "user_ratings_total" : 30,
+      "utc_offset" : -360,
+      "vicinity" : "Revolucion 1608, San Ángel, Ciudad de México",
+      "website" : "http://www.museodeartecarrillogil.com/"
+   },
+   "status" : "OK"
+}

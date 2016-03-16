@@ -1,0 +1,147 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "S/N",
+            "short_name" : "S/N",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Avenida de las Armas esquina Hacienda del Rosario",
+            "short_name" : "Avenida de las Armas esquina Hacienda del Rosario",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Prados del Rosario",
+            "short_name" : "Prados del Rosario",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Azcapotzalco",
+            "short_name" : "Azcapotzalco",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02420",
+            "short_name" : "02420",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAvenida de las Armas esquina Hacienda del Rosario S/N\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003ePrados del Rosario\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e02420\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Avenida de las Armas esquina Hacienda del Rosario S/N, Prados del Rosario, 02420 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5318 5334",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.5018006,
+            "lng" : -99.21127439999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3b5042db3477d46fd7ead6a8d5760135f051bab3",
+      "international_phone_number" : "+52 55 5318 5334",
+      "name" : "Museo de Arte Tridimensional",
+      "place_id" : "ChIJoT_3qAr40YURVwqO0RNOV14",
+      "rating" : 4.2,
+      "reference" : "CnRvAAAA0_gHj48yogEL-QcgzxbEuUtXGcFx9HbcqVFuuAdWNJLjQXYkY7kaDqb6R3q3HabwOONtVVRKi-PWRPrQ9cRU576T97QCHmPpN-Yisqm5W3l15vqIPEijP4g4ZALXZY6hGSyMMuUnrFqZsj_w17QgsxIQFVS7Q0sRwpMzhgTJ-PK4JRoU6FYF6kXeMkBoM5-lTUxMTUMs8yw",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "adan aguirre",
+            "author_url" : "https://plus.google.com/106280846339105596206",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-HAjMscNQzS4/AAAAAAAAAAI/AAAAAAAAAVk/z3Se2ckNZ0E/photo.jpg",
+            "rating" : 4,
+            "text" : "Siempre algo que aprender muy bueno ??",
+            "time" : 1453685179
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "¿Woow! Es un museo interesantísimo, sus salas son espectaculares. ",
+            "time" : 1378506176
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "daniel almeida",
+            "author_url" : "https://plus.google.com/104244726103066734188",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-8UyzuD2EaQw/AAAAAAAAAAI/AAAAAAAAAPk/ntdXpRIVepw/photo.jpg",
+            "rating" : 4,
+            "text" : "esta sencillo pero  siempre hay diferentes tipos de exposiciones",
+            "time" : 1392094144
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mark Walhimer",
+            "author_url" : "https://plus.google.com/100449096562752376359",
+            "language" : "en",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-uSZuKLSuZ6c/AAAAAAAAAAI/AAAAAAAAAWY/dt7l94qrZcU/photo.jpg",
+            "rating" : 1,
+            "text" : "Museum is closed.  \n\nShowed up today and was told, \"nothing, nada, closed\"",
+            "time" : 1433136289
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mauricio Gonzalez",
+            "author_url" : "https://plus.google.com/101939825541503739111",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1453012904
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6797988009566145111",
+      "user_ratings_total" : 6,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida de las Armas esquina Hacienda del Rosario S/N, Prados del Rosario, Ciudad de México",
+      "website" : "http://origenarts.com/museo-de-arte-tridimensional-una-dimension-diferente-del-arte/"
+   },
+   "status" : "OK"
+}

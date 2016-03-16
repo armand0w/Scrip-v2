@@ -1,0 +1,97 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06030",
+            "short_name" : "06030",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Puente De Alvarado 50, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06030\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Puente De Alvarado 50, Centro, 06030 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5566 7753",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4381789,
+            "lng" : -99.1519167
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "f2b7fb802b4d7af35065eead87d91103f871006d",
+      "international_phone_number" : "+52 55 5566 7753",
+      "name" : "Academia De Artes",
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109572829265013096689/photos\"\u003eAcademia De Artes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALlDCWs8WTW25lOcce_N3PyW872-jo9Xdt9yOw8YlPB0I0y6S9m_364p6O-HK5Lds3-xFQiQPrLk1G1utzKCtev2_zYV9y-vVA7FWU4QFMuOLd37gN64G2w4rnFCATRidEhDMk4VX2tw0ASMlJhXzfi-pGhRO2THYPtVyVjP76FkJHFouTizsCw",
+            "width" : 1346
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109572829265013096689/photos\"\u003eAcademia De Artes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAekSmA4oVI6SUq2tjuwxs4jr9XSeAZwg-G1uhlb1qgZdKISt6Kt17Jt2RKKr5pESXwKkjgz_9LdK9Pjz3lYfOKYSCjSzGS2Aoy_mbS6GIVxwi2krDt1-6Sx0Bv6l375yeEhAWuChUzJ42gsAgpoNEaO-NGhRel7NYGsEYXIsOSpwa8SPjT7RnQQ",
+            "width" : 1365
+         },
+         {
+            "height" : 300,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109572829265013096689/photos\"\u003eAcademia De Artes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2jGdqDtBcpnm49smgVq6iX06HPxYPoGmp9V_Dw0aGzWyyDfSwjRTSf8DFciLqdOo7GLu2IThM3T4iW6bxkO0WnsCXB_oAXCddoUTLCPlrNaI19sM5dmq0x8pcBmPnVruEhBQmSlnV9V3e7HL79A08HBJGhRNw0eUFew7lB8PKSEEmcNRyEcc6w",
+            "width" : 300
+         }
+      ],
+      "place_id" : "ChIJAbEG5D7_0YUR792VLB1HUyU",
+      "reference" : "CnRkAAAAE4RmUS7W3LZKh7caDmovbQ3L1fE09YtPjwG-pCP6g90tiKlFxeXl1ingewJ_CSRd3O8WvDWrujy9iEVf3wlahr3w7ljlAryuZFg8mYW5EqhsHO1weMWOFRv3Vyh4LmWdBI9kEDg0kZ-_L7vlNV9p0xIQ1d4Aict2LzKFlYv_Y_rv3xoUz-08ryLUU-UwdwG4VEqZEvn98ec",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Isaac Elizondo",
+            "author_url" : "https://plus.google.com/104903101059479406774",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1456694305
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2689571593097960943",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Puente De Alvarado 50, Centro, Ciudad de México",
+      "website" : "http://www.academiadeartes.org.mx/"
+   },
+   "status" : "OK"
+}

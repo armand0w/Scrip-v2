@@ -1,0 +1,119 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "37",
+            "short_name" : "37",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Calle Río Balsas",
+            "short_name" : "Calle Río Balsas",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06500",
+            "short_name" : "06500",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eCalle Río Balsas 37\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06500\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Río Balsas 37, Cuauhtémoc, 06500 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5615 4659",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4333406,
+            "lng" : -99.16840639999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "1b3fde6419bddafbd80aedf2c29a923a65e43d82",
+      "international_phone_number" : "+52 55 5615 4659",
+      "name" : "CONCEPTO M",
+      "photos" : [
+         {
+            "height" : 709,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102669135570082248855/photos\"\u003eCONCEPTO M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAy1DmXeT_DDM-B4-s6H6GK0j80tuacM1zS_6ubyoUXivUJsPWDr6jHjZbEkFM3_onAS5BP0CEItYNJ9YavO6jJTUctwHedRKUV91dcascUdm27d_h1jY-WFwZQA-XvMauEhCvtCCGcNO_j47VZvCJXqkcGhQI7CGyniSW_YXMfuO61m0qUgqjXg",
+            "width" : 531
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102669135570082248855/photos\"\u003eCONCEPTO M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAxNhpWUpMGanU-bOLA7kuNjQV5m5hLs4STSPYnLs6ENLdc-8SFjumI1tmex83Xi5CVq6mtHnGgcNQt11re4pGf51hIL_rTND2LuegQO9EDEjBks0fG-7ItpAVUZOjynScEhB-lMX5RMMUV9xziuepNlGFGhSZWqyJMH88ecCaV-hMmvUCKruM7w",
+            "width" : 1536
+         },
+         {
+            "height" : 539,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102669135570082248855/photos\"\u003eCONCEPTO M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAtJIs7OHl6rvtJ0NjTaEUSg36efm_ZrcxRn50yB-_R_naDTbJHarPATCXEZ1ITDW3kmaoV05FgAxF1RhxW5hbvpCG8THVxAxAJ7zBxu8L6HVczZiZSZmquo8EbG5SRjbSEhA7BGRjTRPpazNtsjyD-dwNGhQrBSc7DrP8WmqB6dZuxvqcYgZodw",
+            "width" : 709
+         },
+         {
+            "height" : 328,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102669135570082248855/photos\"\u003eCONCEPTO M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqY11j7OdxhSkxgyfWABr-UV-RQkEHY9YU1g4gjyW_uc__r5x3PBYBIiQ3AWY_rCtBqaD9ppqV6zw8GpgA1Eq0HjyeubA0uJgzrAS6_cXPNEsXbjLtsTy6LUypE44HmEMEhBGwivgNJixN1zSTMLNWPjXGhTmgyaaZRNo5laKCQhXlq6tRBRwTA",
+            "width" : 492
+         },
+         {
+            "height" : 400,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102669135570082248855/photos\"\u003eCONCEPTO M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAloxlaMKi_c4bJK_I7xHzwzjmWooAMmVKyva-cukv99G7I7V2vAbNSk142PI1AkYFbtGOA8NGqtoyMfo3r8j4J7VNHSAUusH9-8bClUwoBsRdUVFYlJudJYL4OL84Ke9kEhAzSMo00nWaEZa6VMrCw88yGhSvJP2xJuuuEw_9tz54Dj7s7NVcEw",
+            "width" : 305
+         },
+         {
+            "height" : 267,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102669135570082248855/photos\"\u003eCONCEPTO M\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAyKY05AHdLda5IXNR8J34gfw7WHJHnZ3SUTxjSPbeYtjItlkzfsMrlOcIHCmljWDAW6eZ2F5Lx73yiYB4Qui93diUcc6Ei3y1cw__gJSEOCbR5vL1kOFWAbRNi5Ukv6CFEhBO4AeVXgLp_PxxdeRjrnuWGhTEuLQ_j-CwY2mpyZ-fzxnv-go2fQ",
+            "width" : 286
+         }
+      ],
+      "place_id" : "ChIJv7Y0ZrX40YURZyEmw1F02H0",
+      "reference" : "CmRdAAAAOo3NdaRJQueMrexpWZTHiKPzJobe7qBLcnTFf1cSu8TeVLz9GnXMS3HdQS0feiCQB9GTshB168VHyP9uYt0-WS-mFm2MG8mFi-1VFdOTIVo4f8qsMmhfk5BGg8ZnNaEnEhCh83J9L2qykVJlr1MPftazGhS7qMRwrJ0GRamXFO6Cox02e5xRcw",
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9068125744225722727",
+      "utc_offset" : -360,
+      "vicinity" : "Calle Río Balsas 37, Cuauhtémoc, Ciudad de México",
+      "website" : "http://www.conceptomuseos.com/contacto.php"
+   },
+   "status" : "OK"
+}

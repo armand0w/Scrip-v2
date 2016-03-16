@@ -1,0 +1,258 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06600",
+            "short_name" : "06600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle Londres 4, \u003cspan class=\"street-address\"\u003eCuauhtemoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuárez\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06600\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle Londres 4, Cuauhtemoc, Juárez, 06600 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5546 7670",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4285806,
+            "lng" : -99.1568027
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "01a1058e34735c37e763c216c08858a6379c6157",
+      "international_phone_number" : "+52 55 5546 7670",
+      "name" : "Museo de Ripley",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1100"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1100"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 11:00–19:00",
+            "martes: 11:00–19:00",
+            "miércoles: 11:00–19:00",
+            "jueves: 11:00–19:00",
+            "viernes: 11:00–19:00",
+            "sábado: 11:00–19:00",
+            "domingo: 11:00–19:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105875081514894734214/photos\"\u003eAbdiel Hernandez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAypACfEGZMGMDX2tywedLUDybynPTmOLNtCFZhbvK7735-0sx2G87LBVUqB6rmaxbXQab6vp-p4I5LwmZKreANEX7WwjDwFnYljKemAWmiSzLThPjQBPPPSSv7fOp00TYEhBAiT4G1IbtcjjF2wYVeCmdGhTzQX38n5zJpYM_Nn4pTSeqe2pfnA",
+            "width" : 2448
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbrYKVE5eaDjEoXhUaCi4wuWOVCuQgIkpDo0GlWDPx4ryz1EmvjCn5oC1XYhLJkzechysMkrN8CCDrL1u3QwaI1TqlP9IDxRYwuAjJYUb073qBnJQ5HJUraGrFewKsD8QEhBW0sVYnXxS6gvo-XLjcsSBGhRgnO-gisbCqovKhGJG0xJZBIfqkg",
+            "width" : 450
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJ9U3Gz74lPxwlymgDPaG-n2yBvYCCQTm2sfKSywnesrCYBzF9DpJKuiEmqKhwcJJgM8F2Y8KLh8Nhv6KXO656xFD-cHE6a8vMv1PQ3dAlj_lRM0w0mbU2WiYSy4yhbxDEhC1PP4kJebg6UOxRgV45n_fGhQsCrz_ikPmQB52ICjgszMR9t746w",
+            "width" : 450
+         },
+         {
+            "height" : 600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100908123877306652956/photos\"\u003eMartinn Gonzalezz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApMvv9eoYWV9FM5dhfq8UpARd4cAHH9DzFvvmlz46PKf7wbZ3dOXZw6fgRUQDhfAAvECmXwRUs3O4whPw1nvpqlDcwURb5p-8WF1CkEE61GXYYxaX9jT7TUb-bGiXtffMEhCrhCCxqOAZ3zbnInSx3h4KGhQ3NiG5yqqPBHvXL-mAWWSW8q9zKQ",
+            "width" : 450
+         },
+         {
+            "height" : 3920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101936951619130076877/photos\"\u003eFcecilia1993@hotmail.com Vazuez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAe2CnVjo4J0CM0w8bIdd7ZkaYtx7DcworbfnEeRvQqhm_8MRiEnqyX6xCIUSFZ_U__w2cr4k4N3b-bZJuyTtMUp5QlC32NCTfRxahA_WXJP9xAHqMV7drnjGEf29shXrgEhCmFLQjOa3Fv54IteKENqiKGhRtq1klfHnJxexd3D7kWKIgzbuw7w",
+            "width" : 2204
+         }
+      ],
+      "place_id" : "ChIJYVYkeDL_0YURRLcJhCwVS3M",
+      "rating" : 4.5,
+      "reference" : "CnRiAAAAi09hy4MWawpjGsegj0jzpjyXnCT7kOhS7m8yu1lWhn17VfGjuBYCYRW20e147_2OFWNzWOA4CX1tFuCFMhiepyNS7Cs6iSUv76icapbb9ofJCd0wZ0qC4h16d2qNO2vfinxIDd_EVtRTuohvVZhXgRIQZs57s1Xyj5XX-WW1Kho-7hoUJlzS_wna7Ca-9DO_RgEDO-vlkLk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Vicente Lopez Rafael",
+            "author_url" : "https://plus.google.com/113840700089893831321",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Es muy bueno y j",
+            "time" : 1452311031
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sickboy Duke Jr",
+            "author_url" : "https://plus.google.com/116032115625953718086",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-M4bTYuaE2T0/AAAAAAAAAAI/AAAAAAAAAAw/HvNoa8Aj_nM/photo.jpg",
+            "rating" : 5,
+            "text" : "Está pero bien chido, bonito, grande, y muy arreglado todo.",
+            "time" : 1455839744
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jorge Pedrero",
+            "author_url" : "https://plus.google.com/107746583722011294656",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-KrH8n8Xl3y0/AAAAAAAAAAI/AAAAAAACNtE/Br7mZbRc2dQ/photo.jpg",
+            "rating" : 3,
+            "text" : "No está mal. Hay cosas interesantes. Si embargo me parece un poco aburrido. Recomendado definitivamente para los niños.",
+            "time" : 1450564400
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jesus Ubaldo Romero Rosas",
+            "author_url" : "https://plus.google.com/116573577086068200126",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-AkNi0JiJyqA/AAAAAAAAAAI/AAAAAAAABYA/sOnhk4Ekpo8/photo.jpg",
+            "rating" : 5,
+            "text" : "Fantastico",
+            "time" : 1455914707
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Abdiel Hernandez",
+            "author_url" : "https://plus.google.com/105875081514894734214",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/--OI2LnFTnj4/AAAAAAAAAAI/AAAAAAAAAb0/Tmc8PDHtHGo/photo.jpg",
+            "rating" : 4,
+            "text" : "Buenos contenidos y en general un museo entretenido. Sólo cambiaría la iluminación de algunas piezas (maniquíes).",
+            "time" : 1450927411
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=8307757218552985412",
+      "user_ratings_total" : 21,
+      "utc_offset" : -360,
+      "vicinity" : "Calle Londres 4, Cuauhtemoc, Juárez, Ciudad de México",
+      "website" : "http://www.museodecera.com.mx/index.html"
+   },
+   "status" : "OK"
+}

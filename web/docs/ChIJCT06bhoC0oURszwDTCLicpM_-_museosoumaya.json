@@ -1,0 +1,303 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "303",
+            "short_name" : "303",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Miguel de Cervantes Saavedra",
+            "short_name" : "Miguel de Cervantes Saavedra",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Granada",
+            "short_name" : "Granada",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11529",
+            "short_name" : "11529",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eMiguel de Cervantes Saavedra 303\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eGranada, Miguel Hidalgo\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11529\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, 11529 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 1103 9800",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4406926,
+            "lng" : -99.2047001
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "c553ffa70bb3894e97b5c9d1a2bc00e82c6bdcf5",
+      "international_phone_number" : "+52 55 1103 9800",
+      "name" : "Museo Soumaya",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1830"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1030"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1030"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:30–18:30",
+            "martes: Cerrado",
+            "miércoles: 10:30–18:30",
+            "jueves: 10:30–18:30",
+            "viernes: 10:30–18:30",
+            "sábado: 10:30–20:00",
+            "domingo: 10:30–18:30"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1367,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAs72Bo50JPTdx6mF1L7HbbesbHskBooaUMXi48dYti3s2XxSbHoEoimEf1K-auvCrLut9UiHOpi7vu_61Pbh8h3hHORNxWFiB8HDoLDL-aaO5g_jcOXGpZIHMGT3EYXV2EhDJo2TVH9lCf2GQwmQQIQ05GhRG4Q-fwcVXQBvKPAl1X1j8ekg3xg",
+            "width" : 2048
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117704204037304005492/photos\"\u003eghbcav /Gladys Salazar\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAk7ZBinP27yk0vbAzvgLiAspNNMztZt7OiAH4KKo2Fsa7N0ftGavqlLU9N1xZLyhOvMnEwWQlhjbd8_Ezh2al9RxtTpMYB4D4cUFk0SY9jPwHjq_0dMjFHHnQfrpP9qFvEhDngqg8wpBHtTuzD-Ap1wOQGhTAKM_p2ul0LgwiS8cF8G1jNOmj3g",
+            "width" : 4000
+         },
+         {
+            "height" : 4799,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATOgAFEGRXA8fs-C1F8ol-_bTKK7BdEpz90niCYGsG3ZB5XsW1KSqWO7xzRiBPNON8i_VnlKByue7jN4MTqg2DQBBh9i7WoOlWpFUGl8tUk3OWFrDgPyIHVZsMK97aQZZEhBCqL6QDFaTdQDGFxmh6WX2GhSDQ5_YgrbEMnZGcnstrRXYpxjJbw",
+            "width" : 7119
+         },
+         {
+            "height" : 780,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABTE88sqhwJpvd9ihuOqt8o6JFcqbP6FkDDMIxFGbTj9HLsrG8z5OHzdG0X3EynXiwiIYaSYdhJthDlU8TLpd0kY2XlvyaH-7uYYfp1lhfIWM-Pt9OQM53G_0nYH_IXPxEhDdaImg-vxBJA94REN-o0mmGhQYGZv5Fl_2P1HNsgmS2C593-KhbQ",
+            "width" : 1040
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105290432053180535564/photos\"\u003eAyzak Giunti\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADjlgqbCU0EzosI2DWVbxnE1oy3_VaMXBVXftxkH1Fz4Iyd9K57iY8vqdW7poPaYBxGVnbXfnftBrz1JSIPqojJw_soY5HkDFwHJJgntg3ZDYuNWU5sbaZgWDDZBuURfLEhBqEBZg8Opo2fzO4MnXQNh2GhQUrY_dmK_zfVZ42FeFoaqac0KvBw",
+            "width" : 1200
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALKGGl7-QwKBeo7I1P28G5dVaj_fLBYreyMfhWoaaFp8bO9Qk1c_L-riFzDNVu_8d4sR4uf1_k8rc3Dp_r0oIOMCougibf5GcmGK5YPz5zModwHQGi0pKlaLNLo_DS2rsEhDo-vLYwkTsdsO1EoI72mwPGhT3MdFJw6c6T9WJL6IT5JCI8xYbvA",
+            "width" : 1367
+         },
+         {
+            "height" : 1100,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104907560449811793746/photos\"\u003eMonse Ocampo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbayAGHMMm17kcTjeQ5qnpYxiuSLJzHaidOpACnMEegtVLJb4nYxubEiQy96pELNqu0b6P9KRKuenJFp-DGk5s-rvpPJYGt1Ezt4zblPW6iVZJzIMs-OIKYBFoGLtyimuEhDyC3aBbZ0H-C9kSKmuwkjZGhST-kSOx0C8le2LXCGnBBwLZBchhw",
+            "width" : 660
+         },
+         {
+            "height" : 4552,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAibVGWSaGiNdXQC0Mw-T1SYfTAnUoH90uRkgNiNYqpJftVPUxcnKnkscSXQI7wcHtjYn0vry9PV1UOc6RTqd8Uw2Esl30lSMd_yixHXVWTplP7tvlzPJx3XW6hPv9Fy9HEhACI-9HNnAS2Uv2Lz47ZWqMGhRl0vWGRVABrUz7qCsMVuk3xj1JOQ",
+            "width" : 6778
+         },
+         {
+            "height" : 1268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115774225041494319928/photos\"\u003eMatthew Skala\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMxDbGAnWSbYeXCjLy-nvfN1xU2v3unWHQMHNcYvjNDkFWVBZQ7Uhnl5gLUf2zIdTutUu-b-DSRlwQE6Q7hidZxyIMGdTycfPSf6Z8Itu1CaJzF3MyhxMrg_wvffPtmOMEhCJzVwuLf3re5Wxuhid7LUdGhRuI8ArPC0Jbh-cvWezNH-p8uLxUg",
+            "width" : 947
+         },
+         {
+            "height" : 1638,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113044079043233171274/photos\"\u003eUwe Duerr\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFrh2PcQZU7UGdYdQYCwGlKdPpauO_bQv5SQ28VFSxLCnI5fsU87QnQiWjI1iQnxtnFFDmAqoiAracPbXEVJAjkG4Zi4K651FbJNKNY1aKAqyRNrQCrY_yLMxqp2-sm00EhBo2-q2dqW64aRcftS_uFskGhS48LllXiYHOIl9tpQEonY_trB8Pg",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJCT06bhoC0oURszwDTCLicpM",
+      "rating" : 4.5,
+      "reference" : "CnRhAAAAVM0tTkVCTSeSxpkXY6sYL5rQcu7fssxzkqCG-M-g67n2kqShXSdcNWnxzXB1bhU6Rh0NFpvSUgh99h6md7hreNRScdOyba0iyV8QpKT8H46wa0QshhCszxYhYDLa9KoLPcgKYw_V5PIcclEPg3EqthIQfrc4nrApMfp2U71ZHmZnOhoUrAmYJD6sDcKk5kuQdQk17compmk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mauricio jimenez",
+            "author_url" : "https://plus.google.com/111374495441921546278",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CPJ2TNoFktM/AAAAAAAAAAI/AAAAAAAADYc/gg3e2TuAW-E/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen museo ",
+            "time" : 1457369165
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Jairo Alonso",
+            "author_url" : "https://plus.google.com/116448382629755418284",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-8z8SnIuCk9o/AAAAAAAAAAI/AAAAAAAATQ4/Z8Hcpjn43w8/photo.jpg",
+            "rating" : 5,
+            "text" : "Este lugar es perfecto para aprender, tiene exposiciones nuevas que puedes disfrutar sin problemas,  algunas son exclusivas para este museo.\nThis place is excellent to learn, it has new expositions which you can enjoy without any kind of problem, some expositions are exclusive to this museum.",
+            "time" : 1452662785
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "JCarlos Hernandez",
+            "author_url" : "https://plus.google.com/110300899814243254993",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Uno de los mejores museos en la ciudad de México, las colecciones privadas del Ing. Slim a la mano de todos, además sin costo, muy recomendable dar el paseo cultural en su proxima visita a la Ciudad de México.",
+            "time" : 1452802889
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mauricio Guevara",
+            "author_url" : "https://plus.google.com/111236771120051081469",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-XXXuPDobWHM/AAAAAAAAAAI/AAAAAAAALwg/oi4SKdE68LM/photo.jpg",
+            "rating" : 5,
+            "text" : "Grandes piezas artisticas e históricas,  recomiendo el ultimo nivel dedicado a la escultura ws heemoso",
+            "time" : 1453397186
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Richard Mtz",
+            "author_url" : "https://plus.google.com/118360484607829844074",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-F9vi9XU6Quk/AAAAAAAAAAI/AAAAAAAAAc4/gxsVzjm7uR4/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente arquitectura e interesantes galerías.",
+            "time" : 1449383741
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10624803107852467379",
+      "user_ratings_total" : 460,
+      "utc_offset" : -360,
+      "vicinity" : "Miguel de Cervantes Saavedra 303, Granada, Miguel Hidalgo, Ciudad de México",
+      "website" : "http://www.soumaya.com.mx/"
+   },
+   "status" : "OK"
+}

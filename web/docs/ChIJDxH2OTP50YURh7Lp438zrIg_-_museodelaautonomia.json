@@ -1,0 +1,158 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06060",
+            "short_name" : "06060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Lic. Primo de Verdad 2, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06060\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Lic. Primo de Verdad 2, Cuauhtémoc, Centro, 06060 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5491 1113",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4343559,
+            "lng" : -99.1306149
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "790478669ab29792b397cc43ff147e1e5a20d45f",
+      "international_phone_number" : "+52 55 5491 1113",
+      "name" : "Museo de la Autonomia",
+      "photos" : [
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAN4mvVRRNShRtjquePD4q0W6GFR1XMomBq5_kuw5EiFiN1wNBEWryx0nIeqkLCWnCK_U2fgg-NjIVneegrzSMT1QOuuPI1h-J1EsMEds9fcX1d194wML26OJ0e4d07g56EhDidcB53SM4LiuieYrC7t5vGhTz9CWGQk6GRge2dwmNpzeO6Q3wmg",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAE1MYQ__DK8hI5M1QVTeFG5hme4lvleG9rfLTGWd0zWjJxPTgbBn8Qv6ussObGtlQ8kN-h6vHvrmcO03DX6fCdaCbIQtZo7WljQEAP5rypwFgpwKUgBGwYArY_An_i-pQEhAEgltNDfbYWiK6hEvPE3faGhTItl8BM64P7fs6ftgFF0d0KGskgw",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAmn0lKWmU341lqykT9NhrYGu8ZpW_jV-F0LpZ40bOAvvlysjcN7oMkuGXGOJ1D_tQdiD6RqU5l589tJyF5ohCCQBclPoq7jyjl58gO7tEyKXImAy5htzQL6WzU8VIWgdeEhDHMaC_thfhxvCkdqubjHMGGhTgkinj6mNV9ohTSjcvIF6kpQStiw",
+            "width" : 2048
+         }
+      ],
+      "place_id" : "ChIJDxH2OTP50YURh7Lp438zrIg",
+      "rating" : 4.7,
+      "reference" : "CnRpAAAAjFY84_Olrhk3Toip99neXUECbFofIEDb0P7kxUgJ1rxeDHG0oD6dvH2s6NUpRe-K4pmGvL5CAoCRuMRhwvZ8J39blU5d9IH4LT97qYqD8CrGR9h0VxtgLF5QMSxc2SzT3AP5A9PxB-WTfA4rD4cJjhIQv66gTUvCOmhinjWMs7Hy2RoUtIANAdOawfj8qQlYnVRgmo4RTMk",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "ghost_mermaid syrena",
+            "author_url" : "https://plus.google.com/114638454499342862579",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-X_3QqW_fVmc/AAAAAAAAAAI/AAAAAAAAEl4/G1PWx151hU0/photo.jpg",
+            "rating" : 5,
+            "text" : "cuando fui a ver a la sirena !esta mas linda de lo que se ve en el video ?lo que si me enojo esque no me dejaron tomarle fotos ?entonces pa que chin@#$/^* tienen tanta figura traida de italia si los que las ven no pueden tomar fotos sin flash como recuerdo de la expo !si por mi fuera ya les habria comprado a la sirena entera!",
+            "time" : 1457229156
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Arielle Sanabria",
+            "author_url" : "https://plus.google.com/101714510256135098283",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "\n\nMuy bueno y útil\n",
+            "time" : 1446873401
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Juan López",
+            "author_url" : "https://plus.google.com/105617940878221333338",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-SCWRte-R-3g/AAAAAAAAAAI/AAAAAAAAORY/sUH_oB7P_3I/photo.jpg",
+            "rating" : 5,
+            "text" : "El recinto es muy bonito por dentro, es espacioso y además de que cuando organizan eventos privados la logística es eficiente",
+            "time" : 1455920538
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luci Dotor",
+            "author_url" : "https://plus.google.com/107154780337100177318",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-joAX75jfjpk/AAAAAAAAAAI/AAAAAAAADts/l0oIpnwPqyM/photo.jpg",
+            "rating" : 5,
+            "text" : "Mañana estare ahi",
+            "time" : 1424495806
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Octavio Alonso Maya Castro",
+            "author_url" : "https://plus.google.com/105666396483772347559",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-G30gitb-3xQ/AAAAAAAAAAI/AAAAAAAAYQM/WbWKCYihIUo/photo.jpg",
+            "rating" : 5,
+            "text" : "El antiguo palacio de la autonomia universitaria es una de esas joyas arquitectonicas de la ciudad que deves de encontrar por ti mismo ya que no esta en una calle principal y tampoco es muy relevante en la historia general de la ciudad, pero aqui encuentras un pequeño ejemplo de arquitectura neoclasica y tambien una de las mejores ventanas arqueologicas de la ciudad de un exconvento y un thermas español, la expo de Tutankamon (Que ya lleva años ahi) vale totalmente la pena, tanta magia en un lugar tan pequeño es simplemente hermoso y desconocido",
+            "time" : 1378616792
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9848303109530038919",
+      "user_ratings_total" : 15,
+      "utc_offset" : -360,
+      "vicinity" : "Lic. Primo de Verdad 2, Cuauhtémoc, Centro, Ciudad de México",
+      "website" : "http://www.fundacionunam.org.mx/palacio-de-autonomia/"
+   },
+   "status" : "OK"
+}

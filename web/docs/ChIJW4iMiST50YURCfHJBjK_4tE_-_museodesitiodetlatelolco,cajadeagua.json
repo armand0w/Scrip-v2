@@ -1,0 +1,287 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Tlatelolco",
+            "short_name" : "Tlatelolco",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06995",
+            "short_name" : "06995",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Ricardo Flores Magon 1, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTlatelolco\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06995\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Ricardo Flores Magon 1, Cuauhtémoc, Tlatelolco, 06995 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5117 2818",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4499804,
+            "lng" : -99.1379659
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "caac70b50adf04f106c59d0eef1e2cd154798582",
+      "international_phone_number" : "+52 55 5117 2818",
+      "name" : "Museo de Sitio de Tlatelolco, Caja de Agua",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112515636386847837559/photos\"\u003eOmar Flores\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMpWEhEEHJkoLGDLU7hB60I6kd2eT02XnXfdNkJTrrSMO0rANELw_hTmU_qPAGOQnYp2sPg9kNi3NWjSWqK8tfrOq7Oehe4h2CPN2wxt7paGt2-13JwiJzLA3l6KtaIN2EhAlwDjNsnACtkb5LWhpaPGcGhQ_2WSfjMy9ax9IWV-GpL3NjPT7mw",
+            "width" : 2448
+         },
+         {
+            "height" : 5376,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103907177795869792977/photos\"\u003eJuan Villegas C.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAArGibL_vxy3xfyhnYSEvXKnS_Jf6saPVStzvumCPsdkYw64Vf6USMaUw6N9p0thofo5Q35osv0-Y1ArHuu_vRovGJMnO_G_FbB9ALmn2l19xOT2jKAuwsEg8GIPdKVfZdEhAIQzztHpoXCBaNcJpFV8V5GhRMkJDtktSCZoPeh3cMjl_QkLHYMw",
+            "width" : 3024
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107697960014169575192/photos\"\u003eCarlos G\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA1EVX0_IxIsBBLPw4v916UlfE59AYRXr7OViStwSAeAWOQDMMwrkXW3YC_2ESF26Ri2jtDGT65JOQLud6oPI2jZ_Z_BB8Ux2pVr5RSHRbzJ5ETU_CnWSPBs4AuUCLCfwAEhD3_qENAGhn90Ig2st5thRBGhQ2o1yHYyzv5NNqCGl_v7Oqr9QJsw",
+            "width" : 2048
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112016743714907953944/photos\"\u003eJohannes Ortizius\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAvJjBd2CXqhZh4FkuhfK0gjf8_dkdNgA_-lnKXIrkNLWoCa5G7eTCvv48myl5AG2TDfQu7e59O6eS3FdnGFzIaH7WauLSkez4YaOcIeZCXihqwafPav2wmRQjB7REXs6EEhA8tcvvEROq30dw_UEBniS2GhTC_jRJuxvVqlTYUSqr5-K-wDIE2w",
+            "width" : 984
+         },
+         {
+            "height" : 1626,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103907177795869792977/photos\"\u003eJuan Villegas C.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHicjV4dU1AuYYihtWmJn85OctVyCCeBYYTachPOOOY9ngNvH_MVKxRWQZElBx-BDjEjNX4kafcOq7KkI5c10s2kJG-nxE8EcTseDaECE4DQc1HVoT-D32-Vn4mr4lsIxEhAff0fxXkymv8TIz2qJOkb0GhSDpKx5GcglqqPEcJiwLzq38y-cpQ",
+            "width" : 5192
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112845061386779146746/photos\"\u003eMiguel Angel Cantor Galindo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAfOmOloLB35AhvUFxnwXmRYe7TEGr77S2bQCtH6DJ_moOjzgFLX7v_bVkraBjJhak44eMVtpL9TyOTnykhvZP8RqacM4X8Nf7HvWzFzJU4hULz-twhhEtozXqAbiHHIwGEhDXoc_wge9UeAyw_WmCRhSdGhRwwOIZtKXMF_4lhKg0bIkab9Rkng",
+            "width" : 3840
+         },
+         {
+            "height" : 1296,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102356715043884836524/photos\"\u003eEddy Esquivel Loredo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAfi5IANoDCN4X-2L_7UfwrhlMONm4BwxSbGCuREcXaRrZLiYljMZV1qEdgLivNPLGnxdkZPTIniI8Gyn5T9_vQ0TsNcveggqaROGJCGaPgbzclZj8FOo4sMccW-EEErEbEhDPqXekAkp3Fy6rl_ldleKAGhRoXzspK5MWVWekPeLVjFZ-NVjuoA",
+            "width" : 972
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112845061386779146746/photos\"\u003eMiguel Angel Cantor Galindo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA6dMZFmLQ5ixwIkyL8uK6_92Xr_SfgqqUI3JEX_HvCFdU8WhBDdyqY5kGyiQ-NQoYFxQ3kQ-BGkRioClHnXal1mbIoVd1pOQKuZwwyNanmqQIZgZCKvzWKgtOaabBRQ1GEhCzih4dXxdgBORFeJ9yQf_eGhT9t7fMb_XvESVJlRkbz4X28l6-uw",
+            "width" : 2160
+         },
+         {
+            "height" : 480,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108030861926189550850/photos\"\u003eKari Mtzfidencio\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAg7KreAxyhevtSC3dx7aPPoA5WpFCrLozpuAGz2VtvKpBgy5v4E6P5O2KRU8yz6qEw_G6ohLHEo7OguGqUci9xG3KNw79_oMhcmGe_sxyua7Lzm63TV4OI4dbesKPOFdNEhAEIzf0h1YDze0BT_CxZR18GhSRS25vZomB8FsjYhFJi2YZhkWdqA",
+            "width" : 640
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103907177795869792977/photos\"\u003eJuan Villegas C.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAqDiLwMkfiPOa9mH-nX8VW_NAY9S_dKE0_2088orEYUokiXTOmVL89xpj8RFoR8Qqqmt47O9h97tHpN09ZJWrAb5516DI5Gn-C6MQ3jKqIlwXBlgI-xwBNGkkYJNTys5yEhAHEMfuhzvUa0LEWS5pExx6GhSwp-FKrrrDlaXNFz3eZYR1uy0EWA",
+            "width" : 5376
+         }
+      ],
+      "place_id" : "ChIJW4iMiST50YURCfHJBjK_4tE",
+      "rating" : 4.5,
+      "reference" : "CoQBfgAAAJAzbMiLCQvvMS-4Btgs1RDqQq71gpag04GV6iSfAUmO7uYFATx8xKVCN6NVoWqVxoHUdmUxh25_JTyolgitJugWfT7LVF84RVw_8t9XGhmgptCYBHcaIstjFvhBZMuXzYx7wfqmoql-iiXm1X8Xmt_PlKYBE4sD-wVJXfWxmmteEhA4r15TfGoleAHV3beJIwl1GhQiTEZtkKgsb_j-avEsrx_tmvy0ng",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Brenda Mejia",
+            "author_url" : "https://plus.google.com/117893333605245838719",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "Visiten el memorial del 68 miy interesante",
+            "time" : 1438535151
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Manuel Ontiveros Castañeda",
+            "author_url" : "https://plus.google.com/115337223382268158983",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-J10nJMS_SRM/AAAAAAAAAAI/AAAAAAAAD3Y/0JpHNLyb_Xs/photo.jpg",
+            "rating" : 5,
+            "text" : "Fantastico y subyugante, como ña propia historia de Mexico.",
+            "time" : 1437705929
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Maryna Romero",
+            "author_url" : "https://plus.google.com/101366403213206459415",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-ztcVgbbDOZY/AAAAAAAAAAI/AAAAAAAACEU/_ev3eU2RtK0/photo.jpg",
+            "rating" : 5,
+            "text" : "Mmm un increible museo, me encanto\n:)",
+            "time" : 1432695207
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Flaco Cabron",
+            "author_url" : "https://plus.google.com/103412974809865920354",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Grandioso",
+            "time" : 1448620517
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Angel",
+            "author_url" : "https://plus.google.com/110493767601542171115",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-Wldw8Fw3AmM/AAAAAAAAAAI/AAAAAAAAAA0/cgu6wlDJ2Ag/photo.jpg",
+            "rating" : 3,
+            "text" : "Me gusta aqui!",
+            "time" : 1433020237
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15123860720246714633",
+      "user_ratings_total" : 61,
+      "utc_offset" : -360,
+      "vicinity" : "Ricardo Flores Magon 1, Cuauhtémoc, Tlatelolco, Ciudad de México",
+      "website" : "http://www.tlatelolco.unam.mx/"
+   },
+   "status" : "OK"
+}

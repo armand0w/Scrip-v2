@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Colonia Country Club",
+            "short_name" : "Colonia Country Club",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04220",
+            "short_name" : "04220",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Avenida Río Churubusco 79, \u003cspan class=\"street-address\"\u003eCoyoacán\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eColonia Country Club\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04220\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Avenida Río Churubusco 79, Coyoacán, Colonia Country Club, 04220 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 4155 0000",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.356298,
+            "lng" : -99.13998099999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "019301daa4d5c4c4ea7e626a3011e372d2667e43",
+      "international_phone_number" : "+52 55 4155 0000",
+      "name" : "Centro Nacional de las Artes",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "2000"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–20:00",
+            "martes: 10:00–20:00",
+            "miércoles: 10:00–20:00",
+            "jueves: 10:00–20:00",
+            "viernes: 10:00–20:00",
+            "sábado: 10:00–20:00",
+            "domingo: 10:00–20:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117652055403500540362/photos\"\u003eCentro Nacional de las Artes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAYTuiyuOHBxSLeIxtmM1aShCw8wtZAoMyyeJF-YUBhUFkJV_7s-tCT-g67MJbnXk4X23Um_muLCCWnfTJFpDv780QrNcboJ3IBs2_dap3a4QKfDHKt68WHS8MqUIM6dkxEhA-ZB0QZY2vRUGUeL1Ko9c2GhSWq9OgRJ_8zYS8ajFvFPjA3MrdJw",
+            "width" : 2048
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107095918319983994988/photos\"\u003eRey Ley\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAoOKG-wVldTMExmlPi_tltqK5w9O7KXMhY0LepVPHSCDjfZifeaOr31AUEjRJpFQZ-677GEQxvGoeyreCAXyLyNYivR1ZVVF_NqMX15xUhqPnxVn3fXCJDEgaZsZl79V0EhCwM7REHkwhnHfcwem-16vvGhTw1G1VHi_BbboHJt9ATa7aTkN1Vw",
+            "width" : 4128
+         },
+         {
+            "height" : 576,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102576582946304715825/photos\"\u003eGustavo Martz\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAxqE_DlLKwMtXY5HpoznAdg25hIBmnJeK8DmUW3G3Q8fmEfmBJ4TORHsWzBW21gMWJnT6eUINRW7i7Lxad9g0ozoY7XG-iTr3LW58rYzhRmTidwiZSODwpjk9vNBcrV2zEhAazQEP7VQk9YVU-0p3PqfUGhSEr0_M_406lWTqSis0ISzyjx0Mng",
+            "width" : 1024
+         },
+         {
+            "height" : 3042,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110651956316704259797/photos\"\u003eRodrigo fonseca carreon\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAshMZHSwfWXOxqC2-Q8bq5Sn5YbgHPWK9V4MiyWUIjWID3JIqbRVJpMUErdaWnQaaSPcFAUeFc-GO-S56T4rSwABPIIYW2q_1up7xZ-vvNAhNdIPvLS5Pf2orWeG0ThMnEhDIOVC0PSkDNzHQKqiC-wVVGhS8qRH8nBW879ZAVEGMHhZhHAIbfQ",
+            "width" : 4606
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107095918319983994988/photos\"\u003eRey Ley\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAT9ruGAre8fFGgSajaCVUhG3116M-TClk1EwQtnOy76SJqN6IzN1okhOSbfTKrRhHK0zHNnaGjlkAW6s1QF_9shc4gu3yR1zZbPrRrfGY5EwZ2j8Sax5ZAxqPfa8p-MlTEhDI4O76GEODXTu7e5XP-pLCGhQiLJJ9vpNUIsjf6GTd3nZmvLyCNQ",
+            "width" : 4128
+         },
+         {
+            "height" : 2322,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108781243727173329773/photos\"\u003eHector Leos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CoQBcwAAAOqzH6PQ7Rrr96-yQm-k0qq1irlc3r6VJDqafzyNDG-OT6U4q1ajXCIS38WoUGO_zS--JFRSntSEme8-Cp9a86k8ApzedB8RoOMVitDcflmlszNKwgyDdI1SQc2b3XIi_CXsF4wbqBCN4L3MAmz-8XVdYu-2_BajG0yIkN-OBXBlEhDJIEFn1aoTLe-B5j2v1GFkGhSLT9BN-4HZpoP1l6Cxd7mScY9BBA",
+            "width" : 4128
+         },
+         {
+            "height" : 391,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117652055403500540362/photos\"\u003eCentro Nacional de las Artes\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUEG7WpDAkfvi6r9RFgr0cj6y2JFodMzDx4XkXnOKNF0dCxdNI7hDvHIX1p8WmSVPjrQBEuH36p--ugLOqQJyyOU6j8M-b9wF02ijGmzcNhnDNzUJq2aaI4ZmO3cLulpJEhCN2U5MV7WDyOgFA_0nF3IXGhT8JqLDO6yBuTHDtSvovOq_FBzJMQ",
+            "width" : 698
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117826758001261661035/photos\"\u003eUlises Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2ec5_OI3ur1YUAOOL8gzaEMH40iI6mgckhFcRbtXEPhNN39nPst-S1J7jD15hD9qlF6LO_i68SJSy3C3iShHg4igx_2RIqDl8QO4Cq9MQMPAVNFKTuSo_idmfs2Js1unEhCDoDmvFG0mAkjEcPnG1dA7GhSTv1yst54SDIiI7OkJfWKfx_1XlQ",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117826758001261661035/photos\"\u003eUlises Silva\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAOnQt_o8nT8qtTn_tSxP_Q5CaEc7BMC_nSK4gps1IaiusIQOQSGGRPec--hZUcYeuYVIG2O8k7Tafen9PyJ-Ww721i9DUDu-Oism-pCPtvuv6FDBq5GWFTj4khwWSBKHgEhALdhdTs0-m1QE5any5rmo_GhRJIJf4wHWBnQ-2bR3RrrRyrG1uHQ",
+            "width" : 2048
+         },
+         {
+            "height" : 2688,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116655105205225064853/photos\"\u003eJose Luis Coca\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA161pjXZPxSHfcOrwUcG42QvY9_n8o3K90boBaIbIyNyCZhNDLiDrgjcDRJN4N1xnwDV5icN7MYDudrtdav1YJhMDmkAlSFz3309LH27IE1oCPIkAdmj7wWKe-9Wa_e4lEhBNrSmz8Q4a_mh0bppBvqgUGhRN4xuF_6-iEPYFookH0Do0_8rXCg",
+            "width" : 1520
+         }
+      ],
+      "place_id" : "ChIJ12vGjTP-0YURjEXGywRRPQk",
+      "rating" : 4.5,
+      "reference" : "CnRvAAAAymA0YH6sHHvSEboNxrWRVa4vvwMN9oewXlZDw0QfE69kVXx8I2OqejqdV44_JEz6bBYqRFoTju7KsnkWzn6h7iM-7uNg0Xe7YgfTDwDPGdfsSCsk4UhZ6lOEXoUnSuEDmA0lx8QwUBtzXueZlF9Y_hIQmVtvwq54KYg6nAXNLvCvlRoUAe-3l1qJY2n-m-uAiyVsnctyzx0",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mish Scartín",
+            "author_url" : "https://plus.google.com/105739862503149502524",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-_Yce5k454N8/AAAAAAAAAAI/AAAAAAAAKnM/wy4FnuWGz1Y/photo.jpg",
+            "rating" : 5,
+            "text" : "Un lugar tranquilo para disfrutar",
+            "time" : 1454394808
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Esteban Ruiz-Velasco",
+            "author_url" : "https://plus.google.com/106705242437425841750",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-CfDGSNL3Tlk/AAAAAAAAAAI/AAAAAAAACCo/3kM6hkXXEcI/photo.jpg",
+            "rating" : 5,
+            "text" : "Este lugar es uno de mia favoritos al sur de la ciudad. \n\nLa arquitectura es padre, aunque algo dispareja. \n\nSe respira un ambiente de creación, con todas las escuelas profesionales de arte y el centro multimedia.\n\nLos jardines son lo mejor del lugar. Muy agradable para ir a sentarse a pasar un rato agusto.\n\nHay tiendas de pintura y danza, y exposiciones constantes de foto/pintura/escultura, además de conciertos, obras de teatro, funciones de danza, etc. Solo falta darle un vistazo a la cartelera para ver algo que se antoje.\n\nDe momento el estacionamiento es gratis, lo cual se aprecia, pero si no es facil llegar en metro, ya sea a ermita o a general anaya. ",
+            "time" : 1448334175
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Leticia Lopez Villanueva",
+            "author_url" : "https://plus.google.com/115906333713235748204",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-kpcon7735pI/AAAAAAAAAAI/AAAAAAAAADI/JNgbF6oq0rc/photo.jpg",
+            "rating" : 1,
+            "text" : "Si me gusto pero no se por q se puso ",
+            "time" : 1447648134
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Claudia Sanchez",
+            "author_url" : "https://plus.google.com/118057160495498098881",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Buenas Tardes quisiera saber el costo de la entrada al centro o si cada expo tiene algun costo en especifico les agradeceria mucho que me proporcionaran esta informacion. ",
+            "time" : 1446841715
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Escobar Rafita",
+            "author_url" : "https://plus.google.com/118261561732891656313",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-O5Ix4e29RfM/AAAAAAAAAAI/AAAAAAAAAGM/hNz9IsEY-P8/photo.jpg",
+            "rating" : 4,
+            "text" : "Programación variada y eventos que valen mucho la pena. Sus áreas verdes están súper bien para acostarse, ameno.",
+            "time" : 1454638911
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=665777400961189260",
+      "user_ratings_total" : 150,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Río Churubusco 79, Coyoacán, Colonia Country Club, Ciudad de México",
+      "website" : "http://www.cenart.gob.mx/"
+   },
+   "status" : "OK"
+}

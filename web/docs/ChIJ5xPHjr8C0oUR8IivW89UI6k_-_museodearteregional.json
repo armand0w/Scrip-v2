@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "s/n",
+            "short_name" : "S/N",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Hacienda del Rosario",
+            "short_name" : "Hacienda del Rosario",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Hacienda del Rosario",
+            "short_name" : "Hacienda del Rosario",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Azcapotzalco",
+            "short_name" : "Azcapotzalco",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHacienda del Rosario S/N\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eHacienda del Rosario\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Hacienda del Rosario S/N, Hacienda del Rosario, Ciudad de México, D.F., México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.5019134,
+            "lng" : -99.2115977
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "1197735805c933edd876227e3e0485d8c66f1e1d",
+      "name" : "Museo de Arte Regional",
+      "place_id" : "ChIJ5xPHjr8C0oUR8IivW89UI6k",
+      "reference" : "CnRqAAAAEvWTwa8FuMqZwInR6IgP3IN7G9bwzXeFCNUlx32xgK9_1PVzIqUFbA3CESR52ivC1rvVfeObmSvfht4VlE2NTUdHpykZ6gO-ZEiPIO-upI3RUauJT97K4bNMyYAC7EWzBUv_djyg9Cs4jkqtUuRj3RIQ7b2itcc8A1VUPel235908RoUpe_GltDx8nnofom_tUXudX5llYU",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12187678266167888112",
+      "utc_offset" : -360,
+      "vicinity" : "Hacienda del Rosario s/n, Hacienda del Rosario, Ciudad de México"
+   },
+   "status" : "OK"
+}

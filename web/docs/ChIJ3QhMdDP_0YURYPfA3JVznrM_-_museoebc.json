@@ -1,0 +1,215 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Juárez",
+            "short_name" : "Juárez",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06600",
+            "short_name" : "06600",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Paseo de la Reforma 202 Edi?cio F Segundo Piso, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eJuárez\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06600\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Paseo de la Reforma 202 Edi?cio F Segundo Piso, Cuauhtémoc, Juárez, 06600 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 9149 2000",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4294228,
+            "lng" : -99.16102029999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "342001056a524fbb8380eee61633bb2043a3c39c",
+      "international_phone_number" : "+52 55 9149 2000",
+      "name" : "Museo EBC",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1200"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–19:00",
+            "martes: 9:00–19:00",
+            "miércoles: 9:00–19:00",
+            "jueves: 9:00–19:00",
+            "viernes: 9:00–19:00",
+            "sábado: 9:00–12:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 198,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109448045715692840044/photos\"\u003eMuseo EBC\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAsfXj9Kpd5ew4WBBC09If4xuSUOAPpfQEWHzfJrXWkauR2F0qwaJqGimSW5y6-6z7e4l9K69WGiZKKf7SFr7CBcMzwvssyYNrHcvEDlx_ONeDzW1BIfKaAN9k2c6VbFjiEhCk_yqm7v4Z7TPaLhuHC2CyGhQd6r8eOQDx2LWtTuNapaXxpO9S2Q",
+            "width" : 200
+         }
+      ],
+      "place_id" : "ChIJ3QhMdDP_0YURYPfA3JVznrM",
+      "rating" : 4.4,
+      "reference" : "CmRdAAAAly-LvKpAUkrrpeVwJqdQ7HT4akeURBDo4P7efq6urFIaAaAq8aORD0fQawxXNcqggl6sjBQWyV3Ar98OL9EVg-hH0mKVdN8KXBAaL0Yck0bO7fuCV3A1FUaYi1vfCO48EhCPhlm_DQVrmw3ciW2fch2jGhQxVShEdEVAz86pzUpkldB7MkXkKQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Viry GD",
+            "author_url" : "https://plus.google.com/108195890215710064230",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-K1Pt7ae2uuU/AAAAAAAAAAI/AAAAAAAAMvs/gYdn5Y9qkbs/photo.jpg",
+            "rating" : 4,
+            "text" : "Es el archivo histórico de la universidad, aunque no es físicamente un museo, toda la información está disponible en su página de internet ",
+            "time" : 1448560690
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Sánchez Gómez",
+            "author_url" : "https://plus.google.com/111176826038604791256",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-rpYfwvgIAkk/AAAAAAAAAAI/AAAAAAAAAIg/7dJEX7i0YA0/photo.jpg",
+            "rating" : 4,
+            "text" : "Mmm, éste no lo conozco. ",
+            "time" : 1378495416
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Un usuario de Google",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Aquí también se encuentra campus Reforma",
+            "time" : 1269380968
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Gaona Arroyo",
+            "author_url" : "https://plus.google.com/100993008172535858610",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-DI-tCp_spR4/AAAAAAAAAAI/AAAAAAAAMns/lJikTTjuxgI/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1418364029
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ivonne Ruiz Bouchain",
+            "author_url" : "https://plus.google.com/109661995281088947395",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-361cEdAtFmQ/AAAAAAAAAAI/AAAAAAAABzU/SV6BU-HHu48/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1369969658
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12942909466600339296",
+      "user_ratings_total" : 6,
+      "utc_offset" : -360,
+      "vicinity" : "Paseo de la Reforma 202 Edi?cio F Segundo Piso, Cuauhtémoc, Juárez, Ciudad de México",
+      "website" : "http://www.museoebc.org/"
+   },
+   "status" : "OK"
+}

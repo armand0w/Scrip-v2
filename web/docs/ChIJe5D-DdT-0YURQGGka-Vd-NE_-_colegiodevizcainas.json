@@ -1,0 +1,292 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "21",
+            "short_name" : "21",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Vizcaínas",
+            "short_name" : "Vizcaínas",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06080",
+            "short_name" : "06080",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eVizcaínas 21\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06080\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Vizcaínas 21, Centro, 06080 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5512 4267",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.428331,
+            "lng" : -99.140738
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id" : "08842846baf3f3571e1051e68ad0bb8fe6a9c647",
+      "international_phone_number" : "+52 55 5512 4267",
+      "name" : "Colegio de Vizcaínas",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0800"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1630"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0800"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 8:00–16:30",
+            "martes: 8:00–16:30",
+            "miércoles: 8:00–16:30",
+            "jueves: 8:00–16:30",
+            "viernes: 8:00–16:30",
+            "sábado: Cerrado",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109277279350132828695/photos\"\u003eGUSTAVO ANDRADE OSTENDI.\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA-mp4NxWiRy2O7tUvDChJyIXPFYb13ByqNFM732tiGGnv50gS3hsw2hWgTBTdAgASH-b02OB05vBqLXV_7-WW4CKPhlX-PIJ3Ku5QEHkRnSmBppXWRG068S8Y277EIvI7EhBS6WkyIs9KJYs8kY7o1LqwGhTk8UQj_OuD1FpE70v-SNcDM_wkBQ",
+            "width" : 2448
+         },
+         {
+            "height" : 1868,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAQ2kb53FEGVX629qCoXFr0RcCVN6cMFDXCB4r3lrAzGKLMREx-a9wtZCYe6J3E6RyfBKEdaPRoRKUUFWyQ9xCxGZIgrmiw7j5aZAB47FekInGHS2aP87ggqvXlbCo5Xn5EhBXqw-I2o4SQ2xEBF-8BVF4GhTclYws965jhv4ZsIStfQ9T62P5KA",
+            "width" : 3469
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109400472359143849946/photos\"\u003eDaniël de Wit\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA7vfe7oY2ajpQlud-PO1d52CJjNNYEXqerXqBSMylKXj8HquOIBnzaXD8tWPafnv6F2BLBl4BY8zltM7pwwF7krBNpJ6ue7RI1YC7Jsl2mGOy1GbF02jFY1-xAYuSDzWpEhCKtTVd0o9GzZ7AepmOa263GhQtLcMOhSNCiAQPPTR8cSTC3CtQCQ",
+            "width" : 2048
+         },
+         {
+            "height" : 700,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113497305751416082711/photos\"\u003eGustavo Carrillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAlt1NV05Ha0OAGw-Uq9gAlp6CQ0X1H9TTYkNsqG-XmOzq2h-Ctq7r1fgP8lWNN3Q6fL1F9iVep0dufuhYHMCz8hdrNkYOVQB59_1C23Voyc7GYI8elgTHf-JbfYlonZIgEhCL9xjHt-N50MeD65pkUEe9GhTwgevqeDQYMNIOHhQ1Vw2ryMsA-w",
+            "width" : 1920
+         },
+         {
+            "height" : 1024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103576072331239248859/photos\"\u003eNatalia Fuerte\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAABL-Y7JjVOsI-dVOD9QWIUqZPYUfBYccYSlYYByta6-q479LOLpeNbz-fnRxbbZgZIem1is81XzjskaSNqaWOxIIVYvjao4Aerl3EqojB9-k9URukBhgoAVDZnc2XpMNbEhBJMWfzD-OIEwP6YYjsqvSnGhRz1GRN_Yk1GQW2tkVy6GRKnH1mAQ",
+            "width" : 768
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110683486757588044899/photos\"\u003eTestigo Ajeno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAIYurFNV9zi3ijg85S6yyjl0gmS7Sxuhp5tSyb46abENP75XjyVjbEGwB6Ir2cfzYrVfsTtsBvughNcfnFBrMNHLy_9OH4jqfkhUwecZkh4boAK-m3gPL5j_jJ1YTubHPEhDvfRKbjsBCUL4z0lrtyZ_RGhSB2mqf5-qSxnV3bTYn35QsytSPXw",
+            "width" : 816
+         },
+         {
+            "height" : 575,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAu3hf07Ve115ZRNlzMpqZMvOVSsjxEvM1Wyr76oT1q7oEuTSRbZ3KNzt4vEpskZEQl-Yoqf5QFVTxvu8YC_wDsZzpceztKjDZFcvtLyWHFc4-QdNaADG7b0aChzWW5YkEhBjqw1gL1f9rLzk0TxuFyBWGhTINufte7m5LvAz-TBy4XNnzsxfnA",
+            "width" : 1251
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110683486757588044899/photos\"\u003eTestigo Ajeno\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAC6TW36CYEEsyv4E6DAV9KCBCjLkJcO80DREiY9rzXQRuQq_AlP-sPOU502ZhAutwhAE7DqxDKwNcnl2HRHrukkxwsAxWLmyvz7U5dbaNIVXSrBaNj85tYZB8rLqOxKOuEhDY69Fm8gPsRazuY-es4yGZGhRcCNa2F4tJSxccDF6Dsae4qsLqYw",
+            "width" : 816
+         },
+         {
+            "height" : 730,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113497305751416082711/photos\"\u003eGustavo Carrillo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHZWXc-I-MUvVXBZqGQ4LFK2ymhvBjTIXqtlpSxK8GAu83CyRlXyFe6NQet93LpbrD0OSKVi1e4lVRsXObrjbLl1SeDV6sf0eJWYOQ2CK_cL0gU7gAxZATv28NcOi0GkHEhDbLICW1_YYSJwwvSkXjvojGhRI0yqfFzyWRyiME-MEz3skHicSMQ",
+            "width" : 700
+         },
+         {
+            "height" : 2351,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAmloSeta6cnJVpsvTCRDtByYFfey2upSQqtkdYdcRzpYoQrCQB26O-cFO821iNNl-rA_hhBlCOWJ8jdFlhJKIOiA04FPt8hX10Vv9tXa5Aak6LmX5-Uy0MRT5zLYoww9DEhBtouTc8dAc-2C99Yn0zyybGhSwJMrcUDmWSx9p_KWaVDzHuT3H2g",
+            "width" : 5629
+         }
+      ],
+      "place_id" : "ChIJe5D-DdT-0YURQGGka-Vd-NE",
+      "rating" : 4.1,
+      "reference" : "CnRpAAAAXYGWYif3bMzEbNkH50Ye6BZ8oAx7PjFWLuwkOmd7OZ9pf3lqlOZdU3kZK7_DT9JzkQWzufQ0Pm1TIbUeN4_xvj2ipYf6TcpbFj2vOLaU1sl6XStcSkrW7eiEZAH_JzNdqJ59vbqeHg1CV2EIuSTU3RIQbfYfdcCoUY29d2soA812FxoUlcMoREv1pvZnOjC69Q-j99Nyt9g",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Raquel Castro",
+            "author_url" : "https://plus.google.com/109782198853122649899",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-42jnTUzE-yw/AAAAAAAAAAI/AAAAAAAAASo/vGz11co4I6U/photo.jpg",
+            "rating" : 5,
+            "text" : "El Colegio de San Ignacio, conocido popularmente como 2Las Vizcaínas\", fue el primer colegio laico (no administrado por la iglesia católica) de toda América Latina. Actualmente tiene un museo de sitio, que consta sobre todo de arte sacro, que está abierto al público todos los miércoles a medio día. La entrada cuesta 75 pesos mexicanos si se tiene credencial de estudiante o maestro, o si se es persona de la 3a edad, o 150 pesos a público en general. Una excelente opción para turistas que gusten de la plástica y la arquitectura novohispanas o que, simplemente, quieran conocer algo distinto a lo quie viene en todas las guías.",
+            "time" : 1451494636
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Cris Salazar",
+            "author_url" : "https://plus.google.com/114265989737559511627",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Yo estudio ahi\n",
+            "time" : 1452167661
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Sergio Cruz",
+            "author_url" : "https://plus.google.com/104038641687158704815",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-bylQul1GfUw/AAAAAAAAAAI/AAAAAAAAABE/vHIlXzzUWUI/photo.jpg",
+            "rating" : 5,
+            "text" : "Los eventos es tan fabulosos ",
+            "time" : 1450368276
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Mario Derioma",
+            "author_url" : "https://plus.google.com/111278529583432231388",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy buena atención en la graduación Generación 2012-2016 UNAM Facultad de Ciencias Políticas y Sociales ",
+            "time" : 1453522544
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Luis Velázquez",
+            "author_url" : "https://plus.google.com/115900584730471801782",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-j3_9wJYkhiA/AAAAAAAAAAI/AAAAAAAAAF0/VUQFBHZKIrM/photo.jpg",
+            "rating" : 4,
+            "text" : "El Colegio vizcaínas es un sitio con mucha historia además de un centro escolar cuenta con museo y organiza eventos.  El edificio es una pieza que representa el estilo poderoso de se época. \n\nToda una manzana de historia y arquitectura.",
+            "time" : 1439402973
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "school", "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15129946188086010176",
+      "user_ratings_total" : 22,
+      "utc_offset" : -360,
+      "vicinity" : "Vizcaínas 21, Centro, Ciudad de México",
+      "website" : "http://www.colegiovizcainas.edu.mx/"
+   },
+   "status" : "OK"
+}

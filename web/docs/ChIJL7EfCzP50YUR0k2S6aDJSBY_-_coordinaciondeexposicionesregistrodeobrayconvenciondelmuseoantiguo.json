@@ -1,0 +1,86 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "16",
+            "short_name" : "16",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Justo Sierra",
+            "short_name" : "Justo Sierra",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06020",
+            "short_name" : "06020",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eJusto Sierra 16\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06020\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Justo Sierra 16, Centro, 06020 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5702 4800",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4357044,
+            "lng" : -99.13094009999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0c9cb1508a705c1871b0e4328fa6f7ce312bf046",
+      "international_phone_number" : "+52 55 5702 4800",
+      "name" : "Coordinacion de Exposiciones Registro de Obra y Convencion del Museo Antiguo",
+      "place_id" : "ChIJL7EfCzP50YUR0k2S6aDJSBY",
+      "reference" : "CqQBoAAAAD9Xujcz3MswcPAKjkwIHprJjRWAqFQQ79ZXq_xXU-MYsWzIxXIw_OQFdoytABdvsen6oh3LmqHLM3l7CvgfBRYXDkIQWg2t3WJlJeciaEPYH4RJp6SPzlVOEhyn7fYKGQu3zx0zSBmj_37t6KqSZ13v_VlK_Eafpbg0kydItAX4lK2FRxqO9jpWDAUqGDwziErAZA2t3-j8cmNKWIFPIJESEFB6roPiSyXlNS1M9j3E9P8aFLCgrUHs2FBid5LhDpayP4fmwtye",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Xavier Velazquez Medina",
+            "author_url" : "https://plus.google.com/104981001871830027465",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1436370996
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=1605754960108211666",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Justo Sierra 16, Centro, Ciudad de México",
+      "website" : "http://www.sanildefonso.org.mx/"
+   },
+   "status" : "OK"
+}

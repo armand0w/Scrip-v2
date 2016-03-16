@@ -1,0 +1,217 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Ángel",
+            "short_name" : "San Ángel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "01000",
+            "short_name" : "01000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "San Jacinto 11, \u003cspan class=\"street-address\"\u003eÁlvaro Obregón\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Ángel\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "San Jacinto 11, Álvaro Obregón, San Ángel, 01000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5616 0082",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3449492,
+            "lng" : -99.19266789999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+      "id" : "02d20c4c60899f7cd2015b6b77c59865277d6b54",
+      "international_phone_number" : "+52 55 5616 0082",
+      "name" : "EL BAZAAR SABADO",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1900"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: Cerrado",
+            "miércoles: Cerrado",
+            "jueves: Cerrado",
+            "viernes: Cerrado",
+            "sábado: 10:00–19:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104621828295908725772/photos\"\u003eEnrique Montalvo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAkduIFfwp1uGygpuYZch6XI2chd0k6AleDgp6y8BwU7LLEhMbWj0bzQfiVNmC2zfImGPvCeu1ryLjT8KyB4AgmsiDO6P7bea1Rq-UyGvunwx6qyuVAl3vtcggNFHFj6bWEhAPWyZ5LWLSAsAUtRVqslwBGhS-NYxVRsVYdWzVjYLNF42gP9BaRQ",
+            "width" : 2448
+         },
+         {
+            "height" : 2992,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\"\u003ePato Lankenau\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4N_OEGYxm2i_LZiuikEesGOfz5zZSwRrDYZ42EoAdYNrgYo_DHs25c8iUkLVsjujCRMV2_bQbIe5DFGm56LAKfAdIICsIrZz8TM_KqmoH4_dYW22QkUk1205VOMDHz0zEhBWVSubRQ2RMV_tmpbH6Y3jGhQ9jXh8mliclVHuwoJNXTDiUnxrKA",
+            "width" : 4000
+         },
+         {
+            "height" : 2992,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\"\u003ePato Lankenau\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAv8mI7CL60zitB0KeBNMTjL3sRcqLweFqfmp3OGmUIPOtVkISuyh7qZBDyyh45VEyGULsLkvt_4jrkVEE9V41VdqqznORMGXQC46nwP9GAEIHfglqh8n2U-TJSngp2Wx5EhD1hTvcQdn1qW12SAoOQkoZGhSI4O_t_IKIFeGzxJI1sEdfRUU4Tw",
+            "width" : 4000
+         },
+         {
+            "height" : 2992,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\"\u003ePato Lankenau\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAO02yenovlNvVpq2FHdf9025n-MpDNHYUADfksYtXGF2yJeiC7E7AL9soOWg_zrRsg-GMqurqG-y_Eanr66UGne8dUAXaiEwqBlHk5gEozoCWLccfn6HcDii54bnwUEOeEhA0_GEK5zRBtsTqmFaMIqsJGhTG5W0Mxfg5DaDHTxhdsbnREuueSw",
+            "width" : 4000
+         },
+         {
+            "height" : 2992,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\"\u003ePato Lankenau\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAywB5Qyxg2ojJMDyMyl1uazmD_Kt3cYsxOLLbaZudNKtVXPMWUSA4uLtfGrKpOBizcEpHiZ7LA0TSy_amBdHKQPKcmUGDAaAEc0sTfPFhTNSCSBTIv92O88a-7cszdJyCEhCqPMJ-XZzEgZtTnjpMQBNqGhQduTT_Z_KBg1EvBC0_dIDjcPox0g",
+            "width" : 4000
+         },
+         {
+            "height" : 2992,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\"\u003ePato Lankenau\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAFJIkSJf1UH1neV-T-uGKFSnUJ4VJWkWRF9TH10Qkb83byp2Vx5Q8L7hA8ByPD7DjxnSlLLxvVYxomdTSKZFRgwNy0NcnOjEhrjX_uymaVEnTTeqp7vsOxcXuLnQzSLXiEhBcqbCzTWE1KBJSPWOPfj21GhS4bH3csxyhZLTlzDXNmr_RQuW-JA",
+            "width" : 4000
+         },
+         {
+            "height" : 2992,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112443013934114183058/photos\"\u003ePato Lankenau\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUQHkJttSjlTPX7DNYV7yPXTJOt-swvExtZhaXFDHG57yVUFRWMnD66kXDLpoJtlQWuxhiNF-t63BBK8JKvM8WPGJ4i6Ug2NUg47O0mlTXLb_VBY_3wNzbUfyTvhaEyiPEhAWfbRKYdLXaEGOpjEXR-1UGhS_vNozGzofdFIjOBGV7UByj18mWg",
+            "width" : 4000
+         }
+      ],
+      "place_id" : "ChIJH6RGVQIA0oURGvnVLX9_YKY",
+      "rating" : 4.3,
+      "reference" : "CnRkAAAAF5Xf3kBj4Ubvs_oRCFUhMJYHCVCzNbLFPcHFZtFxAtO-lF5Bt-UlWlqH0L_LNpHi6EUyiQlIFvtvYFGTgooGG29i8XEQ8joEz2ziXGe_SPyoRzqW6SuD3YPdWPpwq2s6167G_ufpOZTGPG-61jQ-LRIQUOTZdjNXSU5OrPDW0plqZBoUmG05Ouh2yMflqFSTi84Xi0M568w",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "claudia gugo",
+            "author_url" : "https://plus.google.com/100041579020902797072",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-5R_ua1xpgUs/AAAAAAAAAAI/AAAAAAAAAC4/T4wQzgR7uWQ/photo.jpg",
+            "rating" : 5,
+            "text" : "Una tradición ojalá no lo cambien por que es de los pocos lugares que quedan con artesanía 100% mexicana. ",
+            "time" : 1451954533
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Guillermo Zamudio",
+            "author_url" : "https://plus.google.com/105119820553932389350",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-LCkW_kaHHZI/AAAAAAAAAAI/AAAAAAAAGI4/s3l3fnjL9Og/photo.jpg",
+            "rating" : 4,
+            "text" : "Es un buen lugar para pasar un sabado relajado sin plan alguno",
+            "time" : 1359238322
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "HERMAN MANRIQUEZ",
+            "author_url" : "https://plus.google.com/101303899682816923456",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-IfDWk0Xhgec/AAAAAAAAAAI/AAAAAAAAAA8/VmKtQcFu7PQ/photo.jpg",
+            "rating" : 4,
+            "text" : "Bonito lugar para pasar el rato con la familia, encuentras buenos lugares de comida a precios accesibles algunos si  con precios altos, pero cada quien pasa de acuerdo a su posibilidad y gusto, un día de compras muy diferente a la clásicas plazas lujosas.",
+            "time" : 1379401109
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Un usuario de Google",
+            "language" : "es",
+            "rating" : 1,
+            "text" : "La peor y mas cara fonda que he pisado, una hora para servirte unos tacos de tuetano, que nunca llegaron por que tuve que cancelar, los precios altisimos para unos tacos de cualquier esquina, y el colmo son sus refrescos miniatura a precios exagerados, 25 pesos una coca de 200 ml¡ en sillas viejas de madera¡",
+            "time" : 1319496361
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Un usuario de Google",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Hermoso, decoran la fuente con frutas, los puestos tienen cosas lindisimas y muy originales",
+            "time" : 1326473924
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [
+         "home_goods_store",
+         "store",
+         "museum",
+         "point_of_interest",
+         "establishment"
+      ],
+      "url" : "https://maps.google.com/?cid=11988722392266832154",
+      "user_ratings_total" : 22,
+      "utc_offset" : -360,
+      "vicinity" : "San Jacinto 11, Álvaro Obregón, San Ángel, Ciudad de México",
+      "website" : "http://www.elbazaarsabado.com/"
+   },
+   "status" : "OK"
+}

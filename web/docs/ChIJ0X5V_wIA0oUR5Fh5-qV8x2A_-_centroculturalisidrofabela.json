@@ -1,0 +1,264 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "San Ángel",
+            "short_name" : "San Ángel",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "01000",
+            "short_name" : "01000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Calle San Jacinto 5, \u003cspan class=\"street-address\"\u003eAlvaro Obregon\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eSan Ángel\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e01000\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Calle San Jacinto 5, Alvaro Obregon, San Ángel, 01000 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5550 9286",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3450039,
+            "lng" : -99.19203209999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "e819ec934af242b6e95083eb67f1574a68fc6eef",
+      "international_phone_number" : "+52 55 5550 9286",
+      "name" : "Centro Cultural Isidro Fábela",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–17:00",
+            "miércoles: 10:00–17:00",
+            "jueves: 10:00–17:00",
+            "viernes: 10:00–17:00",
+            "sábado: 10:00–17:00",
+            "domingo: 10:00–17:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 949,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114549575747587828511/photos\"\u003eSergio Martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAATASp-pQ_EHBP4RIaPTFLvqkNGFz_P60ZUCCqZUL6HHe7XqRh8f9UgVbJyMvNqudjKI96hC51guz2lxdhx0n9G2LIguijlqWdG9kMon5rzrJ1anuZWOfhYvdP8sm_sVlREhBNYmunymnExOHqH0sz6wVCGhQEils3C6hN5E_DX21jdgDhT2zvZQ",
+            "width" : 1265
+         },
+         {
+            "height" : 2304,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118251542573509466968/photos\"\u003ePerla Cielo Jiménez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAK7QFdvVwvHUo9P0NWJi5fOJ2MC-zidnhfRFxcx_7p6TfhHDQzan416rXDnK9nXPJU2HEsci4apiTwZ9kUJeohsc6OMsaKdco3bKlL70E8NWhlqyjlkCL1ioDiK2NqXmTEhDcoY2So01wZ72MX6CwUFNoGhR2wPKpAIET7vQRavzrWq693X5wWw",
+            "width" : 3072
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAALImKEBJJTF19UETR_yY-w3xd0fBw7nRv96vC9WLbj1E7FBWaYdY12QnEoxQB9IulBK_b7pm5m2yIIxz0bh59GAzjM4iqpQQYtx1ct9MECMnZXIrhpUUIxmUoXQoqlFxEEhDf3nMAddXx_3t7dS0ySSJPGhRIFlYbCQvNsYcylk945V4uCttHhQ",
+            "width" : 3264
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA1tSgM2RZ7TcGbuFeE3yfOxU2u7BwR--n8t3GM8nFSAJIZj-AH53fHJG0383XNye4GojumfNI1L81kqQExg4erejbcVrFg-V0tgQT-2Q3Wlrz61pTrkluAEqNCPHhUf27EhAyDHZ5xOjpV7XPjKzmKIJNGhS-jfOB11osz9u9M1oe3RDz5IjFZg",
+            "width" : 2448
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAgiZmyhqhFn2DliOLFX8V20G9ewbNs-H5entykVZFCnq0yCZ06WapYZtv-hMfY-tkPPQEMbGu_Fe8IHhJybKjQg27ca8p2Qd_e6qd05MIAQ7YpytuTwkqqvkXkPCmekagEhCYm05Tg0RgOVtd2IEgivMNGhQZV53HFoYjUd5uqQyd5CRfX09o9A",
+            "width" : 3264
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115610406514834989485/photos\"\u003eEnrique Ponce\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA2D7Rm9uxVgsvAuQPqNTHSPnYCtLg8feukudjBHunkumKvhd-jcD3I3oF6F6sTrenCPfwaOWxrx2weR9lczYYp1KrfEdXkiIhAPvBXfqrC3SIjaCPYMeVhSoeDJrODBlEEhDGn1mYbl-WMvsoyegFGvS_GhTPgO-SRYE3sYy6lSIVA2pyvckEMQ",
+            "width" : 2448
+         },
+         {
+            "height" : 1280,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113516976710346414354/photos\"\u003ekarim Servin\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAApC8IaQ-5n17pUkZ_bYtm8GEftKEXRw9z7MSgzsk37eRSHWUPOOgQ-p3L-zkVjapGRqPMMKpPO1hq-M6igOvkaaQ6NcXlAXx4vnu8Tk5q9cnSzcIirr2bedSWXgLGkvsQEhCIP6N-YjXTRpfd2GA57VYyGhRP2QzXsVBsRslP6_X4a4WbtiWSuA",
+            "width" : 851
+         }
+      ],
+      "place_id" : "ChIJ0X5V_wIA0oUR5Fh5-qV8x2A",
+      "rating" : 4.5,
+      "reference" : "CoQBcQAAAMYarBObcPJfqgyfZiA-WWcfKhI7__cqMfiEGe-Qnv8mSG_05eM_0vxQqkt7OkJqIWir3eayqaHneMuEk6BEh360ezbFh6oD0Qbk6frRGBSu80cTiRVqv6wvhdhn1TYJO0xWObERbq8GdJVbAr1F3FgeIU7W0rKJwsXBZVAjaLF9EhBAwviHB97bEhn3vGpVkEl4GhSqxkWqKooj1V7Rrho35ImI5xm_7A",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Fco Rbs",
+            "author_url" : "https://plus.google.com/109475634497723074389",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-Cso1FIJOHIQ/AAAAAAAAAAI/AAAAAAAAZfs/bT_be1ARn1s/photo.jpg",
+            "rating" : 3,
+            "text" : "Es complicado el estacionamiento en fin de semana. Recomiendo pasear por los alrededores. El lugar museo no tiene nada espectacular a mi gusto. ",
+            "time" : 1454224276
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Bru Morales",
+            "author_url" : "https://plus.google.com/106548702174422237117",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-Uw436SWT8Yw/AAAAAAAAAAI/AAAAAAAAAQ4/qJpUvmND-Yg/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar, exposiciones muy padres todo el tiempo. La fuente es increíble, vale mucho la pena ir a visitarla, también para ver la colección permanente de arte barroco. ¡Una gran experiencia! Hay actividades de todo tipo: conciertos, presentaciones de libros, conferencias, etc etc Muy padre todo",
+            "time" : 1443107819
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Dulce Aurora Martinez Ortiz",
+            "author_url" : "https://plus.google.com/115043726065890960020",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-oAFhqeWlwd4/AAAAAAAAAAI/AAAAAAAABnc/eU33mqO1e3M/photo.jpg",
+            "rating" : 4,
+            "text" : "agradable\n",
+            "time" : 1416878555
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ana Ximena Corral Navarro",
+            "author_url" : "https://plus.google.com/106021922325822765652",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-suxBfrbG1RU/AAAAAAAAAAI/AAAAAAAAADg/74UyPAGv1UE/photo.jpg",
+            "rating" : 4,
+            "text" : "Pase una buena tarde, muy agradable.\nvale la pena vistarlo",
+            "time" : 1378413147
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Laura Galvez",
+            "author_url" : "https://plus.google.com/111231330991673886211",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-wpdVlkVJFoo/AAAAAAAAAAI/AAAAAAAAC4U/SpuPSNYCUoA/photo.jpg",
+            "rating" : 4,
+            "text" : "Cuando fui me diverti muchísimo, la verdad vale la pena ir, ideal para ir con los amigos o la familia.",
+            "time" : 1379827335
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=6973679600320207076",
+      "user_ratings_total" : 18,
+      "utc_offset" : -360,
+      "vicinity" : "Calle San Jacinto 5, Alvaro Obregon, San Ángel, Ciudad de México"
+   },
+   "status" : "OK"
+}

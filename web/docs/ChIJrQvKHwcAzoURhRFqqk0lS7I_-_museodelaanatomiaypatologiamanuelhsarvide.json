@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Facultad De Medicina Veterinaria Y Zootecnia",
+            "short_name" : "Facultad De Medicina Veterinaria Y Zootecnia",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "S/n",
+            "short_name" : "S/n",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Circuito Exterior",
+            "short_name" : "Cto. Exterior",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Ciudad Universitaria",
+            "short_name" : "CU UNAM",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Coyoacán",
+            "short_name" : "Coyoacán",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "04510",
+            "short_name" : "04510",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Facultad De Medicina Veterinaria Y Zootecnia, \u003cspan class=\"street-address\"\u003eCto. Exterior S/n\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCd. Universitaria\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e04510\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Facultad De Medicina Veterinaria Y Zootecnia, Cto. Exterior S/n, Cd. Universitaria, 04510 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5622 5888",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.3304714,
+            "lng" : -99.1780495
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "2e618866c6dd8766824992e2feeb785e148c8cbc",
+      "international_phone_number" : "+52 55 5622 5888",
+      "name" : "Museo De La Anatomia Y Patologia Manuel H. Sarvide",
+      "place_id" : "ChIJrQvKHwcAzoURhRFqqk0lS7I",
+      "reference" : "CpQBhwAAAIJVyFbk3TKE8nqw4HaH7AYVQLq6TPpejZM3o5IZxXdWbcXBUQKxw2BhJZAuNYzwk7vzeUeJ9Mc5oIR3l1s9aNKilr0AxKwqnDK6fPhTY66OwkZZfQ1dtmybS4-Ntokf1f86J4DPi9ZjJs9SF6q-Jfssi4mCSG4MMSKM4O1APeUd9GeUNT_KNOu40-B7sfKydRIQAUrJckeHI7R-vZKjWM1c6BoUzZPyZJxTeltFLBxE-Ptq1d_Ub_s",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=12847403377506259333",
+      "utc_offset" : -360,
+      "vicinity" : "Facultad De Medicina Veterinaria Y Zootecnia, Circuito Exterior S/n, Ciudad Universitaria, Ciudad de México",
+      "website" : "http://www.unam.mx/"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "35",
+            "short_name" : "35",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Berriozabal",
+            "short_name" : "Berriozabal",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Centro",
+            "short_name" : "Centro",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Tlalnepantla",
+            "short_name" : "Tlalnepantla",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Estado de México",
+            "short_name" : "Méx.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "54000",
+            "short_name" : "54000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eBerriozabal 35\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e54000\u003c/span\u003e \u003cspan class=\"locality\"\u003eTlalnepantla\u003c/span\u003e, \u003cspan class=\"region\"\u003eMéx.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Berriozabal 35, Centro, 54000 Tlalnepantla, Méx., México",
+      "formatted_phone_number" : "01 55 5565 6802",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.537688,
+            "lng" : -99.192576
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+      "id" : "7e7986a227e48a27a31172aa54733d286f903995",
+      "international_phone_number" : "+52 55 5565 6802",
+      "name" : "Gameroom",
+      "place_id" : "ChIJ-dSUNFgd0oURMVBE6AdBvOY",
+      "reference" : "CmRcAAAAVcQc5elBmrmQhrfVRTdzZ4Hd6yLd3d4KM-i8ckQJbQyh0tmqiBe9P2xSTEYE7RL2C-0DMEqBJ8BqfWXqFdSeFbSA1UegpJx_A8esKn-PCJ-Gp5g4k1jEnsZbx6drVYIPEhCXJM7iMgdp87xvyywp_gK8GhSZy7iJeC4Qd04u4IY5nsRgWdZ0GA",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16626235426562396209",
+      "utc_offset" : -360,
+      "vicinity" : "Berriozabal 35, Centro, Tlalnepantla"
+   },
+   "status" : "OK"
+}

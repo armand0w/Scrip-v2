@@ -1,0 +1,112 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Avenida Industria Militar",
+            "short_name" : "Av. Industria Militar",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Lomas de Sotelo",
+            "short_name" : "Lomas de Sotelo",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Miguel Hidalgo",
+            "short_name" : "Miguel Hidalgo",
+            "types" : [ "administrative_area_level_3", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11200",
+            "short_name" : "11200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eAv. Industria Militar\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eLomas de Sotelo\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11200\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Av. Industria Militar, Lomas de Sotelo, 11200 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 2122 8800",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4407349,
+            "lng" : -99.21630619999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "976ebb4bd308c8b1437382a8e13644fec5e112fa",
+      "international_phone_number" : "+52 55 2122 8800",
+      "name" : "Museo del Enervante",
+      "place_id" : "ChIJR79BSiMC0oURfcXgASLuOpY",
+      "reference" : "CnRnAAAAFfqvgrts_CJDJHcs83y30plxkU4c0KYXczl55dpBEB-mqBant68Y6LQo-WMApO-63J71dRj_i7DJ723DtFbHVuIT2OXtaUb3jlrhpuCVeV0h-peFxC9YKCSP3YCLEZqfPOIILLBlLXKJ1Tny4lkMrxIQv41hXHjhrI2tTBywnG1LFRoUtjkFOsWYUwFsj9LwB9G9qxIfDRQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Ojeda Hats Ojeda",
+            "author_url" : "https://plus.google.com/114883396122840223164",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-QpZeTEr-zx0/AAAAAAAAAAI/AAAAAAAAAaI/s_FitPCppXk/photo.jpg",
+            "rating" : 5,
+            "text" : "Ok",
+            "time" : 1451839716
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Chucho Barajas",
+            "author_url" : "https://plus.google.com/103048272858832197653",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-Yqgu27-9OF0/AAAAAAAAAAI/AAAAAAAAA28/DTekFCHa6-o/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1450053914
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Erasmo Bojorquez",
+            "author_url" : "https://plus.google.com/102645555201101792339",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-HFipMO1xZjI/AAAAAAAAAAI/AAAAAAAAPTg/QOx0ttjOnSQ/photo.jpg",
+            "rating" : 5,
+            "text" : "",
+            "time" : 1449248785
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10825226484166215037",
+      "user_ratings_total" : 3,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Industria Militar, Lomas de Sotelo, Ciudad de México",
+      "website" : "http://sedena.gob.mx/"
+   },
+   "status" : "OK"
+}

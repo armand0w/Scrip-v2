@@ -1,0 +1,297 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Puente de Alvarado 50",
+            "short_name" : "Puente de Alvarado 50",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Tabacalera",
+            "short_name" : "Tabacalera",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Cuauhtémoc",
+            "short_name" : "Cuauhtémoc",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06030",
+            "short_name" : "06030",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003ePuente de Alvarado 50\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eTabacalera, Cuauhtémoc\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06030\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Puente de Alvarado 50, Tabacalera, Cuauhtémoc, 06030 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 8647 5800",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4380689,
+            "lng" : -99.1520429
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3aea07bbffbe20b6c20c5e964fece02de2456133",
+      "international_phone_number" : "+52 55 8647 5800",
+      "name" : "Museo Nacional De San Carlos",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 866,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116054172501454800037/photos\"\u003eThe National Museum of San Carlos\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAwEPmxwH3PXz0faK8nbyvil-gh2aLenNNeepufn4qWyuNEUW7xhbevOzmHbW4DNJIzT0dxDQJtoVhEWFa8dqfuApztCD5IpxEUff2QiJKemBg2JcH8xlTLTpcRfMZQPwHEhDY2pAY2xWnUPinIYgkyX-pGhQgIN6nW4I3sMUs7NS8YS6oifdy4A",
+            "width" : 866
+         },
+         {
+            "height" : 1632,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104341609592451726515/photos\"\u003eJuan Carlos Navarro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAnOYKVbe-OKCsg71X1SbNc4xOmRpmpahL_BcrE9UHmLtSd-zLCq-4J1JouB7OYFE7T1Q4AUbeXJ1Zv2GrZbglqnr03UtwzG0SCwY0atTohwXoV8p5B_8JlPkLWh5ZfMTIEhD7eWQg-zzzorwlnEuJTToaGhTBJTD_V6HlO7UaXFUlWD-ZzbTXtg",
+            "width" : 1224
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109712426638224276558/photos\"\u003eDavid Chávez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZmiZJuhg1OKmy9r-W_A8gYcLayYahD1IBIA9atsgshOtWdvaigRba0hRQx7LQPwFTZK5d3qGQXNd7bA6EdgErhkcBwD71J6gXqkUUSJ1G7FxfLSc387pIUqHsvTucfIFEhB08DG6BuOHR9c21_gIlbHUGhTpyP4U5ePRRiiWp8FxjIOLKE2rPw",
+            "width" : 3840
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109712426638224276558/photos\"\u003eDavid Chávez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAt9ED6Bss3_YdZ8uFiSr5K9u6RO3UO4Nt4vVnSSGHv0IEUSfm4TEjraaXtRnC3suDZDeHpM6zVjRUvD9NJVxkNjlPOzA_Ebel_S6HKBD5l9DUrQso91NwaWCS48zdzi35EhCE3wvxJRhpdRx5ZyaICcHSGhTbDqzI9YWHSvu4cAU-J2UAjJU-6w",
+            "width" : 3840
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104621828295908725772/photos\"\u003eEnrique Montalvo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4cjmqr7t2XXPXjuRY9j4SSw9uW4N7emNys-_CWfwoe-hdcDz1-9JvUOIHx7UFeb4HTdsiHNwd4NMGytIOseSEqXDK7r6Kp5y0r8vzUb0-ZVczSluHiZot3hM-NcHjHYWEhAMXA8OZvzUnnD6QOPMSOi5GhTqLE9Lfp9-ZHL-UvVo56_FbHPHrQ",
+            "width" : 612
+         },
+         {
+            "height" : 3840,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109712426638224276558/photos\"\u003eDavid Chávez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAMct8pvUewm9Ygne4QlDe7sR41oH4iXTHQvnI10gcqfdQx0nmSSz_VEwQlR0Uy_nEr_GkwSiIe3q9YVCXpH7AZ8vUj30-wvt9uwa2YCl9bA9hVWrPXW0DfYK_P4SUKxjZEhDdC7_vPu4L4RvOW6HxjARLGhS7g7NKGpzcgHTRt9pHu2nQ5L9zAQ",
+            "width" : 2160
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109027046485940616545/photos\"\u003eRodrigo Hernández Peñaloza\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA5My_GO0oR0bvmcablGCPfrGvs2AElvIkwf-uIbD8UXqqC6r7_LUwchUiT-IRHslmmQRm7wG209aHkUPZVMaxr4_Px5DUvn-Q3h7uqKEXaRjDQT4s4UxwEMEwToA5FYhsEhCn2VBllHEi8yUE2hE7ocdtGhTKRAKLfr5mLANkp62s_rN1Hwku1g",
+            "width" : 949
+         },
+         {
+            "height" : 1265,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111180738890671078779/photos\"\u003eDavid Arellano Gault\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAz8oy8AdyTbYN_Hwnkf2ReeGcNUV0sNQf130GPSL7pXo9HtzqtIgGV8bQrLYCD4Xo955TslW2RBdiLj0Y-sfmnDLdyqMYfTHEgFsF_rXA-TuLEHOdWpHgEQq6RKblezkyEhASwqvE74enwwDREt0jvMO4GhQLPp_2t0k2TKqVci7LXbm53QK_HA",
+            "width" : 949
+         },
+         {
+            "height" : 816,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104621828295908725772/photos\"\u003eEnrique Montalvo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAUMySlao5gBZwzVsQPwFwZe77hx2FDBDt0V16tfN58nkOhn31650iKG4WDaq0jg9KaD6TFw_dLEFDT0XRdVpknTaK66O3kU-BArC6MSVHa0gFvITVkr2Sd9LhLK1r1SHoEhDT1K69mYj7lUnnthjLbqNyGhQChCPlb6SEX7irZaOkiy7p43wuyw",
+            "width" : 612
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106715693693722647790/photos\"\u003ehugo fernando sanchez juarez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA9myWPUWzgbVKHliDC9GNN63u0T83F3TiJpLpQziWgVikzGmJ6FQdguheGeBCsDdaN5Zy3zMg_sooUedQflykb-8QTmIwS4eQlZCbn2g1e846vBuFz91rk6vg6qSbMoGVEhApcS4jxR2QXSdjNX_EbHgeGhSZzmlrsaQf-URXRIFDc76pyv8UCA",
+            "width" : 816
+         }
+      ],
+      "place_id" : "ChIJ-wBzWNH40YURTUqnO6pJWOM",
+      "rating" : 4.2,
+      "reference" : "CnRwAAAAhf6Da5SCM4HqVH4SSMJFeLyh2TzgHJ_dTj0aJC0a29Rs_4R5fBPY2u_qOkh6VTDpftWUOT4IQGxix0aH6HsRlAHyTn2HXkfabiWsoT07_FvAPC8g5eF3bqZullVyXh488bfd5z0WglKC0Fl0uI8pCBIQ2vyHOMM1P2HQoaDr45LiVhoUc6_IhxUKQTAy3Ifx7zSzVP4Oc08",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "KaRiNe DaemoN",
+            "author_url" : "https://plus.google.com/105903461543396873900",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-3mOasu-LHYE/AAAAAAAAAAI/AAAAAAAAFqU/Xzq-KS__J-w/photo.jpg",
+            "rating" : 5,
+            "text" : "Esta muy bonito el museo, te dejan tomar fotos con el celular siempre y cuando no uses flash. La arquitectura del lugar es Neoclásica y si decides tomar el tour te dan toda la explicación de la construcción de museo y que uso le dieron antes de que se convirtiera en este. Las chicas que te dan el tour te dejan sorprendidas porque traen vestidos de la época de la Colonia y hay algunas ocasiones en que hay exposiciones especiales. Es un museo muy bonito, se los recomiendo.",
+            "time" : 1448892003
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Echeagaray",
+            "author_url" : "https://plus.google.com/111911991150291908427",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Un maravilloso edificio neoclásico da cabida a una exposición espectacular de arte flamenco, del gótico al barroco, pasando  de Rubens a Van Dyck, otra de fotografía del s. XIX y su colección permanente.",
+            "time" : 1448676768
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "David Chávez",
+            "author_url" : "https://plus.google.com/109712426638224276558",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-mRErS1IHRAM/AAAAAAAAAAI/AAAAAAABg-o/lzfR0Cl-Cco/photo.jpg",
+            "rating" : 5,
+            "text" : "Muy buen museo con exposiciones temporales y permanentes. No tiene estacionamiento. Te recomiendo que estaciones tu coche en la parte de atrás, donde los \"viene viene\" no te cobran. Tienen unos sillones muy cómodos en la parte de arriba cerca del baño :)",
+            "time" : 1451767135
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Miguel Pérez",
+            "author_url" : "https://plus.google.com/111170408987088190721",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-4CW-JFnrkMQ/AAAAAAAAAAI/AAAAAAAAElg/bsYHgriOm8k/photo.jpg",
+            "rating" : 5,
+            "text" : "Buen museo",
+            "time" : 1453063100
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "vilma soto",
+            "author_url" : "https://plus.google.com/116890188719803622086",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Estuve a finales de año. Pude recorrer y mirar con tiempo y serenidad los espacios. Hay luz día abundante y buena oxigenación",
+            "time" : 1451867436
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=16381924640054266445",
+      "user_ratings_total" : 51,
+      "utc_offset" : -360,
+      "vicinity" : "Puente de Alvarado 50, Tabacalera, Cuauhtémoc, Ciudad de México",
+      "website" : "http://www.museonacionaldesancarlos.bellasartes.gob.mx/"
+   },
+   "status" : "OK"
+}

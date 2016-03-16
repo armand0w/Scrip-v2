@@ -1,0 +1,288 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Centro Historico",
+            "short_name" : "Centro Historico",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "06060",
+            "short_name" : "06060",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Academia 13, \u003cspan class=\"street-address\"\u003eCuauhtémoc\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eCentro Historico\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e06060\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Academia 13, Cuauhtémoc, Centro Historico, 06060 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5522 0156",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4336679,
+            "lng" : -99.12916389999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "ce78e2c312ec211db1ada277c6084e34e5b11681",
+      "international_phone_number" : "+52 55 5522 0156",
+      "name" : "Museo Jose Luis Cuevas",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: Cerrado",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: 10:00–18:00"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA4GfDWcnEfFP9bDwfvAFch-GofmnisOvy2fmdxG1GIelKpbl44oLPWT7FSILXMq6I4zQvh-uvOsEePBhuxDcFQHW27MRiIYVvOxiKL9QlyrENPHDVu9IYCTxFmeZ4xfjlEhAXKPNuj1wDExs-4Py011ZiGhRv_S2e6NsfnUOUOq6zgTdLZIOXSQ",
+            "width" : 3706
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101305518977891008426/photos\"\u003ePerez Pablo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZC_qFzKbLgwGwPtuDYOVsQVXHfCmg5EK_gsF4w4VHWn6lyMPCmdjO-_L6pvqUQFYvSWDlwwEGsGz_pKVIphocCSX6mBBiH9LCBiP90BhI5FMU96HwVeond0X5yDICYErEhB6zXjDmItJSGiZjQW8-SJ5GhSB9nCRV13iH0J7CzaMEgCSR4NPiw",
+            "width" : 2560
+         },
+         {
+            "height" : 3684,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAHpUsocHSBIkJ9uF82Qye5cTxUay5d2000t6oFJsNgVwH3b2fKmP1PVPF_zALGsG-9KPHGZHlvJHJfHuppb4OZSucLVqcZsDAIfq9JLG4g70UaWood1a6xW_4svML0HOjEhCuYmm9M6rdzktWmQkwuoYKGhQZOTB3JmbRuaSQLa-6NyIhUU6Zdg",
+            "width" : 7200
+         },
+         {
+            "height" : 2695,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAARt1IO6pZ7bf_tJYPw4r3EKGChD_vac2YJQ9ui9HOeCosylEoMZFJQWFBBH5M4BgBIa5UovHLPP8zPi3o6G4qzoi9FvQAwdtz4tDHe5toxyGjpo4OBY77nuKPJ3NquoSQEhB8RlGRHiCxNxSBXkuTgBDPGhTeOw8z8AooxBCziAjKxgQoXEG49g",
+            "width" : 4562
+         },
+         {
+            "height" : 2236,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAZQxsuOFLxQNxDebmd6knNtGBk_t2uw7zbJHXCpaqaqHPo1IcxI3gGYbneMN7yDTlpkcYpHzGhsMraMrS_NrPuYkgl9f5OzdFM6nLJfKDXw-7Rk10PzQfqTcByexqZB9eEhB5tNicQmAlfyQuyngDDUJjGhSlarVH6O0N4qjjF0KcR4k4a1xXjA",
+            "width" : 3123
+         },
+         {
+            "height" : 1857,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108327959365433037702/photos\"\u003eMARGARITA ROSAS MIRAFUENTES\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAf-F5VbQCgpIIZC7o52VpXQApXd68gkN1bxLRxnaDgH6nhFNn5MD_ufkxi3U9j2p7h1S_JJ3YKWNPGhMAAQnK6fQt0IusvD3FgbZ3p-zvF3COAJyAAVImqzO2iEU5fN1EhAW-MvL-Xs1n5VIP3yppQdmGhR61dU1S-QnH9s1xvJMNVaCfRcjnw",
+            "width" : 3000
+         },
+         {
+            "height" : 2000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108327959365433037702/photos\"\u003eMARGARITA ROSAS MIRAFUENTES\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAAWkCAx3WZo8M_5tPiz2DubU85CRAU9QZsbr7EX7B0azEUKUH4MqOzvEcOBt7J9kbv8sd9dn_epdcZ4YHKbWbpZpeyrhAgrBgHEvD9NXpbz0nL-n1e3Gq4E8t61Ar4Bi4EhAIr-y65SlSHAsgn_XPCVEKGhSu9k-Mxa2tVnjzp6a2wKAw7ge9oQ",
+            "width" : 3000
+         },
+         {
+            "height" : 612,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103209223519709233968/photos\"\u003eAldo Garcia\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA6gY-MNQJbwfqgTA11IepXdphRRjuQDbJc8wn3gjVcAU9uimxjyQ_b93nE2OS1R9oWis10Nuhql7OGWHbKHN53aN1I0IFZFb3TUvr-lgBkVRfljdD7aeamgpOG2sJVLk8EhARRGXclDn4-hU6FqW6PggDGhRstDqUeNQRzrM2yZEGg27GSTbvOw",
+            "width" : 816
+         },
+         {
+            "height" : 3059,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAlGYzN7HzMeKt5ku4mKNF7mPuwA6hpWlYTIomM20wNb-RoPtl0cJR8K-wXyW3RnTlVzLCO_kmSbPwahth68jxFIKP5A4t0Vt6dUBpZtSssygjrZh43vyMQ-3m5QemuUkQEhBrAcWKRNSOOl_j6kiYcif4GhQKImS9AjwJmbcvWekIwOfs4KmNSg",
+            "width" : 6856
+         },
+         {
+            "height" : 4716,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106751759404568559611/photos\"\u003ecarlos castro\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADxtSCkl5MpXpYcjxhQi8vQTCZahT_MHNUzOUMatgnD8qbNgNBhkObbbIYaAcyKl0oTWi0VvYnMzaM3Ce3HyXIVNnvRrZR4SaFAhFk677pJi_J6QaRv0QF_9JXaq5-OcQEhBJlaaTihavYVK5WpQD3_v2GhS_Qwwgcg0gD9EO_q9YbWu4idZ-Og",
+            "width" : 8449
+         }
+      ],
+      "place_id" : "ChIJ6-mYhcH_0YURLjWlwMkTqAc",
+      "rating" : 4.4,
+      "reference" : "CnRpAAAAyMqLLXousH92yQsYvN25SpbV-X8XKt_9YslCpH4PUX7CJVk5D_ypiBf2-sfW4IlDLtA63zqBYME5Hz64-ONSPrFrr8IjSGzL62iK1JbIPlZsqXp8IKZJ7Gbksm61avBqtCjKBMw86LDfTIBCELKJYRIQaBrSL2Zdt4s1zXbNgJPfQxoUbWAbYJAfW1jvIfLEHG7bus6ubko",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Angel Vazquez Hernandez",
+            "author_url" : "https://plus.google.com/109067495606578226932",
+            "language" : "es",
+            "profile_photo_url" : "//lh3.googleusercontent.com/-_J2UEo_p9Rw/AAAAAAAAAAI/AAAAAAAAABE/fAaIQVlV43U/photo.jpg",
+            "rating" : 5,
+            "text" : "También disponible como salón de eventos, lo cual es una opción increíble!!",
+            "time" : 1458012796
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Habibi Q",
+            "author_url" : "https://plus.google.com/115251332569962633515",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-SPE2PfdGE7U/AAAAAAAAAAI/AAAAAAAArck/MOwX2bGzWEY/photo.jpg",
+            "rating" : 5,
+            "text" : "Me encanta la giganta!!! Debes pasar a conocerla!!!",
+            "time" : 1437790253
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Richar Buenrostro Velasco",
+            "author_url" : "https://plus.google.com/116065260211834464360",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-Z53qt70dVOE/AAAAAAAAAAI/AAAAAAAABSc/iqjtcJ4yaUk/photo.jpg",
+            "rating" : 5,
+            "text" : "Yo cante alli hace años es un lugar bellisimo  :D",
+            "time" : 1415435989
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "helena padilla",
+            "author_url" : "https://plus.google.com/103341325093724262297",
+            "language" : "es",
+            "rating" : 4,
+            "text" : "todas las obras de elmaestro cuevas maravillosas, exposiciones me gustaron \r\nno dejes de asistir te gustara , ya que te sirve como un paseo junto con la familia \r\ny aprendes aprate de lo bello de estos lugares.",
+            "time" : 1379862551
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Iván Luna Luna",
+            "author_url" : "https://plus.google.com/100693904265584373642",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-qN3fuGsmXfM/AAAAAAAAAAI/AAAAAAAAEow/Tt1alD8rw68/photo.jpg",
+            "rating" : 4,
+            "text" : "Maravilloso Museo de un gran maestro e inspiración artística de México. ",
+            "time" : 1379910258
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=551712711594292526",
+      "user_ratings_total" : 16,
+      "utc_offset" : -360,
+      "vicinity" : "Academia 13, Cuauhtémoc, Centro Historico, Ciudad de México",
+      "website" : "http://www.museojoseluiscuevas.com.mx/"
+   },
+   "status" : "OK"
+}

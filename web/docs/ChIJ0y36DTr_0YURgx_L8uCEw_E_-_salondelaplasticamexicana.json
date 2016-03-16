@@ -1,0 +1,124 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "Colima 196,Roma Nte.,06700 Ciudad de México, D.F.,México, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Colima 196,Roma Nte.,06700 Ciudad de México, D.F.,México, México",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4195035,
+            "lng" : -99.1611035
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a1af04d5ff9b41edcec1697b7d8c2f4a28f91624",
+      "name" : "Salón de la Plástica Mexicana",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 10:00–18:00",
+            "martes: 10:00–18:00",
+            "miércoles: 10:00–18:00",
+            "jueves: 10:00–18:00",
+            "viernes: 10:00–18:00",
+            "sábado: 10:00–18:00",
+            "domingo: Cerrado"
+         ]
+      },
+      "place_id" : "ChIJ0y36DTr_0YURgx_L8uCEw_E",
+      "reference" : "CoQBcwAAAA3k0QNO2_ypcseWivN6YPv5Wk57Df7LS0KRUEaoPoHJ8T7OtqCBSCMXSwZTRmv2GWUUVDZJTQeN1vlVvqMYsDoldKGzgrzFfqNop4M5TScQ4YELPdLnjO1GA7pBroGRm1l5W40BAvaonQvpYDKVp5cdbTXOCM1Mz7vCE2jBaVXgEhB7lERyWx-nrLdv5kf4MTRXGhRhHD373qizh1hyxD1s4M19jMmexQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 2,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Martín Zvl",
+            "author_url" : "https://plus.google.com/112992848918810639544",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-OyKrgl1_ESM/AAAAAAAAAAI/AAAAAAAAAU4/lzm6X9rECdg/photo.jpg",
+            "rating" : 4,
+            "text" : "",
+            "time" : 1457231780
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17420913885280149379",
+      "user_ratings_total" : 1,
+      "utc_offset" : -360,
+      "vicinity" : "Colima 196,Roma Nte.,06700 Ciudad de México, D.F.,México",
+      "website" : "http://www.salondelaplasticamexicana.bellasartes.gob.mx/"
+   },
+   "status" : "OK"
+}

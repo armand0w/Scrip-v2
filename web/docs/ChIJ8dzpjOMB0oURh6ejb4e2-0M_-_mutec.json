@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2a. Sección del Bosque de Chapultepec",
+            "short_name" : "2a. Sección del Bosque de Chapultepec",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Ciudad de México",
+            "short_name" : "México D.F.",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Distrito Federal",
+            "short_name" : "D.F.",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "México",
+            "short_name" : "MX",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "11870",
+            "short_name" : "11870",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "Avenida Grande del Bosque s/n, \u003cspan class=\"street-address\"\u003eMiguel Hidalgo\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003e2a. Sección del Bosque de Chapultepec\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e11870\u003c/span\u003e \u003cspan class=\"locality\"\u003eCiudad de México\u003c/span\u003e, \u003cspan class=\"region\"\u003eD.F.\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eMéxico\u003c/span\u003e",
+      "formatted_address" : "Avenida Grande del Bosque s/n, Miguel Hidalgo, 2a. Sección del Bosque de Chapultepec, 11870 Ciudad de México, D.F., México",
+      "formatted_phone_number" : "01 55 5516 0964",
+      "geometry" : {
+         "location" : {
+            "lat" : 19.4143587,
+            "lng" : -99.19429839999999
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a61742af0b21112e1fc9c0a80a90da38e72148b9",
+      "international_phone_number" : "+52 55 5516 0964",
+      "name" : "MUTEC",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0930"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1615"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "lunes: 9:00–16:15",
+            "martes: 9:00–16:15",
+            "miércoles: 9:00–16:15",
+            "jueves: 9:00–16:15",
+            "viernes: 9:30–16:15",
+            "sábado: 9:00–16:15",
+            "domingo: 9:00–16:15"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 720,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117139788092942928297/photos\"\u003eAreli Jaquelin Del Agua Molina\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA0YjCLCtyHSa8R7jZLBX0Pi_cBhtva9vKl-gf57Xx0Jt7Vmb75m6Mq_iH3XDJih35CPES9KFRqaG58nglPNSaW9gxRAsKuJ5hQdsIcrlAw8Y5DbYeqsxNQUvD__7fKzp-EhCDgXAuLQV4hq6xnljAtXj0GhTMJJTvc6CsnazXTDqQl5j2bgGmIg",
+            "width" : 1080
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAeVE7tMJExFDAwrHi-aCro2ayQ6qX8C50dDqPvym-Tb7nlVqJ3orvgaOGefTVgB310ivnbr-mLdVoTMM4U0XycRWztRnk7laQO2s2TeH_duTioMXTlvF6B-5c_HgV7gN4EhCWm1Xk4AtqrJ4s3COOgedXGhSQJPzMfN2KsfsruKwAQ1LAKQaHEw",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA49XgbcH7_5VAiY8nx_IviwQu2ACKn7oH0muvsPyrzR84mys7t0yuADdTM77ddh5J1Q1d5-axvQiIeG4__STjAP4gR47KJ_5ZT5pv6I5r73diHff13776PeES0FQAparSEhDdrxL066Mtkbm-fFjJ9R8PGhSMiAaWR7zTubZw13kZx8IWgxYvHg",
+            "width" : 1536
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAbq4SvvXErc7afhBoax3aGPY1SMaXl95bm35wTaKu2ZQ7q7JYFBvmDE2eOPAW5ts5zFIX2c_QcQdRp3sTGrsb38kfPyUMZeuCoSB27YxRBUn9btGMe7nnyMd3P6ZYRvSLEhBV1A1Tol2oOTwZqZLjKBIjGhSTCNUbzngNJya6_AxU0L_ao159Ww",
+            "width" : 2048
+         },
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAADjJW6oPXiMDP3sBMVA9tBovHNuqFMQwnpzDIdx07qJi_dzn1Fw_5ybkRrBzv9VOy1i0Tyg0aNXqeumHsYsWtztiZc8w7Jpr1RQK_bepXrdbn_5A08WWV3QSqL5KLkmZ8EhD9-q5eg3YEt0gxV2-I3mzlGhRn6OIgl3L3f3X7_QW-1X6-GftAYQ",
+            "width" : 1536
+         },
+         {
+            "height" : 960,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106918220639593680333/photos\"\u003eRoberto Carlos Martinez Mendoza\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAANX41IywCjUFLqZw5OWqF7mXXMtbK8uPMfQW0ffNbN4e9gGXFoA2_n5oZtmLAIgstA5lWaGAy1tWpVfjx7KUzSn4tITHGw8R8mK8-T7q1bvexSjzgXkr2cczpTU9zoqClEhAwusAm95kia8PjY0kfs_ncGhTRcS6RujqmsInwNpkE4zqjDRvy-A",
+            "width" : 1280
+         },
+         {
+            "height" : 580,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117582134350465329745/photos\"\u003emiguel angel martinez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAA66UBpAW3P9pew4WGQietgZvyx7Qh2T5S0Zwx5tg59ZnhJv-Nbm-SOSVyjs-9G0yHM6r0qhkqT5Hbyo1rvavKMfFtNl1MipKYtnvtpJZdHirYOe5ZwcGYU_fBNLEH_UgaEhAv3mU0--hTMz5XvFq6v1BoGhTBW7ZTNu7rHMpAj1XoPG8txD74ww",
+            "width" : 480
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAASdsnpYRfUASNloxCjHwYs_gn4y86GLGVGbbDummcvB8n9BUxBqBqGLxYumRZ5oQQIY1KUOXERcIK-HcqcylRKT4QNoP5Hbwga_lTx1zDdPSefzipj68TmfYPOgfIvwhGEhAyUUTbKzfV4kOPA36p8RFUGhRtITYyNOGeAvTkkyNcfZMZkmuv6A",
+            "width" : 2048
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112437021879701898430/photos\"\u003e????\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAJbNcWWeYEjGKVDSCQlRdcKbtlQsD3H2aTWE2Ee3Wl-5n2XE8UTZItul17ATE4w3LGfsRhiJar8V_iNwQRUJIgGY1JY1tpA9voLuQO_88xl1TZkvAH0y6L6udKkfalL6gEhCEyycNoI4EMl_bzimHxpLVGhRYW9TL8VPeipGg0v_8sfZ1734QQg",
+            "width" : 2048
+         },
+         {
+            "height" : 768,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101480488511619692743/photos\"\u003eErika Vargas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRdAAAAclBDYUMhzaV6kGZ1FmUYcjgnlq83o8QnvDsURu1uP4ekKISZ3XBoEShlI4Hrqu7Wu_4uPi5abpP_bryaKh4Jf2MVn9M0FIQ_8qStexgFcGHigYC2ySRjoovbGHyaGnVIEhAUGCtv8sIPJHsfhOTQIwZvGhSv5-fxpwpDvgSEx-aDPtqDVmvB7w",
+            "width" : 1024
+         }
+      ],
+      "place_id" : "ChIJ8dzpjOMB0oURh6ejb4e2-0M",
+      "rating" : 4.1,
+      "reference" : "CmRYAAAAewdKivsGIRI8LVMGfTQ9lwh-F6RuSkj1tPqwHDResYM_HO3xrlqSDrHJHJpXX1xZwLgJ6U4TIKnpop4xBBLp0qkCMgiRza5SLqNVYnlhzOt7ZNTXCS9YT3tGBY4ZJ_AAEhCumHex5tmyYzYmXr4kdXScGhRL5EnUpthzsMod0bKqlCccTDgUIQ",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Carlos Escoto",
+            "author_url" : "https://plus.google.com/102463225522532395734",
+            "language" : "es",
+            "profile_photo_url" : "//lh6.googleusercontent.com/-r6VeBbwPY6o/AAAAAAAAAAI/AAAAAAAAAkQ/019FJJ4bU7A/photo.jpg",
+            "rating" : 5,
+            "text" : "Excelente lugar para conocer acerca del uso de la tecnoogia, principalmente en la generación y uso racional de la electricidad.\nChequen los tslleres, son muy buenos",
+            "time" : 1454521397
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Alfonso Fabian",
+            "author_url" : "https://plus.google.com/106858447713966146929",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-ZV9IgI5uyug/AAAAAAAAAAI/AAAAAAAAI8c/sUoQvqL_7j4/photo.jpg",
+            "rating" : 5,
+            "text" : "Es muy buen museo",
+            "time" : 1452939569
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "mauricio jimenez",
+            "author_url" : "https://plus.google.com/111374495441921546278",
+            "language" : "es",
+            "profile_photo_url" : "//lh4.googleusercontent.com/-CPJ2TNoFktM/AAAAAAAAAAI/AAAAAAAADYc/gg3e2TuAW-E/photo.jpg",
+            "rating" : 5,
+            "text" : "Buen museo ",
+            "time" : 1457368612
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 3,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "RICARDO c",
+            "author_url" : "https://plus.google.com/104351883592260903230",
+            "language" : "es",
+            "rating" : 5,
+            "text" : "Muy bueno",
+            "time" : 1453433603
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Emmanuel Javier Ruíz Chávez",
+            "author_url" : "https://plus.google.com/111224837825749831583",
+            "language" : "es",
+            "profile_photo_url" : "//lh5.googleusercontent.com/-TihoPxUtILw/AAAAAAAAAAI/AAAAAAAAAS4/2nzoZPCdvgw/photo.jpg",
+            "rating" : 3,
+            "text" : "El personal es grosero, el de la sala 1 fisica en el pendulo y la niña de \"maquinas complejas\" muy groseros mala actitud, prepotentes y gritando y chitando a lo niños pequeños, yo no lo recomiendo para niños pequeños, incluso varios nos quejamos en administracion. La sala 2 \"Electropolis\" vale la pena.",
+            "time" : 1435548345
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=4898709712505382791",
+      "user_ratings_total" : 122,
+      "utc_offset" : -360,
+      "vicinity" : "Avenida Grande del Bosque s/n, Miguel Hidalgo, 2a. Sección del Bosque de Chapultepec, Ciudad de México",
+      "website" : "http://www.cfe.gob.mx/mutec/es/Pages/home.aspx"
+   },
+   "status" : "OK"
+}
